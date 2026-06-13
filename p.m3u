@@ -185,3 +185,9 @@ http://eagle210-4k.org/live/m416dy814n/lfliebdrbq/1165928.ts
 http://eagle210-4k.org/live/m416dy814n/lfliebdrbq/1165876.ts
 #EXTINF:-1 tvg-name="|ID|  Tvn Movies HD" tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA" tvg-chno="18865",|ID|  Tvn Movies HD
 http://eagle210-4k.org/live/m416dy814n/lfliebdrbq/1165929.ts
+#EXTINF:-1 tvg-name="SS-1HD " group-title="Live" tvg-chno="1",SS-1HD 
+http://93.93.113.95:25461/live/TV-Berati/XtreamCodes/494.ts
+#EXTINF:-1 tvg-name="SS-2HD " group-title="Live" tvg-chno="2",SS-2HD 
+http://93.93.113.95:25461/live/TV-Berati/XtreamCodes/495.ts
+#EXTINF:-1 tvg-name="SS-3HD " group-title="Live" tvg-chno="3",SS-3HD 
+http://93.93.113.95:25461/live/TV-Berati/XtreamCodes/496.ts
