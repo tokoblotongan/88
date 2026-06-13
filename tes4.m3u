@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Netflix BudTerenc" group-title="Live" tvg-chno="4",Netflix BudTerenc
+http://93.93.113.95:25461/live/TV-Berati/XtreamCodes/489.ts
+#EXTINF:-1 tvg-name="Netflix Stallone" group-title="Live" tvg-chno="6",Netflix Stallone
+http://93.93.113.95:25461/live/TV-Berati/XtreamCodes/491.ts
+#EXTINF:-1 tvg-name="Netflix VanDame" group-title="Live" tvg-chno="5",Netflix VanDame
+http://93.93.113.95:25461/live/TV-Berati/XtreamCodes/490.ts
+#EXTINF:-1 tvg-name="SS-1HD " group-title="Live" tvg-chno="1",SS-1HD 
+http://93.93.113.95:25461/live/TV-Berati/XtreamCodes/494.ts
+#EXTINF:-1 tvg-name="SS-2HD " group-title="Live" tvg-chno="2",SS-2HD 
+http://93.93.113.95:25461/live/TV-Berati/XtreamCodes/495.ts
+#EXTINF:-1 tvg-name="SS-3HD " group-title="Live" tvg-chno="3",SS-3HD 
+http://93.93.113.95:25461/live/TV-Berati/XtreamCodes/496.ts
+#EXTINF:-1 tvg-name="TringSport 1 HD" group-title="Live" tvg-chno="7",TringSport 1 HD
+http://93.93.113.95:25461/live/TV-Berati/XtreamCodes/492.ts
+#EXTINF:-1 tvg-name="TringSport 2 HD" group-title="Live" tvg-chno="8",TringSport 2 HD
+http://93.93.113.95:25461/live/TV-Berati/XtreamCodes/493.ts
