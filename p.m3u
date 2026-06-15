@@ -469,3 +469,346 @@ http://alpha6-tx.me:80/play/live.php?mac=00:1A:79:A3:B8:F8&stream=1806573&extens
 http://alpha6-tx.me:80/play/live.php?mac=00:1A:79:A3:B8:F8&stream=1806569&extension=ts&play_token=2Tdv2tIngl
 #EXTINF:-1 tvg-name="AR| BEIN SPORT 05 SD" tvg-logo="http://51.158.145.100/picons/logos/bein/1806551.png" group-title="2105" tvg-chno="7092",AR| BEIN SPORT 05 SD
 http://alpha6-tx.me:80/play/live.php?mac=00:1A:79:A3:B8:F8&stream=1806551&extension=ts&play_token=SlnqsMfxnu
+#EXTM3U
+#EXTINF:-1 tvg-name="CY: EUROSPORT 1" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/eurosport1.png" group-title="535" tvg-chno="2008",CY: EUROSPORT 1
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=460615&extension=ts&play_token=ZZkM8rUqX9
+#EXTINF:-1 tvg-name="CY: EUROSPORT 2" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/eurosport2.png" group-title="535" tvg-chno="2009",CY: EUROSPORT 2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=460614&extension=ts&play_token=9H7jqOHPKw
+#EXTINF:-1 tvg-name="AL: AL BKANAL MUSIC  HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11082.png?37511" group-title="707" tvg-chno="978",AL: AL BKANAL MUSIC  HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=578177&extension=ts&play_token=Zow88fqbyt
+#EXTINF:-1 tvg-name="AL: ARBERIA RTV 1 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11074.png?40086" group-title="707" tvg-chno="976",AL: ARBERIA RTV 1 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=578170&extension=ts&play_token=yqjHrVWJMp
+#EXTINF:-1 tvg-name="AL: ART SPORT 2 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3346.png?99160" group-title="702" tvg-chno="1107",AL: ART SPORT 2 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=588235&extension=ts&play_token=JxhRrsTgtK
+#EXTINF:-1 tvg-name="AL: ART SPORT 3 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11073.png?75356" group-title="702" tvg-chno="1109",AL: ART SPORT 3 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=588236&extension=ts&play_token=BYniEloPQf
+#EXTINF:-1 tvg-name="AL: ART SPORT 5 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6134.png?37101" group-title="702" tvg-chno="1112",AL: ART SPORT 5 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=588260&extension=ts&play_token=WvCbYDHRaa
+#EXTINF:-1 tvg-name="AL: ATV HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1116.png?56944" group-title="719" tvg-chno="895",AL: ATV HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=294493&extension=ts&play_token=iyP7CLqnqB
+#EXTINF:-1 tvg-name="AL: CIFTELI HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2998.jpg?41492" group-title="707" tvg-chno="948",AL: CIFTELI HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=294590&extension=ts&play_token=uqoXJ6MXdB
+#EXTINF:-1 tvg-name="AL: CINEMA 1 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/244.jpg?6489" group-title="705" tvg-chno="998",AL: CINEMA 1 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=294732&extension=ts&play_token=4HmVrYu4SA
+#EXTINF:-1 tvg-name="AL: CINEMA 2 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/209.jpg?51595" group-title="705" tvg-chno="999",AL: CINEMA 2 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=294731&extension=ts&play_token=SV2ZzjCNiJ
+#EXTINF:-1 tvg-name="AL: DISCOVERY+ 1 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13099.jpg?ver=96557" group-title="705" tvg-chno="1088",AL: DISCOVERY+ 1 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=579448&extension=ts&play_token=t53Hw1E8Yr
+#EXTINF:-1 tvg-name="AL: DISCOVERY+ 10 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13099.jpg?ver=96557" group-title="705" tvg-chno="1097",AL: DISCOVERY+ 10 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=579457&extension=ts&play_token=HeBKL0KzSO
+#EXTINF:-1 tvg-name="AL: DISCOVERY+ 2 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13099.jpg?ver=96557" group-title="705" tvg-chno="1089",AL: DISCOVERY+ 2 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=579449&extension=ts&play_token=foDOmOSq9e
+#EXTINF:-1 tvg-name="AL: DISCOVERY+ 3 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13099.jpg?ver=96557" group-title="705" tvg-chno="1090",AL: DISCOVERY+ 3 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=579450&extension=ts&play_token=9LNPLJVVJ9
+#EXTINF:-1 tvg-name="AL: DISCOVERY+ 4 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13099.jpg?ver=96557" group-title="705" tvg-chno="1091",AL: DISCOVERY+ 4 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=579451&extension=ts&play_token=xWZ2hxy4R5
+#EXTINF:-1 tvg-name="AL: DISCOVERY+ 5 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13099.jpg?ver=96557" group-title="705" tvg-chno="1092",AL: DISCOVERY+ 5 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=579452&extension=ts&play_token=EkZvf0E4Ph
+#EXTINF:-1 tvg-name="AL: DISCOVERY+ 6 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13099.jpg?ver=96557" group-title="705" tvg-chno="1093",AL: DISCOVERY+ 6 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=579453&extension=ts&play_token=XRdPj0n0Hj
+#EXTINF:-1 tvg-name="AL: DISCOVERY+ 7 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13099.jpg?ver=96557" group-title="705" tvg-chno="1094",AL: DISCOVERY+ 7 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=579454&extension=ts&play_token=1Ac6ikiN9v
+#EXTINF:-1 tvg-name="AL: DISCOVERY+ 8 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13099.jpg?ver=96557" group-title="705" tvg-chno="1095",AL: DISCOVERY+ 8 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=579455&extension=ts&play_token=Qo7OL8KDbJ
+#EXTINF:-1 tvg-name="AL: DISCOVERY+ 9 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13099.jpg?ver=96557" group-title="705" tvg-chno="1096",AL: DISCOVERY+ 9 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=579456&extension=ts&play_token=p5kLoOsMro
+#EXTINF:-1 tvg-name="AL: DISCOVERY+ MAX 1 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13099.jpg?ver=96557" group-title="705" tvg-chno="1099",AL: DISCOVERY+ MAX 1 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=579458&extension=ts&play_token=Ei8PNX9xy0
+#EXTINF:-1 tvg-name="AL: DISCOVERY+ MAX 2 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13099.jpg?ver=96557" group-title="705" tvg-chno="1098",AL: DISCOVERY+ MAX 2 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=579459&extension=ts&play_token=ztv3f6javd
+#EXTINF:-1 tvg-name="AL: DISCOVERY+ MAX 3 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13099.jpg?ver=96557" group-title="705" tvg-chno="1100",AL: DISCOVERY+ MAX 3 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=579460&extension=ts&play_token=AkbaRlS2lk
+#EXTINF:-1 tvg-name="AL: DISCOVERY+ MAX 4 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13099.jpg?ver=96557" group-title="705" tvg-chno="1101",AL: DISCOVERY+ MAX 4 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=579461&extension=ts&play_token=CR4f3HiE5r
+#EXTINF:-1 tvg-name="AL: DISCOVERY+ MAX 5 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13099.jpg?ver=96557" group-title="705" tvg-chno="1102",AL: DISCOVERY+ MAX 5 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=579462&extension=ts&play_token=KE79umV7g2
+#EXTINF:-1 tvg-name="AL: DISCOVERY+ MAX 6 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13099.jpg?ver=96557" group-title="705" tvg-chno="1103",AL: DISCOVERY+ MAX 6 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=579463&extension=ts&play_token=bgtOb3LqKY
+#EXTINF:-1 tvg-name="AL: E ACTION HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6356.jpg?9937" group-title="705" tvg-chno="1007",AL: E ACTION HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=294698&extension=ts&play_token=rOW86FYHXE
+#EXTINF:-1 tvg-name="AL: E COMEDY HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12370.jpg?74087" group-title="705" tvg-chno="1008",AL: E COMEDY HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=294695&extension=ts&play_token=f98lW3Y6Fk
+#EXTINF:-1 tvg-name="AL: E DARK HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2996.png?83154" group-title="705" tvg-chno="1009",AL: E DARK HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=294692&extension=ts&play_token=Pd8owzmqGx
+#EXTINF:-1 tvg-name="AL: E DRAMA HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9985.jpg?99310" group-title="705" tvg-chno="1010",AL: E DRAMA HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=294693&extension=ts&play_token=s7I7FxsIrw
+#EXTINF:-1 tvg-name="AL: E FAMILY HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3298.jpg?54611" group-title="705" tvg-chno="1011",AL: E FAMILY HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=294690&extension=ts&play_token=4z85HE5hTC
+#EXTINF:-1 tvg-name="AL: E HISTORI HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10672.png?42925" group-title="708" tvg-chno="1149",AL: E HISTORI HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=294567&extension=ts&play_token=wXXmEv7F83
+#EXTINF:-1 tvg-name="AL: E MUSIC HITS HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10827.jpg?36103" group-title="707" tvg-chno="956",AL: E MUSIC HITS HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=294592&extension=ts&play_token=yVb8qCsU4Y
+#EXTINF:-1 tvg-name="AL: E NATYRA HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6088.jpg?75075" group-title="708" tvg-chno="1150",AL: E NATYRA HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=294568&extension=ts&play_token=0o4VbFYI5n
+#EXTINF:-1 tvg-name="AL: E PREMIERE 1 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9697.jpg?67233" group-title="705" tvg-chno="1013",AL: E PREMIERE 1 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=294686&extension=ts&play_token=ot2Q2X1f71
+#EXTINF:-1 tvg-name="AL: E PREMIERE 2 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10747.jpg?80184" group-title="705" tvg-chno="1014",AL: E PREMIERE 2 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=294687&extension=ts&play_token=CRj1ZcWnDv
+#EXTINF:-1 tvg-name="AL: E PREMIERE 3 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9710.jpg?6025" group-title="705" tvg-chno="1015",AL: E PREMIERE 3 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=294688&extension=ts&play_token=w9hgmMpeGJ
+#EXTINF:-1 tvg-name="AL: E PREMIERE 4 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9696.png?32542" group-title="705" tvg-chno="1016",AL: E PREMIERE 4 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=294689&extension=ts&play_token=QeQH90U3h0
+#EXTINF:-1 tvg-name="AL: E ROMANCE HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6503.jpg?53616" group-title="705" tvg-chno="1017",AL: E ROMANCE HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=294694&extension=ts&play_token=VHeQ3sCs7L
+#EXTINF:-1 tvg-name="AL: E SCI-FI HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2984.png?39238" group-title="705" tvg-chno="1018",AL: E SCI-FI HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=294696&extension=ts&play_token=ZAqVorNaHu
+#EXTINF:-1 tvg-name="AL: E SHKENCA HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10103.jpg?12719" group-title="708" tvg-chno="1151",AL: E SHKENCA HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=294566&extension=ts&play_token=rvR0KLfdl9
+#EXTINF:-1 tvg-id="FilmThriller.al" tvg-name="AL: E THRILLER HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6625.jpg?58737" group-title="705" tvg-chno="1019",AL: E THRILLER HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=294697&extension=ts&play_token=TdBGtSzSFu
+#EXTINF:-1 tvg-name="AL: E WESTERN HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8110.jpg?94950" group-title="705" tvg-chno="1020",AL: E WESTERN HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=294691&extension=ts&play_token=RBALyJOj2B
+#EXTINF:-1 tvg-name="AL: EURO FILM HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1896.jpg?34742" group-title="705" tvg-chno="1038",AL: EURO FILM HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=294645&extension=ts&play_token=NndaHLZRsY
+#EXTINF:-1 tvg-name="AL: FAMILY HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8111.png?14802" group-title="705" tvg-chno="1025",AL: FAMILY HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=294659&extension=ts&play_token=DfvA66PZhj
+#EXTINF:-1 tvg-name="AL: FARA E FLLIQT HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/4745.jpg?25560" group-title="706" tvg-chno="987",AL: FARA E FLLIQT HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=578130&extension=ts&play_token=KL4ypj7XpW
+#EXTINF:-1 tvg-name="AL: HUMOR HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2992.jpg?81392" group-title="706" tvg-chno="989",AL: HUMOR HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=294640&extension=ts&play_token=hpTvLZhmvt
+#EXTINF:-1 tvg-name="AL: JOLLY HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8568.png?53521" group-title="705" tvg-chno="1055",AL: JOLLY HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=294499&extension=ts&play_token=l4WwxdzzJb
+#EXTINF:-1 tvg-name="AL: KANAL D HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/833.jpg?16638" group-title="705" tvg-chno="1056",AL: KANAL D HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=294501&extension=ts&play_token=gExicfi7cR
+#EXTINF:-1 tvg-name="AL: KANALI 10 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10755.png?51609" group-title="719" tvg-chno="893",AL: KANALI 10 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=294488&extension=ts&play_token=EY5XS7qxRX
+#EXTINF:-1 tvg-name="AL: KLAN HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3231.png?57331" group-title="719" tvg-chno="864",AL: KLAN HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=294492&extension=ts&play_token=5QgDljuxFf
+#EXTINF:-1 tvg-name="AL: LIFE HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12396.png?87378" group-title="705" tvg-chno="1058",AL: LIFE HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=294730&extension=ts&play_token=1lILwl2f9x
+#EXTINF:-1 tvg-name="AL: MAX HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6667.jpg?38483" group-title="705" tvg-chno="1034",AL: MAX HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=294647&extension=ts&play_token=D7SnEKFy8I
+#EXTINF:-1 tvg-name="AL: POPULLORE HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7925.png?48358" group-title="707" tvg-chno="949",AL: POPULLORE HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=294629&extension=ts&play_token=jrhvMr200h
+#EXTINF:-1 tvg-name="AL: REPORT TV HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10999.png?6717" group-title="27" tvg-chno="946",AL: REPORT TV HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=578152&extension=ts&play_token=3M9brZH4ZN
+#EXTINF:-1 tvg-name="AL: RTI ISLAM HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3132.jpg?ver=19483" group-title="703" tvg-chno="1198",AL: RTI ISLAM HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=294780&extension=ts&play_token=fbwiTJdZWz
+#EXTINF:-1 tvg-name="AL: RTK 2 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14130.png?96106" group-title="719" tvg-chno="874",AL: RTK 2 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=294478&extension=ts&play_token=du3JPoAO5y
+#EXTINF:-1 tvg-name="AL: RTK 3 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14131.png?77456" group-title="719" tvg-chno="875",AL: RTK 3 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=294479&extension=ts&play_token=IwSJRVVofo
+#EXTINF:-1 tvg-name="AL: RTK 4 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14132.png?5826" group-title="719" tvg-chno="876",AL: RTK 4 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=294480&extension=ts&play_token=nkjWQxFl7f
+#EXTINF:-1 tvg-id="RTSHSport.al" tvg-name="AL: RTSH SPORT HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3147.jpeg?ver=40716" group-title="702" tvg-chno="1139",AL: RTSH SPORT HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=294515&extension=ts&play_token=wjnzl5l9Ph
+#EXTINF:-1 tvg-name="AL: RTV FONTANA HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6397.jpg?65067" group-title="27" tvg-chno="937",AL: RTV FONTANA HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=569375&extension=ts&play_token=HtwooKNYrz
+#EXTINF:-1 tvg-id="Sofia.al" tvg-name="AL: SOFIA HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8572.png?44292" group-title="704" tvg-chno="1183",AL: SOFIA HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=294763&extension=ts&play_token=zWFOYlAFkn
+#EXTINF:-1 tvg-name="AL: STAR PLUS HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12076.png?27579" group-title="705" tvg-chno="1064",AL: STAR PLUS HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=785644&extension=ts&play_token=5k846WNMEf
+#EXTINF:-1 tvg-name="AL: SUPER SPORT 1 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3107.png?72368" group-title="702" tvg-chno="1115",AL: SUPER SPORT 1 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=294788&extension=ts&play_token=XwYGmC8Gsn
+#EXTINF:-1 tvg-name="AL: SUPER SPORT 2 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3122.png?1452" group-title="702" tvg-chno="1117",AL: SUPER SPORT 2 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=294789&extension=ts&play_token=H7EDm8TKEl
+#EXTINF:-1 tvg-name="AL: SUPER SPORT 3 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3109.png?39717" group-title="702" tvg-chno="1119",AL: SUPER SPORT 3 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=294790&extension=ts&play_token=LCa8idHO65
+#EXTINF:-1 tvg-name="AL: SUPER SPORT 4 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3105.png?71932" group-title="702" tvg-chno="1121",AL: SUPER SPORT 4 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=294791&extension=ts&play_token=SDJppaVuzh
+#EXTINF:-1 tvg-name="AL: SUPER SPORT 5 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3103.png?72411" group-title="702" tvg-chno="1123",AL: SUPER SPORT 5 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=294792&extension=ts&play_token=zF27VPTf19
+#EXTINF:-1 tvg-name="AL: SUPER SPORT 6 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3099.png?10538" group-title="702" tvg-chno="1125",AL: SUPER SPORT 6 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=294793&extension=ts&play_token=nMKP2qNOEj
+#EXTINF:-1 tvg-name="AL: SUPER SPORT 7 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3097.png?47238" group-title="702" tvg-chno="1126",AL: SUPER SPORT 7 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=294794&extension=ts&play_token=Ez7WlcWCa3
+#EXTINF:-1 tvg-name="AL: T HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11131.jpg?45301" group-title="705" tvg-chno="1065",AL: T HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=294540&extension=ts&play_token=qt5JZgbEsW
+#EXTINF:-1 tvg-name="AL: T HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11131.jpg?79174" group-title="705" tvg-chno="1067",AL: T HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=294661&extension=ts&play_token=iiA4JBOc2F
+#EXTINF:-1 tvg-name="AL: T7 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3091.png?69355" group-title="719" tvg-chno="890",AL: T7 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=611888&extension=ts&play_token=BVBErDjTMa
+#EXTINF:-1 tvg-name="AL: TOP CHANNEL HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3073.png?48220" group-title="719" tvg-chno="862",AL: TOP CHANNEL HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=692754&extension=ts&play_token=M6vxn46GOd
+#EXTINF:-1 tvg-name="AL: TOP ESTRADA MUSIC HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1925.jpg?44502" group-title="707" tvg-chno="980",AL: TOP ESTRADA MUSIC HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=569373&extension=ts&play_token=hdCCfe8cYq
+#EXTINF:-1 tvg-name="AL: TOP ESTRADA MUSIC HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3069.jpg?52259" group-title="707" tvg-chno="982",AL: TOP ESTRADA MUSIC HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=589529&extension=ts&play_token=bwFtIrpDj9
+#EXTINF:-1 tvg-name="AL: TRING CLASSIC HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3055.png?5511" group-title="705" tvg-chno="1080",AL: TRING CLASSIC HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=545382&extension=ts&play_token=1QiMLJUUE5
+#EXTINF:-1 tvg-name="AL: TRING COLLECTION HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3049.png?53027" group-title="705" tvg-chno="1083",AL: TRING COLLECTION HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=527336&extension=ts&play_token=lPaxItAmkN
+#EXTINF:-1 tvg-name="AL: TRING NOVELAS HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3068.png?ver=44445" group-title="705" tvg-chno="1082",AL: TRING NOVELAS HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=545381&extension=ts&play_token=ZwAaihcFxJ
+#EXTINF:-1 tvg-name="AL: TRING SPORT 1 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3054.png?15228" group-title="702" tvg-chno="1129",AL: TRING SPORT 1 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=294784&extension=ts&play_token=lRsmbozK4a
+#EXTINF:-1 tvg-name="AL: TRING SPORT 2 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3048.png?23985" group-title="702" tvg-chno="1131",AL: TRING SPORT 2 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=294785&extension=ts&play_token=ynJxinjhAB
+#EXTINF:-1 tvg-name="AL: TRING SPORT 3 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3053.png?40444" group-title="702" tvg-chno="1133",AL: TRING SPORT 3 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=294786&extension=ts&play_token=DZljL4ak9g
+#EXTINF:-1 tvg-name="AL: TRING SPORT 4 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3046.jpg?32847" group-title="702" tvg-chno="1134",AL: TRING SPORT 4 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=294787&extension=ts&play_token=PUJ1go5Ugi
+#EXTINF:-1 tvg-name="AL: TV TEUTA HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11084.jpg?24164" group-title="707" tvg-chno="983",AL: TV TEUTA HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=591956&extension=ts&play_token=5UUiQERIhi
+#EXTINF:-1 tvg-name="AL: VIZION PLUS HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8530.png?45293" group-title="719" tvg-chno="867",AL: VIZION PLUS HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=294505&extension=ts&play_token=H3AkjFsWHS
+#EXTINF:-1 tvg-name="CY: CABLENET SP1 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/EUROPE/CABLENET-SPORTS-3.png" group-title="535" tvg-chno="1996",CY: CABLENET SP1 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=460823&extension=ts&play_token=jPcwdbBYGz
+#EXTINF:-1 tvg-name="CY: CABLENET SPORTS 1 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/ASIA/CABLENET-SPORTS1.png" group-title="535" tvg-chno="1999",CY: CABLENET SPORTS 1 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=460882&extension=ts&play_token=L4l1VLT07B
+#EXTINF:-1 tvg-name="CY: CABLENET SPORTS 2 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/ASIA/CABLENET-SPORTS2.png" group-title="535" tvg-chno="2000",CY: CABLENET SPORTS 2 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=460881&extension=ts&play_token=uCFBcA28OD
+#EXTINF:-1 tvg-name="CY: CYTA SPORT 1 HD [LIVE-EVENT]" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/CYTA-SPORT.png" group-title="535" tvg-chno="1997",CY: CYTA SPORT 1 HD [LIVE-EVENT]
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=460836&extension=ts&play_token=D7LIqP2adj
+#EXTINF:-1 tvg-name="CY: CYTA SPORT 2 HD [LIVE-EVENT]" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/CYTA-SPORT.png" group-title="535" tvg-chno="1998",CY: CYTA SPORT 2 HD [LIVE-EVENT]
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=460835&extension=ts&play_token=FngnFNCzdp
+#EXTINF:-1 tvg-name="CY: CYTA VIZION SP1 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/EUROPE/cytavision.png" group-title="535" tvg-chno="1992",CY: CYTA VIZION SP1 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=460822&extension=ts&play_token=QONmv81qHr
+#EXTINF:-1 tvg-name="CY: CYTA VIZION SP2 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/EUROPE/cytavision.png" group-title="535" tvg-chno="1993",CY: CYTA VIZION SP2 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=460821&extension=ts&play_token=wiGDOhlIsx
+#EXTINF:-1 tvg-name="CY: CYTAVISION SPORTS 1 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/EUROPE/cytavision.png" group-title="535" tvg-chno="2001",CY: CYTAVISION SPORTS 1 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=460830&extension=ts&play_token=qDUOHHYiqo
+#EXTINF:-1 tvg-name="CY: CYTAVISION SPORTS 2 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/EUROPE/cytavision.png" group-title="535" tvg-chno="2002",CY: CYTAVISION SPORTS 2 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=460829&extension=ts&play_token=l365cC8I7a
+#EXTINF:-1 tvg-name="CY: CYTAVISION SPORTS 3 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/EUROPE/cytavision.png" group-title="535" tvg-chno="2003",CY: CYTAVISION SPORTS 3 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=460828&extension=ts&play_token=05UQ8CI9q4
+#EXTINF:-1 tvg-name="CY: CYTAVISION SPORTS 4 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/EUROPE/cytavision.png" group-title="535" tvg-chno="2004",CY: CYTAVISION SPORTS 4 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=460827&extension=ts&play_token=dm7K8nsNrS
+#EXTINF:-1 tvg-name="CY: CYTAVISION SPORTS 5 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/EUROPE/cytavision.png" group-title="535" tvg-chno="2005",CY: CYTAVISION SPORTS 5 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=460826&extension=ts&play_token=T2fNAofSlA
+#EXTINF:-1 tvg-name="CY: CYTAVISION SPORTS 6 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/EUROPE/cytavision.png" group-title="535" tvg-chno="2006",CY: CYTAVISION SPORTS 6 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=460825&extension=ts&play_token=3PbCT2MqC0
+#EXTINF:-1 tvg-name="CY: CYTAVISION SPORTS 7 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/EUROPE/cytavision.png" group-title="535" tvg-chno="2007",CY: CYTAVISION SPORTS 7 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=460824&extension=ts&play_token=S9NOq9oZ3f
+#EXTINF:-1 tvg-name="CY: DISNEY CHANNEL HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/disneychannelhd.png" group-title="535" tvg-chno="2012",CY: DISNEY CHANNEL HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=460740&extension=ts&play_token=HBMoxaGr1H
+#EXTINF:-1 tvg-name="CY: DISNEY JUNIOR HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/disneyjuniorhd.png" group-title="535" tvg-chno="2013",CY: DISNEY JUNIOR HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=460739&extension=ts&play_token=54XhbjQXjm
+#EXTINF:-1 tvg-name="CY: DISNEY XD HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/disneyxdhd.png" group-title="535" tvg-chno="2011",CY: DISNEY XD HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=460741&extension=ts&play_token=n17mUMbod3
+#EXTINF:-1 tvg-name="CY: NICKELODEON HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/nickelodeonhd.png" group-title="535" tvg-chno="2014",CY: NICKELODEON HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=460738&extension=ts&play_token=um3RCSMNSs
+#EXTINF:-1 tvg-name="GR VIP: COSMOTE SPORT 1 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/cosmotesport1.png" group-title="1203" tvg-chno="1770",GR VIP: COSMOTE SPORT 1 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=770489&extension=ts&play_token=NExTOwKLr7
+#EXTINF:-1 tvg-name="GR VIP: COSMOTE SPORT 1 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/cosmotesport1.png" group-title="1203" tvg-chno="1771",GR VIP: COSMOTE SPORT 1 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=770488&extension=ts&play_token=Wbkhk8rKsU
+#EXTINF:-1 tvg-name="GR VIP: COSMOTE SPORT 2 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/cosmotesport3.png" group-title="1203" tvg-chno="1774",GR VIP: COSMOTE SPORT 2 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=770485&extension=ts&play_token=mfg0rOnw40
+#EXTINF:-1 tvg-name="GR VIP: COSMOTE SPORT 3 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/cosmotesport3.png" group-title="1203" tvg-chno="1777",GR VIP: COSMOTE SPORT 3 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=770482&extension=ts&play_token=CFUv4oKG7s
+#EXTINF:-1 tvg-name="GR VIP: COSMOTE SPORT 4 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/cosmotesport4.png" group-title="1203" tvg-chno="1780",GR VIP: COSMOTE SPORT 4 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=770479&extension=ts&play_token=cGt7UqJ4q7
+#EXTINF:-1 tvg-name="GR VIP: COSMOTE SPORT 5 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/cosmotesport5hd.png" group-title="1203" tvg-chno="1783",GR VIP: COSMOTE SPORT 5 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=770476&extension=ts&play_token=E1j4SI9190
+#EXTINF:-1 tvg-name="GR VIP: COSMOTE SPORT 6 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/cosmotesport6hd.png" group-title="1203" tvg-chno="1786",GR VIP: COSMOTE SPORT 6 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=770473&extension=ts&play_token=ZHwTOk4yfo
+#EXTINF:-1 tvg-name="GR VIP: COSMOTE SPORT 7 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/cosmotesport7hd.png" group-title="1203" tvg-chno="1789",GR VIP: COSMOTE SPORT 7 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=770470&extension=ts&play_token=5OuvRQZsR5
+#EXTINF:-1 tvg-name="GR VIP: COSMOTE SPORT 8 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/cosmotesport8hd.png" group-title="1203" tvg-chno="1792",GR VIP: COSMOTE SPORT 8 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=770467&extension=ts&play_token=GO2YDb10u1
+#EXTINF:-1 tvg-name="GR VIP: COSMOTE SPORT 9 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/cosmotesport9hd.png" group-title="1203" tvg-chno="1795",GR VIP: COSMOTE SPORT 9 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=770464&extension=ts&play_token=cQKVUc4lft
+#EXTINF:-1 tvg-name="GR VIP: COSMOTE SPORT HL HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/cosmotesporthighlightshd.png" group-title="1203" tvg-chno="1797",GR VIP: COSMOTE SPORT HL HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=770462&extension=ts&play_token=yrMorKKv1V
+#EXTINF:-1 tvg-name="GR VIP: FORMULA 1 ANT1+ HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13263.png?88242" group-title="1203" tvg-chno="1804",GR VIP: FORMULA 1 ANT1+ HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=770455&extension=ts&play_token=i7FTWSSlTb
+#EXTINF:-1 tvg-name="GR VIP: NOVASPORTS 1 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/NOVA-SPORT-1-HD.png" group-title="1203" tvg-chno="1806",GR VIP: NOVASPORTS 1 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=770453&extension=ts&play_token=cfVKBYdVod
+#EXTINF:-1 tvg-name="GR VIP: NOVASPORTS 2 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/NOVA-SPORT-2-HD.png" group-title="1203" tvg-chno="1809",GR VIP: NOVASPORTS 2 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=770450&extension=ts&play_token=BBtloMSX6U
+#EXTINF:-1 tvg-name="GR VIP: NOVASPORTS 3 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/NOVA-SPORT-3-HD.png" group-title="1203" tvg-chno="1812",GR VIP: NOVASPORTS 3 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=770447&extension=ts&play_token=7wIh0SdWl6
+#EXTINF:-1 tvg-name="GR VIP: NOVASPORTS 4 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/novasports4.png" group-title="1203" tvg-chno="1815",GR VIP: NOVASPORTS 4 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=770444&extension=ts&play_token=ctfwgcSOZ1
+#EXTINF:-1 tvg-name="GR VIP: NOVASPORTS 5 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/NOVA-SPORT.jpeg" group-title="1203" tvg-chno="1818",GR VIP: NOVASPORTS 5 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=770441&extension=ts&play_token=dZAnilE6xp
+#EXTINF:-1 tvg-name="GR VIP: NOVASPORTS 6 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/novasports6.png" group-title="1203" tvg-chno="1821",GR VIP: NOVASPORTS 6 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=770438&extension=ts&play_token=VVxrNKcpTI
+#EXTINF:-1 tvg-name="GR VIP: NOVASPORTS PREMIER LEAGUE HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/NOVA-SPORT.jpeg" group-title="1203" tvg-chno="1829",GR VIP: NOVASPORTS PREMIER LEAGUE HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=770430&extension=ts&play_token=C3sJq2kDmv
+#EXTINF:-1 tvg-name="GR VIP: NOVASPORTS PRIME HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/NOVA-SPORT.jpeg" group-title="1203" tvg-chno="1832",GR VIP: NOVASPORTS PRIME HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=770427&extension=ts&play_token=pVfvfZidvW
+#EXTINF:-1 tvg-name="GR VIP: NOVASPORTS START HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/NOVA-SPORT.jpeg" group-title="1203" tvg-chno="1835",GR VIP: NOVASPORTS START HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=770424&extension=ts&play_token=xxVbWKPRz4
+#EXTINF:-1 tvg-name="GR: ANT1 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/ANT1-.png" group-title="964" tvg-chno="1744",GR: ANT1 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=460764&extension=ts&play_token=at3c012Mp1
+#EXTINF:-1 tvg-name="GR: BARAZA TV HD GREEK HITS" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/BARAZA-MUSIC-TV.png" group-title="985" tvg-chno="1903",GR: BARAZA TV HD GREEK HITS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=460630&extension=ts&play_token=zuhEuNwlDs
+#EXTINF:-1 tvg-name="GR: BARAZA TV HD MUSIC DANCE HITS" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/BARAZA-MUSIC-TV.png" group-title="985" tvg-chno="1904",GR: BARAZA TV HD MUSIC DANCE HITS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=460629&extension=ts&play_token=YBMBPfNNVn
+#EXTINF:-1 tvg-name="GR: BBC EARTH HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/bbcearthhd.png" group-title="984" tvg-chno="1912",GR: BBC EARTH HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=460807&extension=ts&play_token=6iNoTSdKs7
+#EXTINF:-1 tvg-name="GR: CANNALI TV HD" tvg-logo="https://i.imgur.com/bGIdE9N.png" group-title="964" tvg-chno="1639",GR: CANNALI TV HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=460687&extension=ts&play_token=eixYPf2gfO
+#EXTINF:-1 tvg-name="GR: COSMOTE CINEMA 1 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/cosmotecinema1.png" group-title="966" tvg-chno="1748",GR: COSMOTE CINEMA 1 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=460903&extension=ts&play_token=4lQmUrSXaf
+#EXTINF:-1 tvg-name="GR: COSMOTE CINEMA 2 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/cosmotecinema2.png" group-title="966" tvg-chno="1749",GR: COSMOTE CINEMA 2 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=460902&extension=ts&play_token=Xzqum7mm3I
+#EXTINF:-1 tvg-name="GR: COSMOTE CINEMA 3 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/cosmotecinema3.png" group-title="966" tvg-chno="1750",GR: COSMOTE CINEMA 3 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=460901&extension=ts&play_token=HMHJhmS995
+#EXTINF:-1 tvg-name="GR: COSMOTE HISTORY HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/cosmotehistoryhd.png" group-title="984" tvg-chno="1913",GR: COSMOTE HISTORY HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=460813&extension=ts&play_token=HnxJCFj5Kv
+#EXTINF:-1 tvg-name="GR: COSMOTE SERIES HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/cosmotecinema4.png" group-title="966" tvg-chno="1752",GR: COSMOTE SERIES HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=460900&extension=ts&play_token=9ZoM50Lf0b
+#EXTINF:-1 tvg-name="GR: CRIME+ INVESTIGATION HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/crimeplusinvestigationchannel.png" group-title="964" tvg-chno="1645",GR: CRIME+ INVESTIGATION HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=460814&extension=ts&play_token=0UASFzs0bP
+#EXTINF:-1 tvg-name="GR: DISCOVERY CHANNEL HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/discoverychannelhd.png" group-title="984" tvg-chno="1914",GR: DISCOVERY CHANNEL HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=460815&extension=ts&play_token=D4SGensVYC
+#EXTINF:-1 tvg-name="GR: DISCOVERY ID HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3967.png?45963" group-title="984" tvg-chno="1916",GR: DISCOVERY ID HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=460683&extension=ts&play_token=WnmRrdFVwr
+#EXTINF:-1 tvg-name="GR: DISCOVERY ID HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3967.png?45963" group-title="984" tvg-chno="1917",GR: DISCOVERY ID HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=460816&extension=ts&play_token=ydps6Ig6pE
+#EXTINF:-1 tvg-name="GR: E! ENTERTAINMENT HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/E!-ENTERTAINMENT-HD.jpeg" group-title="964" tvg-chno="1652",GR: E! ENTERTAINMENT HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=460895&extension=ts&play_token=rqJ1XvrEmo
+#EXTINF:-1 tvg-name="GR: EKKLHSIA TV HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/EUROPE/EKKLHSIA.jpg" group-title="964" tvg-chno="1655",GR: EKKLHSIA TV HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=460680&extension=ts&play_token=8VM9rNj9lr
+#EXTINF:-1 tvg-name="GR: EPT 1 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/ept1.png" group-title="964" tvg-chno="1600",GR: EPT 1 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=460773&extension=ts&play_token=IrsWRIRqJF
+#EXTINF:-1 tvg-name="GR: EPT 2 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/ept2.png" group-title="964" tvg-chno="1602",GR: EPT 2 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=460771&extension=ts&play_token=IlWJjgUs3n
+#EXTINF:-1 tvg-name="GR: EPT 3 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/EPT-3.jpg" group-title="964" tvg-chno="1604",GR: EPT 3 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=460769&extension=ts&play_token=AqHcmlrsQH
+#EXTINF:-1 tvg-name="GR: EPT WORLD HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/epthd.png" group-title="964" tvg-chno="1605",GR: EPT WORLD HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=460767&extension=ts&play_token=K07wxJHoFa
+#EXTINF:-1 tvg-name="GR: FOOD NETWORK HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/FOOD-NETWORK-HD.jpg" group-title="984" tvg-chno="1918",GR: FOOD NETWORK HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=460806&extension=ts&play_token=AuubHtZxUz
+#EXTINF:-1 tvg-name="GR: FOX CHANNEL HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/foxchannel.png" group-title="966" tvg-chno="1763",GR: FOX CHANNEL HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=460897&extension=ts&play_token=AoHgyLyK2W
+#EXTINF:-1 tvg-name="GR: FOX LIFE HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/foxlifehd.png" group-title="966" tvg-chno="1764",GR: FOX LIFE HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=460896&extension=ts&play_token=jajSNJjPPM
+#EXTINF:-1 tvg-name="GR: LUXE.TV HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/luxetv.png" group-title="964" tvg-chno="1687",GR: LUXE.TV HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=460732&extension=ts&play_token=o6ErNIjgpf
+#EXTINF:-1 tvg-name="GR: MAD HITS/VIRAAL HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/MAD-HITS.jpg" group-title="985" tvg-chno="1909",GR: MAD HITS/VIRAAL HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=460804&extension=ts&play_token=3ijAzaP9Kc
+#EXTINF:-1 tvg-name="GR: MAKEDONIA TV HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/MAKEDONIA-TV-HD.jpg" group-title="964" tvg-chno="1746",GR: MAKEDONIA TV HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=460746&extension=ts&play_token=1W0cjbb8LG
+#EXTINF:-1 tvg-name="GR: MEGA CHANNEL HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/MEGA-HD.jpeg" group-title="964" tvg-chno="1612",GR: MEGA CHANNEL HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=460752&extension=ts&play_token=aHI0CYwgLz
+#EXTINF:-1 tvg-name="GR: MEGA COSMOS HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/EUROPE/MEGA-COSMOS.png" group-title="964" tvg-chno="1691",GR: MEGA COSMOS HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=460779&extension=ts&play_token=QRpY2fug7J
+#EXTINF:-1 tvg-name="GR: NATIONAL GEOGRAPHIC HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/nationalgeographichd.png" group-title="984" tvg-chno="1921",GR: NATIONAL GEOGRAPHIC HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=460819&extension=ts&play_token=WLxldGouLo
+#EXTINF:-1 tvg-name="GR: NATIONAL GEOGRAPHIC WILD HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/natgeowildhd.png" group-title="984" tvg-chno="1922",GR: NATIONAL GEOGRAPHIC WILD HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=460818&extension=ts&play_token=za4x0Jy4Bi
+#EXTINF:-1 tvg-name="GR: NOVACINEMA 1 UHD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/novacinema.png" group-title="966" tvg-chno="1757",GR: NOVACINEMA 1 UHD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=460887&extension=ts&play_token=FHf5YyLzTR
+#EXTINF:-1 tvg-name="GR: NOVACINEMA 2 UHD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/novacinema.png" group-title="966" tvg-chno="1758",GR: NOVACINEMA 2 UHD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=460886&extension=ts&play_token=trBeZMf1Wh
+#EXTINF:-1 tvg-name="GR: NOVACINEMA 3 UHD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/novacinema.png" group-title="966" tvg-chno="1759",GR: NOVACINEMA 3 UHD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=460885&extension=ts&play_token=nL4MBZlJLo
+#EXTINF:-1 tvg-name="GR: NOVACINEMA 4 UHD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/novacinema.png" group-title="966" tvg-chno="1760",GR: NOVACINEMA 4 UHD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=460884&extension=ts&play_token=WrCgb5eczY
+#EXTINF:-1 tvg-name="GR: NOVALIFE UHD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/novalife.png" group-title="966" tvg-chno="1761",GR: NOVALIFE UHD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=460888&extension=ts&play_token=Iih2qsmnfa
+#EXTINF:-1 tvg-name="GR: ONE TV HD" tvg-logo="https://i.imgur.com/yHiFVKK.jpg" group-title="964" tvg-chno="1710",GR: ONE TV HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=460651&extension=ts&play_token=G3zIURbnCi
+#EXTINF:-1 tvg-name="GR: OPEN BEYOND HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/openbeyond.png" group-title="964" tvg-chno="1712",GR: OPEN BEYOND HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=460754&extension=ts&play_token=jMHkYvJjBu
+#EXTINF:-1 tvg-name="GR: OTE SERIES UHD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/OTE-TV.jpeg" group-title="966" tvg-chno="1753",GR: OTE SERIES UHD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=460904&extension=ts&play_token=ORHhdcK3LH
+#EXTINF:-1 tvg-name="GR: OTECINEMA 1 UHD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/cosmotecinema1.png" group-title="966" tvg-chno="1754",GR: OTECINEMA 1 UHD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=460907&extension=ts&play_token=VYkCifwISn
+#EXTINF:-1 tvg-name="GR: OTECINEMA 2 UHD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/cosmotecinema2.png" group-title="966" tvg-chno="1755",GR: OTECINEMA 2 UHD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=460906&extension=ts&play_token=OMcAGzI6UE
+#EXTINF:-1 tvg-name="GR: OTECINEMA 3 UHD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/cosmotecinema3.png" group-title="966" tvg-chno="1756",GR: OTECINEMA 3 UHD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=460905&extension=ts&play_token=OvHK2oNG1b
+#EXTINF:-1 tvg-name="GR: OUTDOOR CHANNEL HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/OUTDOOR-CHANNEL-HD.jpg" group-title="984" tvg-chno="1926",GR: OUTDOOR CHANNEL HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=460805&extension=ts&play_token=Fzg0JHN0Sp
+#EXTINF:-1 tvg-name="GR: SKAI HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/SKAI-GR.jpg" group-title="964" tvg-chno="1615",GR: SKAI HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=460757&extension=ts&play_token=FKMjOpJcEp
+#EXTINF:-1 tvg-name="GR: STAR HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/STAR-TV-HD.jpg" group-title="964" tvg-chno="1618",GR: STAR HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=460761&extension=ts&play_token=tQkx7aeWKc
+#EXTINF:-1 tvg-name="GR: TCM HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/tcmhd.png" group-title="966" tvg-chno="1767",GR: TCM HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=460898&extension=ts&play_token=3WXawnjTPe
+#EXTINF:-1 tvg-name="#### FILMA HD/SERIALE ####" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Animated-Flag-Albania.gif" group-title="705" tvg-chno="993",#### FILMA HD/SERIALE ####
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:81:56:4D&stream=294644&extension=ts&play_token=GF6f3SqbfN
