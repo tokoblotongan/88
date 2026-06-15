@@ -1,0 +1,115 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="EuroNews.uk" tvg-name="ENGLISH: EURO NEWS" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/euronews.png" group-title="177" tvg-chno="466",ENGLISH: EURO NEWS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:E7:F9:81&stream=441194&extension=ts&play_token=IPoaUqpwv4
+#EXTINF:-1 tvg-name="ENGLISH: TATA SKY WORLD CINEMA HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/TATA-SKY.png" group-title="177" tvg-chno="471",ENGLISH: TATA SKY WORLD CINEMA HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:E7:F9:81&stream=441189&extension=ts&play_token=o35yTVjiaI
+#EXTINF:-1 tvg-id="DDSports.in" tvg-name="HINDI: DD SPORTS" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/ddsports.jpg" group-title="67" tvg-chno="756",HINDI: DD SPORTS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:E7:F9:81&stream=440367&extension=ts&play_token=JGpEF7KYdd
+#EXTINF:-1 tvg-name="IN-PREM: HINDI SPORTS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="2080" tvg-chno="1189",IN-PREM: HINDI SPORTS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:E7:F9:81&stream=1629628&extension=ts&play_token=moROdhe4k9
+#EXTINF:-1 tvg-name="IN-PREM: SPORT CINEMA HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="2090" tvg-chno="1794",IN-PREM: SPORT CINEMA HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:E7:F9:81&stream=1628965&extension=ts&play_token=KUt6yDlY9D
+#EXTINF:-1 tvg-name="IN-PREM: SPORTS CINEMA HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="2080" tvg-chno="1274",IN-PREM: SPORTS CINEMA HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:E7:F9:81&stream=1629543&extension=ts&play_token=gjmA2nEDcS
+#EXTINF:-1 tvg-name="PK: A - SPORTS" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/INDUS-TV.jpg" group-title="7" tvg-chno="1867",PK: A - SPORTS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:E7:F9:81&stream=437704&extension=ts&play_token=CQz9eNUbjF
+#EXTINF:-1 tvg-name="PK: A - SPORTS HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/INDUS-TV.jpg" group-title="7" tvg-chno="1868",PK: A - SPORTS HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:E7:F9:81&stream=437703&extension=ts&play_token=r4To3TcxJ3
+#EXTINF:-1 tvg-name="PK: PTV SPORTS" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/PTV-SPORTS.png" group-title="7" tvg-chno="1841",PK: PTV SPORTS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:E7:F9:81&stream=437739&extension=ts&play_token=h4NA2sj4EK
+#EXTINF:-1 tvg-name="PK: TENS SPORTS" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/TENS-SPORTS.png" group-title="7" tvg-chno="1906",PK: TENS SPORTS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:E7:F9:81&stream=437655&extension=ts&play_token=DmtCKLD5xv
+#EXTINF:-1 tvg-id="ARYFamily.pk" tvg-name="SPORTS: A SPORTS HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/aryfamily.png" group-title="178" tvg-chno="501",SPORTS: A SPORTS HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:E7:F9:81&stream=441114&extension=ts&play_token=gvLXRFxTI7
+#EXTINF:-1 tvg-name="SPORTS: ASTRO CRICKET HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/astrotv.png" group-title="178" tvg-chno="504",SPORTS: ASTRO CRICKET HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:E7:F9:81&stream=441111&extension=ts&play_token=xadXLOqTtc
+#EXTINF:-1 tvg-id="DDSports.in" tvg-name="SPORTS: D SPORTS HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/D-SPORTS-HD.jpg" group-title="178" tvg-chno="502",SPORTS: D SPORTS HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:E7:F9:81&stream=441113&extension=ts&play_token=nEMZqQsUOw
+#EXTINF:-1 tvg-id="DDSports.in" tvg-name="SPORTS: DD SPORTS" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/ddsports.jpg" group-title="178" tvg-chno="503",SPORTS: DD SPORTS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:E7:F9:81&stream=441112&extension=ts&play_token=5uRv0Z0cRQ
+#EXTINF:-1 tvg-name="SPORTS: HK NOW PREMIER SPORTS 1 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3352.jpg?84192" group-title="178" tvg-chno="493",SPORTS: HK NOW PREMIER SPORTS 1 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:E7:F9:81&stream=444700&extension=ts&play_token=cHxVRASGTo
+#EXTINF:-1 tvg-name="SPORTS: HK NOW SPORTS 2 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3352.jpg?84192" group-title="178" tvg-chno="491",SPORTS: HK NOW SPORTS 2 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:E7:F9:81&stream=444706&extension=ts&play_token=Cvrv4Zo4mt
+#EXTINF:-1 tvg-name="SPORTS: HK NOW SPORTS 3 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3352.jpg?84192" group-title="178" tvg-chno="492",SPORTS: HK NOW SPORTS 3 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:E7:F9:81&stream=444705&extension=ts&play_token=y39BAOXiMS
+#EXTINF:-1 tvg-name="SPORTS: HUB SPORTS 1 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11571.jpg?94789" group-title="178" tvg-chno="494",SPORTS: HUB SPORTS 1 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:E7:F9:81&stream=444699&extension=ts&play_token=ia4YlDaY3A
+#EXTINF:-1 tvg-name="SPORTS: HUB SPORTS 2 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11571.jpg?94789" group-title="178" tvg-chno="495",SPORTS: HUB SPORTS 2 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:E7:F9:81&stream=444698&extension=ts&play_token=Sxovk1806Z
+#EXTINF:-1 tvg-name="SPORTS: HUB SPORTS 3 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11571.jpg?94789" group-title="178" tvg-chno="496",SPORTS: HUB SPORTS 3 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:E7:F9:81&stream=444697&extension=ts&play_token=VRjWZfnr8q
+#EXTINF:-1 tvg-name="SPORTS: MY SUPERSPORTS 2 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11571.jpg?94789" group-title="178" tvg-chno="497",SPORTS: MY SUPERSPORTS 2 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:E7:F9:81&stream=444695&extension=ts&play_token=2yXAzc0ei8
+#EXTINF:-1 tvg-name="SPORTS: MY SUPERSPORTS 3 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11571.jpg?94789" group-title="178" tvg-chno="498",SPORTS: MY SUPERSPORTS 3 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:E7:F9:81&stream=444694&extension=ts&play_token=pQI5ahwE29
+#EXTINF:-1 tvg-name="SPORTS: MY SUPERSPORTS 4 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11571.jpg?94789" group-title="178" tvg-chno="499",SPORTS: MY SUPERSPORTS 4 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:E7:F9:81&stream=444693&extension=ts&play_token=VNVeW3v6Zm
+#EXTINF:-1 tvg-id="SonySIX.in" tvg-name="SPORTS: SONY SIX" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/SONY-SIX.png" group-title="178" tvg-chno="505",SPORTS: SONY SIX
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:E7:F9:81&stream=441109&extension=ts&play_token=jH7zXI4ypS
+#EXTINF:-1 tvg-name="SPORTS: SPORTS 18 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/SPORTS-18-WCUP.png" group-title="178" tvg-chno="500",SPORTS: SPORTS 18 4K
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:E7:F9:81&stream=441115&extension=ts&play_token=yWRQGb4S1H
+#EXTINF:-1 tvg-id="StarSports1.in" tvg-name="SPORTS: STAR SPORTS 1" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/STAR-SPORTS-1-HD.jpg" group-title="178" tvg-chno="510",SPORTS: STAR SPORTS 1
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:E7:F9:81&stream=441104&extension=ts&play_token=DX0hlIMXbq
+#EXTINF:-1 tvg-id="StarSports1.in" tvg-name="SPORTS: STAR SPORTS 1 ENGLISH HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/STAR-SPORTS-1-HD.jpg" group-title="178" tvg-chno="507",SPORTS: STAR SPORTS 1 ENGLISH HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:E7:F9:81&stream=441107&extension=ts&play_token=nv6HqaGgko
+#EXTINF:-1 tvg-id="StarSports1Hindi.in" tvg-name="SPORTS: STAR SPORTS 1 HINDI HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/STAR-SPORTS-1-HINDI-HD.jpg" group-title="178" tvg-chno="508",SPORTS: STAR SPORTS 1 HINDI HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:E7:F9:81&stream=441106&extension=ts&play_token=BWIyW2VJuO
+#EXTINF:-1 tvg-id="StarSports2.in" tvg-name="SPORTS: STAR SPORTS 2" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/STAR-SPORTS-2-HD.jpeg" group-title="178" tvg-chno="512",SPORTS: STAR SPORTS 2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:E7:F9:81&stream=441102&extension=ts&play_token=kqQq7U1zeT
+#EXTINF:-1 tvg-id="StarSports2.in" tvg-name="SPORTS: STAR SPORTS 2 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/STAR-SPORTS-2-HD.jpeg" group-title="178" tvg-chno="511",SPORTS: STAR SPORTS 2 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:E7:F9:81&stream=441103&extension=ts&play_token=NQLDjzstqa
+#EXTINF:-1 tvg-id="StarSports3.in" tvg-name="SPORTS: STAR SPORTS 3" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/STAR-SPORTS-3.jpeg" group-title="178" tvg-chno="513",SPORTS: STAR SPORTS 3
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:E7:F9:81&stream=441101&extension=ts&play_token=zvjczjO8AE
+#EXTINF:-1 tvg-id="StarSports3.in" tvg-name="SPORTS: STAR SPORTS 3" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/STAR-SPORTS-3-HD.jpeg" group-title="178" tvg-chno="514",SPORTS: STAR SPORTS 3
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:E7:F9:81&stream=441100&extension=ts&play_token=5tbl6JTnhV
+#EXTINF:-1 tvg-id="StarSports1Hindi.in" tvg-name="SPORTS: STAR SPORTS HINDI 1" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/STAR-SPORTS-1-HINDI-HD.jpg" group-title="178" tvg-chno="509",SPORTS: STAR SPORTS HINDI 1
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:E7:F9:81&stream=441105&extension=ts&play_token=Oz4kXxHqeG
+#EXTINF:-1 tvg-id="SonySIX.in" tvg-name="SPORTS: STAR SPORTS KANNADA" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/SONY-SIX.png" group-title="178" tvg-chno="506",SPORTS: STAR SPORTS KANNADA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:E7:F9:81&stream=441108&extension=ts&play_token=ukwj0pOfYB
+#EXTINF:-1 tvg-id="StarSportsSelect1.in" tvg-name="SPORTS: STAR SPORTS SELECT 1" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/STAR-SPORTS-SELECT-1-HD.jpg" group-title="178" tvg-chno="516",SPORTS: STAR SPORTS SELECT 1
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:E7:F9:81&stream=441098&extension=ts&play_token=XHUGtmCk9C
+#EXTINF:-1 tvg-id="StarSportsSelect1.in" tvg-name="SPORTS: STAR SPORTS SELECT 1 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/STAR-SPORTS-SELECT-1-HD.jpg" group-title="178" tvg-chno="515",SPORTS: STAR SPORTS SELECT 1 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:E7:F9:81&stream=441099&extension=ts&play_token=4bDGRpHG1S
+#EXTINF:-1 tvg-id="StarSportsSelect2.in" tvg-name="SPORTS: STAR SPORTS SELECT 2" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/STAR-SPORTS-SELECT-2-HD.jpg" group-title="178" tvg-chno="518",SPORTS: STAR SPORTS SELECT 2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:E7:F9:81&stream=441096&extension=ts&play_token=BGK1bIxeGd
+#EXTINF:-1 tvg-id="StarSportsSelect2.in" tvg-name="SPORTS: STAR SPORTS SELECT 2 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/STAR-SPORTS-SELECT-2-HD.jpg" group-title="178" tvg-chno="517",SPORTS: STAR SPORTS SELECT 2 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:E7:F9:81&stream=441097&extension=ts&play_token=ELKF3GXCid
+#EXTINF:-1 tvg-name="SPORTS: STAR SPORTS TAMIL" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/STAR-SPORTS-SELECT-2-HD.jpg" group-title="178" tvg-chno="519",SPORTS: STAR SPORTS TAMIL
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:E7:F9:81&stream=441095&extension=ts&play_token=qdTLBjo1dq
+#EXTINF:-1 tvg-id="SonyTEN1.in" tvg-name="SPORTS: TEN 1" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/TEN-1-HD.png" group-title="178" tvg-chno="521",SPORTS: TEN 1
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:E7:F9:81&stream=441093&extension=ts&play_token=7Q8PB8ZPYz
+#EXTINF:-1 tvg-id="SonyTEN1.in" tvg-name="SPORTS: TEN 1 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/TEN-1-HD.png" group-title="178" tvg-chno="520",SPORTS: TEN 1 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:E7:F9:81&stream=441094&extension=ts&play_token=IomQldqptd
+#EXTINF:-1 tvg-id="SonyTEN2.in" tvg-name="SPORTS: TEN 2" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/TEN-2-HD.png" group-title="178" tvg-chno="523",SPORTS: TEN 2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:E7:F9:81&stream=441091&extension=ts&play_token=GkrhzegoyQ
+#EXTINF:-1 tvg-id="SonyTEN2.in" tvg-name="SPORTS: TEN 2 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/TEN-2-HD.png" group-title="178" tvg-chno="522",SPORTS: TEN 2 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:E7:F9:81&stream=441092&extension=ts&play_token=yt4y5a7HwS
+#EXTINF:-1 tvg-id="SonyTEN3.in" tvg-name="SPORTS: TEN 3" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/TEN-3-HD.jpeg" group-title="178" tvg-chno="525",SPORTS: TEN 3
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:E7:F9:81&stream=441089&extension=ts&play_token=vlsiog2mEX
+#EXTINF:-1 tvg-id="SonyTEN3.in" tvg-name="SPORTS: TEN 3 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/TEN-3-HD.jpeg" group-title="178" tvg-chno="524",SPORTS: TEN 3 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:E7:F9:81&stream=441090&extension=ts&play_token=rqxK3fEGvX
+#EXTINF:-1 tvg-name="TM-PREM: SPORTS CINEMA HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="2086" tvg-chno="1576",TM-PREM: SPORTS CINEMA HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:E7:F9:81&stream=1629237&extension=ts&play_token=cYugjlHSdE
+#EXTINF:-1 tvg-name="YP: SPORT FISHING TV ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13932.png?ver=82901" group-title="1765" tvg-chno="144",YP: SPORT FISHING TV ᴴᴰ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:E7:F9:81&stream=1472516&extension=ts&play_token=qlF5aL4NX8
+#EXTINF:-1 tvg-id="HBO.us" tvg-name="ENGLISH: HBO HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/hbohd.png" group-title="177" tvg-chno="475",ENGLISH: HBO HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:E7:F9:81&stream=441185&extension=ts&play_token=2mwHQwkLze
+#EXTINF:-1 tvg-name="AR: HBO ACTION 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13691.png?ver=76514" group-title="878" tvg-chno="2160",AR: HBO ACTION 4K
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:E7:F9:81&stream=575726&extension=ts&play_token=VYlQcErovH
+#EXTINF:-1 tvg-name="AR: HBO ANIMATION 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13691.png?ver=76514" group-title="878" tvg-chno="2167",AR: HBO ANIMATION 4K
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:E7:F9:81&stream=575719&extension=ts&play_token=wSjAKJwV8a
+#EXTINF:-1 tvg-name="AR: HBO ARABIC 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13691.png?ver=76514" group-title="878" tvg-chno="2164",AR: HBO ARABIC 4K
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:E7:F9:81&stream=575722&extension=ts&play_token=lmyS2Mc8DV
+#EXTINF:-1 tvg-name="AR: HBO ASIAN 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13691.png?ver=76514" group-title="878" tvg-chno="2165",AR: HBO ASIAN 4K
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:E7:F9:81&stream=575721&extension=ts&play_token=EmP7GmDxbJ
+#EXTINF:-1 tvg-name="AR: HBO CRIME 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13691.png?ver=76514" group-title="878" tvg-chno="2162",AR: HBO CRIME 4K
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:E7:F9:81&stream=575724&extension=ts&play_token=D9nuoRLhG7
+#EXTINF:-1 tvg-name="AR: HBO HISTORY 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13691.png?ver=76514" group-title="878" tvg-chno="2161",AR: HBO HISTORY 4K
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:E7:F9:81&stream=575725&extension=ts&play_token=OxstZSGckL
+#EXTINF:-1 tvg-name="AR: HBO MAX 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13691.png?ver=76514" group-title="878" tvg-chno="2163",AR: HBO MAX 4K
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:E7:F9:81&stream=575723&extension=ts&play_token=KRPXA2Ixch
+#EXTINF:-1 tvg-name="AR: HBO NOW MOVIES 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13691.png?ver=76514" group-title="878" tvg-chno="2159",AR: HBO NOW MOVIES 4K
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:E7:F9:81&stream=575727&extension=ts&play_token=wKLWo4Bthp
+#EXTINF:-1 tvg-name="AR: HBO TOP TEN 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13691.png?ver=76514" group-title="878" tvg-chno="2158",AR: HBO TOP TEN 4K
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:E7:F9:81&stream=575728&extension=ts&play_token=bisFs4Dp65
