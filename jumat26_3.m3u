@@ -1,0 +1,63 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="BE| CLUBBING TV" tvg-logo="http://51.158.145.100/picons/logos/BELGIUM/1897979.png" group-title="1159" tvg-chno="9453",BE| CLUBBING TV
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:68:0F:5D&stream=1897979&extension=ts&play_token=dhH4Q8HgxC
+#EXTINF:-1 tvg-id="CinePlusClub.fr" tvg-name="BE| CINE+ CLUB HD" tvg-logo="http://51.158.145.100/picons/logos/BELGIUM/812174.png" group-title="1159" tvg-chno="9501",BE| CINE+ CLUB HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:68:0F:5D&stream=812174&extension=ts&play_token=LYEH7AhViS
+#EXTINF:-1 tvg-id="ClubRTL.lu" tvg-name="BE| CLUB RTL FHD" tvg-logo="http://51.158.145.100/picons/logos/BELGIUM/812103.png" group-title="1159" tvg-chno="9384",BE| CLUB RTL FHD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:68:0F:5D&stream=812103&extension=ts&play_token=gZHNCYcEIr
+#EXTINF:-1 tvg-name="BE| RTL CLUB ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/BELGIUMNEW/RTLCLUB.png" group-title="1962" tvg-chno="9174",BE| RTL CLUB ᴿᴬᵂ
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:68:0F:5D&stream=2022574&extension=ts&play_token=6JH3PndPL5
+#EXTINF:-1 tvg-name="BE| RTL CLUB ᴿᴬᵂ" tvg-logo="http://103.176.90.95/images/1829034.png" group-title="2121" tvg-chno="9691",BE| RTL CLUB ᴿᴬᵂ
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:68:0F:5D&stream=1829034&extension=ts&play_token=1fmWJPJQjd
+#EXTINF:-1 tvg-name="Clubber 10:" tvg-logo="http://103.176.90.95/images/1385584.png" group-title="1559" tvg-chno="5994",Clubber 10:
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:68:0F:5D&stream=1385584&extension=ts&play_token=j2TI9KjK6V
+#EXTINF:-1 tvg-name="Clubber 11:" tvg-logo="http://103.176.90.95/images/1385585.png" group-title="1559" tvg-chno="5995",Clubber 11:
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:68:0F:5D&stream=1385585&extension=ts&play_token=AP0khLa6zc
+#EXTINF:-1 tvg-name="Clubber 12:" tvg-logo="http://103.176.90.95/images/1385586.png" group-title="1559" tvg-chno="5996",Clubber 12:
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:68:0F:5D&stream=1385586&extension=ts&play_token=pn0uSZ8CRX
+#EXTINF:-1 tvg-name="Clubber 13:" tvg-logo="http://103.176.90.95/images/1385587.png" group-title="1559" tvg-chno="5997",Clubber 13:
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:68:0F:5D&stream=1385587&extension=ts&play_token=1ec1bohcyX
+#EXTINF:-1 tvg-name="Clubber 14:" tvg-logo="http://103.176.90.95/images/1385588.png" group-title="1559" tvg-chno="5998",Clubber 14:
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:68:0F:5D&stream=1385588&extension=ts&play_token=r8Bu7zrEOl
+#EXTINF:-1 tvg-name="Clubber 15:" tvg-logo="http://103.176.90.95/images/1385589.png" group-title="1559" tvg-chno="5999",Clubber 15:
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:68:0F:5D&stream=1385589&extension=ts&play_token=MguVey3CjO
+#EXTINF:-1 tvg-name="Clubber 16:" tvg-logo="http://103.176.90.95/images/1385590.png" group-title="1559" tvg-chno="6000",Clubber 16:
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:68:0F:5D&stream=1385590&extension=ts&play_token=Yl9slM5XSG
+#EXTINF:-1 tvg-name="Clubber 17:" tvg-logo="http://103.176.90.95/images/1385591.png" group-title="1559" tvg-chno="6001",Clubber 17:
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:68:0F:5D&stream=1385591&extension=ts&play_token=xGG7HDla6r
+#EXTINF:-1 tvg-name="Clubber 18:" tvg-logo="http://103.176.90.95/images/1385592.png" group-title="1559" tvg-chno="6002",Clubber 18:
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:68:0F:5D&stream=1385592&extension=ts&play_token=itL3J3P5Mr
+#EXTINF:-1 tvg-name="Clubber 19:" tvg-logo="http://103.176.90.95/images/1385593.png" group-title="1559" tvg-chno="6003",Clubber 19:
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:68:0F:5D&stream=1385593&extension=ts&play_token=fB8jNhap91
+#EXTINF:-1 tvg-name="Clubber 20:" tvg-logo="http://103.176.90.95/images/1385594.png" group-title="1559" tvg-chno="6004",Clubber 20:
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:68:0F:5D&stream=1385594&extension=ts&play_token=RUrKyZVNoI
+#EXTINF:-1 tvg-name="Clubber TV | Event 1" tvg-logo="http://103.176.90.95/images/1385575.png" group-title="1559" tvg-chno="5985",Clubber TV | Event 1
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:68:0F:5D&stream=1385575&extension=ts&play_token=apW97hRCl5
+#EXTINF:-1 tvg-name="Clubber TV | Event 2" tvg-logo="http://103.176.90.95/images/1385576.png" group-title="1559" tvg-chno="5986",Clubber TV | Event 2
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:68:0F:5D&stream=1385576&extension=ts&play_token=tH4ZGr1NaC
+#EXTINF:-1 tvg-name="Clubber TV | Event 3" tvg-logo="http://103.176.90.95/images/1385577.png" group-title="1559" tvg-chno="5987",Clubber TV | Event 3
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:68:0F:5D&stream=1385577&extension=ts&play_token=yz1EKeOicr
+#EXTINF:-1 tvg-name="Clubber TV | Event 4" tvg-logo="http://103.176.90.95/images/1385578.png" group-title="1559" tvg-chno="5988",Clubber TV | Event 4
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:68:0F:5D&stream=1385578&extension=ts&play_token=HHKXtmiDrC
+#EXTINF:-1 tvg-name="Clubber TV | Event 5" tvg-logo="http://103.176.90.95/images/1385579.png" group-title="1559" tvg-chno="5989",Clubber TV | Event 5
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:68:0F:5D&stream=1385579&extension=ts&play_token=yE6U6JKDip
+#EXTINF:-1 tvg-name="Clubber TV | Event 6" tvg-logo="http://103.176.90.95/images/1385580.png" group-title="1559" tvg-chno="5990",Clubber TV | Event 6
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:68:0F:5D&stream=1385580&extension=ts&play_token=7ciQcQJe6g
+#EXTINF:-1 tvg-name="Clubber TV | Event 7" tvg-logo="http://103.176.90.95/images/1385581.png" group-title="1559" tvg-chno="5991",Clubber TV | Event 7
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:68:0F:5D&stream=1385581&extension=ts&play_token=EEwt2ZRAF7
+#EXTINF:-1 tvg-name="Clubber TV | Event 8" tvg-logo="http://103.176.90.95/images/1385582.png" group-title="1559" tvg-chno="5992",Clubber TV | Event 8
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:68:0F:5D&stream=1385582&extension=ts&play_token=3M0G9HfoSZ
+#EXTINF:-1 tvg-name="Clubber TV | Event 9" tvg-logo="http://103.176.90.95/images/1385583.png" group-title="1559" tvg-chno="5993",Clubber TV | Event 9
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:68:0F:5D&stream=1385583&extension=ts&play_token=m9VpPafDiz
+#EXTINF:-1 tvg-name="Live | Goodwood Members' Meeting - Day 2 | Goodwood Road Racing Club | 8K EXCLUSIVE | NL: DAZN PPV 3" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="2124" tvg-chno="1294",Live | Goodwood Members' Meeting - Day 2 | Goodwood Road Racing Club | 8K EXCLUSIVE | NL: DAZN PPV 3
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:68:0F:5D&stream=2046902&extension=ts&play_token=oaGrpI5BIv
+#EXTINF:-1 tvg-name="Next | Union Saint-Gilloise vs. Club Brugge | Jupiler Pro League | 2026-04-19 | 16:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 11" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="2124" tvg-chno="1302",Next | Union Saint-Gilloise vs. Club Brugge | Jupiler Pro League | 2026-04-19 | 16:30 (GMT) | 8K EXCLUSIVE | NL: DAZN PPV 11
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:68:0F:5D&stream=2046894&extension=ts&play_token=JC0fKxOk0Z
+#EXTINF:-1 tvg-name="UEFA | 32 - ARSENAL - ATHLETIC CLUB BILBAO | Sat 09 Aug 15:45" tvg-logo="http://103.176.90.95/images/1363966.png" group-title="1658" tvg-chno="4472",UEFA | 32 - ARSENAL - ATHLETIC CLUB BILBAO | Sat 09 Aug 15:45
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:68:0F:5D&stream=1363966&extension=ts&play_token=9PtfnwyFDh
+#EXTINF:-1 tvg-name="UFC 05: FIGHT CLUB RUSH 29 start:2026-05-02 17:55:00 stop:2026-05-02 23:00:00" tvg-logo="http://103.176.90.95/images/1395682.png" group-title="1592" tvg-chno="4945",UFC 05: FIGHT CLUB RUSH 29 start:2026-05-02 17:55:00 stop:2026-05-02 23:00:00
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:68:0F:5D&stream=1395682&extension=ts&play_token=KyjPqbQ5xL
+#EXTINF:-1 tvg-id="ClublandTV.uk" tvg-name="UK| CLUBLAND TV" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/CLUBLAND.png" group-title="523" tvg-chno="3354",UK| CLUBLAND TV
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:68:0F:5D&stream=163793&extension=ts&play_token=KNzyi2hCIO
+#EXTINF:-1 tvg-name="UK| MTV CLUB" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/MTVCLUB.png" group-title="523" tvg-chno="3330",UK| MTV CLUB
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:68:0F:5D&stream=45265&extension=ts&play_token=B4WCOV88vL
