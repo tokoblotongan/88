@@ -1569,3 +1569,466 @@ http://vlue.vip:80/live/7189399562/6683429030/785289.ts
 http://vlue.vip:80/live/7189399562/6683429030/780631.ts
 #EXTINF:-1 tvg-name="VIP RU: World Fashion HD" tvg-logo="http://pic.apkdt.co/pic/temu/Asia/Russia/World-Fashion.png" group-title="✅ RUSSIA VIP | روسيا" tvg-chno="6605",VIP RU: World Fashion HD
 http://vlue.vip:80/live/7189399562/6683429030/780748.ts
+#EXTM3U
+#EXTINF:-1 tvg-name="AFR| LUX TV" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/LUX.png" group-title="902" tvg-chno="36654",AFR| LUX TV
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=921122&extension=ts&play_token=CDnxLpTdI7
+#EXTINF:-1 tvg-name="AFR|LUX TV" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/LUX.png" group-title="25" tvg-chno="36275",AFR|LUX TV
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=2032236&extension=ts&play_token=hVBjj7IXOc
+#EXTINF:-1 tvg-id="TVLux.be" tvg-name="BE| TV LUX HD" tvg-logo="http://51.158.145.100/picons/logos/BELGIUM/816178.png" group-title="1159" tvg-chno="29020",BE| TV LUX HD
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=816178&extension=ts&play_token=z9Npj6OkdL
+#EXTINF:-1 tvg-name="DE| DELUXE DEUTSCHPOP" tvg-logo="http://103.176.90.118/picons/logos/logos/SamsungTVPlus.png" group-title="1946" tvg-chno="22921",DE| DELUXE DEUTSCHPOP
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/95d6544c-4164-11ec-9c7c-2cf753b8a203/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1 tvg-name="DE| DELUXE LOUNGE HD" tvg-logo="http://103.176.90.118/picons/logos/logos/SamsungTVPlus.png" group-title="1946" tvg-chno="22923",DE| DELUXE LOUNGE HD
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/ec8e5c43-6fae-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="DeLuxeMusic.de" tvg-name="DE| DELUXE MUSIC FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/DELUXEMUSIC.png" group-title="955" tvg-chno="22433",DE| DELUXE MUSIC FHD
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=411319&extension=ts&play_token=xdS20dQzBo
+#EXTINF:-1 tvg-id="DeLuxeMusic.de" tvg-name="DE| DELUXE MUSIC HEVC" tvg-logo="http://103.176.90.92/images/889545.png" group-title="1235" tvg-chno="22271",DE| DELUXE MUSIC HEVC
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=889545&extension=ts&play_token=gK5rtmy7vv
+#EXTINF:-1 tvg-name="DE| DELUXE RAP" tvg-logo="http://103.176.90.118/picons/logos/logos/SamsungTVPlus.png" group-title="1946" tvg-chno="22918",DE| DELUXE RAP
+https://d2l1hs6hxlg3df.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pb0nloqsgtwc2/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE
+#EXTINF:-1 tvg-name="FR| LUXE TV FHD" tvg-logo="http://51.158.145.100/picons/logos/france/506564.png" group-title="1001" tvg-chno="18187",FR| LUXE TV FHD
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=506564&extension=ts&play_token=oTODrMqWxA
+#EXTINF:-1 tvg-name="FR| LUXE TV HD" tvg-logo="http://51.158.145.100/picons/logos/france/507401.png" group-title="616" tvg-chno="18335",FR| LUXE TV HD
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=507401&extension=ts&play_token=8wdT1QCWZO
+#EXTINF:-1 tvg-name="FR| LUXPLAY ACTION 1" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayaction1.png" group-title="2188" tvg-chno="18693",FR| LUXPLAY ACTION 1
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896915&extension=ts&play_token=XgHv4uvIwb
+#EXTINF:-1 tvg-name="FR| LUXPLAY ACTION 10" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayaction10.png" group-title="2188" tvg-chno="18702",FR| LUXPLAY ACTION 10
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896906&extension=ts&play_token=Zol94CEyHF
+#EXTINF:-1 tvg-name="FR| LUXPLAY ACTION 11" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayaction11.png" group-title="2188" tvg-chno="18703",FR| LUXPLAY ACTION 11
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896905&extension=ts&play_token=urbCUZpcjl
+#EXTINF:-1 tvg-name="FR| LUXPLAY ACTION 12" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayaction12.png" group-title="2188" tvg-chno="18704",FR| LUXPLAY ACTION 12
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896904&extension=ts&play_token=uugliG45nd
+#EXTINF:-1 tvg-name="FR| LUXPLAY ACTION 13" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayaction13.png" group-title="2188" tvg-chno="18705",FR| LUXPLAY ACTION 13
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896903&extension=ts&play_token=QGqig8qk1r
+#EXTINF:-1 tvg-name="FR| LUXPLAY ACTION 14" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayaction14.png" group-title="2188" tvg-chno="18706",FR| LUXPLAY ACTION 14
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896902&extension=ts&play_token=oAYmBIZFlJ
+#EXTINF:-1 tvg-name="FR| LUXPLAY ACTION 15" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayaction15.png" group-title="2188" tvg-chno="18707",FR| LUXPLAY ACTION 15
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896901&extension=ts&play_token=FNj2cybGJo
+#EXTINF:-1 tvg-name="FR| LUXPLAY ACTION 16" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayaction16.png" group-title="2188" tvg-chno="18708",FR| LUXPLAY ACTION 16
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896900&extension=ts&play_token=bii7DMf6o1
+#EXTINF:-1 tvg-name="FR| LUXPLAY ACTION 17" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayaction17.png" group-title="2188" tvg-chno="18709",FR| LUXPLAY ACTION 17
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896899&extension=ts&play_token=NUB5Oa5X5T
+#EXTINF:-1 tvg-name="FR| LUXPLAY ACTION 18" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayaction18.png" group-title="2188" tvg-chno="18710",FR| LUXPLAY ACTION 18
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896898&extension=ts&play_token=AbUJGe3y2m
+#EXTINF:-1 tvg-name="FR| LUXPLAY ACTION 19" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayaction19.png" group-title="2188" tvg-chno="18711",FR| LUXPLAY ACTION 19
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896897&extension=ts&play_token=2bv7HT0A5r
+#EXTINF:-1 tvg-name="FR| LUXPLAY ACTION 2" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayaction2.png" group-title="2188" tvg-chno="18694",FR| LUXPLAY ACTION 2
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896914&extension=ts&play_token=IWfLQvwu6F
+#EXTINF:-1 tvg-name="FR| LUXPLAY ACTION 20" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayaction20.png" group-title="2188" tvg-chno="18712",FR| LUXPLAY ACTION 20
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896896&extension=ts&play_token=klU6TIiXxJ
+#EXTINF:-1 tvg-name="FR| LUXPLAY ACTION 21" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayaction21.png" group-title="2188" tvg-chno="18713",FR| LUXPLAY ACTION 21
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896895&extension=ts&play_token=8FRy3d1abi
+#EXTINF:-1 tvg-name="FR| LUXPLAY ACTION 22" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayaction22.png" group-title="2188" tvg-chno="18714",FR| LUXPLAY ACTION 22
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896894&extension=ts&play_token=0DeP9n1DkH
+#EXTINF:-1 tvg-name="FR| LUXPLAY ACTION 23" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayaction23.png" group-title="2188" tvg-chno="18715",FR| LUXPLAY ACTION 23
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896893&extension=ts&play_token=FCzQubC7kQ
+#EXTINF:-1 tvg-name="FR| LUXPLAY ACTION 24" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayaction24.png" group-title="2188" tvg-chno="18716",FR| LUXPLAY ACTION 24
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896892&extension=ts&play_token=o76QIJacIl
+#EXTINF:-1 tvg-name="FR| LUXPLAY ACTION 25" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayaction25.png" group-title="2188" tvg-chno="18717",FR| LUXPLAY ACTION 25
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896891&extension=ts&play_token=u9Lanp6Atk
+#EXTINF:-1 tvg-name="FR| LUXPLAY ACTION 26" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayaction26.png" group-title="2188" tvg-chno="18718",FR| LUXPLAY ACTION 26
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896890&extension=ts&play_token=7hwr3Oslcu
+#EXTINF:-1 tvg-name="FR| LUXPLAY ACTION 27" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayaction27.png" group-title="2188" tvg-chno="18719",FR| LUXPLAY ACTION 27
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896889&extension=ts&play_token=3ID5e8RqrJ
+#EXTINF:-1 tvg-name="FR| LUXPLAY ACTION 28" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayaction28.png" group-title="2188" tvg-chno="18720",FR| LUXPLAY ACTION 28
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896888&extension=ts&play_token=krYhdosR0c
+#EXTINF:-1 tvg-name="FR| LUXPLAY ACTION 29" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayaction29.png" group-title="2188" tvg-chno="18721",FR| LUXPLAY ACTION 29
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896887&extension=ts&play_token=qbnc6xWSLe
+#EXTINF:-1 tvg-name="FR| LUXPLAY ACTION 3" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayaction3.png" group-title="2188" tvg-chno="18695",FR| LUXPLAY ACTION 3
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896913&extension=ts&play_token=pf1Wu34YxX
+#EXTINF:-1 tvg-name="FR| LUXPLAY ACTION 30" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayaction30.png" group-title="2188" tvg-chno="18722",FR| LUXPLAY ACTION 30
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896886&extension=ts&play_token=MrIhbsgiaH
+#EXTINF:-1 tvg-name="FR| LUXPLAY ACTION 31" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayaction31.png" group-title="2188" tvg-chno="18723",FR| LUXPLAY ACTION 31
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896885&extension=ts&play_token=ooNSz7FTnW
+#EXTINF:-1 tvg-name="FR| LUXPLAY ACTION 32" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayaction32.png" group-title="2188" tvg-chno="18724",FR| LUXPLAY ACTION 32
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896884&extension=ts&play_token=rQAL0P87XF
+#EXTINF:-1 tvg-name="FR| LUXPLAY ACTION 33" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayaction33.png" group-title="2188" tvg-chno="18725",FR| LUXPLAY ACTION 33
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896883&extension=ts&play_token=BVij1nQU0q
+#EXTINF:-1 tvg-name="FR| LUXPLAY ACTION 34" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayaction34.png" group-title="2188" tvg-chno="18726",FR| LUXPLAY ACTION 34
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896882&extension=ts&play_token=tin7SjHIDN
+#EXTINF:-1 tvg-name="FR| LUXPLAY ACTION 35" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayaction35.png" group-title="2188" tvg-chno="18727",FR| LUXPLAY ACTION 35
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896881&extension=ts&play_token=z9zRPJUJ8O
+#EXTINF:-1 tvg-name="FR| LUXPLAY ACTION 36" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayaction36.png" group-title="2188" tvg-chno="18728",FR| LUXPLAY ACTION 36
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896880&extension=ts&play_token=znq1bSmKtK
+#EXTINF:-1 tvg-name="FR| LUXPLAY ACTION 37" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayaction37.png" group-title="2188" tvg-chno="18729",FR| LUXPLAY ACTION 37
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896879&extension=ts&play_token=gjOLB3v8To
+#EXTINF:-1 tvg-name="FR| LUXPLAY ACTION 38" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayaction38.png" group-title="2188" tvg-chno="18730",FR| LUXPLAY ACTION 38
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896878&extension=ts&play_token=CcmJU1IWOQ
+#EXTINF:-1 tvg-name="FR| LUXPLAY ACTION 39" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayaction39.png" group-title="2188" tvg-chno="18731",FR| LUXPLAY ACTION 39
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896877&extension=ts&play_token=eLpsUomC1n
+#EXTINF:-1 tvg-name="FR| LUXPLAY ACTION 4" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayaction4.png" group-title="2188" tvg-chno="18696",FR| LUXPLAY ACTION 4
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896912&extension=ts&play_token=c9dq858HHY
+#EXTINF:-1 tvg-name="FR| LUXPLAY ACTION 40" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayaction40.png" group-title="2188" tvg-chno="18732",FR| LUXPLAY ACTION 40
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896876&extension=ts&play_token=FvMI0IQ05k
+#EXTINF:-1 tvg-name="FR| LUXPLAY ACTION 41" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayaction41.png" group-title="2188" tvg-chno="18733",FR| LUXPLAY ACTION 41
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896875&extension=ts&play_token=cTqj2PXeQg
+#EXTINF:-1 tvg-name="FR| LUXPLAY ACTION 42" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayaction42.png" group-title="2188" tvg-chno="18734",FR| LUXPLAY ACTION 42
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896874&extension=ts&play_token=bvhToejGBg
+#EXTINF:-1 tvg-name="FR| LUXPLAY ACTION 43" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayaction43.png" group-title="2188" tvg-chno="18735",FR| LUXPLAY ACTION 43
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896873&extension=ts&play_token=JRqk53kQP5
+#EXTINF:-1 tvg-name="FR| LUXPLAY ACTION 5" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayaction5.png" group-title="2188" tvg-chno="18697",FR| LUXPLAY ACTION 5
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896911&extension=ts&play_token=ASJNN70NPF
+#EXTINF:-1 tvg-name="FR| LUXPLAY ACTION 6" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayaction6.png" group-title="2188" tvg-chno="18698",FR| LUXPLAY ACTION 6
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896910&extension=ts&play_token=8fuk9bEzqL
+#EXTINF:-1 tvg-name="FR| LUXPLAY ACTION 7" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayaction7.png" group-title="2188" tvg-chno="18699",FR| LUXPLAY ACTION 7
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896909&extension=ts&play_token=gF77NbfszK
+#EXTINF:-1 tvg-name="FR| LUXPLAY ACTION 8" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayaction8.png" group-title="2188" tvg-chno="18700",FR| LUXPLAY ACTION 8
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896908&extension=ts&play_token=gG1gAUZ09Q
+#EXTINF:-1 tvg-name="FR| LUXPLAY ACTION 9" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayaction9.png" group-title="2188" tvg-chno="18701",FR| LUXPLAY ACTION 9
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896907&extension=ts&play_token=rqFNpcIzjX
+#EXTINF:-1 tvg-name="FR| LUXPLAY ANIMATION 1" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayanimation1.png" group-title="2188" tvg-chno="18881",FR| LUXPLAY ANIMATION 1
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896732&extension=ts&play_token=2dyH3P1ist
+#EXTINF:-1 tvg-name="FR| LUXPLAY ANIMATION 10" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayanimation10.png" group-title="2188" tvg-chno="18890",FR| LUXPLAY ANIMATION 10
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896723&extension=ts&play_token=auxZmtL8mK
+#EXTINF:-1 tvg-name="FR| LUXPLAY ANIMATION 11" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayanimation11.png" group-title="2188" tvg-chno="18891",FR| LUXPLAY ANIMATION 11
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896722&extension=ts&play_token=MEZsidGC36
+#EXTINF:-1 tvg-name="FR| LUXPLAY ANIMATION 12" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayanimation12.png" group-title="2188" tvg-chno="18892",FR| LUXPLAY ANIMATION 12
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896721&extension=ts&play_token=i7MaXFhms2
+#EXTINF:-1 tvg-name="FR| LUXPLAY ANIMATION 13" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayanimation13.png" group-title="2188" tvg-chno="18893",FR| LUXPLAY ANIMATION 13
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896720&extension=ts&play_token=X3ed8pl4aN
+#EXTINF:-1 tvg-name="FR| LUXPLAY ANIMATION 14" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayanimation14.png" group-title="2188" tvg-chno="18894",FR| LUXPLAY ANIMATION 14
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896719&extension=ts&play_token=05FTcCH2YN
+#EXTINF:-1 tvg-name="FR| LUXPLAY ANIMATION 15" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayanimation15.png" group-title="2188" tvg-chno="18895",FR| LUXPLAY ANIMATION 15
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896718&extension=ts&play_token=KpebUPLEEV
+#EXTINF:-1 tvg-name="FR| LUXPLAY ANIMATION 16" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayanimation16.png" group-title="2188" tvg-chno="18896",FR| LUXPLAY ANIMATION 16
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896717&extension=ts&play_token=1DgJEbTXJL
+#EXTINF:-1 tvg-name="FR| LUXPLAY ANIMATION 17" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayanimation17.png" group-title="2188" tvg-chno="18897",FR| LUXPLAY ANIMATION 17
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896716&extension=ts&play_token=vQlOdVXQuQ
+#EXTINF:-1 tvg-name="FR| LUXPLAY ANIMATION 18" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayanimation18.png" group-title="2188" tvg-chno="18898",FR| LUXPLAY ANIMATION 18
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896715&extension=ts&play_token=bRpi83XM9k
+#EXTINF:-1 tvg-name="FR| LUXPLAY ANIMATION 19" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayanimation19.png" group-title="2188" tvg-chno="18899",FR| LUXPLAY ANIMATION 19
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896714&extension=ts&play_token=KhF0A5HggI
+#EXTINF:-1 tvg-name="FR| LUXPLAY ANIMATION 2" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayanimation2.png" group-title="2188" tvg-chno="18882",FR| LUXPLAY ANIMATION 2
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896731&extension=ts&play_token=x0fvLRZRt1
+#EXTINF:-1 tvg-name="FR| LUXPLAY ANIMATION 20" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayanimation20.png" group-title="2188" tvg-chno="18900",FR| LUXPLAY ANIMATION 20
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896713&extension=ts&play_token=h1v450i5VW
+#EXTINF:-1 tvg-name="FR| LUXPLAY ANIMATION 3" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayanimation3.png" group-title="2188" tvg-chno="18883",FR| LUXPLAY ANIMATION 3
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896730&extension=ts&play_token=Ewb5uClAUy
+#EXTINF:-1 tvg-name="FR| LUXPLAY ANIMATION 4" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayanimation4.png" group-title="2188" tvg-chno="18884",FR| LUXPLAY ANIMATION 4
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896729&extension=ts&play_token=qOgeSfhYMV
+#EXTINF:-1 tvg-name="FR| LUXPLAY ANIMATION 5" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayanimation5.png" group-title="2188" tvg-chno="18885",FR| LUXPLAY ANIMATION 5
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896728&extension=ts&play_token=dkSQprdghX
+#EXTINF:-1 tvg-name="FR| LUXPLAY ANIMATION 6" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayanimation6.png" group-title="2188" tvg-chno="18886",FR| LUXPLAY ANIMATION 6
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896727&extension=ts&play_token=WRnUdsQHFs
+#EXTINF:-1 tvg-name="FR| LUXPLAY ANIMATION 7" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayanimation7.png" group-title="2188" tvg-chno="18887",FR| LUXPLAY ANIMATION 7
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896726&extension=ts&play_token=swfGHCxvle
+#EXTINF:-1 tvg-name="FR| LUXPLAY ANIMATION 8" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayanimation8.png" group-title="2188" tvg-chno="18888",FR| LUXPLAY ANIMATION 8
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896725&extension=ts&play_token=CNmJLpv6Iw
+#EXTINF:-1 tvg-name="FR| LUXPLAY ANIMATION 9" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayanimation9.png" group-title="2188" tvg-chno="18889",FR| LUXPLAY ANIMATION 9
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896724&extension=ts&play_token=28kesBPLwi
+#EXTINF:-1 tvg-name="FR| LUXPLAY COMEDY 1" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayComedy1.png" group-title="2188" tvg-chno="18737",FR| LUXPLAY COMEDY 1
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896872&extension=ts&play_token=48WBmmO2CZ
+#EXTINF:-1 tvg-name="FR| LUXPLAY COMEDY 10" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayComedy10.png" group-title="2188" tvg-chno="18746",FR| LUXPLAY COMEDY 10
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896863&extension=ts&play_token=MBtD102fZp
+#EXTINF:-1 tvg-name="FR| LUXPLAY COMEDY 11" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayComedy11.png" group-title="2188" tvg-chno="18747",FR| LUXPLAY COMEDY 11
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896862&extension=ts&play_token=NlEpSs4yqw
+#EXTINF:-1 tvg-name="FR| LUXPLAY COMEDY 12" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayComedy12.png" group-title="2188" tvg-chno="18748",FR| LUXPLAY COMEDY 12
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896861&extension=ts&play_token=wpJobnrivh
+#EXTINF:-1 tvg-name="FR| LUXPLAY COMEDY 13" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayComedy13.png" group-title="2188" tvg-chno="18749",FR| LUXPLAY COMEDY 13
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896860&extension=ts&play_token=TuntHS1l48
+#EXTINF:-1 tvg-name="FR| LUXPLAY COMEDY 14" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayComedy14.png" group-title="2188" tvg-chno="18750",FR| LUXPLAY COMEDY 14
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896859&extension=ts&play_token=5HnyV8F0VD
+#EXTINF:-1 tvg-name="FR| LUXPLAY COMEDY 15" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayComedy15.png" group-title="2188" tvg-chno="18751",FR| LUXPLAY COMEDY 15
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896858&extension=ts&play_token=gHAoJTShyp
+#EXTINF:-1 tvg-name="FR| LUXPLAY COMEDY 16" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayComedy16.png" group-title="2188" tvg-chno="18752",FR| LUXPLAY COMEDY 16
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896857&extension=ts&play_token=L6TnGtxkNn
+#EXTINF:-1 tvg-name="FR| LUXPLAY COMEDY 17" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayComedy17.png" group-title="2188" tvg-chno="18753",FR| LUXPLAY COMEDY 17
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896856&extension=ts&play_token=WOuVewvEhW
+#EXTINF:-1 tvg-name="FR| LUXPLAY COMEDY 18" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayComedy18.png" group-title="2188" tvg-chno="18754",FR| LUXPLAY COMEDY 18
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896855&extension=ts&play_token=QEyqrXhJtl
+#EXTINF:-1 tvg-name="FR| LUXPLAY COMEDY 19" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayComedy19.png" group-title="2188" tvg-chno="18755",FR| LUXPLAY COMEDY 19
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896854&extension=ts&play_token=KYpn9lgPzu
+#EXTINF:-1 tvg-name="FR| LUXPLAY COMEDY 2" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayComedy2.png" group-title="2188" tvg-chno="18738",FR| LUXPLAY COMEDY 2
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896871&extension=ts&play_token=KuWALe9Zje
+#EXTINF:-1 tvg-name="FR| LUXPLAY COMEDY 20" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayComedy20.png" group-title="2188" tvg-chno="18756",FR| LUXPLAY COMEDY 20
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896853&extension=ts&play_token=JTaN0L5goa
+#EXTINF:-1 tvg-name="FR| LUXPLAY COMEDY 21" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayComedy21.png" group-title="2188" tvg-chno="18757",FR| LUXPLAY COMEDY 21
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896852&extension=ts&play_token=tcBtW9bcag
+#EXTINF:-1 tvg-name="FR| LUXPLAY COMEDY 22" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayComedy22.png" group-title="2188" tvg-chno="18758",FR| LUXPLAY COMEDY 22
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896851&extension=ts&play_token=R6cvItmWlp
+#EXTINF:-1 tvg-name="FR| LUXPLAY COMEDY 23" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayComedy23.png" group-title="2188" tvg-chno="18759",FR| LUXPLAY COMEDY 23
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896850&extension=ts&play_token=MsKZ1b4Yro
+#EXTINF:-1 tvg-name="FR| LUXPLAY COMEDY 24" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayComedy24.png" group-title="2188" tvg-chno="18760",FR| LUXPLAY COMEDY 24
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896849&extension=ts&play_token=e7vC0seWNs
+#EXTINF:-1 tvg-name="FR| LUXPLAY COMEDY 25" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayComedy25.png" group-title="2188" tvg-chno="18761",FR| LUXPLAY COMEDY 25
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896848&extension=ts&play_token=B8gVrA85Xt
+#EXTINF:-1 tvg-name="FR| LUXPLAY COMEDY 26" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayComedy26.png" group-title="2188" tvg-chno="18762",FR| LUXPLAY COMEDY 26
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896847&extension=ts&play_token=n9VXkeOnj4
+#EXTINF:-1 tvg-name="FR| LUXPLAY COMEDY 27" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayComedy27.png" group-title="2188" tvg-chno="18763",FR| LUXPLAY COMEDY 27
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896846&extension=ts&play_token=zw7k7yMGCy
+#EXTINF:-1 tvg-name="FR| LUXPLAY COMEDY 28" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayComedy28.png" group-title="2188" tvg-chno="18764",FR| LUXPLAY COMEDY 28
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896845&extension=ts&play_token=EufuA52ss5
+#EXTINF:-1 tvg-name="FR| LUXPLAY COMEDY 29" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayComedy29.png" group-title="2188" tvg-chno="18765",FR| LUXPLAY COMEDY 29
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896844&extension=ts&play_token=IqRrBHNI8s
+#EXTINF:-1 tvg-name="FR| LUXPLAY COMEDY 3" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayComedy3.png" group-title="2188" tvg-chno="18739",FR| LUXPLAY COMEDY 3
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896870&extension=ts&play_token=1Xg6DswMDK
+#EXTINF:-1 tvg-name="FR| LUXPLAY COMEDY 30" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayComedy30.png" group-title="2188" tvg-chno="18766",FR| LUXPLAY COMEDY 30
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896843&extension=ts&play_token=LtuG1xW71T
+#EXTINF:-1 tvg-name="FR| LUXPLAY COMEDY 31" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayComedy31.png" group-title="2188" tvg-chno="18767",FR| LUXPLAY COMEDY 31
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896842&extension=ts&play_token=bkg9DfzCxh
+#EXTINF:-1 tvg-name="FR| LUXPLAY COMEDY 32" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayComedy32.png" group-title="2188" tvg-chno="18768",FR| LUXPLAY COMEDY 32
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896841&extension=ts&play_token=lD3mWUY7iQ
+#EXTINF:-1 tvg-name="FR| LUXPLAY COMEDY 33" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayComedy33.png" group-title="2188" tvg-chno="18769",FR| LUXPLAY COMEDY 33
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896840&extension=ts&play_token=KP87QATUrf
+#EXTINF:-1 tvg-name="FR| LUXPLAY COMEDY 34" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayComedy34.png" group-title="2188" tvg-chno="18770",FR| LUXPLAY COMEDY 34
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896839&extension=ts&play_token=y0AhwhOGey
+#EXTINF:-1 tvg-name="FR| LUXPLAY COMEDY 35" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayComedy35.png" group-title="2188" tvg-chno="18771",FR| LUXPLAY COMEDY 35
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896838&extension=ts&play_token=fZMmTb3wDA
+#EXTINF:-1 tvg-name="FR| LUXPLAY COMEDY 36" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayComedy36.png" group-title="2188" tvg-chno="18772",FR| LUXPLAY COMEDY 36
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896837&extension=ts&play_token=pRsbSEcWay
+#EXTINF:-1 tvg-name="FR| LUXPLAY COMEDY 37" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayComedy37.png" group-title="2188" tvg-chno="18773",FR| LUXPLAY COMEDY 37
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896836&extension=ts&play_token=ESmmxA7pn0
+#EXTINF:-1 tvg-name="FR| LUXPLAY COMEDY 38" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayComedy38.png" group-title="2188" tvg-chno="18774",FR| LUXPLAY COMEDY 38
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896835&extension=ts&play_token=OVwrftZJjs
+#EXTINF:-1 tvg-name="FR| LUXPLAY COMEDY 4" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayComedy4.png" group-title="2188" tvg-chno="18740",FR| LUXPLAY COMEDY 4
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896869&extension=ts&play_token=9G9OWxqBSe
+#EXTINF:-1 tvg-name="FR| LUXPLAY COMEDY 5" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayComedy5.png" group-title="2188" tvg-chno="18741",FR| LUXPLAY COMEDY 5
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896868&extension=ts&play_token=9rUouo1ZkS
+#EXTINF:-1 tvg-name="FR| LUXPLAY COMEDY 6" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayComedy6.png" group-title="2188" tvg-chno="18742",FR| LUXPLAY COMEDY 6
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896867&extension=ts&play_token=7FlU3UrCit
+#EXTINF:-1 tvg-name="FR| LUXPLAY COMEDY 7" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayComedy7.png" group-title="2188" tvg-chno="18743",FR| LUXPLAY COMEDY 7
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896866&extension=ts&play_token=8bC2bdrgT7
+#EXTINF:-1 tvg-name="FR| LUXPLAY COMEDY 8" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayComedy8.png" group-title="2188" tvg-chno="18744",FR| LUXPLAY COMEDY 8
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896865&extension=ts&play_token=NoOj0TMe7K
+#EXTINF:-1 tvg-name="FR| LUXPLAY COMEDY 9" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayComedy9.png" group-title="2188" tvg-chno="18745",FR| LUXPLAY COMEDY 9
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896864&extension=ts&play_token=wAwDCHwz16
+#EXTINF:-1 tvg-name="FR| LUXPLAY FAMILLE 1" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayFamille1.png" group-title="2188" tvg-chno="18831",FR| LUXPLAY FAMILLE 1
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896781&extension=ts&play_token=YfNLzEeKJU
+#EXTINF:-1 tvg-name="FR| LUXPLAY FAMILLE 10" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayFamille10.png" group-title="2188" tvg-chno="18840",FR| LUXPLAY FAMILLE 10
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896772&extension=ts&play_token=FAF7bjaFKg
+#EXTINF:-1 tvg-name="FR| LUXPLAY FAMILLE 11" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayFamille11.png" group-title="2188" tvg-chno="18841",FR| LUXPLAY FAMILLE 11
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896771&extension=ts&play_token=sHxC211HAJ
+#EXTINF:-1 tvg-name="FR| LUXPLAY FAMILLE 12" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayFamille12.png" group-title="2188" tvg-chno="18842",FR| LUXPLAY FAMILLE 12
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896770&extension=ts&play_token=Mptdb82vA5
+#EXTINF:-1 tvg-name="FR| LUXPLAY FAMILLE 13" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayFamille13.png" group-title="2188" tvg-chno="18843",FR| LUXPLAY FAMILLE 13
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896769&extension=ts&play_token=4tvkWYSfo4
+#EXTINF:-1 tvg-name="FR| LUXPLAY FAMILLE 14" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayFamille14.png" group-title="2188" tvg-chno="18844",FR| LUXPLAY FAMILLE 14
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896768&extension=ts&play_token=PmKmuBr0je
+#EXTINF:-1 tvg-name="FR| LUXPLAY FAMILLE 15" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayFamille15.png" group-title="2188" tvg-chno="18845",FR| LUXPLAY FAMILLE 15
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896767&extension=ts&play_token=GmwX4iHq45
+#EXTINF:-1 tvg-name="FR| LUXPLAY FAMILLE 16" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayFamille16.png" group-title="2188" tvg-chno="18846",FR| LUXPLAY FAMILLE 16
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896766&extension=ts&play_token=9QwkSePaHX
+#EXTINF:-1 tvg-name="FR| LUXPLAY FAMILLE 17" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayFamille17.png" group-title="2188" tvg-chno="18847",FR| LUXPLAY FAMILLE 17
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896765&extension=ts&play_token=PGPFkgEyos
+#EXTINF:-1 tvg-name="FR| LUXPLAY FAMILLE 18" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayFamille18.png" group-title="2188" tvg-chno="18848",FR| LUXPLAY FAMILLE 18
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896764&extension=ts&play_token=d8FCmF1EMX
+#EXTINF:-1 tvg-name="FR| LUXPLAY FAMILLE 19" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayFamille19.png" group-title="2188" tvg-chno="18849",FR| LUXPLAY FAMILLE 19
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896763&extension=ts&play_token=plxr272BOb
+#EXTINF:-1 tvg-name="FR| LUXPLAY FAMILLE 2" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayFamille2.png" group-title="2188" tvg-chno="18832",FR| LUXPLAY FAMILLE 2
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896780&extension=ts&play_token=FDbkUF9vOk
+#EXTINF:-1 tvg-name="FR| LUXPLAY FAMILLE 20" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayFamille20.png" group-title="2188" tvg-chno="18850",FR| LUXPLAY FAMILLE 20
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896762&extension=ts&play_token=wx8nOEiqlp
+#EXTINF:-1 tvg-name="FR| LUXPLAY FAMILLE 21" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayFamille21.png" group-title="2188" tvg-chno="18851",FR| LUXPLAY FAMILLE 21
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896761&extension=ts&play_token=QX404AUpF0
+#EXTINF:-1 tvg-name="FR| LUXPLAY FAMILLE 22" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayFamille22.png" group-title="2188" tvg-chno="18852",FR| LUXPLAY FAMILLE 22
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896760&extension=ts&play_token=vOca3uprG0
+#EXTINF:-1 tvg-name="FR| LUXPLAY FAMILLE 23" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayFamille23.png" group-title="2188" tvg-chno="18853",FR| LUXPLAY FAMILLE 23
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896759&extension=ts&play_token=wnBT6dyZQE
+#EXTINF:-1 tvg-name="FR| LUXPLAY FAMILLE 24" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayFamille24.png" group-title="2188" tvg-chno="18854",FR| LUXPLAY FAMILLE 24
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896758&extension=ts&play_token=mr4fBNzI0J
+#EXTINF:-1 tvg-name="FR| LUXPLAY FAMILLE 3" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayFamille3.png" group-title="2188" tvg-chno="18833",FR| LUXPLAY FAMILLE 3
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896779&extension=ts&play_token=kZnyc4oNaf
+#EXTINF:-1 tvg-name="FR| LUXPLAY FAMILLE 4" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayFamille4.png" group-title="2188" tvg-chno="18834",FR| LUXPLAY FAMILLE 4
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896778&extension=ts&play_token=tVBJw0PmGC
+#EXTINF:-1 tvg-name="FR| LUXPLAY FAMILLE 5" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayFamille5.png" group-title="2188" tvg-chno="18835",FR| LUXPLAY FAMILLE 5
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896777&extension=ts&play_token=U02WEARkm6
+#EXTINF:-1 tvg-name="FR| LUXPLAY FAMILLE 6" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayFamille6.png" group-title="2188" tvg-chno="18836",FR| LUXPLAY FAMILLE 6
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896776&extension=ts&play_token=SclofzzA7y
+#EXTINF:-1 tvg-name="FR| LUXPLAY FAMILLE 7" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayFamille7.png" group-title="2188" tvg-chno="18837",FR| LUXPLAY FAMILLE 7
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896775&extension=ts&play_token=ReAWVGyk05
+#EXTINF:-1 tvg-name="FR| LUXPLAY FAMILLE 8" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayFamille8.png" group-title="2188" tvg-chno="18838",FR| LUXPLAY FAMILLE 8
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896774&extension=ts&play_token=1sFDnEX7Nv
+#EXTINF:-1 tvg-name="FR| LUXPLAY FAMILLE 9" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayFamille9.png" group-title="2188" tvg-chno="18839",FR| LUXPLAY FAMILLE 9
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896773&extension=ts&play_token=4jCYSIvWiI
+#EXTINF:-1 tvg-name="FR| LUXPLAY GUERRE 1" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayGuerre1.png" group-title="2188" tvg-chno="18776",FR| LUXPLAY GUERRE 1
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896797&extension=ts&play_token=M0IqsB9ZMk
+#EXTINF:-1 tvg-name="FR| LUXPLAY GUERRE 10" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayGuerre10.png" group-title="2188" tvg-chno="18785",FR| LUXPLAY GUERRE 10
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896788&extension=ts&play_token=sU8wvo5bhS
+#EXTINF:-1 tvg-name="FR| LUXPLAY GUERRE 11" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayGuerre11.png" group-title="2188" tvg-chno="18786",FR| LUXPLAY GUERRE 11
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896787&extension=ts&play_token=Mta0JLUfkv
+#EXTINF:-1 tvg-name="FR| LUXPLAY GUERRE 12" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayGuerre12.png" group-title="2188" tvg-chno="18787",FR| LUXPLAY GUERRE 12
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896786&extension=ts&play_token=bw2AadcGg2
+#EXTINF:-1 tvg-name="FR| LUXPLAY GUERRE 13" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayGuerre13.png" group-title="2188" tvg-chno="18788",FR| LUXPLAY GUERRE 13
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896785&extension=ts&play_token=EfQplkCL21
+#EXTINF:-1 tvg-name="FR| LUXPLAY GUERRE 14" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayGuerre14.png" group-title="2188" tvg-chno="18789",FR| LUXPLAY GUERRE 14
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896784&extension=ts&play_token=6HbeiMzIdj
+#EXTINF:-1 tvg-name="FR| LUXPLAY GUERRE 15" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayGuerre15.png" group-title="2188" tvg-chno="18790",FR| LUXPLAY GUERRE 15
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896783&extension=ts&play_token=3ta9FMSFu8
+#EXTINF:-1 tvg-name="FR| LUXPLAY GUERRE 16" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayGuerre16.png" group-title="2188" tvg-chno="18791",FR| LUXPLAY GUERRE 16
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896782&extension=ts&play_token=E8PU4aTmii
+#EXTINF:-1 tvg-name="FR| LUXPLAY GUERRE 2" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayGuerre2.png" group-title="2188" tvg-chno="18777",FR| LUXPLAY GUERRE 2
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896796&extension=ts&play_token=bs0gO8nt7o
+#EXTINF:-1 tvg-name="FR| LUXPLAY GUERRE 3" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayGuerre3.png" group-title="2188" tvg-chno="18778",FR| LUXPLAY GUERRE 3
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896795&extension=ts&play_token=dc0M5WBSZg
+#EXTINF:-1 tvg-name="FR| LUXPLAY GUERRE 4" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayGuerre4.png" group-title="2188" tvg-chno="18779",FR| LUXPLAY GUERRE 4
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896794&extension=ts&play_token=eKTRh72huC
+#EXTINF:-1 tvg-name="FR| LUXPLAY GUERRE 5" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayGuerre5.png" group-title="2188" tvg-chno="18780",FR| LUXPLAY GUERRE 5
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896792&extension=ts&play_token=4rynm7Tfas
+#EXTINF:-1 tvg-name="FR| LUXPLAY GUERRE 6" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayGuerre6.png" group-title="2188" tvg-chno="18781",FR| LUXPLAY GUERRE 6
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896791&extension=ts&play_token=5PWPoo3QCi
+#EXTINF:-1 tvg-name="FR| LUXPLAY GUERRE 7" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayGuerre7.png" group-title="2188" tvg-chno="18782",FR| LUXPLAY GUERRE 7
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896790&extension=ts&play_token=SlTdC4meex
+#EXTINF:-1 tvg-name="FR| LUXPLAY GUERRE 8" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayGuerre8.png" group-title="2188" tvg-chno="18783",FR| LUXPLAY GUERRE 8
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896789&extension=ts&play_token=GOTHTVodj9
+#EXTINF:-1 tvg-name="FR| LUXPLAY GUERRE 9" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayGuerre9.png" group-title="2188" tvg-chno="18784",FR| LUXPLAY GUERRE 9
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896793&extension=ts&play_token=OPQY1iahs4
+#EXTINF:-1 tvg-name="FR| LUXPLAY HORREUR 1" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayHorror1.png" group-title="2188" tvg-chno="18793",FR| LUXPLAY HORREUR 1
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896834&extension=ts&play_token=wnmko3r62w
+#EXTINF:-1 tvg-name="FR| LUXPLAY HORREUR 10" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayHorror10.png" group-title="2188" tvg-chno="18802",FR| LUXPLAY HORREUR 10
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896825&extension=ts&play_token=2DYHVUVyVU
+#EXTINF:-1 tvg-name="FR| LUXPLAY HORREUR 11" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayHorror11.png" group-title="2188" tvg-chno="18803",FR| LUXPLAY HORREUR 11
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896824&extension=ts&play_token=M9vVuMYdhK
+#EXTINF:-1 tvg-name="FR| LUXPLAY HORREUR 12" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayHorror12.png" group-title="2188" tvg-chno="18804",FR| LUXPLAY HORREUR 12
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896823&extension=ts&play_token=mkD1IDE1E0
+#EXTINF:-1 tvg-name="FR| LUXPLAY HORREUR 13" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayHorror13.png" group-title="2188" tvg-chno="18805",FR| LUXPLAY HORREUR 13
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896822&extension=ts&play_token=yYJwJepS7w
+#EXTINF:-1 tvg-name="FR| LUXPLAY HORREUR 14" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayHorror14.png" group-title="2188" tvg-chno="18806",FR| LUXPLAY HORREUR 14
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896821&extension=ts&play_token=RS4ZOzvMfg
+#EXTINF:-1 tvg-name="FR| LUXPLAY HORREUR 15" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayHorror15.png" group-title="2188" tvg-chno="18807",FR| LUXPLAY HORREUR 15
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896820&extension=ts&play_token=1Z9LpJtGrr
+#EXTINF:-1 tvg-name="FR| LUXPLAY HORREUR 16" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayHorror16.png" group-title="2188" tvg-chno="18808",FR| LUXPLAY HORREUR 16
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896819&extension=ts&play_token=aiYglIgq3B
+#EXTINF:-1 tvg-name="FR| LUXPLAY HORREUR 17" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayHorror17.png" group-title="2188" tvg-chno="18809",FR| LUXPLAY HORREUR 17
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896818&extension=ts&play_token=jOMpqfD0Xh
+#EXTINF:-1 tvg-name="FR| LUXPLAY HORREUR 18" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayHorror18.png" group-title="2188" tvg-chno="18810",FR| LUXPLAY HORREUR 18
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896817&extension=ts&play_token=yCm7avxmaN
+#EXTINF:-1 tvg-name="FR| LUXPLAY HORREUR 19" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayHorror19.png" group-title="2188" tvg-chno="18811",FR| LUXPLAY HORREUR 19
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896816&extension=ts&play_token=PnZwefIp55
+#EXTINF:-1 tvg-name="FR| LUXPLAY HORREUR 2" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayHorror2.png" group-title="2188" tvg-chno="18794",FR| LUXPLAY HORREUR 2
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896833&extension=ts&play_token=bcmK0IDhO0
+#EXTINF:-1 tvg-name="FR| LUXPLAY HORREUR 20" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayHorror20.png" group-title="2188" tvg-chno="18812",FR| LUXPLAY HORREUR 20
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896815&extension=ts&play_token=KnIX8Z48An
+#EXTINF:-1 tvg-name="FR| LUXPLAY HORREUR 21" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayHorror21.png" group-title="2188" tvg-chno="18813",FR| LUXPLAY HORREUR 21
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896814&extension=ts&play_token=59Vp1I3B4N
+#EXTINF:-1 tvg-name="FR| LUXPLAY HORREUR 22" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayHorror22.png" group-title="2188" tvg-chno="18814",FR| LUXPLAY HORREUR 22
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896813&extension=ts&play_token=4QITwNkDOq
+#EXTINF:-1 tvg-name="FR| LUXPLAY HORREUR 23" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayHorror23.png" group-title="2188" tvg-chno="18815",FR| LUXPLAY HORREUR 23
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896812&extension=ts&play_token=Y8WmvkGrin
+#EXTINF:-1 tvg-name="FR| LUXPLAY HORREUR 24" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayHorror24.png" group-title="2188" tvg-chno="18816",FR| LUXPLAY HORREUR 24
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896811&extension=ts&play_token=X74bfQQ6GD
+#EXTINF:-1 tvg-name="FR| LUXPLAY HORREUR 25" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayHorror25.png" group-title="2188" tvg-chno="18817",FR| LUXPLAY HORREUR 25
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896809&extension=ts&play_token=fOnW3d0jGR
+#EXTINF:-1 tvg-name="FR| LUXPLAY HORREUR 26" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayHorror26.png" group-title="2188" tvg-chno="18818",FR| LUXPLAY HORREUR 26
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896808&extension=ts&play_token=r3mbj4azw9
+#EXTINF:-1 tvg-name="FR| LUXPLAY HORREUR 27" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayHorror27.png" group-title="2188" tvg-chno="18819",FR| LUXPLAY HORREUR 27
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896807&extension=ts&play_token=25ZHmfv6C4
+#EXTINF:-1 tvg-name="FR| LUXPLAY HORREUR 28" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayHorror28.png" group-title="2188" tvg-chno="18820",FR| LUXPLAY HORREUR 28
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896806&extension=ts&play_token=ddQGRxspOW
+#EXTINF:-1 tvg-name="FR| LUXPLAY HORREUR 29" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayHorror29.png" group-title="2188" tvg-chno="18821",FR| LUXPLAY HORREUR 29
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896810&extension=ts&play_token=DDirOyqMG1
+#EXTINF:-1 tvg-name="FR| LUXPLAY HORREUR 3" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayHorror3.png" group-title="2188" tvg-chno="18795",FR| LUXPLAY HORREUR 3
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896832&extension=ts&play_token=eqfAaGApdo
+#EXTINF:-1 tvg-name="FR| LUXPLAY HORREUR 30" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayHorror30.png" group-title="2188" tvg-chno="18822",FR| LUXPLAY HORREUR 30
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896805&extension=ts&play_token=cfSzy0jVFL
+#EXTINF:-1 tvg-name="FR| LUXPLAY HORREUR 31" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayHorror31.png" group-title="2188" tvg-chno="18823",FR| LUXPLAY HORREUR 31
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896804&extension=ts&play_token=uPC5zyNcHr
+#EXTINF:-1 tvg-name="FR| LUXPLAY HORREUR 32" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayHorror32.png" group-title="2188" tvg-chno="18824",FR| LUXPLAY HORREUR 32
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896803&extension=ts&play_token=TAGkIIocPd
+#EXTINF:-1 tvg-name="FR| LUXPLAY HORREUR 33" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayHorror33.png" group-title="2188" tvg-chno="18825",FR| LUXPLAY HORREUR 33
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896802&extension=ts&play_token=dJaiBXcBAk
+#EXTINF:-1 tvg-name="FR| LUXPLAY HORREUR 34" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayHorror34.png" group-title="2188" tvg-chno="18826",FR| LUXPLAY HORREUR 34
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896801&extension=ts&play_token=7JXwcpsUxh
+#EXTINF:-1 tvg-name="FR| LUXPLAY HORREUR 35" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayHorror35.png" group-title="2188" tvg-chno="18827",FR| LUXPLAY HORREUR 35
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896800&extension=ts&play_token=XrTyLBze02
+#EXTINF:-1 tvg-name="FR| LUXPLAY HORREUR 36" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayHorror36.png" group-title="2188" tvg-chno="18828",FR| LUXPLAY HORREUR 36
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896799&extension=ts&play_token=l4eaQLo0lm
+#EXTINF:-1 tvg-name="FR| LUXPLAY HORREUR 37" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayHorror37.png" group-title="2188" tvg-chno="18829",FR| LUXPLAY HORREUR 37
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896798&extension=ts&play_token=NvVpp53g34
+#EXTINF:-1 tvg-name="FR| LUXPLAY HORREUR 4" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayHorror4.png" group-title="2188" tvg-chno="18796",FR| LUXPLAY HORREUR 4
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896831&extension=ts&play_token=2HJDA02wMe
+#EXTINF:-1 tvg-name="FR| LUXPLAY HORREUR 5" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayHorror5.png" group-title="2188" tvg-chno="18797",FR| LUXPLAY HORREUR 5
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896830&extension=ts&play_token=LqfEPZ0GRQ
+#EXTINF:-1 tvg-name="FR| LUXPLAY HORREUR 6" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayHorror6.png" group-title="2188" tvg-chno="18798",FR| LUXPLAY HORREUR 6
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896829&extension=ts&play_token=Nb951EOt56
+#EXTINF:-1 tvg-name="FR| LUXPLAY HORREUR 7" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayHorror7.png" group-title="2188" tvg-chno="18799",FR| LUXPLAY HORREUR 7
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896828&extension=ts&play_token=Uyld4X53Kc
+#EXTINF:-1 tvg-name="FR| LUXPLAY HORREUR 8" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayHorror8.png" group-title="2188" tvg-chno="18800",FR| LUXPLAY HORREUR 8
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896827&extension=ts&play_token=Vn2N5nVyj0
+#EXTINF:-1 tvg-name="FR| LUXPLAY HORREUR 9" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayHorror9.png" group-title="2188" tvg-chno="18801",FR| LUXPLAY HORREUR 9
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896826&extension=ts&play_token=2m1hkWbJGs
+#EXTINF:-1 tvg-id="LuxeTV.gr" tvg-name="GR| LUXE.TV HD" tvg-logo="http://103.176.90.95/images/307776.png" group-title="1613" tvg-chno="31417",GR| LUXE.TV HD
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=307776&extension=ts&play_token=aCjdZj5y6a
+#EXTINF:-1 tvg-id="DeluxeMusic.de" tvg-name="JOYN| DELUXE MUSIC ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/1929408.png" group-title="2272" tvg-chno="23539",JOYN| DELUXE MUSIC ᴿᴬᵂ
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1929408&extension=ts&play_token=30BZqViRDI
+#EXTINF:-1 tvg-name="LUX| CHAMBER TV HD" tvg-logo="http://103.176.90.95/images/816651.png" group-title="1461" tvg-chno="29153",LUX| CHAMBER TV HD
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=816651&extension=ts&play_token=dGBRV513dd
+#EXTINF:-1 tvg-name="LUX| ELDORADIO TV" tvg-logo="http://103.176.90.95/images/818044.png" group-title="1461" tvg-chno="29154",LUX| ELDORADIO TV
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=818044&extension=ts&play_token=8RrU2cSM4c
+#EXTINF:-1 tvg-name="LUX| RTL 2 TELE LETZEBURG" tvg-logo="http://103.176.90.95/images/818043.png" group-title="1461" tvg-chno="29150",LUX| RTL 2 TELE LETZEBURG
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=818043&extension=ts&play_token=IAvMPJQzrd
+#EXTINF:-1 tvg-name="LUX| RTL HD" tvg-logo="http://103.176.90.95/images/816650.png" group-title="2458" tvg-chno="250",LUX| RTL HD
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=2077024&extension=ts&play_token=mxmaGN0eab
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="LUX| RTL HD" tvg-logo="http://103.176.90.95/images/816650.png" group-title="1461" tvg-chno="29149",LUX| RTL HD
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=816650&extension=ts&play_token=sD4FZzpGMY
+#EXTINF:-1 tvg-name="LUX| RTL TODAY HD" tvg-logo="http://103.176.90.95/images/868840.png" group-title="1461" tvg-chno="29151",LUX| RTL TODAY HD
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=868840&extension=ts&play_token=tSTBVnERjt
+#EXTINF:-1 tvg-id="TVLux.be" tvg-name="LUX| TV LUX HD" tvg-logo="http://103.176.90.95/images/816649.png" group-title="1461" tvg-chno="29152",LUX| TV LUX HD
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=816649&extension=ts&play_token=EHwlfANeEo
+#EXTINF:-1 tvg-name="OD| LUXE.TV ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/LUXE.png" group-title="1980" tvg-chno="28122",OD| LUXE.TV ᴴᴰ
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=2083831&extension=ts&play_token=ja46IPFNBS
+#EXTINF:-1 tvg-name="UFC 08 : LUX 056 start:2025-11-22 03:55:00 stop:2025-11-22 09:00:00" tvg-logo="http://103.176.90.95/images/1395679.png" group-title="1592" tvg-chno="15284",UFC 08 : LUX 056 start:2025-11-22 03:55:00 stop:2025-11-22 09:00:00
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1395679&extension=ts&play_token=9AJZLVlc4E
+#EXTINF:-1 tvg-name="##### LUXEMBURG #####" tvg-logo="http://51.158.145.100/picons/logos/BELGIUM/816652.png" group-title="1159" tvg-chno="29148",##### LUXEMBURG #####
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=816652&extension=ts&play_token=OJHHzlQzSf
+#EXTINF:-1 tvg-name="####### LUXPLAY ACTION #######" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayvip.png" group-title="2188" tvg-chno="18692",####### LUXPLAY ACTION #######
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896707&extension=ts&play_token=DfDWfx3jWb
+#EXTINF:-1 tvg-name="####### LUXPLAY ANIMATION #######" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayvip.png" group-title="2188" tvg-chno="18855",####### LUXPLAY ANIMATION #######
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896712&extension=ts&play_token=KoxmgW37lw
+#EXTINF:-1 tvg-name="####### LUXPLAY COMEDY #######" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayvip.png" group-title="2188" tvg-chno="18736",####### LUXPLAY COMEDY #######
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896708&extension=ts&play_token=A9liKnK5tP
+#EXTINF:-1 tvg-name="####### LUXPLAY FAMILLE #######" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayvip.png" group-title="2188" tvg-chno="18830",####### LUXPLAY FAMILLE #######
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896711&extension=ts&play_token=uBU9YdPGPu
+#EXTINF:-1 tvg-name="####### LUXPLAY GUERRE #######" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayvip.png" group-title="2188" tvg-chno="18775",####### LUXPLAY GUERRE #######
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896710&extension=ts&play_token=OJYgKKhPtS
+#EXTINF:-1 tvg-name="####### LUXPLAY HORROR #######" tvg-logo="http://51.158.145.100/picons/logos/LUXPLAY/luxplayvip.png" group-title="2188" tvg-chno="18792",####### LUXPLAY HORROR #######
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1896709&extension=ts&play_token=KKFLGyUQPm
+#EXTINF:-1 tvg-name="(FLSP 920) | flobikes: 2026 Skoda Tour du Luxembourg (Skoda Tour du Luxembourg) (2026-09-16 04:56:10)" tvg-logo="http://51.158.145.100/picons/logos/USA/flo.png" group-title="1334" tvg-chno="6757",(FLSP 920) | flobikes: 2026 Skoda Tour du Luxembourg (Skoda Tour du Luxembourg) (2026-09-16 04:56:10)
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1960342&extension=ts&play_token=6EdAVzWzWE
+#EXTINF:-1 tvg-id="BonGusto.de" tvg-name="DE| BON GUSTO HD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/BONGUSTO.png" group-title="955" tvg-chno="22430",DE| BON GUSTO HD
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=411467&extension=ts&play_token=FvQSPxAxdF
+#EXTINF:-1 tvg-name="GO| GUSTO TV" tvg-logo="http://51.158.145.100/picons/logos/USA/1931056.png" group-title="2275" tvg-chno="3167",GO| GUSTO TV
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1931056&extension=ts&play_token=TWyVrOarDi
+#EXTINF:-1 tvg-name="BE| CLUBBING TV" tvg-logo="http://51.158.145.100/picons/logos/BELGIUM/1897979.png" group-title="1159" tvg-chno="29071",BE| CLUBBING TV
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1897979&extension=ts&play_token=OOD0lgTgWt
+#EXTINF:-1 tvg-name="Clubber 10:" tvg-logo="http://103.176.90.95/images/1385584.png" group-title="1559" tvg-chno="16330",Clubber 10:
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1385584&extension=ts&play_token=Zg1jo6EfCe
+#EXTINF:-1 tvg-name="Clubber 11:" tvg-logo="http://103.176.90.95/images/1385585.png" group-title="1559" tvg-chno="16331",Clubber 11:
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1385585&extension=ts&play_token=FVZKNVzCV7
+#EXTINF:-1 tvg-name="Clubber 12:" tvg-logo="http://103.176.90.95/images/1385586.png" group-title="1559" tvg-chno="16332",Clubber 12:
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1385586&extension=ts&play_token=35U60pWHgK
+#EXTINF:-1 tvg-name="Clubber 13:" tvg-logo="http://103.176.90.95/images/1385587.png" group-title="1559" tvg-chno="16333",Clubber 13:
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1385587&extension=ts&play_token=sQikhac2Rd
+#EXTINF:-1 tvg-name="Clubber 14:" tvg-logo="http://103.176.90.95/images/1385588.png" group-title="1559" tvg-chno="16334",Clubber 14:
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1385588&extension=ts&play_token=8zDA86m9Rr
+#EXTINF:-1 tvg-name="Clubber 15:" tvg-logo="http://103.176.90.95/images/1385589.png" group-title="1559" tvg-chno="16335",Clubber 15:
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1385589&extension=ts&play_token=5HOBV9WCLo
+#EXTINF:-1 tvg-name="Clubber 16:" tvg-logo="http://103.176.90.95/images/1385590.png" group-title="1559" tvg-chno="16336",Clubber 16:
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1385590&extension=ts&play_token=3ueWOisMtS
+#EXTINF:-1 tvg-name="Clubber 17:" tvg-logo="http://103.176.90.95/images/1385591.png" group-title="1559" tvg-chno="16337",Clubber 17:
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1385591&extension=ts&play_token=XUVR2FgJtu
+#EXTINF:-1 tvg-name="Clubber 18:" tvg-logo="http://103.176.90.95/images/1385592.png" group-title="1559" tvg-chno="16338",Clubber 18:
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1385592&extension=ts&play_token=aOMkdEViTU
+#EXTINF:-1 tvg-name="Clubber 19:" tvg-logo="http://103.176.90.95/images/1385593.png" group-title="1559" tvg-chno="16339",Clubber 19:
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1385593&extension=ts&play_token=tj6ryoJI7o
+#EXTINF:-1 tvg-name="Clubber 20:" tvg-logo="http://103.176.90.95/images/1385594.png" group-title="1559" tvg-chno="16340",Clubber 20:
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1385594&extension=ts&play_token=pPfWByHvmu
+#EXTINF:-1 tvg-name="Clubber TV | Event 1" tvg-logo="http://103.176.90.95/images/1385575.png" group-title="1559" tvg-chno="16321",Clubber TV | Event 1
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1385575&extension=ts&play_token=MKxLzIB6xC
+#EXTINF:-1 tvg-name="Clubber TV | Event 2" tvg-logo="http://103.176.90.95/images/1385576.png" group-title="1559" tvg-chno="16322",Clubber TV | Event 2
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1385576&extension=ts&play_token=xOwJRZuDyC
+#EXTINF:-1 tvg-name="Clubber TV | Event 3" tvg-logo="http://103.176.90.95/images/1385577.png" group-title="1559" tvg-chno="16323",Clubber TV | Event 3
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1385577&extension=ts&play_token=HXE39oM5YG
+#EXTINF:-1 tvg-name="Clubber TV | Event 4" tvg-logo="http://103.176.90.95/images/1385578.png" group-title="1559" tvg-chno="16324",Clubber TV | Event 4
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1385578&extension=ts&play_token=2G1m2NdBor
+#EXTINF:-1 tvg-name="Clubber TV | Event 5" tvg-logo="http://103.176.90.95/images/1385579.png" group-title="1559" tvg-chno="16325",Clubber TV | Event 5
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1385579&extension=ts&play_token=5GvkXpPTb1
+#EXTINF:-1 tvg-name="Clubber TV | Event 6" tvg-logo="http://103.176.90.95/images/1385580.png" group-title="1559" tvg-chno="16326",Clubber TV | Event 6
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1385580&extension=ts&play_token=wFpKvYeP0G
+#EXTINF:-1 tvg-name="Clubber TV | Event 7" tvg-logo="http://103.176.90.95/images/1385581.png" group-title="1559" tvg-chno="16327",Clubber TV | Event 7
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1385581&extension=ts&play_token=8qTDSlz16W
+#EXTINF:-1 tvg-name="Clubber TV | Event 8" tvg-logo="http://103.176.90.95/images/1385582.png" group-title="1559" tvg-chno="16328",Clubber TV | Event 8
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1385582&extension=ts&play_token=qUvpap3TlU
+#EXTINF:-1 tvg-name="Clubber TV | Event 9" tvg-logo="http://103.176.90.95/images/1385583.png" group-title="1559" tvg-chno="16329",Clubber TV | Event 9
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=1385583&extension=ts&play_token=3o5hmqA5yD
+#EXTINF:-1 tvg-id="Boing.fr" tvg-name="FR| CLUBBING TV" tvg-logo="http://51.158.145.100/picons/logos/france/506507.png" group-title="1001" tvg-chno="18227",FR| CLUBBING TV
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:E1:62:73&stream=506507&extension=ts&play_token=J8aoRc25mk
