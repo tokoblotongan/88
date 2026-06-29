@@ -1,0 +1,95 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="AUS| SERVUS TV HD" tvg-logo="http://103.176.90.92/images/1004574.png" group-title="2458" tvg-chno="244",AUS| SERVUS TV HD
+http://alpha6-tx.me:80/play/live.php?mac=00:1A:79:B6:5F:60&stream=2077064&extension=ts&play_token=ifLjnj9MNr
+#EXTINF:-1 tvg-name="BE| CLUBBING TV" tvg-logo="http://51.158.145.100/picons/logos/BELGIUM/1897979.png" group-title="1159" tvg-chno="5535",BE| CLUBBING TV
+http://alpha6-tx.me:80/play/live.php?mac=00:1A:79:B6:5F:60&stream=1897979&extension=ts&play_token=WC06AW2me2
+#EXTINF:-1 tvg-name="UK| MTV CLUB" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/MTVCLUB.png" group-title="523" tvg-chno="6209",UK| MTV CLUB
+http://alpha6-tx.me:80/play/live.php?mac=00:1A:79:B6:5F:60&stream=45265&extension=ts&play_token=Q2z5OhafTF
+#EXTINF:-1 tvg-name="DE| FASHION TV" tvg-logo="http://103.176.90.118/picons/logos/logos/SamsungTVPlus.png" group-title="1946" tvg-chno="1057",DE| FASHION TV
+https://288e7e5ea70f423590b5c441bbc0037e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_FashionTV/playlist.m3u8?ads.wurl_channel=689&ads.wurl_name=FashionTV&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="fashiontv.nl" tvg-name="NL| FASHION TV HD" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/FASHION.png" group-title="1425" tvg-chno="4044",NL| FASHION TV HD
+http://alpha6-tx.me:80/play/live.php?mac=00:1A:79:B6:5F:60&stream=1282968&extension=ts&play_token=EXGQ5T8L2g
+#EXTINF:-1 tvg-id="myzen.nl" tvg-name="NL| MYZEN HD" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/MYZEN.png" group-title="1425" tvg-chno="4045",NL| MYZEN HD
+http://alpha6-tx.me:80/play/live.php?mac=00:1A:79:B6:5F:60&stream=1282967&extension=ts&play_token=t1Ejqm4qzI
+#EXTINF:-1 tvg-name="ALB| TV KLAN HD" tvg-logo="http://picons.cmshulk.com/picons/116108.png" group-title="2458" tvg-chno="238",ALB| TV KLAN HD
+http://alpha6-tx.me:80/play/live.php?mac=00:1A:79:B6:5F:60&stream=2077071&extension=ts&play_token=MeQ7Bh54aF
+#EXTINF:-1 tvg-name="ARG| TYC SPORTS" tvg-logo="http://103.176.90.118/picons/logos/TYC.png" group-title="2458" tvg-chno="241",ARG| TYC SPORTS
+http://alpha6-tx.me:80/play/live.php?mac=00:1A:79:B6:5F:60&stream=2077067&extension=ts&play_token=Xm2KCJLcz6
+#EXTINF:-1 tvg-name="DE| FUSSBALL.TV 1 SD" tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="2477" tvg-chno="41",DE| FUSSBALL.TV 1 SD
+http://alpha6-tx.me:80/play/live.php?mac=00:1A:79:B6:5F:60&stream=2090458&extension=ts&play_token=sYO21aagbb
+#EXTINF:-1 tvg-name="DE| FUSSBALL.TV 2 SD" tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="2477" tvg-chno="42",DE| FUSSBALL.TV 2 SD
+http://alpha6-tx.me:80/play/live.php?mac=00:1A:79:B6:5F:60&stream=2090457&extension=ts&play_token=373mUdM3tZ
+#EXTINF:-1 tvg-name="SO| SOLO SPORT 1 SD" tvg-logo="http://51.158.145.100/picons/logos/logos/SOLOSPORTS.png" group-title="2485" tvg-chno="170",SO| SOLO SPORT 1 SD
+http://alpha6-tx.me:80/play/live.php?mac=00:1A:79:B6:5F:60&stream=2101764&extension=ts&play_token=78zkbSZvBg
+#EXTINF:-1 tvg-name="SO| SOLO SPORT 2 SD" tvg-logo="http://51.158.145.100/picons/logos/logos/SOLOSPORTS.png" group-title="2485" tvg-chno="174",SO| SOLO SPORT 2 SD
+http://alpha6-tx.me:80/play/live.php?mac=00:1A:79:B6:5F:60&stream=2101597&extension=ts&play_token=KwV2bYr31m
+#EXTINF:-1 tvg-name="SO| SOLO SPORT 3 SD" tvg-logo="http://51.158.145.100/picons/logos/logos/SOLOSPORTS.png" group-title="2485" tvg-chno="178",SO| SOLO SPORT 3 SD
+http://alpha6-tx.me:80/play/live.php?mac=00:1A:79:B6:5F:60&stream=2101593&extension=ts&play_token=d6QdVOpAeM
+#EXTINF:-1 tvg-name="SO| SOLO SPORT 4 SD" tvg-logo="http://51.158.145.100/picons/logos/logos/SOLOSPORTS.png" group-title="2485" tvg-chno="182",SO| SOLO SPORT 4 SD
+http://alpha6-tx.me:80/play/live.php?mac=00:1A:79:B6:5F:60&stream=2103460&extension=ts&play_token=m4n2exRbWg
+#EXTINF:-1 tvg-name="SO| SOLO SPORT 5 SD" tvg-logo="http://51.158.145.100/picons/logos/logos/SOLOSPORTS.png" group-title="2485" tvg-chno="186",SO| SOLO SPORT 5 SD
+http://alpha6-tx.me:80/play/live.php?mac=00:1A:79:B6:5F:60&stream=2103454&extension=ts&play_token=zHeqUunGP2
+#EXTINF:-1 tvg-id="CanalZ.be" tvg-name="BE| CANAL Z HD" tvg-logo="http://51.158.145.100/picons/logos/BELGIUM/816171.png" group-title="1159" tvg-chno="5490",BE| CANAL Z HD
+http://alpha6-tx.me:80/play/live.php?mac=00:1A:79:B6:5F:60&stream=816171&extension=ts&play_token=L4WhtZfjuw
+#EXTINF:-1 tvg-name="BE| CANAL+" tvg-logo="http://51.158.145.100/picons/logos/BELGIUM/1897977.png" group-title="1159" tvg-chno="5537",BE| CANAL+
+http://alpha6-tx.me:80/play/live.php?mac=00:1A:79:B6:5F:60&stream=1897977&extension=ts&play_token=k1BOdGdUqK
+#EXTINF:-1 tvg-name="BE| CANAL+ CINEMA" tvg-logo="http://51.158.145.100/picons/logos/BELGIUM/1897976.png" group-title="1159" tvg-chno="5538",BE| CANAL+ CINEMA
+http://alpha6-tx.me:80/play/live.php?mac=00:1A:79:B6:5F:60&stream=1897976&extension=ts&play_token=t3mSwI6UE6
+#EXTINF:-1 tvg-name="BE| CANAL+ BOX OFFICE" tvg-logo="http://51.158.145.100/picons/logos/BELGIUM/1897974.png" group-title="1159" tvg-chno="5540",BE| CANAL+ BOX OFFICE
+http://alpha6-tx.me:80/play/live.php?mac=00:1A:79:B6:5F:60&stream=1897974&extension=ts&play_token=DrKNwKOxG4
+#EXTINF:-1 tvg-id="ziggosportvoetbal.nl" tvg-name="NL| ZIGGO SPORT 2 HD" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png" group-title="1422" tvg-chno="2940",NL| ZIGGO SPORT 2 HD
+http://alpha6-tx.me:80/play/live.php?mac=00:1A:79:B6:5F:60&stream=1282763&extension=ts&play_token=MkA1XJXi82
+#EXTINF:-1 tvg-name="NL| ZIGGO SPORT 2 LQ" tvg-logo="http://103.176.90.95/images/988721.png" group-title="1290" tvg-chno="4202",NL| ZIGGO SPORT 2 LQ
+http://alpha6-tx.me:80/play/live.php?mac=00:1A:79:B6:5F:60&stream=988721&extension=ts&play_token=HCj8SEOAKc
+#EXTINF:-1 tvg-id="ziggosportgolf.nl" tvg-name="NL| ZIGGO SPORT 3 HD" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png" group-title="1422" tvg-chno="2941",NL| ZIGGO SPORT 3 HD
+http://alpha6-tx.me:80/play/live.php?mac=00:1A:79:B6:5F:60&stream=1282761&extension=ts&play_token=7kO4QZFDRX
+#EXTINF:-1 tvg-name="NL| ZIGGO SPORT 3 LQ" tvg-logo="http://103.176.90.95/images/988720.png" group-title="1290" tvg-chno="4203",NL| ZIGGO SPORT 3 LQ
+http://alpha6-tx.me:80/play/live.php?mac=00:1A:79:B6:5F:60&stream=988720&extension=ts&play_token=DK7ci8IbAk
+#EXTINF:-1 tvg-id="ziggosporttennis.nl" tvg-name="NL| ZIGGO SPORT 4 HD" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png" group-title="1422" tvg-chno="2942",NL| ZIGGO SPORT 4 HD
+http://alpha6-tx.me:80/play/live.php?mac=00:1A:79:B6:5F:60&stream=1282760&extension=ts&play_token=XU3T6HRofs
+#EXTINF:-1 tvg-name="NL| ZIGGO SPORT 4 LQ" tvg-logo="http://103.176.90.95/images/988719.png" group-title="1290" tvg-chno="4204",NL| ZIGGO SPORT 4 LQ
+http://alpha6-tx.me:80/play/live.php?mac=00:1A:79:B6:5F:60&stream=988719&extension=ts&play_token=oy85vsi08D
+#EXTINF:-1 tvg-id="ziggosportdocu.nl" tvg-name="NL| ZIGGO SPORT 5 HD" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png" group-title="1422" tvg-chno="2943",NL| ZIGGO SPORT 5 HD
+http://alpha6-tx.me:80/play/live.php?mac=00:1A:79:B6:5F:60&stream=1282762&extension=ts&play_token=RsWMRyYzN0
+#EXTINF:-1 tvg-name="NL| ZIGGO SPORT 5 LQ" tvg-logo="http://103.176.90.95/images/988718.png" group-title="1290" tvg-chno="4205",NL| ZIGGO SPORT 5 LQ
+http://alpha6-tx.me:80/play/live.php?mac=00:1A:79:B6:5F:60&stream=988718&extension=ts&play_token=Ma77YcaaCI
+#EXTINF:-1 tvg-id="ziggosportgolf.nl" tvg-name="NL| ZIGGO SPORT 6 HD" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png" group-title="1422" tvg-chno="2944",NL| ZIGGO SPORT 6 HD
+http://alpha6-tx.me:80/play/live.php?mac=00:1A:79:B6:5F:60&stream=1282759&extension=ts&play_token=oSOQbbwtsu
+#EXTINF:-1 tvg-name="NL| ZIGGO SPORT 6 LQ" tvg-logo="http://103.176.90.95/images/988717.png" group-title="1290" tvg-chno="4206",NL| ZIGGO SPORT 6 LQ
+http://alpha6-tx.me:80/play/live.php?mac=00:1A:79:B6:5F:60&stream=988717&extension=ts&play_token=H00EnH6EP3
+#EXTINF:-1 tvg-id="ziggosport.nl" tvg-name="NL| ZIGGO SPORT HD" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png" group-title="1422" tvg-chno="2938",NL| ZIGGO SPORT HD
+http://alpha6-tx.me:80/play/live.php?mac=00:1A:79:B6:5F:60&stream=1282765&extension=ts&play_token=SZok0BUteG
+#EXTINF:-1 tvg-id="ziggosporttennis.nl" tvg-name="NL| ZIGGO SPORT HD ²" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png" group-title="1422" tvg-chno="2939",NL| ZIGGO SPORT HD ²
+http://alpha6-tx.me:80/play/live.php?mac=00:1A:79:B6:5F:60&stream=1282764&extension=ts&play_token=QgCkFP8QCr
+#EXTINF:-1 tvg-name="NL| ZIGGO SPORT LQ" tvg-logo="http://103.176.90.95/images/988722.png" group-title="1290" tvg-chno="4201",NL| ZIGGO SPORT LQ
+http://alpha6-tx.me:80/play/live.php?mac=00:1A:79:B6:5F:60&stream=988722&extension=ts&play_token=ixrlZM0q7l
+#EXTINF:-1 tvg-id="ziggotv.nl" tvg-name="NL| ZIGGO TV HD" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGO.png" group-title="1425" tvg-chno="4033",NL| ZIGGO TV HD
+http://alpha6-tx.me:80/play/live.php?mac=00:1A:79:B6:5F:60&stream=1282979&extension=ts&play_token=R2XygP8j2B
+#EXTINF:-1 tvg-id="ziggosport.nl" tvg-name="OD| ZIGGO SPORT ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png" group-title="1981" tvg-chno="4651",OD| ZIGGO SPORT ᴴᴰ
+http://alpha6-tx.me:80/play/live.php?mac=00:1A:79:B6:5F:60&stream=2083665&extension=ts&play_token=gdtWilzMsO
+#EXTINF:-1 tvg-id="ziggosportgolf.nl" tvg-name="OD| ZIGGO SPORT 6 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png" group-title="1981" tvg-chno="4656",OD| ZIGGO SPORT 6 ᴴᴰ
+http://alpha6-tx.me:80/play/live.php?mac=00:1A:79:B6:5F:60&stream=2083660&extension=ts&play_token=ntXohntizj
+#EXTINF:-1 tvg-id="ziggosportdocu.nl" tvg-name="OD| ZIGGO SPORT 5 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png" group-title="1981" tvg-chno="4655",OD| ZIGGO SPORT 5 ᴴᴰ
+http://alpha6-tx.me:80/play/live.php?mac=00:1A:79:B6:5F:60&stream=2083661&extension=ts&play_token=X9fGAaBt0r
+#EXTINF:-1 tvg-id="ziggosporttennis.nl" tvg-name="OD| ZIGGO SPORT 4 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png" group-title="1981" tvg-chno="4654",OD| ZIGGO SPORT 4 ᴴᴰ
+http://alpha6-tx.me:80/play/live.php?mac=00:1A:79:B6:5F:60&stream=2083662&extension=ts&play_token=1J4T99p864
+#EXTINF:-1 tvg-id="ziggosportgolf.nl" tvg-name="OD| ZIGGO SPORT 3 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png" group-title="1981" tvg-chno="4653",OD| ZIGGO SPORT 3 ᴴᴰ
+http://alpha6-tx.me:80/play/live.php?mac=00:1A:79:B6:5F:60&stream=2083663&extension=ts&play_token=qG8uijmaGb
+#EXTINF:-1 tvg-id="ziggosportvoetbal.nl" tvg-name="OD| ZIGGO SPORT 2 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png" group-title="1981" tvg-chno="4652",OD| ZIGGO SPORT 2 ᴴᴰ
+http://alpha6-tx.me:80/play/live.php?mac=00:1A:79:B6:5F:60&stream=2083664&extension=ts&play_token=3wo1MUlt0X
+#EXTINF:-1 tvg-id="Bruzz.be" tvg-name="BE| BRUZZ HD" tvg-logo="http://51.158.145.100/picons/logos/BELGIUM/816179.png" group-title="1159" tvg-chno="5483",BE| BRUZZ HD
+http://alpha6-tx.me:80/play/live.php?mac=00:1A:79:B6:5F:60&stream=816179&extension=ts&play_token=gRIiDSIPd5
+#EXTINF:-1 tvg-id="be.Eleven Sports 1" tvg-name="BE| DAZN SPORTS 1 (VL)" tvg-logo="http://103.176.90.92/images/811933.png" group-title="1454" tvg-chno="5429",BE| DAZN SPORTS 1 (VL)
+http://alpha6-tx.me:80/play/live.php?mac=00:1A:79:B6:5F:60&stream=811933&extension=ts&play_token=RgadV3O63F
+#EXTINF:-1 tvg-id="be.Eleven Sports 2" tvg-name="BE| DAZN SPORTS 2 (VL)" tvg-logo="http://103.176.90.92/images/811932.png" group-title="1454" tvg-chno="5430",BE| DAZN SPORTS 2 (VL)
+http://alpha6-tx.me:80/play/live.php?mac=00:1A:79:B6:5F:60&stream=811932&extension=ts&play_token=MBihWYVzrX
+#EXTINF:-1 tvg-id="be.Eleven Sports 3" tvg-name="BE| DAZN SPORTS 3 (VL)" tvg-logo="http://103.176.90.92/images/811931.png" group-title="1454" tvg-chno="5431",BE| DAZN SPORTS 3 (VL)
+http://alpha6-tx.me:80/play/live.php?mac=00:1A:79:B6:5F:60&stream=811931&extension=ts&play_token=K9Lw4EcXuq
+#EXTINF:-1 tvg-id="KanaalZ.be" tvg-name="BE| KANAAL Z HD" tvg-logo="http://103.176.90.95/images/811972.png" group-title="1451" tvg-chno="5350",BE| KANAAL Z HD
+http://alpha6-tx.me:80/play/live.php?mac=00:1A:79:B6:5F:60&stream=811972&extension=ts&play_token=ghcJsSIfDR
+#EXTINF:-1 tvg-id="nl.Mezzo" tvg-name="BE| MEZZO" tvg-logo="http://103.176.90.95/images/811956.png" group-title="1452" tvg-chno="5381",BE| MEZZO
+http://alpha6-tx.me:80/play/live.php?mac=00:1A:79:B6:5F:60&stream=811956&extension=ts&play_token=fKLsmDP5tK
+#EXTINF:-1 tvg-id="nl.Mezzo" tvg-name="BE| MEZZO" tvg-logo="http://103.176.90.92/images/812038.png" group-title="1452" tvg-chno="5416",BE| MEZZO
+http://alpha6-tx.me:80/play/live.php?mac=00:1A:79:B6:5F:60&stream=812038&extension=ts&play_token=mBWZHOAgYw
+#EXTINF:-1 tvg-name="NL| TREND FM" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/TRENDFM.png" group-title="2389" tvg-chno="5073",NL| TREND FM
+http://alpha6-tx.me:80/play/live.php?mac=00:1A:79:B6:5F:60&stream=2023122&extension=ts&play_token=IJsDo03Iyg
