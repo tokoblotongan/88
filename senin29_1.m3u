@@ -1,0 +1,119 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="┃CANAL+┃ ZIGGO SPORT 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CANAL+ LIVE/ZIGGO SPORT 1.png" group-title="3277" tvg-chno="1286",┃CANAL+┃ ZIGGO SPORT 1 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:C0:A2:E3&stream=1084671&extension=ts&play_token=DRAkkpcU15
+#EXTINF:-1 tvg-name="┃CANAL+┃ ZIGGO SPORT 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CANAL+ LIVE/ZIGGO SPORT 2.png" group-title="3277" tvg-chno="1287",┃CANAL+┃ ZIGGO SPORT 2 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:C0:A2:E3&stream=1084670&extension=ts&play_token=9szpRT8E9A
+#EXTINF:-1 tvg-name="┃CANAL+┃ ZIGGO SPORT 6 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CANAL+ LIVE/ZIGGO SPORT 6.png" group-title="3277" tvg-chno="1288",┃CANAL+┃ ZIGGO SPORT 6 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:C0:A2:E3&stream=1084669&extension=ts&play_token=KJUimRMmMU
+#EXTINF:-1 tvg-name="┃DE┃ DYN SPORT 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DYN SPORT/DYN SPORT.png" group-title="962" tvg-chno="2844",┃DE┃ DYN SPORT 1 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:C0:A2:E3&stream=622578&extension=ts&play_token=H0Ed868lbT
+#EXTINF:-1 tvg-name="┃DE┃ DYN SPORT 10 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DYN SPORT/DYN SPORT.png" group-title="962" tvg-chno="2853",┃DE┃ DYN SPORT 10 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:C0:A2:E3&stream=622569&extension=ts&play_token=DIRZxquxli
+#EXTINF:-1 tvg-name="┃DE┃ DYN SPORT 11 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DYN SPORT/DYN SPORT.png" group-title="962" tvg-chno="2854",┃DE┃ DYN SPORT 11 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:C0:A2:E3&stream=622568&extension=ts&play_token=vg0wjY5ofg
+#EXTINF:-1 tvg-name="┃DE┃ DYN SPORT 12 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DYN SPORT/DYN SPORT.png" group-title="962" tvg-chno="2855",┃DE┃ DYN SPORT 12 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:C0:A2:E3&stream=622567&extension=ts&play_token=C6bwFf65n3
+#EXTINF:-1 tvg-name="┃DE┃ DYN SPORT 13 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DYN SPORT/DYN SPORT.png" group-title="962" tvg-chno="2856",┃DE┃ DYN SPORT 13 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:C0:A2:E3&stream=622566&extension=ts&play_token=6iZG97cCF7
+#EXTINF:-1 tvg-name="┃DE┃ DYN SPORT 14 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DYN SPORT/DYN SPORT.png" group-title="962" tvg-chno="2857",┃DE┃ DYN SPORT 14 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:C0:A2:E3&stream=622565&extension=ts&play_token=jpcAuz1H1r
+#EXTINF:-1 tvg-name="┃DE┃ DYN SPORT 15 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DYN SPORT/DYN SPORT.png" group-title="962" tvg-chno="2858",┃DE┃ DYN SPORT 15 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:C0:A2:E3&stream=622564&extension=ts&play_token=mYEOZk4h5g
+#EXTINF:-1 tvg-name="┃DE┃ DYN SPORT 16 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DYN SPORT/DYN SPORT.png" group-title="962" tvg-chno="2859",┃DE┃ DYN SPORT 16 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:C0:A2:E3&stream=622563&extension=ts&play_token=jBFtvKsUEv
+#EXTINF:-1 tvg-name="┃DE┃ DYN SPORT 17 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DYN SPORT/DYN SPORT.png" group-title="962" tvg-chno="2860",┃DE┃ DYN SPORT 17 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:C0:A2:E3&stream=622562&extension=ts&play_token=3TuNO2xOnV
+#EXTINF:-1 tvg-name="┃DE┃ DYN SPORT 18 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DYN SPORT/DYN SPORT.png" group-title="962" tvg-chno="2861",┃DE┃ DYN SPORT 18 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:C0:A2:E3&stream=622561&extension=ts&play_token=noLPu1odyc
+#EXTINF:-1 tvg-name="┃DE┃ DYN SPORT 19 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DYN SPORT/DYN SPORT.png" group-title="962" tvg-chno="2862",┃DE┃ DYN SPORT 19 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:C0:A2:E3&stream=622560&extension=ts&play_token=Nn46mI1FNm
+#EXTINF:-1 tvg-name="┃DE┃ DYN SPORT 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DYN SPORT/DYN SPORT.png" group-title="962" tvg-chno="2845",┃DE┃ DYN SPORT 2 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:C0:A2:E3&stream=622577&extension=ts&play_token=xsuj6RGAoU
+#EXTINF:-1 tvg-name="┃DE┃ DYN SPORT 20 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DYN SPORT/DYN SPORT.png" group-title="962" tvg-chno="2863",┃DE┃ DYN SPORT 20 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:C0:A2:E3&stream=622559&extension=ts&play_token=dayknAR8lt
+#EXTINF:-1 tvg-name="┃DE┃ DYN SPORT 21 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DYN SPORT/DYN SPORT.png" group-title="962" tvg-chno="2864",┃DE┃ DYN SPORT 21 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:C0:A2:E3&stream=1149607&extension=ts&play_token=PKAn90RRzi
+#EXTINF:-1 tvg-name="┃DE┃ DYN SPORT 22 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DYN SPORT/DYN SPORT.png" group-title="962" tvg-chno="2865",┃DE┃ DYN SPORT 22 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:C0:A2:E3&stream=1149608&extension=ts&play_token=WxxVXCsq1U
+#EXTINF:-1 tvg-name="┃DE┃ DYN SPORT 23 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DYN SPORT/DYN SPORT.png" group-title="962" tvg-chno="2866",┃DE┃ DYN SPORT 23 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:C0:A2:E3&stream=1149609&extension=ts&play_token=fcfaNhB3bj
+#EXTINF:-1 tvg-name="┃DE┃ DYN SPORT 24 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DYN SPORT/DYN SPORT.png" group-title="962" tvg-chno="2867",┃DE┃ DYN SPORT 24 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:C0:A2:E3&stream=1149610&extension=ts&play_token=nrNkN7cXMU
+#EXTINF:-1 tvg-name="┃DE┃ DYN SPORT 25 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DYN SPORT/DYN SPORT.png" group-title="962" tvg-chno="2868",┃DE┃ DYN SPORT 25 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:C0:A2:E3&stream=1149611&extension=ts&play_token=1zJ9JotWTH
+#EXTINF:-1 tvg-name="┃DE┃ DYN SPORT 3 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DYN SPORT/DYN SPORT.png" group-title="962" tvg-chno="2846",┃DE┃ DYN SPORT 3 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:C0:A2:E3&stream=622576&extension=ts&play_token=EnHoNtZkvC
+#EXTINF:-1 tvg-name="┃DE┃ DYN SPORT 4 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DYN SPORT/DYN SPORT.png" group-title="962" tvg-chno="2847",┃DE┃ DYN SPORT 4 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:C0:A2:E3&stream=622575&extension=ts&play_token=R6p7J7aVBL
+#EXTINF:-1 tvg-name="┃DE┃ DYN SPORT MIX HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DYN SPORT/DYN SPORT.png" group-title="962" tvg-chno="2843",┃DE┃ DYN SPORT MIX HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:C0:A2:E3&stream=1149606&extension=ts&play_token=iHs56vQ3ub
+#EXTINF:-1 tvg-name="┃DE┃ DYN SPORT 9 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DYN SPORT/DYN SPORT.png" group-title="962" tvg-chno="2852",┃DE┃ DYN SPORT 9 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:C0:A2:E3&stream=622570&extension=ts&play_token=UDnYp1yBuY
+#EXTINF:-1 tvg-name="┃DE┃ DYN SPORT 8 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DYN SPORT/DYN SPORT.png" group-title="962" tvg-chno="2851",┃DE┃ DYN SPORT 8 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:C0:A2:E3&stream=622571&extension=ts&play_token=jHKOnOOj7Q
+#EXTINF:-1 tvg-name="┃DE┃ DYN SPORT 7 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DYN SPORT/DYN SPORT.png" group-title="962" tvg-chno="2850",┃DE┃ DYN SPORT 7 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:C0:A2:E3&stream=622572&extension=ts&play_token=93dQnC6uyh
+#EXTINF:-1 tvg-name="┃DE┃ DYN SPORT 6 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DYN SPORT/DYN SPORT.png" group-title="962" tvg-chno="2849",┃DE┃ DYN SPORT 6 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:C0:A2:E3&stream=622573&extension=ts&play_token=jKGHZ5PIvs
+#EXTINF:-1 tvg-name="┃DE┃ DYN SPORT 5 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DYN SPORT/DYN SPORT.png" group-title="962" tvg-chno="2848",┃DE┃ DYN SPORT 5 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:C0:A2:E3&stream=622574&extension=ts&play_token=ZjxGI2erXa
+#EXTINF:-1 tvg-name="┃DE┃ ESPORTS1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ESPORTSHD.png" group-title="5" tvg-chno="2718",┃DE┃ ESPORTS1 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:C0:A2:E3&stream=1118&extension=ts&play_token=e0jpZucM8E
+#EXTINF:-1 tvg-name="┃DE┃ ESPORTSONE HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/ESPORTSONE.png" group-title="3391" tvg-chno="3710",┃DE┃ ESPORTSONE HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:C0:A2:E3&stream=1280634&extension=ts&play_token=Vh97exVFQs
+#EXTINF:-1 tvg-name="┃DE┃ MORE THAN SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SPORT/MORE THAN SPORTS.png" group-title="6" tvg-chno="2497",┃DE┃ MORE THAN SPORTS HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:C0:A2:E3&stream=1149510&extension=ts&play_token=hB1EWHfYSS
+#EXTINF:-1 tvg-id="sport1.de" tvg-name="┃DE┃ SPORT1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/SPORT1.png" group-title="3391" tvg-chno="3632",┃DE┃ SPORT1 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:C0:A2:E3&stream=1280780&extension=ts&play_token=0w2ihB3lND
+#EXTINF:-1 tvg-id="sportdigital.de" tvg-name="┃DE┃ SPORTDIGITAL HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SPORT/SPORTDIGITAL.png" group-title="6" tvg-chno="2480",┃DE┃ SPORTDIGITAL HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:C0:A2:E3&stream=1149506&extension=ts&play_token=q1m3k2sSVC
+#EXTINF:-1 tvg-id="sportdigital.de" tvg-name="┃DE┃ SPORTDIGITAL HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/SPORTDIGITAL.png" group-title="3391" tvg-chno="3791",┃DE┃ SPORTDIGITAL HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:C0:A2:E3&stream=1280784&extension=ts&play_token=Iqy6C0t7Jn
+#EXTINF:-1 tvg-name="┃WC┃ SPORT TV 1 HD [PT]" tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="3734" tvg-chno="40",┃WC┃ SPORT TV 1 HD [PT]
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:C0:A2:E3&stream=1745117&extension=ts&play_token=FOvJlokrgU
+#EXTINF:-1 tvg-name="┃WC┃ SPORT TV 2 HD [PT]" tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="3734" tvg-chno="41",┃WC┃ SPORT TV 2 HD [PT]
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:C0:A2:E3&stream=1745118&extension=ts&play_token=HaIuFhjHfH
+#EXTINF:-1 tvg-name="┃WC┃ SPORT TV 3 HD [PT]" tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="3734" tvg-chno="42",┃WC┃ SPORT TV 3 HD [PT]
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:C0:A2:E3&stream=1745119&extension=ts&play_token=YGqSSpjfyN
+#EXTINF:-1 tvg-name="┃WC┃ SPORT TV 4 HD [PT]" tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="3734" tvg-chno="43",┃WC┃ SPORT TV 4 HD [PT]
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:C0:A2:E3&stream=1745120&extension=ts&play_token=uXMCcptaKR
+#EXTINF:-1 tvg-name="┃WC┃ SPORT TV+ HD [PT]" tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="3734" tvg-chno="39",┃WC┃ SPORT TV+ HD [PT]
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:C0:A2:E3&stream=1745116&extension=ts&play_token=CplqPJ68yD
+#EXTINF:-1 tvg-name="┃WC┃ TVP SPORT HD [PL]" tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="3734" tvg-chno="36",┃WC┃ TVP SPORT HD [PL]
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:C0:A2:E3&stream=1745104&extension=ts&play_token=wBRbJOjnDo
+#EXTINF:-1 tvg-name="┃UCL┃ ZIGGO SPORT 1 HD [NL]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="3010" tvg-chno="851",┃UCL┃ ZIGGO SPORT 1 HD [NL]
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:C0:A2:E3&stream=894968&extension=ts&play_token=8Y8fHQ3f2Q
+#EXTINF:-1 tvg-name="┃UCL┃ ZIGGO SPORT 2 HD [NL]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="3010" tvg-chno="852",┃UCL┃ ZIGGO SPORT 2 HD [NL]
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:C0:A2:E3&stream=894969&extension=ts&play_token=WwWKjx0Wmx
+#EXTINF:-1 tvg-name="┃UCL┃ ZIGGO SPORT 3 HD [NL]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="3010" tvg-chno="853",┃UCL┃ ZIGGO SPORT 3 HD [NL]
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:C0:A2:E3&stream=894970&extension=ts&play_token=xIwnZ7vW3I
+#EXTINF:-1 tvg-name="┃UCL┃ ZIGGO SPORT 4 HD [NL]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="3010" tvg-chno="854",┃UCL┃ ZIGGO SPORT 4 HD [NL]
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:C0:A2:E3&stream=894971&extension=ts&play_token=QKaEtgFMtL
+#EXTINF:-1 tvg-name="┃UCL┃ ZIGGO SPORT 5 HD [NL]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="3010" tvg-chno="855",┃UCL┃ ZIGGO SPORT 5 HD [NL]
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:C0:A2:E3&stream=894972&extension=ts&play_token=IQmN2fPtRN
+#EXTINF:-1 tvg-name="┃UCL┃ ZIGGO SPORT 6 HD [NL]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="3010" tvg-chno="856",┃UCL┃ ZIGGO SPORT 6 HD [NL]
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:C0:A2:E3&stream=894973&extension=ts&play_token=C6jT3iUHwq
+#EXTINF:-1 tvg-id="fashiontv.de" tvg-name="┃DE┃ FASHION TV FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NATUR/FASHION TV.png" group-title="2802" tvg-chno="2130",┃DE┃ FASHION TV FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:C0:A2:E3&stream=1025264&extension=ts&play_token=uL2dXB0iBM
+#EXTINF:-1 tvg-id="fashiontv.de" tvg-name="┃DE┃ FASHION TV HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/FASHION TV.png" group-title="3391" tvg-chno="3641",┃DE┃ FASHION TV HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:C0:A2:E3&stream=1280640&extension=ts&play_token=UYpTeeTBOI
+#EXTINF:-1 tvg-id="fashiontv.nl" tvg-name="┃NL┃ FASHION TV 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/FASHIONTVHD.png" group-title="820" tvg-chno="298",┃NL┃ FASHION TV 4K
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:C0:A2:E3&stream=548057&extension=ts&play_token=UpjKTmSv0l
+#EXTINF:-1 tvg-id="fashiontv.nl" tvg-name="┃NL┃ FASHION TV 8K" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/FASHIONTVHD.png" group-title="501" tvg-chno="1484",┃NL┃ FASHION TV 8K
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:C0:A2:E3&stream=237541&extension=ts&play_token=EChpoJAgUu
+#EXTINF:-1 tvg-id="fashiontv.nl" tvg-name="┃NL┃ FASHIONTV FHD 50FPS" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NL ODIDO FHD 50FPS/FASHIONTV.png" group-title="3038" tvg-chno="941",┃NL┃ FASHIONTV FHD 50FPS
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:C0:A2:E3&stream=933126&extension=ts&play_token=xkJkYqjmwm
+#EXTINF:-1 tvg-id="fashiontv.nl" tvg-name="┃NL┃ FASHIONTV HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NL ODIDO FHD 50FPS/FASHIONTV.png" group-title="3039" tvg-chno="1094",┃NL┃ FASHIONTV HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:C0:A2:E3&stream=947914&extension=ts&play_token=WTEHF6wcLd
+#EXTINF:-1 tvg-id="bongusto.de" tvg-name="┃DE┃ BON GUSTO HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/BONGUSTOHD.png" group-title="5" tvg-chno="2710",┃DE┃ BON GUSTO HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:C0:A2:E3&stream=348&extension=ts&play_token=3Vzk1xUAmS
+#EXTINF:-1 tvg-id="bongusto.de" tvg-name="┃DE┃ BONGUSTO HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/BONGUSTO.png" group-title="3391" tvg-chno="3703",┃DE┃ BONGUSTO HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:C0:A2:E3&stream=1280614&extension=ts&play_token=kCa0Ybpnvv
+#EXTINF:-1 tvg-name="┃NL┃ LUXE.TV HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NL ODIDO FHD 50FPS/LUXE.TV.png" group-title="3039" tvg-chno="1190",┃NL┃ LUXE.TV HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:C0:A2:E3&stream=947934&extension=ts&play_token=qU56FwHCHv
+#EXTINF:-1 tvg-id="myzen.nl" tvg-name="┃NL┃ MYZEN TV HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NL ODIDO FHD 50FPS/MYZEN TV.png" group-title="3039" tvg-chno="1193",┃NL┃ MYZEN TV HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:C0:A2:E3&stream=947945&extension=ts&play_token=eO0975O8IT
+#EXTINF:-1 tvg-id="clubrtl.be" tvg-name="┃BE┃ RTL CLUB HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BELGIE/RTLCLUBHD.png" group-title="623" tvg-chno="1886",┃BE┃ RTL CLUB HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:C0:A2:E3&stream=368571&extension=ts&play_token=ZXAFrbvBMg
+#EXTINF:-1 tvg-id="rtlclub.be" tvg-name="┃BE┃ RTL CLUB HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BELGIE/BE TV VLAANDEREN/RTL CLUB.png" group-title="3539" tvg-chno="1776",┃BE┃ RTL CLUB HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:C0:A2:E3&stream=1420252&extension=ts&play_token=BibUgX4tzI
