@@ -1,0 +1,225 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="┃DE┃ DYN SPORT MIX HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DYN SPORT/DYN SPORT.png" group-title="962" tvg-chno="1727",┃DE┃ DYN SPORT MIX HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=1149606&extension=ts&play_token=wWP6gvJR6v
+#EXTINF:-1 tvg-name="┃DE┃ DYN SPORT 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DYN SPORT/DYN SPORT.png" group-title="962" tvg-chno="1728",┃DE┃ DYN SPORT 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=622578&extension=ts&play_token=o4Zteub0PW
+#EXTINF:-1 tvg-name="┃DE┃ DYN SPORT 10 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DYN SPORT/DYN SPORT.png" group-title="962" tvg-chno="1737",┃DE┃ DYN SPORT 10 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=622569&extension=ts&play_token=5hdBfaYq1p
+#EXTINF:-1 tvg-name="┃DE┃ DYN SPORT 11 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DYN SPORT/DYN SPORT.png" group-title="962" tvg-chno="1738",┃DE┃ DYN SPORT 11 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=622568&extension=ts&play_token=R6BruXg6Iu
+#EXTINF:-1 tvg-name="┃DE┃ DYN SPORT 12 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DYN SPORT/DYN SPORT.png" group-title="962" tvg-chno="1739",┃DE┃ DYN SPORT 12 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=622567&extension=ts&play_token=Cs4NhoHcAL
+#EXTINF:-1 tvg-name="┃DE┃ DYN SPORT 13 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DYN SPORT/DYN SPORT.png" group-title="962" tvg-chno="1740",┃DE┃ DYN SPORT 13 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=622566&extension=ts&play_token=3Bm0j18KLv
+#EXTINF:-1 tvg-name="┃DE┃ DYN SPORT 14 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DYN SPORT/DYN SPORT.png" group-title="962" tvg-chno="1741",┃DE┃ DYN SPORT 14 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=622565&extension=ts&play_token=QTLqV1SxNA
+#EXTINF:-1 tvg-name="┃DE┃ DYN SPORT 15 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DYN SPORT/DYN SPORT.png" group-title="962" tvg-chno="1742",┃DE┃ DYN SPORT 15 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=622564&extension=ts&play_token=oUqagXIIyw
+#EXTINF:-1 tvg-name="┃DE┃ DYN SPORT 16 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DYN SPORT/DYN SPORT.png" group-title="962" tvg-chno="1743",┃DE┃ DYN SPORT 16 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=622563&extension=ts&play_token=fFcz2v1NEM
+#EXTINF:-1 tvg-name="┃DE┃ DYN SPORT 17 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DYN SPORT/DYN SPORT.png" group-title="962" tvg-chno="1744",┃DE┃ DYN SPORT 17 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=622562&extension=ts&play_token=wzEusG8VTV
+#EXTINF:-1 tvg-name="┃DE┃ DYN SPORT 18 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DYN SPORT/DYN SPORT.png" group-title="962" tvg-chno="1745",┃DE┃ DYN SPORT 18 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=622561&extension=ts&play_token=LU684MIJV4
+#EXTINF:-1 tvg-name="┃DE┃ DYN SPORT 19 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DYN SPORT/DYN SPORT.png" group-title="962" tvg-chno="1746",┃DE┃ DYN SPORT 19 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=622560&extension=ts&play_token=pyV77a92LE
+#EXTINF:-1 tvg-name="┃DE┃ DYN SPORT 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DYN SPORT/DYN SPORT.png" group-title="962" tvg-chno="1729",┃DE┃ DYN SPORT 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=622577&extension=ts&play_token=sZcMHEq3Cw
+#EXTINF:-1 tvg-name="┃DE┃ DYN SPORT 20 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DYN SPORT/DYN SPORT.png" group-title="962" tvg-chno="1747",┃DE┃ DYN SPORT 20 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=622559&extension=ts&play_token=H169NPDxzq
+#EXTINF:-1 tvg-name="┃DE┃ DYN SPORT 21 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DYN SPORT/DYN SPORT.png" group-title="962" tvg-chno="1748",┃DE┃ DYN SPORT 21 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=1149607&extension=ts&play_token=EXNI5ayeQ0
+#EXTINF:-1 tvg-name="┃DE┃ DYN SPORT 22 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DYN SPORT/DYN SPORT.png" group-title="962" tvg-chno="1749",┃DE┃ DYN SPORT 22 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=1149608&extension=ts&play_token=J7VFgftBew
+#EXTINF:-1 tvg-name="┃DE┃ DYN SPORT 23 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DYN SPORT/DYN SPORT.png" group-title="962" tvg-chno="1750",┃DE┃ DYN SPORT 23 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=1149609&extension=ts&play_token=cfWifjCNGk
+#EXTINF:-1 tvg-name="┃DE┃ DYN SPORT 24 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DYN SPORT/DYN SPORT.png" group-title="962" tvg-chno="1751",┃DE┃ DYN SPORT 24 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=1149610&extension=ts&play_token=B7Izr3DMnR
+#EXTINF:-1 tvg-name="┃DE┃ DYN SPORT 25 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DYN SPORT/DYN SPORT.png" group-title="962" tvg-chno="1752",┃DE┃ DYN SPORT 25 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=1149611&extension=ts&play_token=fPlH50jPqo
+#EXTINF:-1 tvg-name="┃DE┃ DYN SPORT 3 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DYN SPORT/DYN SPORT.png" group-title="962" tvg-chno="1730",┃DE┃ DYN SPORT 3 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=622576&extension=ts&play_token=xRAioNS55Z
+#EXTINF:-1 tvg-name="┃DE┃ DYN SPORT 4 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DYN SPORT/DYN SPORT.png" group-title="962" tvg-chno="1731",┃DE┃ DYN SPORT 4 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=622575&extension=ts&play_token=LJyoMYOesC
+#EXTINF:-1 tvg-name="┃DE┃ DYN SPORT 5 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DYN SPORT/DYN SPORT.png" group-title="962" tvg-chno="1732",┃DE┃ DYN SPORT 5 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=622574&extension=ts&play_token=P3aHVfQdpF
+#EXTINF:-1 tvg-name="┃DE┃ DYN SPORT 6 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DYN SPORT/DYN SPORT.png" group-title="962" tvg-chno="1733",┃DE┃ DYN SPORT 6 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=622573&extension=ts&play_token=Z6Kg8Zp6pE
+#EXTINF:-1 tvg-name="┃DE┃ DYN SPORT 7 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DYN SPORT/DYN SPORT.png" group-title="962" tvg-chno="1734",┃DE┃ DYN SPORT 7 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=622572&extension=ts&play_token=EUtBCh5wIq
+#EXTINF:-1 tvg-name="┃DE┃ DYN SPORT 8 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DYN SPORT/DYN SPORT.png" group-title="962" tvg-chno="1735",┃DE┃ DYN SPORT 8 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=622571&extension=ts&play_token=yBUkUgDj3q
+#EXTINF:-1 tvg-name="┃DE┃ DYN SPORT 9 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DYN SPORT/DYN SPORT.png" group-title="962" tvg-chno="1736",┃DE┃ DYN SPORT 9 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=622570&extension=ts&play_token=Q4oGKxKg2d
+#EXTINF:-1 tvg-name="┃DE┃ DRAGON BALL HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DESERIEAX.png" group-title="2689" tvg-chno="2245",┃DE┃ DRAGON BALL HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=685704&extension=ts&play_token=yGLfT1Xtao
+#EXTINF:-1 tvg-name="┃USA┃ 24/7 | SUPER DRAGON BALL HEROES" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/USA 247  ACTION & ADVENTURE/247  ACTION & ADVENTURE.png" group-title="3492" tvg-chno="10392",┃USA┃ 24/7 | SUPER DRAGON BALL HEROES
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=1376855&extension=ts&play_token=OhcvO5nkHr
+#EXTINF:-1 tvg-id="fxx.us" tvg-name="┃USA┃ FXX HD [EAST]" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/ENTERTAINMENT/FXX.png" group-title="505" tvg-chno="5462",┃USA┃ FXX HD [EAST]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=855440&extension=ts&play_token=gkatLFzgf0
+#EXTINF:-1 tvg-id="fxx.us" tvg-name="┃USA┃ FXX HD [WEST]" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/ENTERTAINMENT/FXX.png" group-title="505" tvg-chno="5463",┃USA┃ FXX HD [WEST]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=855439&extension=ts&play_token=6gxBKIIAuM
+#EXTINF:-1 tvg-id="fixandfoxi.de" tvg-name="┃DE┃ FIX & FOX" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/FIXFOXIHD.png" group-title="5" tvg-chno="1557",┃DE┃ FIX & FOX
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=391&extension=ts&play_token=q8bvb2p41y
+#EXTINF:-1 tvg-name="┃DE┃ FIX&FOXI TV SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/FIX&FOXI TV.png" group-title="3391" tvg-chno="2638",┃DE┃ FIX&FOXI TV SD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=1280641&extension=ts&play_token=yk0tkXA3zP
+#EXTINF:-1 tvg-id="fox.rs" tvg-name="┃EXYU┃ FOX CHANNEL HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/FOXWORMARK.png" group-title="24" tvg-chno="796",┃EXYU┃ FOX CHANNEL HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=1041&extension=ts&play_token=XSM3tUdmVV
+#EXTINF:-1 tvg-id="foxcrime.rs" tvg-name="┃EXYU┃ FOX CRIME HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/FOXCRIME.png" group-title="24" tvg-chno="798",┃EXYU┃ FOX CRIME HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=1039&extension=ts&play_token=Yz5ZGcUUNx
+#EXTINF:-1 tvg-id="foxlife.rs" tvg-name="┃EXYU┃ FOX LIFE HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/Fox_life_it.png" group-title="24" tvg-chno="799",┃EXYU┃ FOX LIFE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=1038&extension=ts&play_token=scu0WkUvhs
+#EXTINF:-1 tvg-id="foxmovies.rs" tvg-name="┃EXYU┃ FOX MOVIES HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/FOXMOVIES.png" group-title="24" tvg-chno="797",┃EXYU┃ FOX MOVIES HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=1040&extension=ts&play_token=Ke0szAwqW0
+#EXTINF:-1 tvg-id="fox10wala.us" tvg-name="┃USA┃ FOX" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Fox%20Network/Fox%20Network.png" group-title="724" tvg-chno="6564",┃USA┃ FOX
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=987161&extension=ts&play_token=xOMIWTEmnK
+#EXTINF:-1 tvg-id="fox10wala.us" tvg-name="┃USA┃ FOX 10 | XTRA" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Fox%20Network/Fox%20Network.png" group-title="724" tvg-chno="6604",┃USA┃ FOX 10 | XTRA
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=986979&extension=ts&play_token=iDCRH2nSfI
+#EXTINF:-1 tvg-id="foxwnyw.us" tvg-name="┃USA┃ FOX HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/ENTERTAINMENT/FOX NETWORK.png" group-title="505" tvg-chno="5475",┃USA┃ FOX HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=855365&extension=ts&play_token=0rVaEtUS0I
+#EXTINF:-1 tvg-id="foxnews.us" tvg-name="┃USA┃ FOX NEWS CHANNEL" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Fox%20Network/Fox%20Network.png" group-title="724" tvg-chno="6566",┃USA┃ FOX NEWS CHANNEL
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=987159&extension=ts&play_token=V6kbBMca0j
+#EXTINF:-1 tvg-id="foxnews.us" tvg-name="┃USA┃ FOX NEWS CHANNEL HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Fox%20Network/Fox%20Network.png" group-title="724" tvg-chno="6565",┃USA┃ FOX NEWS CHANNEL HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=987162&extension=ts&play_token=r11pqVdXi3
+#EXTINF:-1 tvg-id="foxnews.us" tvg-name="┃USA┃ FOX NEWS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/USANEWS/Fox%20News%20Channel.png" group-title="2951" tvg-chno="5589",┃USA┃ FOX NEWS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=855338&extension=ts&play_token=uWxUJxIX2T
+#EXTINF:-1 tvg-id="foxnews.us" tvg-name="┃USA┃ FOX NEWS LIVE NOW" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Fox%20Network/Fox%20Network.png" group-title="724" tvg-chno="6567",┃USA┃ FOX NEWS LIVE NOW
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=987158&extension=ts&play_token=2ow8VcrBck
+#EXTINF:-1 tvg-id="foxsoccerplus.us" tvg-name="┃USA┃ FOX SOCCER PLUS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/fox soccer plus.png" group-title="511" tvg-chno="5825",┃USA┃ FOX SOCCER PLUS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=858546&extension=ts&play_token=oDBSRknEml
+#EXTINF:-1 tvg-id="foxsoul.us" tvg-name="┃USA┃ FOX SOUL" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Fox%20Network/Fox%20Network.png" group-title="724" tvg-chno="6570",┃USA┃ FOX SOUL
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=987160&extension=ts&play_token=JXsxEl5vPz
+#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="┃USA┃ FOX SPORTS 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/fox sports 1.png" group-title="511" tvg-chno="5823",┃USA┃ FOX SPORTS 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=858547&extension=ts&play_token=L6TFWN0JQ8
+#EXTINF:-1 tvg-id="foxsports2.us" tvg-name="┃USA┃ FOX SPORTS 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/fox sports 2.png" group-title="511" tvg-chno="5824",┃USA┃ FOX SPORTS 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=858555&extension=ts&play_token=VmtdRadngE
+#EXTINF:-1 tvg-name="┃USA┃ FOX SPORTS RACING" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/fox soccer racing.png" group-title="511" tvg-chno="5826",┃USA┃ FOX SPORTS RACING
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=858544&extension=ts&play_token=ZNjc2pyKr2
+#EXTINF:-1 tvg-id="foxweatherwdca4.us" tvg-name="┃USA┃ FOX WEATHER" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Fox%20Network/Fox%20Network.png" group-title="724" tvg-chno="6569",┃USA┃ FOX WEATHER
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=987030&extension=ts&play_token=E2CLT7xl6J
+#EXTINF:-1 tvg-id="foxweatherwdca4.us" tvg-name="┃USA┃ FOX WEATHER HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/USANEWS/Fox%20Weather.png" group-title="2951" tvg-chno="5625",┃USA┃ FOX WEATHER HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=855304&extension=ts&play_token=asMfk3Hzj4
+#EXTINF:-1 tvg-name="┃TR┃ SLTV GOLD HD" group-title="3583" tvg-chno="4660",┃TR┃ SLTV GOLD HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=1471949&extension=ts&play_token=VPZwUh76Wy
+#EXTINF:-1 tvg-name="┃TR┃ NEOCINE GOLD" group-title="3583" tvg-chno="4637",┃TR┃ NEOCINE GOLD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=1471926&extension=ts&play_token=KO3edJTQyA
+#EXTINF:-1 tvg-name="┃TR┃ MAX GOLD HD" group-title="3583" tvg-chno="4591",┃TR┃ MAX GOLD HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=1471880&extension=ts&play_token=92uYA0KM0p
+#EXTINF:-1 tvg-id="sat1gold.de" tvg-name="┃DE┃ SAT.1 GOLD HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/SAT.1 GOLD.png" group-title="3391" tvg-chno="2577",┃DE┃ SAT.1 GOLD HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=1280768&extension=ts&play_token=pUHPbDSG29
+#EXTINF:-1 tvg-id="sat1.de" tvg-name="┃DE┃ SAT.1 GOLD HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/GOLDHD.png" group-title="5" tvg-chno="1513",┃DE┃ SAT.1 GOLD HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=431&extension=ts&play_token=6l1DuSgCiz
+#EXTINF:-1 tvg-name="┃AL┃ FILM GOLD HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/FILMGOLD.png" group-title="3" tvg-chno="94",┃AL┃ FILM GOLD HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=212425&extension=ts&play_token=na8HNJYjaK
+#EXTINF:-1 tvg-name="┃AL┃ TELE ONE GOLD COLLECTION HD" group-title="3714" tvg-chno="355",┃AL┃ TELE ONE GOLD COLLECTION HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=1653062&extension=ts&play_token=emH5HxFcgG
+#EXTINF:-1 tvg-name="┃AL┃ DARK GOLD 1 HD" group-title="3714" tvg-chno="372",┃AL┃ DARK GOLD 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=1653091&extension=ts&play_token=zqWHf45l55
+#EXTINF:-1 tvg-name="┃AL┃ DARK GOLD 2 HD" group-title="3714" tvg-chno="373",┃AL┃ DARK GOLD 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=1653092&extension=ts&play_token=ni6urJTI6f
+#EXTINF:-1 tvg-name="┃AL┃ DARK GOLD 3 HD" group-title="3714" tvg-chno="374",┃AL┃ DARK GOLD 3 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=1653093&extension=ts&play_token=b8LLNro743
+#EXTINF:-1 tvg-name="┃AL┃ DARK GOLD 4 HD" group-title="3714" tvg-chno="375",┃AL┃ DARK GOLD 4 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=1653094&extension=ts&play_token=jtvuIyXl9g
+#EXTINF:-1 tvg-name="┃AL┃ DIGI GOLD 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/FILMGOLD.png" group-title="3" tvg-chno="164",┃AL┃ DIGI GOLD 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=189266&extension=ts&play_token=kD23i1mHyD
+#EXTINF:-1 tvg-name="┃AL┃ DIGI GOLD 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/FILMGOLD.png" group-title="3" tvg-chno="165",┃AL┃ DIGI GOLD 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=189267&extension=ts&play_token=Q9udMlCeXk
+#EXTINF:-1 tvg-name="┃AL┃ DIGI GOLD 3 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/FILMGOLD.png" group-title="3" tvg-chno="166",┃AL┃ DIGI GOLD 3 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=189268&extension=ts&play_token=3sXflJKesW
+#EXTINF:-1 tvg-name="┃AL┃ DIGI GOLD 4 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/FILMGOLD.png" group-title="3" tvg-chno="167",┃AL┃ DIGI GOLD 4 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=189269&extension=ts&play_token=I5nQvkW98o
+#EXTINF:-1 tvg-name="┃AL┃ DIGI GOLD HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/FILMGOLD.png" group-title="3" tvg-chno="163",┃AL┃ DIGI GOLD HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=189265&extension=ts&play_token=s0zDWfc5BR
+#EXTINF:-1 tvg-name="┃AL┃ FILM GOLD FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/FILMGOLD.png" group-title="3" tvg-chno="93",┃AL┃ FILM GOLD FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=89&extension=ts&play_token=IrMnlWB29k
+#EXTINF:-1 tvg-name="┃TR┃ NEOCINE YESILCAM" group-title="3583" tvg-chno="4648",┃TR┃ NEOCINE YESILCAM
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=1471937&extension=ts&play_token=KpWexLQW6u
+#EXTINF:-1 tvg-name="┃TR┃ SLTV YESILCAM 1" group-title="3583" tvg-chno="4668",┃TR┃ SLTV YESILCAM 1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=1471957&extension=ts&play_token=ZKz7zLJAB1
+#EXTINF:-1 tvg-name="┃TR┃ SLTV YESILCAM 2" group-title="3583" tvg-chno="4669",┃TR┃ SLTV YESILCAM 2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=1471958&extension=ts&play_token=CAMAO8Df5E
+#EXTINF:-1 tvg-name="┃TR┃ SLTV YESILCAM 3" group-title="3583" tvg-chno="4670",┃TR┃ SLTV YESILCAM 3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=1471959&extension=ts&play_token=6KDmQFtrKm
+#EXTINF:-1 tvg-name="┃TR┃ CINE YESILCAM 1 HD" group-title="3583" tvg-chno="4631",┃TR┃ CINE YESILCAM 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=1471920&extension=ts&play_token=9F4Fua0f2G
+#EXTINF:-1 tvg-name="┃TR┃ CINE YESILCAM 3 HD" group-title="3583" tvg-chno="4632",┃TR┃ CINE YESILCAM 3 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=1471921&extension=ts&play_token=FoThaOMdWy
+#EXTINF:-1 tvg-name="┃TR┃ CINE YESILCAM 4 HD" group-title="3583" tvg-chno="4633",┃TR┃ CINE YESILCAM 4 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=1471922&extension=ts&play_token=jie0HtVljF
+#EXTINF:-1 tvg-id="oxygen.us" tvg-name="┃USA┃ OXYGEN HD [EAST]" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/ENTERTAINMENT/OXYGEN.png" group-title="505" tvg-chno="5485",┃USA┃ OXYGEN HD [EAST]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=855484&extension=ts&play_token=eDjv6MalsY
+#EXTINF:-1 tvg-id="oxygen.us" tvg-name="┃USA┃ OXYGEN HD [WEST]" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/ENTERTAINMENT/OXYGEN.png" group-title="505" tvg-chno="5486",┃USA┃ OXYGEN HD [WEST]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=855483&extension=ts&play_token=pHbFCzWHFz
+#EXTINF:-1 tvg-name="┃TR┃ YENILMEZLER" group-title="3582" tvg-chno="4576",┃TR┃ YENILMEZLER
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=1471847&extension=ts&play_token=PK40QJlFBh
+#EXTINF:-1 tvg-name="┃TR┃ YENILMEZLER" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/|TR| SIENAM REX/SINEMA REX.png" group-title="3587" tvg-chno="4816",┃TR┃ YENILMEZLER
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=1472393&extension=ts&play_token=WhUcDMjtNX
+#EXTINF:-1 tvg-name="┃IT┃ FEMMINILE | MEZZOCORONA - PALLAMANO" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/IT SERIE A B C/MEZZOCORONA - PALLAMANO.png" group-title="2980" tvg-chno="3559",┃IT┃ FEMMINILE | MEZZOCORONA - PALLAMANO
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=883834&extension=ts&play_token=3EZ0CTcnp9
+#EXTINF:-1 tvg-name="┃AL┃ 24KITCHEN" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/24Kitchen_HD.png" group-title="3" tvg-chno="215",┃AL┃ 24KITCHEN
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=231&extension=ts&play_token=65cyyTHYbv
+#EXTINF:-1 tvg-id="24kitchen.rs" tvg-name="┃EXYU┃ 24KITCHEN HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/24Kitchen.png" group-title="827" tvg-chno="826",┃EXYU┃ 24KITCHEN HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=1066&extension=ts&play_token=EIFHSZqw2T
+#EXTINF:-1 tvg-id="24kitchen.tr" tvg-name="┃TR┃ 24KITCHEN HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/24Kitchen.png" group-title="12" tvg-chno="5399",┃TR┃ 24KITCHEN HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=197440&extension=ts&play_token=oymgDlNYwY
+#EXTINF:-1 tvg-name="┃DE┃ FOLX MUSIC TELEVISION HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/FOLX MUSIC TELEVISION.png" group-title="3391" tvg-chno="2605",┃DE┃ FOLX MUSIC TELEVISION HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=1280642&extension=ts&play_token=OaPoO6UI3P
+#EXTINF:-1 tvg-id="geotelevision.de" tvg-name="┃DE┃ GEO TELEVISION HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/GEO TELEVISION.png" group-title="3391" tvg-chno="2641",┃DE┃ GEO TELEVISION HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=1280652&extension=ts&play_token=KTMhiHOClZ
+#EXTINF:-1 tvg-id="ktv.al" tvg-name="┃AL┃ KTV KOHAVISION HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/KTVKOHAVISION.png" group-title="3" tvg-chno="12",┃AL┃ KTV KOHAVISION HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=17&extension=ts&play_token=3RqOvdzbyL
+#EXTINF:-1 tvg-name="┃DE┃ ZWEI MUSIC TELEVISION HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/ZWEI MUSIC TELEVISION.png" group-title="3391" tvg-chno="2607",┃DE┃ ZWEI MUSIC TELEVISION HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=1280835&extension=ts&play_token=FNjfQQuGrG
+#EXTINF:-1 tvg-name="┃DE┃ ONE MUSIC TELEVISION HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/ONE MUSIC TELEVISION.png" group-title="3391" tvg-chno="2606",┃DE┃ ONE MUSIC TELEVISION HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=1280730&extension=ts&play_token=eqkVzune8w
+#EXTINF:-1 tvg-name="┃USA┃ UNIVISION NETWORK" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/UNIVISON/UNIVISON.png" group-title="3050" tvg-chno="8502",┃USA┃ UNIVISION NETWORK
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=934998&extension=ts&play_token=ZuwR894uDL
+#EXTINF:-1 tvg-name="┃USA┃ UNIVISION TUDN" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/UNIVISON/UNIVISON.png" group-title="3050" tvg-chno="8503",┃USA┃ UNIVISION TUDN
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=934995&extension=ts&play_token=5Q1TPOrgam
+#EXTINF:-1 tvg-id="usanetwork.us" tvg-name="┃USA┃ USA NETWORK HD [EAST]" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/ENTERTAINMENT/USA NETWORK.png" group-title="505" tvg-chno="5491",┃USA┃ USA NETWORK HD [EAST]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=855449&extension=ts&play_token=ZY9h6QMEIL
+#EXTINF:-1 tvg-id="usanetwork.us" tvg-name="┃USA┃ USA NETWORK HD [WEST]" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/ENTERTAINMENT/USA NETWORK.png" group-title="505" tvg-chno="5492",┃USA┃ USA NETWORK HD [WEST]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=855448&extension=ts&play_token=5vTa0NgeyD
+#EXTINF:-1 tvg-name="┃AL┃ ALB USA" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/ALBUSA.png" group-title="275" tvg-chno="426",┃AL┃ ALB USA
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=677286&extension=ts&play_token=sMXJUzSJVr
+#EXTINF:-1 tvg-name="┃AL┃ ALB' SWISS TV HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/ALBSWISS.png" group-title="275" tvg-chno="424",┃AL┃ ALB' SWISS TV HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=246&extension=ts&play_token=AzUrm7pe0i
+#EXTINF:-1 tvg-name="┃AL┃ ART SPORT 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/SPORT/ART SPORT 1.png" group-title="3711" tvg-chno="296",┃AL┃ ART SPORT 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=336&extension=ts&play_token=3xFGJcBTB0
+#EXTINF:-1 tvg-name="┃AL┃ ART SPORT 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/SPORT/ART SPORT 2.png" group-title="3711" tvg-chno="298",┃AL┃ ART SPORT 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=337&extension=ts&play_token=aDJdH4DuRo
+#EXTINF:-1 tvg-name="┃AL┃ ART SPORT 3 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/SPORT/ART SPORT 3.png" group-title="3711" tvg-chno="300",┃AL┃ ART SPORT 3 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=338&extension=ts&play_token=Mpm8WteAaA
+#EXTINF:-1 tvg-name="┃AL┃ ART SPORT 4 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/SPORT/ART SPORT 4.png" group-title="3711" tvg-chno="302",┃AL┃ ART SPORT 4 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=214769&extension=ts&play_token=TPboXNKDbT
+#EXTINF:-1 tvg-name="┃AL┃ ART SPORT 5 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/SPORT/ART SPORT 5.png" group-title="3711" tvg-chno="304",┃AL┃ ART SPORT 5 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=214770&extension=ts&play_token=SBLgnw1ykv
+#EXTINF:-1 tvg-name="┃AL┃ ART SPORT 6 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/SPORT/ART SPORT 6.png" group-title="3711" tvg-chno="306",┃AL┃ ART SPORT 6 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=214771&extension=ts&play_token=SSl7qQmb3B
+#EXTINF:-1 tvg-name="┃AL┃ ARTA NEWS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/ARTATV.png" group-title="3" tvg-chno="71",┃AL┃ ARTA NEWS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=75&extension=ts&play_token=2HozeCm3su
+#EXTINF:-1 tvg-name="┃AL┃ ATV HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/ATV.png" group-title="3" tvg-chno="20",┃AL┃ ATV HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=37&extension=ts&play_token=16ds5gVfzK
+#EXTINF:-1 tvg-name="┃AL┃ CINE 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX3/ALCINE.png" group-title="3" tvg-chno="182",┃AL┃ CINE 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=189270&extension=ts&play_token=f12X80r5jy
+#EXTINF:-1 tvg-name="┃AL┃ CINE 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX3/ALCINE.png" group-title="3" tvg-chno="183",┃AL┃ CINE 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=189271&extension=ts&play_token=dccmNUYDtF
+#EXTINF:-1 tvg-name="┃AL┃ CINE 3 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX3/ALCINE.png" group-title="3" tvg-chno="184",┃AL┃ CINE 3 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=189272&extension=ts&play_token=ORplDf7WdD
+#EXTINF:-1 tvg-name="┃AL┃ CINE 4 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX3/ALCINE.png" group-title="3" tvg-chno="185",┃AL┃ CINE 4 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=189273&extension=ts&play_token=KLRM8vl6xM
+#EXTINF:-1 tvg-name="┃AL┃ CINEMA 1 HD" group-title="3714" tvg-chno="343",┃AL┃ CINEMA 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=1653068&extension=ts&play_token=UY4xT7n5ha
+#EXTINF:-1 tvg-name="┃AL┃ CINEMA 2 HD" group-title="3714" tvg-chno="344",┃AL┃ CINEMA 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=1653069&extension=ts&play_token=7DgiqsbEaE
+#EXTINF:-1 tvg-name="┃AL┃ DARK DELUXE HD" group-title="3714" tvg-chno="381",┃AL┃ DARK DELUXE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=1653101&extension=ts&play_token=5xvnSr1kGN
+#EXTINF:-1 tvg-name="┃AL┃ DARK AKSION HD" group-title="3714" tvg-chno="380",┃AL┃ DARK AKSION HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=1653099&extension=ts&play_token=vJH9jRdTZJ
+#EXTINF:-1 tvg-name="┃AL┃ DARK FANTAZI HD" group-title="3714" tvg-chno="383",┃AL┃ DARK FANTAZI HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=1653108&extension=ts&play_token=AOFdUM4zmA
+#EXTINF:-1 tvg-name="┃AL┃ DARK THRILLER HD" group-title="3714" tvg-chno="391",┃AL┃ DARK THRILLER HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=1653100&extension=ts&play_token=BIJ3stqj6E
+#EXTINF:-1 tvg-name="┃AL┃ DARK SPECIAL HD" group-title="3714" tvg-chno="390",┃AL┃ DARK SPECIAL HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=1653102&extension=ts&play_token=bLveEnp4nS
