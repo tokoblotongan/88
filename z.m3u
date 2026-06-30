@@ -467,3 +467,346 @@ http://alpha6-tx.me:80/play/live.php?mac=00:1A:79:B6:5F:60&stream=811956&extensi
 http://alpha6-tx.me:80/play/live.php?mac=00:1A:79:B6:5F:60&stream=812038&extension=ts&play_token=mBWZHOAgYw
 #EXTINF:-1 tvg-name="NL| TREND FM" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/TRENDFM.png" group-title="2389" tvg-chno="5073",NL| TREND FM
 http://alpha6-tx.me:80/play/live.php?mac=00:1A:79:B6:5F:60&stream=2023122&extension=ts&play_token=IJsDo03Iyg
+#EXTM3U
+#EXTINF:-1 tvg-name="┃AF┃ CINE+ CLUB HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/AFRICA/CANAL+ AFRICA/CINE+ CLUB.png" group-title="676" tvg-chno="21198",┃AF┃ CINE+ CLUB HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=958752&extension=ts&play_token=KtNHN6QP4s
+#EXTINF:-1 tvg-name="┃AF┃ ENGLISH CLUB TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/AFRICA/CANAL+ AFRICA/ENGLISH CLUB TV.png" group-title="676" tvg-chno="21228",┃AF┃ ENGLISH CLUB TV
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=958682&extension=ts&play_token=QVp4Se3BbA
+#EXTINF:-1 tvg-name="┃AR┃ VIVO CLUB HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/VIVO/VIVO.png" group-title="2672" tvg-chno="19947",┃AR┃ VIVO CLUB HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=672297&extension=ts&play_token=QIgPcMyByd
+#EXTINF:-1 tvg-id="rtlclub.be" tvg-name="┃BE┃ RTL CLUB HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BELGIE/BE TV VLAANDEREN/RTL CLUB.png" group-title="3539" tvg-chno="1888",┃BE┃ RTL CLUB HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=1420252&extension=ts&play_token=LxqU9LTjFv
+#EXTINF:-1 tvg-id="clubrtl.be" tvg-name="┃BE┃ RTL CLUB HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BELGIE/RTLCLUBHD.png" group-title="623" tvg-chno="1998",┃BE┃ RTL CLUB HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=368571&extension=ts&play_token=7joHqSGpCM
+#EXTINF:-1 tvg-name="┃PL┃ CLUBBING TV" group-title="855" tvg-chno="17813",┃PL┃ CLUBBING TV
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=1729319&extension=ts&play_token=cIVHekiy15
+#EXTINF:-1 tvg-id="clubbingtvhd.pt" tvg-name="┃PT┃ CLUBBING TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/MUSICA/CLUBBING TV.png" group-title="836" tvg-chno="18232",┃PT┃ CLUBBING TV
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=960076&extension=ts&play_token=BFElZCn8Y2
+#EXTINF:-1 tvg-name="┃MK┃ NASA TV (NASHA TV)" tvg-logo="http://picon.tivi-ott.net:25461/picon/MACEDONIA/640px-NASA_TV.svg.png" group-title="18" tvg-chno="16148",┃MK┃ NASA TV (NASHA TV)
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=911&extension=ts&play_token=5O6n0uPpWd
+#EXTINF:-1 tvg-id="nasachannel.us" tvg-name="┃USA┃ NASA HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/docu/nasa.png" group-title="510" tvg-chno="9389",┃USA┃ NASA HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=858798&extension=ts&play_token=hi98LgK1Og
+#EXTINF:-1 tvg-name="┃DE┃ DRAGON BALL HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DESERIEAX.png" group-title="2689" tvg-chno="3484",┃DE┃ DRAGON BALL HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=685704&extension=ts&play_token=pG05fDDVdj
+#EXTINF:-1 tvg-name="┃PL┃ 24/7 DRAGON BALL" group-title="853" tvg-chno="17577",┃PL┃ 24/7 DRAGON BALL
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=1728999&extension=ts&play_token=mBZCPlvleV
+#EXTINF:-1 tvg-name="┃USA┃ 24/7 | SUPER DRAGON BALL HEROES" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/USA 247  ACTION & ADVENTURE/247  ACTION & ADVENTURE.png" group-title="3492" tvg-chno="13752",┃USA┃ 24/7 | SUPER DRAGON BALL HEROES
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=1376855&extension=ts&play_token=0gCoZiJi71
+#EXTINF:-1 tvg-name="┃AFG┃ VARZISH SPORT HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/AFGHANISTAN/VARZISH SPORT HD.png" group-title="654" tvg-chno="20639",┃AFG┃ VARZISH SPORT HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=797294&extension=ts&play_token=CGQRjTldNe
+#EXTINF:-1 tvg-name="┃UCL┃ ZIGGO SPORT 1 HD [NL]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="3010" tvg-chno="1",┃UCL┃ ZIGGO SPORT 1 HD [NL]
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=894968&extension=ts&play_token=DA8yyrkxuT
+#EXTINF:-1 tvg-name="┃UCL┃ ZIGGO SPORT 2 HD [NL]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="3010" tvg-chno="2",┃UCL┃ ZIGGO SPORT 2 HD [NL]
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=894969&extension=ts&play_token=vhvxIBLsXL
+#EXTINF:-1 tvg-name="┃UCL┃ ZIGGO SPORT 3 HD [NL]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="3010" tvg-chno="3",┃UCL┃ ZIGGO SPORT 3 HD [NL]
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=894970&extension=ts&play_token=L1BMhhwFVq
+#EXTINF:-1 tvg-name="┃UCL┃ ZIGGO SPORT 4 HD [NL]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="3010" tvg-chno="4",┃UCL┃ ZIGGO SPORT 4 HD [NL]
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=894971&extension=ts&play_token=idS3LD3NmU
+#EXTINF:-1 tvg-name="┃UCL┃ ZIGGO SPORT 5 HD [NL]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="3010" tvg-chno="5",┃UCL┃ ZIGGO SPORT 5 HD [NL]
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=894972&extension=ts&play_token=6xDRKbuY66
+#EXTINF:-1 tvg-name="┃UCL┃ ZIGGO SPORT 6 HD [NL]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="3010" tvg-chno="6",┃UCL┃ ZIGGO SPORT 6 HD [NL]
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=894973&extension=ts&play_token=TVJTZKd2Uw
+#EXTINF:-1 tvg-name="┃CANAL+┃ ZIGGO SPORT 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CANAL+ LIVE/ZIGGO SPORT 1.png" group-title="3277" tvg-chno="1290",┃CANAL+┃ ZIGGO SPORT 1 HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=1084671&extension=ts&play_token=VixfC537Ji
+#EXTINF:-1 tvg-name="┃CANAL+┃ ZIGGO SPORT 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CANAL+ LIVE/ZIGGO SPORT 2.png" group-title="3277" tvg-chno="1291",┃CANAL+┃ ZIGGO SPORT 2 HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=1084670&extension=ts&play_token=waGAuSZD30
+#EXTINF:-1 tvg-name="┃CANAL+┃ ZIGGO SPORT 6 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CANAL+ LIVE/ZIGGO SPORT 6.png" group-title="3277" tvg-chno="1292",┃CANAL+┃ ZIGGO SPORT 6 HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=1084669&extension=ts&play_token=IAFg7iDl2q
+#EXTINF:-1 tvg-id="ziggosportselect.nl" tvg-name="┃NL┃ ZIGGO SPORT 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NL ODIDO FHD 50FPS/ZIGGO SPORT SELECT.png" group-title="3039" tvg-chno="1116",┃NL┃ ZIGGO SPORT 1 HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=948041&extension=ts&play_token=mIi5KTfzba
+#EXTINF:-1 tvg-id="ziggosportvoetbal.nl" tvg-name="┃NL┃ ZIGGO SPORT 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NL ODIDO FHD 50FPS/ZIGGO SPORT VOETBAL.png" group-title="3039" tvg-chno="1117",┃NL┃ ZIGGO SPORT 2 HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=948043&extension=ts&play_token=fzXQC9Nulp
+#EXTINF:-1 tvg-id="ziggosportgolf.nl" tvg-name="┃NL┃ ZIGGO SPORT 3 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NL ODIDO FHD 50FPS/ZIGGO SPORT GOLF.png" group-title="3039" tvg-chno="1118",┃NL┃ ZIGGO SPORT 3 HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=948039&extension=ts&play_token=7Mx7PTE4mK
+#EXTINF:-1 tvg-id="ziggosportracing.nl" tvg-name="┃NL┃ ZIGGO SPORT 4 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NL ODIDO FHD 50FPS/ZIGGO SPORT RACING.png" group-title="3039" tvg-chno="1119",┃NL┃ ZIGGO SPORT 4 HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=948040&extension=ts&play_token=Hm6FRC9oUs
+#EXTINF:-1 tvg-id="ziggosportdocu.nl" tvg-name="┃NL┃ ZIGGO SPORT 5 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NL ODIDO FHD 50FPS/ZIGGO SPORT DOCU.png" group-title="3039" tvg-chno="1120",┃NL┃ ZIGGO SPORT 5 HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=948038&extension=ts&play_token=pgN8cwJk6b
+#EXTINF:-1 tvg-id="ziggosporttennis.nl" tvg-name="┃NL┃ ZIGGO SPORT 6 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NL ODIDO FHD 50FPS/ZIGGO SPORT TENNIS.png" group-title="3039" tvg-chno="1121",┃NL┃ ZIGGO SPORT 6 HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=948042&extension=ts&play_token=8zC4kYvc2F
+#EXTINF:-1 tvg-name="┃DE┃ ESPORTS1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ESPORTSHD.png" group-title="5" tvg-chno="2841",┃DE┃ ESPORTS1 HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=1118&extension=ts&play_token=4wnDe2DmEE
+#EXTINF:-1 tvg-name="┃DE┃ ESPORTSONE HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/ESPORTSONE.png" group-title="3391" tvg-chno="3833",┃DE┃ ESPORTSONE HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=1280634&extension=ts&play_token=v3ip36MhhK
+#EXTINF:-1 tvg-id="sportklubesports.si" tvg-name="┃RS┃ SPORT KLUB ESPORT HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/Sportklub_Logo.svg.png" group-title="825" tvg-chno="16198",┃RS┃ SPORT KLUB ESPORT HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=559135&extension=ts&play_token=ZzIP9McqrG
+#EXTINF:-1 tvg-id="sportklubesports.si" tvg-name="┃RS┃ SPORT KLUB ESPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/Sportklub_Logo.svg.png" group-title="825" tvg-chno="16234",┃RS┃ SPORT KLUB ESPORTS
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=559027&extension=ts&play_token=f01fMIKNjc
+#EXTINF:-1 tvg-name="┃SA┃ GINX ESPORTS TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/AFRICA/DSTV SOUTH AFRICA/GINX ESPORTS TV.png" group-title="3110" tvg-chno="20974",┃SA┃ GINX ESPORTS TV
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=958106&extension=ts&play_token=2q9leXzLBC
+#EXTINF:-1 tvg-name="┃MY┃ CELESTIAL" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/ASTRO MALAYSIA/CELESTIAL.png" group-title="713" tvg-chno="23871",┃MY┃ CELESTIAL
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=383123&extension=ts&play_token=owuYhKLy2G
+#EXTINF:-1 tvg-name="┃MY┃ CCTV4" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/ASTRO MALAYSIA/CCTV4.png" group-title="713" tvg-chno="23870",┃MY┃ CCTV4
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=383124&extension=ts&play_token=67thH4hzyT
+#EXTINF:-1 tvg-name="┃MY┃ CNA" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/ASTRO MALAYSIA/CNA.png" group-title="713" tvg-chno="23875",┃MY┃ CNA
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=383119&extension=ts&play_token=FFbL0Wd6Tb
+#EXTINF:-1 tvg-name="┃MY┃ DISCOVERY" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/ASTRO MALAYSIA/DISCOVERY.png" group-title="713" tvg-chno="23880",┃MY┃ DISCOVERY
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=383114&extension=ts&play_token=6INixSB8jw
+#EXTINF:-1 tvg-name="┃MY┃ DISCOVERY ASIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/ASTRO MALAYSIA/DISCOVERY ASIA.png" group-title="713" tvg-chno="23938",┃MY┃ DISCOVERY ASIA
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=383056&extension=ts&play_token=ZT5wl7hFaj
+#EXTINF:-1 tvg-name="┃MY┃ DISCOVERY SCIENCE" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/ASTRO MALAYSIA/DISCOVERY SCIENCE.png" group-title="713" tvg-chno="23881",┃MY┃ DISCOVERY SCIENCE
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=383113&extension=ts&play_token=0EabArYDCm
+#EXTINF:-1 tvg-name="┃MY┃ DMAX" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/ASTRO MALAYSIA/DMAX.png" group-title="713" tvg-chno="23883",┃MY┃ DMAX
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=383111&extension=ts&play_token=RCvQBicmOL
+#EXTINF:-1 tvg-name="┃MY┃ HBO" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/MALAYSIA/HBO_logo.svg.png" group-title="712" tvg-chno="23822",┃MY┃ HBO
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=383026&extension=ts&play_token=DRTanUg0Mj
+#EXTINF:-1 tvg-name="┃MY┃ HBO RED" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/MALAYSIA/HBOred.png" group-title="712" tvg-chno="23823",┃MY┃ HBO RED
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=383025&extension=ts&play_token=KYRYMJRca3
+#EXTINF:-1 tvg-name="┃MY┃ HISTORY" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/HISTORYHD.png" group-title="713" tvg-chno="23895",┃MY┃ HISTORY
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=383099&extension=ts&play_token=mFZB0n0l4t
+#EXTINF:-1 tvg-name="┃MY┃ LUXETV" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/MALAYSIA/luxetv.png" group-title="712" tvg-chno="23826",┃MY┃ LUXETV
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=383022&extension=ts&play_token=oEij2ihCen
+#EXTINF:-1 tvg-name="┃MY┃ NAT GEO" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/ASTRO MALAYSIA/NAT GEO.png" group-title="713" tvg-chno="23902",┃MY┃ NAT GEO
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=383092&extension=ts&play_token=ic44JU4CQa
+#EXTINF:-1 tvg-name="┃MY┃ NAT GEO ASIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/MALAYSIA/National_Geographic_Channel.svg.png" group-title="712" tvg-chno="23811",┃MY┃ NAT GEO ASIA
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=383037&extension=ts&play_token=8VIeER8iqy
+#EXTINF:-1 tvg-name="┃MY┃ NAT GEO WILD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/MALAYSIA/National_Geographic_Wild_logo.svg.png" group-title="712" tvg-chno="23813",┃MY┃ NAT GEO WILD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=383035&extension=ts&play_token=HBbbh0m6uN
+#EXTINF:-1 tvg-name="┃MY┃ OPPA MANIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/ASTRO MALAYSIA/OPPA MANIA.png" group-title="713" tvg-chno="23907",┃MY┃ OPPA MANIA
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=383087&extension=ts&play_token=bWiT0QQ4Ho
+#EXTINF:-1 tvg-name="┃MY┃ SPOTV" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/ASTRO MALAYSIA/SPOTV.png" group-title="713" tvg-chno="23913",┃MY┃ SPOTV
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=383081&extension=ts&play_token=VpKFpFiJcc
+#EXTINF:-1 tvg-name="┃MY┃ SPOTV2" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/ASTRO MALAYSIA/SPOTV2.png" group-title="713" tvg-chno="23914",┃MY┃ SPOTV2
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=383080&extension=ts&play_token=Vxfz02XjQP
+#EXTINF:-1 tvg-name="┃MY┃ TV3" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/ASTRO MALAYSIA/TV3.png" group-title="713" tvg-chno="23920",┃MY┃ TV3
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=383074&extension=ts&play_token=GRJoGklFVj
+#EXTINF:-1 tvg-name="┃MY┃ TVN MOVIES" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/MALAYSIA/tvnmovies.png" group-title="712" tvg-chno="23824",┃MY┃ TVN MOVIES
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=383024&extension=ts&play_token=W6sVKO74EL
+#EXTINF:-1 tvg-name="┃ID┃ SPOTV 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon//INDONESIA/SPOTV 2.png" group-title="711" tvg-chno="23786",┃ID┃ SPOTV 2 HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=1058975&extension=ts&play_token=siqigtfH49
+#EXTINF:-1 tvg-name="┃ID┃ SPOTV HD" tvg-logo="http://picon.tivi-ott.net:25461/picon//INDONESIA/SPOTV.png" group-title="711" tvg-chno="23787",┃ID┃ SPOTV HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=1058974&extension=ts&play_token=EQ46p1rUyT
+#EXTINF:-1 tvg-name="┃ID┃ SPORTSTARS 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon//INDONESIA/SPORTSTARS 2.png" group-title="711" tvg-chno="23785",┃ID┃ SPORTSTARS 2 HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=1058973&extension=ts&play_token=uzodwEok49
+#EXTINF:-1 tvg-name="┃ID┃ SOCCER CHANNEL HD" tvg-logo="http://picon.tivi-ott.net:25461/picon//INDONESIA/SOCCER CHANNEL.png" group-title="711" tvg-chno="23784",┃ID┃ SOCCER CHANNEL HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=1058972&extension=ts&play_token=YSci2ETHgj
+#EXTINF:-1 tvg-name="┃ID┃ TVN HD" tvg-logo="http://picon.tivi-ott.net:25461/picon//INDONESIA/TVN.png" group-title="711" tvg-chno="23788",┃ID┃ TVN HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=1058977&extension=ts&play_token=d6gqEXdWYt
+#EXTINF:-1 tvg-name="┃ID┃ TVN MOVIES HD" tvg-logo="http://picon.tivi-ott.net:25461/picon//INDONESIA/TVN MOVIES.png" group-title="711" tvg-chno="23789",┃ID┃ TVN MOVIES HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=1058978&extension=ts&play_token=YojoIuh4ae
+#EXTINF:-1 tvg-name="┃ARG┃ RAI ITALIA HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/CABLE PREMIUM/RAI ITALIA.png" group-title="3278" tvg-chno="24739",┃ARG┃ RAI ITALIA HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=1090701&extension=ts&play_token=qTRuLnno9F
+#EXTINF:-1 tvg-id="rai1.it" tvg-name="┃IT┃ RAI 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/Rai_1_HD_Logo.svg.png" group-title="387" tvg-chno="7572",┃IT┃ RAI 1 HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=177585&extension=ts&play_token=WR74SH8Du3
+#EXTINF:-1 tvg-id="rai1.it" tvg-name="┃IT┃ RAI 1 SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/Rai_1_HD_Logo.svg.png" group-title="387" tvg-chno="7573",┃IT┃ RAI 1 SD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=1167215&extension=ts&play_token=TcFV9nuO6x
+#EXTINF:-1 tvg-id="rai2.it" tvg-name="┃IT┃ RAI 2 SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/Rai_2_-_Logo_2016.svg.png" group-title="387" tvg-chno="7575",┃IT┃ RAI 2 SD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=1167216&extension=ts&play_token=OtGqZnt1xc
+#EXTINF:-1 tvg-id="rai3.it" tvg-name="┃IT┃ RAI 3 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/Rai_3_HD_29.png" group-title="387" tvg-chno="7576",┃IT┃ RAI 3 HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=177590&extension=ts&play_token=JNtyImQ3jC
+#EXTINF:-1 tvg-id="rai3.it" tvg-name="┃IT┃ RAI 3 SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/Rai_3_HD_29.png" group-title="387" tvg-chno="7577",┃IT┃ RAI 3 SD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=1167217&extension=ts&play_token=l2FMIWD8ZD
+#EXTINF:-1 tvg-id="rai4.it" tvg-name="┃IT┃ RAI 4 SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/Rai_4_HD_Logo_2016.png" group-title="387" tvg-chno="7589",┃IT┃ RAI 4 SD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=1167223&extension=ts&play_token=2EjaAeEVSw
+#EXTINF:-1 tvg-id="rai5.it" tvg-name="┃IT┃ RAI 5 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/Rai_5_-_Logo_2017.svg.png" group-title="387" tvg-chno="7592",┃IT┃ RAI 5 HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=177711&extension=ts&play_token=RKFZ6f0URn
+#EXTINF:-1 tvg-id="rai5.it" tvg-name="┃IT┃ RAI 5 SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/Rai_5_-_Logo_2017.svg.png" group-title="387" tvg-chno="7593",┃IT┃ RAI 5 SD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=1167225&extension=ts&play_token=fUqxGuSKeA
+#EXTINF:-1 tvg-id="raimovie.it" tvg-name="┃IT┃ RAI MOVIE SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/RAIMOVIE.png" group-title="387" tvg-chno="7597",┃IT┃ RAI MOVIE SD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=1167251&extension=ts&play_token=yiNml1xrYQ
+#EXTINF:-1 tvg-id="raipremium.it" tvg-name="┃IT┃ RAI PREMIUM SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/Rai_Premium_29.png" group-title="387" tvg-chno="7599",┃IT┃ RAI PREMIUM SD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=1167252&extension=ts&play_token=gqlAktKqkv
+#EXTINF:-1 tvg-id="raipremium.it" tvg-name="┃IT┃ RAI PREMIUM HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/Rai_Premium_29.png" group-title="387" tvg-chno="7598",┃IT┃ RAI PREMIUM HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=177713&extension=ts&play_token=azhfFb8h7D
+#EXTINF:-1 tvg-id="raistoria.it" tvg-name="┃IT┃ RAI STORIA SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/RAISTORIA.png" group-title="387" tvg-chno="7611",┃IT┃ RAI STORIA SD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=1167258&extension=ts&play_token=vzd3ULp9EY
+#EXTINF:-1 tvg-id="vtmgold.be" tvg-name="┃BE┃ VTM GOLD HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BELGIE/VTMGOLDHD.png" group-title="792" tvg-chno="1745",┃BE┃ VTM GOLD HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=368525&extension=ts&play_token=BSn4EWy6J6
+#EXTINF:-1 tvg-id="vtmgold.be" tvg-name="┃BE┃ VTM GOLD HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BELGIE/BE TV VLAANDEREN/VTM GOLD.png" group-title="3539" tvg-chno="1875",┃BE┃ VTM GOLD HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=1420217&extension=ts&play_token=tC25zfzkaN
+#EXTINF:-1 tvg-name="┃AL┃ DARK GOLD 1 HD" group-title="3714" tvg-chno="7039",┃AL┃ DARK GOLD 1 HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=1653091&extension=ts&play_token=ZZwtkNJYsh
+#EXTINF:-1 tvg-name="┃AL┃ DARK GOLD 2 HD" group-title="3714" tvg-chno="7040",┃AL┃ DARK GOLD 2 HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=1653092&extension=ts&play_token=5J7O8q65YL
+#EXTINF:-1 tvg-name="┃AL┃ DARK GOLD 3 HD" group-title="3714" tvg-chno="7041",┃AL┃ DARK GOLD 3 HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=1653093&extension=ts&play_token=nunVzqpWY0
+#EXTINF:-1 tvg-name="┃AL┃ DARK GOLD 4 HD" group-title="3714" tvg-chno="7042",┃AL┃ DARK GOLD 4 HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=1653094&extension=ts&play_token=fG17FIqIMT
+#EXTINF:-1 tvg-name="┃AL┃ DIGI GOLD 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/FILMGOLD.png" group-title="3" tvg-chno="6831",┃AL┃ DIGI GOLD 1 HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=189266&extension=ts&play_token=OuNuSvOfrn
+#EXTINF:-1 tvg-name="┃AL┃ DIGI GOLD 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/FILMGOLD.png" group-title="3" tvg-chno="6832",┃AL┃ DIGI GOLD 2 HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=189267&extension=ts&play_token=wiKWbv73Jv
+#EXTINF:-1 tvg-name="┃AL┃ DIGI GOLD 3 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/FILMGOLD.png" group-title="3" tvg-chno="6833",┃AL┃ DIGI GOLD 3 HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=189268&extension=ts&play_token=DCBtfdhavJ
+#EXTINF:-1 tvg-name="┃AL┃ DIGI GOLD 4 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/FILMGOLD.png" group-title="3" tvg-chno="6834",┃AL┃ DIGI GOLD 4 HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=189269&extension=ts&play_token=RufW0W2YEO
+#EXTINF:-1 tvg-name="┃AL┃ DIGI GOLD HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/FILMGOLD.png" group-title="3" tvg-chno="6830",┃AL┃ DIGI GOLD HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=189265&extension=ts&play_token=CYfjSzeBad
+#EXTINF:-1 tvg-name="┃AL┃ FILM GOLD HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/FILMGOLD.png" group-title="3" tvg-chno="6761",┃AL┃ FILM GOLD HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=212425&extension=ts&play_token=ponytC5AbS
+#EXTINF:-1 tvg-name="┃ARG┃ GOLDEN HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/CABLE PREMIUM/GOLDEN.png" group-title="3278" tvg-chno="24713",┃ARG┃ GOLDEN HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=1090654&extension=ts&play_token=mWw5lEHWLP
+#EXTINF:-1 tvg-name="┃MOTOGP┃ TNT SPORT 2" tvg-logo="http://picon.tivi-ott.net:25461/picon/MOTORCYCLE GRAND PRIX/TNT SPORTS 1.png" group-title="3284" tvg-chno="1686",┃MOTOGP┃ TNT SPORT 2
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=1091515&extension=ts&play_token=paFH3kzDAf
+#EXTINF:-1 tvg-name="┃MOTOGP┃ TNT SPORT 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/MOTORCYCLE GRAND PRIX/TNT SPORTS 1.png" group-title="3284" tvg-chno="1685",┃MOTOGP┃ TNT SPORT 2 HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=1091516&extension=ts&play_token=jfZ0O8eYXu
+#EXTINF:-1 tvg-name="┃UCL┃ TNT SPORTS 1 HD [UK]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="3010" tvg-chno="10",┃UCL┃ TNT SPORTS 1 HD [UK]
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=894977&extension=ts&play_token=mss3KdWAkZ
+#EXTINF:-1 tvg-name="┃UCL┃ TNT SPORTS 2 HD [UK]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="3010" tvg-chno="11",┃UCL┃ TNT SPORTS 2 HD [UK]
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=894978&extension=ts&play_token=f6SbZ7NEp5
+#EXTINF:-1 tvg-name="┃UCL┃ TNT SPORTS 3 HD [UK]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="3010" tvg-chno="12",┃UCL┃ TNT SPORTS 3 HD [UK]
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=894979&extension=ts&play_token=E0yX7xBId4
+#EXTINF:-1 tvg-name="┃UCL┃ TNT SPORTS 4 HD [UK]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="3010" tvg-chno="13",┃UCL┃ TNT SPORTS 4 HD [UK]
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=894980&extension=ts&play_token=4JXzAAlhFO
+#EXTINF:-1 tvg-name="┃UCL┃ TNT SPORTS 5 HD [UK]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="3010" tvg-chno="14",┃UCL┃ TNT SPORTS 5 HD [UK]
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=894981&extension=ts&play_token=YoEcJ2v057
+#EXTINF:-1 tvg-id="tntsports1.uk" tvg-name="┃UK┃ TNT SPORTS 1 SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="3366" tvg-chno="4736",┃UK┃ TNT SPORTS 1 SD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=1311948&extension=ts&play_token=lS4GjJX3ph
+#EXTINF:-1 tvg-id="tntsports2.uk" tvg-name="┃UK┃ TNT SPORTS 2 SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="3366" tvg-chno="4737",┃UK┃ TNT SPORTS 2 SD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=1311950&extension=ts&play_token=OU6oy5sins
+#EXTINF:-1 tvg-id="tntsports3.uk" tvg-name="┃UK┃ TNT SPORTS 3 SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="3366" tvg-chno="4738",┃UK┃ TNT SPORTS 3 SD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=1311951&extension=ts&play_token=azZ2Xezs89
+#EXTINF:-1 tvg-id="tntsports4.uk" tvg-name="┃UK┃ TNT SPORTS 4 SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="3366" tvg-chno="4739",┃UK┃ TNT SPORTS 4 SD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=1311952&extension=ts&play_token=JPF3eVNtjp
+#EXTINF:-1 tvg-id="tntsports5.uk" tvg-name="┃UK┃ TNT SPORTS 5 SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="3366" tvg-chno="4740",┃UK┃ TNT SPORTS 5 SD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=1311953&extension=ts&play_token=Rx3tFfTEoH
+#EXTINF:-1 tvg-id="tntsports6.uk" tvg-name="┃UK┃ TNT SPORTS 6 SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="3366" tvg-chno="4741",┃UK┃ TNT SPORTS 6 SD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=1311954&extension=ts&play_token=BGglq95Hj2
+#EXTINF:-1 tvg-id="tntsports8.uk" tvg-name="┃UK┃ TNT SPORTS 8 SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="3366" tvg-chno="4743",┃UK┃ TNT SPORTS 8 SD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=1311956&extension=ts&play_token=TDra1CJaaT
+#EXTINF:-1 tvg-id="tntsports7.uk" tvg-name="┃UK┃ TNT SPORTS 7 SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="3366" tvg-chno="4742",┃UK┃ TNT SPORTS 7 SD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=1311955&extension=ts&play_token=fYtN4tqmzR
+#EXTINF:-1 tvg-id="tntsports9.uk" tvg-name="┃UK┃ TNT SPORTS 9 SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="3366" tvg-chno="4744",┃UK┃ TNT SPORTS 9 SD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=1311957&extension=ts&play_token=5BW5qvqnd7
+#EXTINF:-1 tvg-name="┃UK┃ TNT SPORTS BOX OFFICE |" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/BOXING PPV/TNT SPORTS BOX.png" group-title="2920" tvg-chno="5537",┃UK┃ TNT SPORTS BOX OFFICE |
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=1172359&extension=ts&play_token=UN22T1Zs0g
+#EXTINF:-1 tvg-name="┃UK┃ TNT SPORTS BOX OFFICE HD |" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/BOXING PPV/TNT SPORTS BOX.png" group-title="2920" tvg-chno="5536",┃UK┃ TNT SPORTS BOX OFFICE HD |
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=1172360&extension=ts&play_token=idZt0ExzpD
+#EXTINF:-1 tvg-id="fxx.us" tvg-name="┃USA┃ FXX HD [EAST]" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/ENTERTAINMENT/FXX.png" group-title="505" tvg-chno="8822",┃USA┃ FXX HD [EAST]
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=855440&extension=ts&play_token=gOAWZdY1y1
+#EXTINF:-1 tvg-id="fxx.us" tvg-name="┃USA┃ FXX HD [WEST]" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/ENTERTAINMENT/FXX.png" group-title="505" tvg-chno="8823",┃USA┃ FXX HD [WEST]
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=855439&extension=ts&play_token=BldA7fDLzx
+#EXTINF:-1 tvg-id="espn.us" tvg-name="┃USA┃ ESPN HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/espn.png" group-title="511" tvg-chno="9178",┃USA┃ ESPN HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=858554&extension=ts&play_token=c4SJLcMszM
+#EXTINF:-1 tvg-id="espnnews.us" tvg-name="┃USA┃ ESPN NEWS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/espn news.png" group-title="511" tvg-chno="9181",┃USA┃ ESPN NEWS HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=858551&extension=ts&play_token=BiQaVQicQx
+#EXTINF:-1 tvg-id="espnu.us" tvg-name="┃USA┃ ESPN U HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/espn u.png" group-title="511" tvg-chno="9180",┃USA┃ ESPN U HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=858550&extension=ts&play_token=qTEi5NQrzI
+#EXTINF:-1 tvg-id="espn2.us" tvg-name="┃USA┃ ESPN 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/espn 2.png" group-title="511" tvg-chno="9179",┃USA┃ ESPN 2 HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=858552&extension=ts&play_token=5lPGHxnReL
+#EXTINF:-1 tvg-name="┃URY┃ ESPN3" tvg-logo="http://picon.tivi-ott.net:25461/picon/URUGUAY/ESPN.png" group-title="688" tvg-chno="25622",┃URY┃ ESPN3
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=374095&extension=ts&play_token=bgotRVpMUr
+#EXTINF:-1 tvg-name="┃URY┃ ESPN" tvg-logo="http://picon.tivi-ott.net:25461/picon/URUGUAY/ESPN.png" group-title="688" tvg-chno="25623",┃URY┃ ESPN
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=374094&extension=ts&play_token=hkg5eyhWUm
+#EXTINF:-1 tvg-name="┃NZ┃ ESPN 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEW ZEELAND/ESPN 1 HD.png" group-title="2884" tvg-chno="14767",┃NZ┃ ESPN 1 HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=809368&extension=ts&play_token=CkYx0f65ev
+#EXTINF:-1 tvg-name="┃NZ┃ ESPN 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEW ZEELAND/ESPN 2 HD.png" group-title="2884" tvg-chno="14768",┃NZ┃ ESPN 2 HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=809367&extension=ts&play_token=gcl5glNLWa
+#EXTINF:-1 tvg-name="┃SA┃ ESPN HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/AFRICA/DSTV SOUTH AFRICA/ESPN.png" group-title="3110" tvg-chno="21053",┃SA┃ ESPN HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=958054&extension=ts&play_token=60bow0KMO6
+#EXTINF:-1 tvg-name="┃SA┃ ESPN2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/AFRICA/DSTV SOUTH AFRICA/ESPN2.png" group-title="3110" tvg-chno="21052",┃SA┃ ESPN2 HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=958053&extension=ts&play_token=xxuwAL5wkY
+#EXTINF:-1 tvg-name="┃AF┃ ESPN 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/AFRICA/AZAM EAST AFRICA/ESPN 2.png" group-title="3111" tvg-chno="21135",┃AF┃ ESPN 2 HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=958235&extension=ts&play_token=El5bdsmyMr
+#EXTINF:-1 tvg-name="┃AF┃ ESPN HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/AFRICA/AZAM EAST AFRICA/ESPN.png" group-title="3111" tvg-chno="21134",┃AF┃ ESPN HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=958236&extension=ts&play_token=x7LOoRD0Ke
+#EXTINF:-1 tvg-name="┃ARG┃ ESPN 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/CABLE PREMIUM/ESPN 2.png" group-title="3278" tvg-chno="24701",┃ARG┃ ESPN 2 HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=1090695&extension=ts&play_token=ZehDWHxjUi
+#EXTINF:-1 tvg-name="┃ARG┃ ESPN 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/EL FUTBOL/ESPN 2.png" group-title="3279" tvg-chno="24767",┃ARG┃ ESPN 2 HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=1090719&extension=ts&play_token=ZzEIya7tol
+#EXTINF:-1 tvg-name="┃ARG┃ ESPN 3 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/CABLE PREMIUM/ESPN 3.png" group-title="3278" tvg-chno="24702",┃ARG┃ ESPN 3 HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=1090641&extension=ts&play_token=xeJY4KkWRS
+#EXTINF:-1 tvg-name="┃ARG┃ ESPN 3 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/EL FUTBOL/ESPN 3.png" group-title="3279" tvg-chno="24768",┃ARG┃ ESPN 3 HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=1090720&extension=ts&play_token=NuRivx6WnA
+#EXTINF:-1 tvg-name="┃ARG┃ ESPN 4 EXTRA HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/CABLE PREMIUM/ESPN 4.png" group-title="3278" tvg-chno="24703",┃ARG┃ ESPN 4 EXTRA HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=1090642&extension=ts&play_token=8SocTmoVog
+#EXTINF:-1 tvg-name="┃ARG┃ ESPN 4 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/EL FUTBOL/ESPN 4.png" group-title="3279" tvg-chno="24769",┃ARG┃ ESPN 4 HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=1090721&extension=ts&play_token=mNwStQRUHS
+#EXTINF:-1 tvg-name="┃ARG┃ ESPN HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/CABLE PREMIUM/ESPN.png" group-title="3278" tvg-chno="24704",┃ARG┃ ESPN HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=1090640&extension=ts&play_token=R0pqDwX3qk
+#EXTINF:-1 tvg-name="┃ARG┃ ESPN HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/EL FUTBOL/ESPN.png" group-title="3279" tvg-chno="24766",┃ARG┃ ESPN HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=1090718&extension=ts&play_token=HGc3khNdcv
+#EXTINF:-1 tvg-name="┃AU┃ ESPN 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRALIA/AU AUSTRALIA LOGOS/ESPN 1.png" group-title="2869" tvg-chno="14601",┃AU┃ ESPN 1 HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=944688&extension=ts&play_token=sXvwsYjqbT
+#EXTINF:-1 tvg-name="┃AU┃ ESPN 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRALIA/AU AUSTRALIA LOGOS/ESPN 2.png" group-title="2869" tvg-chno="14602",┃AU┃ ESPN 2 HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=944689&extension=ts&play_token=FNeGkup58T
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="┃BR┃ ESPN 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BRAZIL/ESPN 2 HD.png" group-title="685" tvg-chno="24319",┃BR┃ ESPN 2 HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=901432&extension=ts&play_token=xQ2A1n6SQs
+#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="┃BR┃ ESPN BRASIL HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BRAZIL/ESPN BRASIL.png" group-title="685" tvg-chno="24320",┃BR┃ ESPN BRASIL HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=901433&extension=ts&play_token=FPg62mZnA5
+#EXTINF:-1 tvg-id="espnextra.br" tvg-name="┃BR┃ ESPN EXTRA HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BRAZIL/ESPN EXTRA HD.png" group-title="685" tvg-chno="24321",┃BR┃ ESPN EXTRA HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=901431&extension=ts&play_token=599dmClygU
+#EXTINF:-1 tvg-id="espn.br" tvg-name="┃BR┃ ESPN HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BRAZIL/ESPN HD.png" group-title="685" tvg-chno="24322",┃BR┃ ESPN HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=901430&extension=ts&play_token=leTpiGnCUe
+#EXTINF:-1 tvg-id="espn3.nl" tvg-name="┃CANAL+┃ ESPN 3 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CANAL+ LIVE/ESPN 3.png" group-title="3277" tvg-chno="1288",┃CANAL+┃ ESPN 3 HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=1084610&extension=ts&play_token=A3Cihb2z9j
+#EXTINF:-1 tvg-id="espn4.nl" tvg-name="┃CANAL+┃ ESPN 4 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CANAL+ LIVE/ESPN 4.png" group-title="3277" tvg-chno="1289",┃CANAL+┃ ESPN 4 HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=1084611&extension=ts&play_token=DoKeGG1AOu
+#EXTINF:-1 tvg-id="espn2.nl" tvg-name="┃CANAL+┃ ESPN 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CANAL+ LIVE/ESPN 2.png" group-title="3277" tvg-chno="1287",┃CANAL+┃ ESPN 2 HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=1084609&extension=ts&play_token=6hQ6GTDmaR
+#EXTINF:-1 tvg-id="espn.nl" tvg-name="┃CANAL+┃ ESPN HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CANAL+ LIVE/ESPN.png" group-title="3277" tvg-chno="1286",┃CANAL+┃ ESPN HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=1084608&extension=ts&play_token=oxw8UXXlx0
+#EXTINF:-1 tvg-name="┃CAR┃ ESPN" tvg-logo="http://picon.tivi-ott.net:25461/picon/CARIBBEAN/CARIBBEAN/ESPN.png" group-title="686" tvg-chno="24448",┃CAR┃ ESPN
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=1099949&extension=ts&play_token=FxqNVgKoBv
+#EXTINF:-1 tvg-name="┃CAR┃ ESPN 2" tvg-logo="http://picon.tivi-ott.net:25461/picon/CARIBBEAN/CARIBBEAN/ESPN 2.png" group-title="686" tvg-chno="24449",┃CAR┃ ESPN 2
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=1099948&extension=ts&play_token=XLY7KMZ8JQ
+#EXTINF:-1 tvg-name="┃CAR┃ ESPN 2 CARIBBEAN" tvg-logo="http://picon.tivi-ott.net:25461/picon/CARIBBEAN/CARIBBEAN/ESPN 2 CARIBBEAN.png" group-title="686" tvg-chno="24450",┃CAR┃ ESPN 2 CARIBBEAN
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=1100032&extension=ts&play_token=75IA8RW3np
+#EXTINF:-1 tvg-name="┃CAR┃ ESPN 3" tvg-logo="http://picon.tivi-ott.net:25461/picon/CARIBBEAN/CARIBBEAN/ESPN 3.png" group-title="686" tvg-chno="24451",┃CAR┃ ESPN 3
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=1099950&extension=ts&play_token=g3pMIWbv2u
+#EXTINF:-1 tvg-name="┃CHL┃ ESPN FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/CHILE/PRIMERA DIVISION/ESPN.png" group-title="3288" tvg-chno="25136",┃CHL┃ ESPN FHD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=1092021&extension=ts&play_token=RHYspK6o7x
+#EXTINF:-1 tvg-name="┃CHL┃ ESPN HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/CHILE/PRIMERA DIVISION/ESPN.png" group-title="3288" tvg-chno="25137",┃CHL┃ ESPN HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=1092022&extension=ts&play_token=E8kzBEvr3w
+#EXTINF:-1 tvg-name="┃COL┃ ESPN 3 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/COLOMBIA/LA LIGA DE ESTRELLAS/ESPN 3.png" group-title="3281" tvg-chno="24852",┃COL┃ ESPN 3 FHD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=1090807&extension=ts&play_token=CnOuKOeT2q
+#EXTINF:-1 tvg-name="┃COL┃ ESPN 2 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/COLOMBIA/LA LIGA DE ESTRELLAS/ESPN 2.png" group-title="3281" tvg-chno="24851",┃COL┃ ESPN 2 FHD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=1090806&extension=ts&play_token=yBJWPLyw4D
+#EXTINF:-1 tvg-name="┃COL┃ ESPN 4 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/COLOMBIA/LA LIGA DE ESTRELLAS/ESPN 4.png" group-title="3281" tvg-chno="24853",┃COL┃ ESPN 4 FHD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=1090808&extension=ts&play_token=xKCeGfUkhw
+#EXTINF:-1 tvg-name="┃COL┃ ESPN FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/COLOMBIA/LA LIGA DE ESTRELLAS/ESPN.png" group-title="3281" tvg-chno="24850",┃COL┃ ESPN FHD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=1090805&extension=ts&play_token=Zq73sL5xv5
+#EXTINF:-1 tvg-name="┃LATIN┃ ESPN" tvg-logo="http://picon.tivi-ott.net:25461/picon/LATINOGENERAL/espn.png" group-title="684" tvg-chno="25453",┃LATIN┃ ESPN
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=374337&extension=ts&play_token=yYJAe8zGq3
+#EXTINF:-1 tvg-name="┃LATIN┃ ESPN 2." tvg-logo="http://picon.tivi-ott.net:25461/picon/LATINOGENERAL/espn.png" group-title="684" tvg-chno="25454",┃LATIN┃ ESPN 2.
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=374336&extension=ts&play_token=B0HoO75LYL
+#EXTINF:-1 tvg-name="┃LATIN┃ ESPN 3" tvg-logo="http://picon.tivi-ott.net:25461/picon/LATINOGENERAL/espn.png" group-title="684" tvg-chno="25455",┃LATIN┃ ESPN 3
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=374335&extension=ts&play_token=1HTNCU5J5C
+#EXTINF:-1 tvg-name="┃MX┃ ESPN HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/LIGA MX/ESPN.png" group-title="3285" tvg-chno="24984",┃MX┃ ESPN HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=1091854&extension=ts&play_token=A6EFLjLRiP
+#EXTINF:-1 tvg-name="┃NG┃ ESPN" tvg-logo="http://picon.tivi-ott.net:25461/picon/AFRICA/NIGERIA/ESPN.png" group-title="2986" tvg-chno="21438",┃NG┃ ESPN
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=958843&extension=ts&play_token=fR9IpuemKM
+#EXTINF:-1 tvg-name="┃NG┃ ESPN2" tvg-logo="http://picon.tivi-ott.net:25461/picon/AFRICA/NIGERIA/ESPN2.png" group-title="2986" tvg-chno="21439",┃NG┃ ESPN2
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=958842&extension=ts&play_token=Iu1cVmc6bl
+#EXTINF:-1 tvg-name="┃AF┃ FASHION ONE" tvg-logo="http://picon.tivi-ott.net:25461/picon/AFRICA/GENERAL/FASHION ONE.png" group-title="677" tvg-chno="21673",┃AF┃ FASHION ONE
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=459927&extension=ts&play_token=pXMn8TqOGT
+#EXTINF:-1 tvg-name="┃AR┃ SHAHID VIP FASHION TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title="2674" tvg-chno="20040",┃AR┃ SHAHID VIP FASHION TV
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=672333&extension=ts&play_token=NO6PxxXGhn
+#EXTINF:-1 tvg-id="fashiontv.de" tvg-name="┃DE┃ FASHION TV HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/FASHION TV.png" group-title="3391" tvg-chno="3764",┃DE┃ FASHION TV HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=1280640&extension=ts&play_token=cuv2MG4eey
+#EXTINF:-1 tvg-name="┃ID┃ LIFESTYLE FASHION" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/INDONESIA/LIFESTYLE FASHION.png" group-title="711" tvg-chno="23807",┃ID┃ LIFESTYLE FASHION
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=382936&extension=ts&play_token=AuLsLJZj5J
+#EXTINF:-1 tvg-id="fashiontv.nl" tvg-name="┃NL┃ FASHIONTV HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NL ODIDO FHD 50FPS/FASHIONTV.png" group-title="3039" tvg-chno="1098",┃NL┃ FASHIONTV HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=947914&extension=ts&play_token=aUPSvqJtUt
+#EXTINF:-1 tvg-name="┃SG┃ FASHIONTV" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/SINGAPORE/FASHIONTV.png" group-title="717" tvg-chno="24012",┃SG┃ FASHIONTV
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=383490&extension=ts&play_token=JffAzVGJle
+#EXTINF:-1 tvg-id="fashiontv.nl" tvg-name="┃NL┃ FASHIONTV FHD 50FPS" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NL ODIDO FHD 50FPS/FASHIONTV.png" group-title="3038" tvg-chno="945",┃NL┃ FASHIONTV FHD 50FPS
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=933126&extension=ts&play_token=3jnR8ETutW
+#EXTINF:-1 tvg-id="hbopop.br" tvg-name="┃BR┃ HBO POP HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BRAZIL/HBO POP.png" group-title="685" tvg-chno="24333",┃BR┃ HBO POP HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=901385&extension=ts&play_token=nahpjNkvqG
+#EXTINF:-1 tvg-id="cinepop.ca" tvg-name="┃CA FR┃ CINEPOP HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/CANADA/CA FR/CINEMA/CINEPOP HD.png" group-title="3022" tvg-chno="14078",┃CA FR┃ CINEPOP HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=900700&extension=ts&play_token=N9Hgpb06yg
+#EXTINF:-1 tvg-name="┃NZ┃ SKY SPORT POP-UP 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEW ZEELAND/SKY SPORT POP-UP 1 HD.png" group-title="2884" tvg-chno="14765",┃NZ┃ SKY SPORT POP-UP 1 HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=809370&extension=ts&play_token=6PnWsVhUMx
+#EXTINF:-1 tvg-name="┃PK┃ POP MAX" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/PAKISTAN/kidsZonetvLogo.png" group-title="659" tvg-chno="22672",┃PK┃ POP MAX
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=373137&extension=ts&play_token=zpsOsnE2pB
+#EXTINF:-1 tvg-name="┃PK┃ POP+" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/PAKISTAN/Pop.png" group-title="659" tvg-chno="22671",┃PK┃ POP+
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=373138&extension=ts&play_token=RkEReSkBcf
+#EXTINF:-1 tvg-id="poptv.si" tvg-name="┃SI┃ POP TV HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SLOVENIA/Pop-TV-Logo.svg.png" group-title="20" tvg-chno="16162",┃SI┃ POP TV HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=966&extension=ts&play_token=s4UMkL05JH
+#EXTINF:-1 tvg-id="poptv.si" tvg-name="┃SI┃ POP OTO HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SLOVENIA/Pop-TV-Logo.svg.png" group-title="20" tvg-chno="16165",┃SI┃ POP OTO HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=963&extension=ts&play_token=CfKak6ihh3
+#EXTINF:-1 tvg-id="poptv.si" tvg-name="┃SI┃ POP KINO HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SLOVENIA/PopKINO-TV-Logo.svg%20(1).png" group-title="20" tvg-chno="16164",┃SI┃ POP KINO HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=964&extension=ts&play_token=aKYBBZ8oCW
+#EXTINF:-1 tvg-id="poptv.si" tvg-name="┃SI┃ POP BRIO HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SLOVENIA/Pop-TV-Logo.svg.png" group-title="20" tvg-chno="16163",┃SI┃ POP BRIO HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=965&extension=ts&play_token=XgD5xjw7Xt
+#EXTINF:-1 tvg-id="mcmpop.pt" tvg-name="┃PT┃ MCM POP HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/MUSICA/MCM POP.png" group-title="836" tvg-chno="18224",┃PT┃ MCM POP HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=960065&extension=ts&play_token=P8vH3EzBD5
+#EXTINF:-1 tvg-id="eentertainment.nl" tvg-name="┃CANAL+┃ E! ENTERTAINMENT" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CANAL+ LIVE/E! ENTERTAINMENT.png" group-title="3277" tvg-chno="1277",┃CANAL+┃ E! ENTERTAINMENT
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=1084655&extension=ts&play_token=qmRb2FqWVK
+#EXTINF:-1 tvg-name="┃CAR┃ E! ENTERTAINMENT" tvg-logo="http://picon.tivi-ott.net:25461/picon/CARIBBEAN/CARIBBEAN/E! ENTERTAINMENT.png" group-title="686" tvg-chno="24446",┃CAR┃ E! ENTERTAINMENT
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=1099947&extension=ts&play_token=51Ul8CJ9Hj
+#EXTINF:-1 tvg-name="┃BE┃ E! ENTERTAINMENT HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ENTERTAINMENTHD.png" group-title="792" tvg-chno="1765",┃BE┃ E! ENTERTAINMENT HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=562017&extension=ts&play_token=Xa8zhj7TDO
+#EXTINF:-1 tvg-id="eentertainment.fr" tvg-name="┃FR┃ E! ENTERTAINMENT HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ DIVERTISSEMENT/E! ENTERTAINMENT.png" group-title="2819" tvg-chno="6005",┃FR┃ E! ENTERTAINMENT HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:05:54:42&stream=936932&extension=ts&play_token=CGx3soWtV8
