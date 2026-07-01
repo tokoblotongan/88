@@ -1035,3 +1035,436 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=1653108&
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=1653100&extension=ts&play_token=BIJ3stqj6E
 #EXTINF:-1 tvg-name="┃AL┃ DARK SPECIAL HD" group-title="3714" tvg-chno="390",┃AL┃ DARK SPECIAL HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=1653102&extension=ts&play_token=bLveEnp4nS
+#EXTM3U
+#EXTINF:-1 tvg-name="PLAY+: MEZZO LIVE ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13850.jpg?ver=63700" group-title="1631" tvg-chno="6139",PLAY+: MEZZO LIVE ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=1174072&extension=ts&play_token=DysoP9s8tF
+#EXTINF:-1 tvg-name="PLAY+: MEZZO ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13850.jpg?ver=63700" group-title="1631" tvg-chno="6138",PLAY+: MEZZO ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=1174073&extension=ts&play_token=FRBKGsmd7o
+#EXTINF:-1 tvg-name="US: A PRIVATE AFFAIR ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="2213" tvg-chno="9848",US: A PRIVATE AFFAIR ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=1834953&extension=ts&play_token=sbbz1OiuUw
+#EXTINF:-1 tvg-id="SkyCinemaFamily.uk" tvg-name="UK: SKY CINEMA FAMILY HEVC HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12184.jpg?81084" group-title="676" tvg-chno="3262",UK: SKY CINEMA FAMILY HEVC HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=639197&extension=ts&play_token=6GirGwGRsC
+#EXTINF:-1 tvg-id="SkyCinemaDrama.uk" tvg-name="UK: SKY CINEMA DRAMA/CHRISTMAS HEVC HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12172.jpg?49519" group-title="676" tvg-chno="3263",UK: SKY CINEMA DRAMA/CHRISTMAS HEVC HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=639196&extension=ts&play_token=JLqILYoKrP
+#EXTINF:-1 tvg-name="DE: PARAMOUNT CINEMA 1 ᵁᴴᴰ ³⁸⁴⁰ᴾ " tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?71327" group-title="1756" tvg-chno="2270",DE: PARAMOUNT CINEMA 1 ᵁᴴᴰ ³⁸⁴⁰ᴾ 
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=1324643&extension=ts&play_token=QjsxLfMuH8
+#EXTINF:-1 tvg-name="DE: PARAMOUNT CINEMA 2 ᵁᴴᴰ ³⁸⁴⁰ᴾ " tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?71327" group-title="1756" tvg-chno="2271",DE: PARAMOUNT CINEMA 2 ᵁᴴᴰ ³⁸⁴⁰ᴾ 
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=1324642&extension=ts&play_token=6fgF1CoHTq
+#EXTINF:-1 tvg-name="DE: PARAMOUNT CINEMA 3 ᵁᴴᴰ ³⁸⁴⁰ᴾ " tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?71327" group-title="1756" tvg-chno="2272",DE: PARAMOUNT CINEMA 3 ᵁᴴᴰ ³⁸⁴⁰ᴾ 
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=1324641&extension=ts&play_token=UF7frtlKHv
+#EXTINF:-1 tvg-name="DE: PLEX CINEMA 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9921.png?76503" group-title="1063" tvg-chno="2151",DE: PLEX CINEMA 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=672797&extension=ts&play_token=bWvdNz8XPi
+#EXTINF:-1 tvg-id="SkyAction.de" tvg-name="DE: SKY CINEMA ACTION HD (720P)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?ver=90884" group-title="513" tvg-chno="682",DE: SKY CINEMA ACTION HD (720P)
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=479932&extension=ts&play_token=quybcFTKej
+#EXTINF:-1 tvg-id="skycinemaaction.de" tvg-name="DE: SKY CINEMA ACTION HD (SAT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?ver=90884" group-title="513" tvg-chno="703",DE: SKY CINEMA ACTION HD (SAT)
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=479934&extension=ts&play_token=7h5glUrTng
+#EXTINF:-1 tvg-id="SkyAction.de" tvg-name="DE: SKY CINEMA ACTION HEVC" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6475.jpg?87993" group-title="509" tvg-chno="518",DE: SKY CINEMA ACTION HEVC
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=340476&extension=ts&play_token=K826ONCwo0
+#EXTINF:-1 tvg-id="SkyCinemaBestOf.de" tvg-name="DE: SKY CINEMA BEST OF HEVC" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6467.jpg?49881" group-title="509" tvg-chno="519",DE: SKY CINEMA BEST OF HEVC
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=340477&extension=ts&play_token=EMDpgYkpYa
+#EXTINF:-1 tvg-id="SkyCinemaClassics.de" tvg-name="DE: SKY CINEMA CLASSICS HD (720P)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?ver=90884" group-title="513" tvg-chno="683",DE: SKY CINEMA CLASSICS HD (720P)
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=479927&extension=ts&play_token=dlnSJq81up
+#EXTINF:-1 tvg-id="SkyCinemaClassics.de" tvg-name="DE: SKY CINEMA CLASSICS HD (SAT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?ver=90884" group-title="513" tvg-chno="704",DE: SKY CINEMA CLASSICS HD (SAT)
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=479928&extension=ts&play_token=OlXn4pjUJ2
+#EXTINF:-1 tvg-id="SkyCinemaFamily.de" tvg-name="DE: SKY CINEMA FAMILY HD (720P)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?ver=90884" group-title="513" tvg-chno="684",DE: SKY CINEMA FAMILY HD (720P)
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=479923&extension=ts&play_token=07vrYchEcA
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="DE: SKY CINEMA FAMILY HD (SAT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?ver=90884" group-title="513" tvg-chno="705",DE: SKY CINEMA FAMILY HD (SAT)
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=479925&extension=ts&play_token=y1O2yOdYOa
+#EXTINF:-1 tvg-id="SkyCinemaFamily.de" tvg-name="DE: SKY CINEMA FAMILY HEVC" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12184.jpg?36363" group-title="509" tvg-chno="520",DE: SKY CINEMA FAMILY HEVC
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=340478&extension=ts&play_token=bb44ARTRcu
+#EXTINF:-1 tvg-name="DE: SKY CINEMA HIGHLIGHT (720P)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12109.jpg?1664" group-title="513" tvg-chno="688",DE: SKY CINEMA HIGHLIGHT (720P)
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=835818&extension=ts&play_token=rwd4Twyl9W
+#EXTINF:-1 tvg-name="DE: SKY CINEMA HIGHLIGHT (SAT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12109.jpg?1664" group-title="513" tvg-chno="710",DE: SKY CINEMA HIGHLIGHT (SAT)
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=835817&extension=ts&play_token=eFAiNq3qHj
+#EXTINF:-1 tvg-id="SkyCinemaPremierenPlus24.de" tvg-name="DE: SKY CINEMA PREMIEREN +24 HD (SAT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?ver=90884" group-title="513" tvg-chno="706",DE: SKY CINEMA PREMIEREN +24 HD (SAT)
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=479916&extension=ts&play_token=ukL7svnje3
+#EXTINF:-1 tvg-id="SkyCinemaPremierenPlus24.de" tvg-name="DE: SKY CINEMA PREMIEREN +24 HEVC" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6463.jpg?22502" group-title="509" tvg-chno="521",DE: SKY CINEMA PREMIEREN +24 HEVC
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=340479&extension=ts&play_token=EJsbSInMF6
+#EXTINF:-1 tvg-id="SkyCinemaPremieren.de" tvg-name="DE: SKY CINEMA PREMIEREN HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?ver=90884" group-title="513" tvg-chno="699",DE: SKY CINEMA PREMIEREN HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=479918&extension=ts&play_token=YdHwjgVo4Z
+#EXTINF:-1 tvg-id="SkyCinemaPremieren.de" tvg-name="DE: SKY CINEMA PREMIEREN HD (720P)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?ver=90884" group-title="513" tvg-chno="685",DE: SKY CINEMA PREMIEREN HD (720P)
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=479917&extension=ts&play_token=GmhowPkowF
+#EXTINF:-1 tvg-id="SkyCinemaPremieren.de" tvg-name="DE: SKY CINEMA PREMIEREN HD (SAT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?ver=90884" group-title="513" tvg-chno="707",DE: SKY CINEMA PREMIEREN HD (SAT)
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=479919&extension=ts&play_token=HlQA0bfNgY
+#EXTINF:-1 tvg-id="SkyCinemaPremieren.de" tvg-name="DE: SKY CINEMA PREMIEREN HEVC" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6463.jpg?22502" group-title="509" tvg-chno="522",DE: SKY CINEMA PREMIEREN HEVC
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=340480&extension=ts&play_token=JVZyTgrRbM
+#EXTINF:-1 tvg-id="SkyCinemaSpecial.de" tvg-name="DE: SKY CINEMA SPECIAL HD (720P)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?ver=90884" group-title="513" tvg-chno="686",DE: SKY CINEMA SPECIAL HD (720P)
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=479911&extension=ts&play_token=0o3yPrQ9iI
+#EXTINF:-1 tvg-id="SkyCinemaSpecial.de" tvg-name="DE: SKY CINEMA SPECIAL HD (SAT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?ver=90884" group-title="513" tvg-chno="708",DE: SKY CINEMA SPECIAL HD (SAT)
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=479913&extension=ts&play_token=lVr9TIUbet
+#EXTINF:-1 tvg-id="SkyCinemaSpecial.de" tvg-name="DE: SKY CINEMA SPECIAL HEVC" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6465.jpg?52209" group-title="509" tvg-chno="523",DE: SKY CINEMA SPECIAL HEVC
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=340481&extension=ts&play_token=wKYeDi0SYi
+#EXTINF:-1 tvg-id="SkyCinemaThriller.de" tvg-name="DE: SKY CINEMA THRILLER HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?ver=90884" group-title="513" tvg-chno="700",DE: SKY CINEMA THRILLER HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=479909&extension=ts&play_token=X0ExNfdiz0
+#EXTINF:-1 tvg-id="SkyCinemaThriller.de" tvg-name="DE: SKY CINEMA THRILLER HD (720P)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?ver=90884" group-title="513" tvg-chno="687",DE: SKY CINEMA THRILLER HD (720P)
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=479908&extension=ts&play_token=sagCqpsS9i
+#EXTINF:-1 tvg-id="SkyCinemaThriller.de" tvg-name="DE: SKY CINEMA THRILLER HD (SAT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?ver=90884" group-title="513" tvg-chno="709",DE: SKY CINEMA THRILLER HD (SAT)
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=479910&extension=ts&play_token=M4bMAS1FP9
+#EXTINF:-1 tvg-id="SkyCinemaThriller.de" tvg-name="DE: SKY CINEMA THRILLER HEVC" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12182.jpg?51450" group-title="509" tvg-chno="524",DE: SKY CINEMA THRILLER HEVC
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=340482&extension=ts&play_token=O2827iHGNv
+#EXTINF:-1 tvg-name="GO: SURF CINEMA" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14545.PNG?ver=52669" group-title="2036" tvg-chno="8060",GO: SURF CINEMA
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=1568628&extension=ts&play_token=496CBik9Ls
+#EXTINF:-1 tvg-name="JP: WOWOW CINEMA (PRIMEHOME)" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/15035.png?17765" group-title="995" tvg-chno="2710",JP: WOWOW CINEMA (PRIMEHOME)
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=1962347&extension=ts&play_token=xsEYZ6omqQ
+#EXTINF:-1 tvg-name="NOW: SKY CINEMA PREMIERE ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6463.jpg?66392" group-title="1963" tvg-chno="4017",NOW: SKY CINEMA PREMIERE ᴴᴰ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=1527705&extension=ts&play_token=97sUDTAEXq
+#EXTINF:-1 tvg-name="NOW: SKY CINEMA PREMIERE ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6463.jpg?66392" group-title="1963" tvg-chno="4016",NOW: SKY CINEMA PREMIERE ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=1527706&extension=ts&play_token=UzGhoBsg7t
+#EXTINF:-1 tvg-name="PRIME: CINEMAX EAST ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="1689" tvg-chno="6742",PRIME: CINEMAX EAST ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=1536884&extension=ts&play_token=PXDSUH2nDo
+#EXTINF:-1 tvg-name="PRIME: CINEMAX WEST ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="1689" tvg-chno="6743",PRIME: CINEMAX WEST ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=1536883&extension=ts&play_token=DFIYxl09u5
+#EXTINF:-1 tvg-name="PRIME: CLASSIC CINEMA ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="1689" tvg-chno="6750",PRIME: CLASSIC CINEMA ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=1536876&extension=ts&play_token=W2sBNNS8C3
+#EXTINF:-1 tvg-name="PRIME: MAVERICK BLACK CINEMA ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="1689" tvg-chno="6959",PRIME: MAVERICK BLACK CINEMA ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=1536633&extension=ts&play_token=9uLPrE9Qy0
+#EXTINF:-1 tvg-name="PRIME: MGM CELEBRATES BLACK CINEMA ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="1689" tvg-chno="6963",PRIME: MGM CELEBRATES BLACK CINEMA ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=1536628&extension=ts&play_token=cjSnR4hkrr
+#EXTINF:-1 tvg-name="RK: CINEMAX EAST ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14331.png?ver=69659" group-title="1888" tvg-chno="9303",RK: CINEMAX EAST ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=1476496&extension=ts&play_token=5UBzlToNp0
+#EXTINF:-1 tvg-name="RK: CINEMAX WEST ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14331.png?ver=69659" group-title="1888" tvg-chno="9304",RK: CINEMAX WEST ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=1476495&extension=ts&play_token=108UI48noX
+#EXTINF:-1 tvg-name="RK: MAVERICK BLACK CINEMA ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14331.png?ver=69659" group-title="1888" tvg-chno="9525",RK: MAVERICK BLACK CINEMA ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=1476274&extension=ts&play_token=MpwEQggjsc
+#EXTINF:-1 tvg-name="RK: SONY ONE CINEMA ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14331.png?ver=69659" group-title="1888" tvg-chno="9658",RK: SONY ONE CINEMA ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=1476141&extension=ts&play_token=PYwlIrQiNP
+#EXTINF:-1 tvg-id="SkyAction.de" tvg-name="SKYGO: SKY CINEMA ACTION 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6468.jpg?51551" group-title="668" tvg-chno="454",SKYGO: SKY CINEMA ACTION 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=486644&extension=ts&play_token=hVQmkxa4CK
+#EXTINF:-1 tvg-id="SkyAction.de" tvg-name="SKYGO: SKY CINEMA ACTION HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6468.jpg?51551" group-title="668" tvg-chno="440",SKYGO: SKY CINEMA ACTION HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=486643&extension=ts&play_token=JBbUJoQkXY
+#EXTINF:-1 tvg-id="SkyCinemaClassics.de" tvg-name="SKYGO: SKY CINEMA CLASSICS 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6468.jpg?51551" group-title="668" tvg-chno="455",SKYGO: SKY CINEMA CLASSICS 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=486640&extension=ts&play_token=sDsVdlT4Pg
+#EXTINF:-1 tvg-id="SkyCinemaClassics.de" tvg-name="SKYGO: SKY CINEMA CLASSICS HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6468.jpg?51551" group-title="668" tvg-chno="441",SKYGO: SKY CINEMA CLASSICS HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=486639&extension=ts&play_token=wSs4m6BJrb
+#EXTINF:-1 tvg-id="SkyCinemaFamily.de" tvg-name="SKYGO: SKY CINEMA FAMILY 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6468.jpg?51551" group-title="668" tvg-chno="456",SKYGO: SKY CINEMA FAMILY 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=486638&extension=ts&play_token=tS4hJx0jki
+#EXTINF:-1 tvg-id="SkyCinemaFamily.de" tvg-name="SKYGO: SKY CINEMA FAMILY HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6468.jpg?51551" group-title="668" tvg-chno="442",SKYGO: SKY CINEMA FAMILY HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=486637&extension=ts&play_token=urHbzlgW6g
+#EXTINF:-1 tvg-name="SKYGO: SKY CINEMA HIGHLIGHTS 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12109.jpg?1664" group-title="668" tvg-chno="459",SKYGO: SKY CINEMA HIGHLIGHTS 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=835814&extension=ts&play_token=9D011Kzbxk
+#EXTINF:-1 tvg-name="SKYGO: SKY CINEMA HIGHLIGHTS HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12109.jpg?1664" group-title="668" tvg-chno="445",SKYGO: SKY CINEMA HIGHLIGHTS HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=835816&extension=ts&play_token=pNilhdR6xC
+#EXTINF:-1 tvg-id="SkyCinemaPremieren.de" tvg-name="SKYGO: SKY CINEMA PREMIEREN 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6468.jpg?51551" group-title="668" tvg-chno="457",SKYGO: SKY CINEMA PREMIEREN 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=486634&extension=ts&play_token=C60sL1jZUX
+#EXTINF:-1 tvg-id="SkyCinemaPremieren.de" tvg-name="SKYGO: SKY CINEMA PREMIEREN HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6468.jpg?51551" group-title="668" tvg-chno="443",SKYGO: SKY CINEMA PREMIEREN HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=486633&extension=ts&play_token=x8wwkoGFNM
+#EXTINF:-1 tvg-id="SkyCinemaSpecial.de" tvg-name="SKYGO: SKY CINEMA SPECIAL 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6468.jpg?51551" group-title="668" tvg-chno="458",SKYGO: SKY CINEMA SPECIAL 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=486632&extension=ts&play_token=AzDbN8wS5L
+#EXTINF:-1 tvg-id="SkyCinemaSpecial.de" tvg-name="SKYGO: SKY CINEMA SPECIAL HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6468.jpg?51551" group-title="668" tvg-chno="444",SKYGO: SKY CINEMA SPECIAL HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=486631&extension=ts&play_token=9IOeUe2pgf
+#EXTINF:-1 tvg-name="TUBI: CLASSIC CINEMA ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14491.png?ver=79983" group-title="2017" tvg-chno="7291",TUBI: CLASSIC CINEMA ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=1548390&extension=ts&play_token=7Qc5Ru8rWl
+#EXTINF:-1 tvg-name="TUBI: MAVERICK BLACK CINEMA ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14491.png?ver=79983" group-title="2017" tvg-chno="7356",TUBI: MAVERICK BLACK CINEMA ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=1548325&extension=ts&play_token=hzPdnDWnPh
+#EXTINF:-1 tvg-name="UK: SKY CINEMA ACTION 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="302" tvg-chno="3187",UK: SKY CINEMA ACTION 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=162330&extension=ts&play_token=BlFGMzUTdt
+#EXTINF:-1 tvg-id="TS" tvg-name="UK: SKY CINEMA ACTION HD ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="302" tvg-chno="3186",UK: SKY CINEMA ACTION HD ◉
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=162329&extension=ts&play_token=1rgw92Culb
+#EXTINF:-1 tvg-id="skyaction.uk" tvg-name="UK: SKY CINEMA ACTION HEVC 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6475.jpg?982" group-title="676" tvg-chno="3244",UK: SKY CINEMA ACTION HEVC 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=639174&extension=ts&play_token=NTfLTNKOyg
+#EXTINF:-1 tvg-name="UK: SKY CINEMA ACTION HEVC HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6475.jpg?77623" group-title="676" tvg-chno="3265",UK: SKY CINEMA ACTION HEVC HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=639194&extension=ts&play_token=d7Xy2fbSDJ
+#EXTINF:-1 tvg-id="TS" tvg-name="UK: SKY CINEMA ACTION ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="302" tvg-chno="3207",UK: SKY CINEMA ACTION ◉
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=162353&extension=ts&play_token=ewPgFhvcI4
+#EXTINF:-1 tvg-id="SkyCinemaAnimation.uk" tvg-name="UK: SKY CINEMA ANIMATION 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="302" tvg-chno="3192",UK: SKY CINEMA ANIMATION 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=162337&extension=ts&play_token=vgmceiNAee
+#EXTINF:-1 tvg-id="SkyCinemaAnimation.uk" tvg-name="UK: SKY CINEMA ANIMATION 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12173.jpg?58266" group-title="302" tvg-chno="3193",UK: SKY CINEMA ANIMATION 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=336042&extension=ts&play_token=7b5yYku2bC
+#EXTINF:-1 tvg-id="SkyCinemaAnimation.uk" tvg-name="UK: SKY CINEMA ANIMATION HEVC 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12173.jpg?14567" group-title="676" tvg-chno="3245",UK: SKY CINEMA ANIMATION HEVC 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=639173&extension=ts&play_token=Vx1JDmGjk3
+#EXTINF:-1 tvg-id="SkyCinemaAnimation.uk" tvg-name="UK: SKY CINEMA ANIMATION HEVC HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12173.jpg?34523" group-title="676" tvg-chno="3266",UK: SKY CINEMA ANIMATION HEVC HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=639193&extension=ts&play_token=hAy5g8Ajt6
+#EXTINF:-1 tvg-id="SkyCinemaComedy.uk" tvg-name="UK: SKY CINEMA COMEDY 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="302" tvg-chno="3188",UK: SKY CINEMA COMEDY 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=162331&extension=ts&play_token=WlXuYazxQ3
+#EXTINF:-1 tvg-id="SkyCinemaComedy.uk" tvg-name="UK: SKY CINEMA COMEDY 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="302" tvg-chno="3189",UK: SKY CINEMA COMEDY 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=162332&extension=ts&play_token=yIr5cVDgwy
+#EXTINF:-1 tvg-id="SkyCinemaComedy.uk" tvg-name="UK: SKY CINEMA COMEDY HEVC 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6492.jpg?46729" group-title="676" tvg-chno="3243",UK: SKY CINEMA COMEDY HEVC 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=639175&extension=ts&play_token=aj8yKbInSf
+#EXTINF:-1 tvg-id="SkyCinemaComedy.uk" tvg-name="UK: SKY CINEMA COMEDY HEVC HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6492.jpg?12384" group-title="676" tvg-chno="3264",UK: SKY CINEMA COMEDY HEVC HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=639195&extension=ts&play_token=kaRuiJckJQ
+#EXTINF:-1 tvg-id="SkyCinemaComedy.uk" tvg-name="UK: SKY CINEMA COMEDY ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="302" tvg-chno="3208",UK: SKY CINEMA COMEDY ◉
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=162354&extension=ts&play_token=08KsD0ISvu
+#EXTINF:-1 tvg-id="SkyCinemaDrama.uk" tvg-name="UK: SKY CINEMA DRAMA 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="302" tvg-chno="3190",UK: SKY CINEMA DRAMA 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=162335&extension=ts&play_token=2NavCoalBT
+#EXTINF:-1 tvg-id="SkyCinemaDrama.uk" tvg-name="UK: SKY CINEMA DRAMA 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="302" tvg-chno="3191",UK: SKY CINEMA DRAMA 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=162336&extension=ts&play_token=GXRPLKByNm
+#EXTINF:-1 tvg-id="SkyCinemaDrama.uk" tvg-name="UK: SKY CINEMA DRAMA ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="302" tvg-chno="3209",UK: SKY CINEMA DRAMA ◉
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=162356&extension=ts&play_token=Jn7986NbYD
+#EXTINF:-1 tvg-id="SkyCinemaDrama.uk" tvg-name="UK: SKY CINEMA DRAMA/CHRISTMAS HEVC 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12172.jpg?43168" group-title="676" tvg-chno="3242",UK: SKY CINEMA DRAMA/CHRISTMAS HEVC 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=639176&extension=ts&play_token=BoDyKUKDtz
+#EXTINF:-1 tvg-id="SkyCinemaFamily.uk" tvg-name="UK: SKY CINEMA FAMILY 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="302" tvg-chno="3203",UK: SKY CINEMA FAMILY 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=162348&extension=ts&play_token=ExyY7diZu5
+#EXTINF:-1 tvg-name="UK: SKY CINEMA FAMILY 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="302" tvg-chno="3204",UK: SKY CINEMA FAMILY 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=162349&extension=ts&play_token=oYIGVECecl
+#EXTINF:-1 tvg-id="SkyCinemaFamily.uk" tvg-name="UK: SKY CINEMA FAMILY HEVC 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12184.jpg?55624" group-title="676" tvg-chno="3241",UK: SKY CINEMA FAMILY HEVC 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=639177&extension=ts&play_token=YbVkfDrn0H
+#EXTINF:-1 tvg-id="SkyCinemaGreats.uk" tvg-name="UK: SKY CINEMA GREATS 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="302" tvg-chno="3194",UK: SKY CINEMA GREATS 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=162339&extension=ts&play_token=t8XwrPALpa
+#EXTINF:-1 tvg-id="SkyCinemaGreats.uk" tvg-name="UK: SKY CINEMA GREATS 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="302" tvg-chno="3195",UK: SKY CINEMA GREATS 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=162340&extension=ts&play_token=n5qUU12P7h
+#EXTINF:-1 tvg-id="SkyCinemaGreats.uk" tvg-name="UK: SKY CINEMA GREATS HEVC 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6466.png?24948" group-title="676" tvg-chno="3240",UK: SKY CINEMA GREATS HEVC 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=639178&extension=ts&play_token=EFjesgAppw
+#EXTINF:-1 tvg-id="SkyCinemaGreats.uk" tvg-name="UK: SKY CINEMA GREATS HEVC HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6466.png?8010" group-title="676" tvg-chno="3261",UK: SKY CINEMA GREATS HEVC HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=639198&extension=ts&play_token=5YQxHDSd1J
+#EXTINF:-1 tvg-id="SkyCinemaGreats.uk" tvg-name="UK: SKY CINEMA GREATS ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="302" tvg-chno="3210",UK: SKY CINEMA GREATS ◉
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=162357&extension=ts&play_token=0z4LqqkU67
+#EXTINF:-1 tvg-id="SkyCinemaHits.uk" tvg-name="UK: SKY CINEMA HITS 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="302" tvg-chno="3197",UK: SKY CINEMA HITS 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=162342&extension=ts&play_token=j6nXCep31X
+#EXTINF:-1 tvg-id="SkyCinemaHits.uk" tvg-name="UK: SKY CINEMA HITS 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="302" tvg-chno="3198",UK: SKY CINEMA HITS 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=162343&extension=ts&play_token=LX2Aafh1Ch
+#EXTINF:-1 tvg-id="SkyCinemaHits.uk" tvg-name="UK: SKY CINEMA HITS HEVC 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12176.png?22884" group-title="676" tvg-chno="3239",UK: SKY CINEMA HITS HEVC 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=639179&extension=ts&play_token=zxFMUPHg7i
+#EXTINF:-1 tvg-id="SkyCinemaHits.uk" tvg-name="UK: SKY CINEMA HITS HEVC HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12176.png?61071" group-title="676" tvg-chno="3260",UK: SKY CINEMA HITS HEVC HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=639199&extension=ts&play_token=9t0RZQopP6
+#EXTINF:-1 tvg-id="SkyCinemaHits.uk" tvg-name="UK: SKY CINEMA HITS ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="302" tvg-chno="3211",UK: SKY CINEMA HITS ◉
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=162358&extension=ts&play_token=a9x8SwlA8g
+#EXTINF:-1 tvg-id="SkyCinemaPremiere.uk" tvg-name="UK: SKY CINEMA PREMIER 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="302" tvg-chno="3200",UK: SKY CINEMA PREMIER 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=162345&extension=ts&play_token=JyqGd28Hqo
+#EXTINF:-1 tvg-id="SkyCinemaPremiere.uk" tvg-name="UK: SKY CINEMA PREMIER HEVC 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6463.jpg?90528" group-title="676" tvg-chno="3238",UK: SKY CINEMA PREMIER HEVC 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=639180&extension=ts&play_token=PKhuk6dAFU
+#EXTINF:-1 tvg-id="SkyCinemaPremiere.uk" tvg-name="UK: SKY CINEMA PREMIER HEVC HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6463.jpg?52853" group-title="676" tvg-chno="3259",UK: SKY CINEMA PREMIER HEVC HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=639200&extension=ts&play_token=fYfuJ2Sd47
+#EXTINF:-1 tvg-id="SkyCinemaPremiere.uk" tvg-name="UK: SKY CINEMA PREMIERE 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="302" tvg-chno="3199",UK: SKY CINEMA PREMIERE 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=162344&extension=ts&play_token=S7gHUW11Bq
+#EXTINF:-1 tvg-id="SkyCinemaPremiere.uk" tvg-name="UK: SKY CINEMA PREMIERE ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="302" tvg-chno="3212",UK: SKY CINEMA PREMIERE ◉
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=162359&extension=ts&play_token=zPghPvD50x
+#EXTINF:-1 tvg-id="SkyCinemaSciFiHorror.uk" tvg-name="UK: SKY CINEMA SCI-FI 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="302" tvg-chno="3205",UK: SKY CINEMA SCI-FI 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=162350&extension=ts&play_token=tMyFQeSeFP
+#EXTINF:-1 tvg-id="SkyCinemaSciFiHorror.uk" tvg-name="UK: SKY CINEMA SCI-FI ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="302" tvg-chno="3213",UK: SKY CINEMA SCI-FI ◉
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=162360&extension=ts&play_token=NdXmA1soDf
+#EXTINF:-1 tvg-id="SkyCinemaSciFiHorror.uk" tvg-name="UK: SKY CINEMA SCIFI HORROR 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="302" tvg-chno="3206",UK: SKY CINEMA SCIFI HORROR 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=162351&extension=ts&play_token=ss7B5PAQsA
+#EXTINF:-1 tvg-id="SkyCinemaSciFiHorror.uk" tvg-name="UK: SKY CINEMA SCIFI/HORROR HEVC 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?62024" group-title="676" tvg-chno="3237",UK: SKY CINEMA SCIFI/HORROR HEVC 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=639181&extension=ts&play_token=4bPCSiJlmh
+#EXTINF:-1 tvg-id="SkyCinemaSciFiHorror.uk" tvg-name="UK: SKY CINEMA SCIFI/HORROR HEVC HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?6083" group-title="676" tvg-chno="3258",UK: SKY CINEMA SCIFI/HORROR HEVC HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=639201&extension=ts&play_token=6APMKsoj64
+#EXTINF:-1 tvg-id="TS" tvg-name="UK: SKY CINEMA SELECT HD ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6469.jpg?ver=79267" group-title="302" tvg-chno="3215",UK: SKY CINEMA SELECT HD ◉
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=501280&extension=ts&play_token=bCgQsBLtcp
+#EXTINF:-1 tvg-id="TS" tvg-name="UK: SKY CINEMA SELECT HD ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6462.png?18198" group-title="302" tvg-chno="3223",UK: SKY CINEMA SELECT HD ◉
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=362625&extension=ts&play_token=4LqOGtVJqK
+#EXTINF:-1 tvg-name="UK: SKY CINEMA SELECT/FEEL GOOD HEVC 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6469.jpg?92001" group-title="676" tvg-chno="3236",UK: SKY CINEMA SELECT/FEEL GOOD HEVC 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=639182&extension=ts&play_token=SBy78WXmDJ
+#EXTINF:-1 tvg-name="UK: SKY CINEMA SELECT/FEEL GOOD HEVC HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6469.jpg?5276" group-title="676" tvg-chno="3257",UK: SKY CINEMA SELECT/FEEL GOOD HEVC HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=639202&extension=ts&play_token=9l5EMmdREE
+#EXTINF:-1 tvg-id="TS" tvg-name="UK: SKY CINEMA SUPERHEROES HD ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="302" tvg-chno="3196",UK: SKY CINEMA SUPERHEROES HD ◉
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=162341&extension=ts&play_token=bXYilyWxaV
+#EXTINF:-1 tvg-id="SkyCinemaThriller.uk" tvg-name="UK: SKY CINEMA THRILLER" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="302" tvg-chno="3214",UK: SKY CINEMA THRILLER
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=162361&extension=ts&play_token=l3l2lS8BnC
+#EXTINF:-1 tvg-id="SkyCinemaThriller.uk" tvg-name="UK: SKY CINEMA THRILLER 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="302" tvg-chno="3201",UK: SKY CINEMA THRILLER 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=162346&extension=ts&play_token=5YNU93w6OJ
+#EXTINF:-1 tvg-id="SkyCinemaThriller.uk" tvg-name="UK: SKY CINEMA THRILLER 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="302" tvg-chno="3202",UK: SKY CINEMA THRILLER 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=162347&extension=ts&play_token=I3YLqriTTZ
+#EXTINF:-1 tvg-id="SkyCinemaThriller.uk" tvg-name="UK: SKY CINEMA THRILLER HEVC 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12182.jpg?8761" group-title="676" tvg-chno="3235",UK: SKY CINEMA THRILLER HEVC 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=639183&extension=ts&play_token=8aiF365b7q
+#EXTINF:-1 tvg-id="SkyCinemaThriller.uk" tvg-name="UK: SKY CINEMA THRILLER HEVC HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12182.jpg?54085" group-title="676" tvg-chno="3256",UK: SKY CINEMA THRILLER HEVC HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=639203&extension=ts&play_token=Wz8zcsbUAN
+#EXTINF:-1 tvg-name="US: CINEMA DINAMITA 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6471.jpg?65377" group-title="493" tvg-chno="8583",US: CINEMA DINAMITA 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=436159&extension=ts&play_token=TJXWyiPD5t
+#EXTINF:-1 tvg-name="US: CINEMANIA HOLLYWOOD 1 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="1109" tvg-chno="8829",US: CINEMANIA HOLLYWOOD 1 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=696006&extension=ts&play_token=xXC60o38Ig
+#EXTINF:-1 tvg-name="US: CINEMANIA HOLLYWOOD 10 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="1109" tvg-chno="8838",US: CINEMANIA HOLLYWOOD 10 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=695997&extension=ts&play_token=7sk4rh6ko8
+#EXTINF:-1 tvg-name="US: CINEMANIA HOLLYWOOD 11 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="1109" tvg-chno="8839",US: CINEMANIA HOLLYWOOD 11 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=695996&extension=ts&play_token=0dx4en0UK7
+#EXTINF:-1 tvg-name="US: CINEMANIA HOLLYWOOD 12 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="1109" tvg-chno="8840",US: CINEMANIA HOLLYWOOD 12 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=695995&extension=ts&play_token=HnQI7Skgy3
+#EXTINF:-1 tvg-name="US: CINEMANIA HOLLYWOOD 13 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="1109" tvg-chno="8841",US: CINEMANIA HOLLYWOOD 13 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=695994&extension=ts&play_token=kuHbA0FlNu
+#EXTINF:-1 tvg-name="US: CINEMANIA HOLLYWOOD 14 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="1109" tvg-chno="8842",US: CINEMANIA HOLLYWOOD 14 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=695993&extension=ts&play_token=dONIswYqxc
+#EXTINF:-1 tvg-name="US: CINEMANIA HOLLYWOOD 15 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="1109" tvg-chno="8843",US: CINEMANIA HOLLYWOOD 15 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=695992&extension=ts&play_token=tnu68oFbnc
+#EXTINF:-1 tvg-name="US: CINEMANIA HOLLYWOOD 16 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="1109" tvg-chno="8844",US: CINEMANIA HOLLYWOOD 16 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=695991&extension=ts&play_token=K6SYNUcMqa
+#EXTINF:-1 tvg-name="US: CINEMANIA HOLLYWOOD 17 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="1109" tvg-chno="8845",US: CINEMANIA HOLLYWOOD 17 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=695990&extension=ts&play_token=S4eKAUVVwb
+#EXTINF:-1 tvg-name="US: CINEMANIA HOLLYWOOD 18 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="1109" tvg-chno="8846",US: CINEMANIA HOLLYWOOD 18 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=695989&extension=ts&play_token=tPODqMdZRZ
+#EXTINF:-1 tvg-name="US: CINEMANIA HOLLYWOOD 19 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="1109" tvg-chno="8847",US: CINEMANIA HOLLYWOOD 19 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=695988&extension=ts&play_token=QDPCl5oZTE
+#EXTINF:-1 tvg-name="US: CINEMANIA HOLLYWOOD 2 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="1109" tvg-chno="8830",US: CINEMANIA HOLLYWOOD 2 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=696005&extension=ts&play_token=PBHptUHhIx
+#EXTINF:-1 tvg-name="US: CINEMANIA HOLLYWOOD 20 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="1109" tvg-chno="8848",US: CINEMANIA HOLLYWOOD 20 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=695987&extension=ts&play_token=fOlyrXF6n3
+#EXTINF:-1 tvg-name="US: CINEMANIA HOLLYWOOD 21 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="1109" tvg-chno="8849",US: CINEMANIA HOLLYWOOD 21 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=695986&extension=ts&play_token=l6c3eNW6YX
+#EXTINF:-1 tvg-name="US: CINEMANIA HOLLYWOOD 22 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="1109" tvg-chno="8850",US: CINEMANIA HOLLYWOOD 22 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=695985&extension=ts&play_token=LxdSfMaI3o
+#EXTINF:-1 tvg-name="US: CINEMANIA HOLLYWOOD 23 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="1109" tvg-chno="8851",US: CINEMANIA HOLLYWOOD 23 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=695984&extension=ts&play_token=wjkXcHhtUG
+#EXTINF:-1 tvg-name="US: CINEMANIA HOLLYWOOD 24 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="1109" tvg-chno="8852",US: CINEMANIA HOLLYWOOD 24 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=695983&extension=ts&play_token=tmIpv2cFVV
+#EXTINF:-1 tvg-name="US: CINEMANIA HOLLYWOOD 25 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="1109" tvg-chno="8853",US: CINEMANIA HOLLYWOOD 25 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=695982&extension=ts&play_token=h7rKx1lQzw
+#EXTINF:-1 tvg-name="US: CINEMANIA HOLLYWOOD 26 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="1109" tvg-chno="8854",US: CINEMANIA HOLLYWOOD 26 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=695981&extension=ts&play_token=UUW40iRlcP
+#EXTINF:-1 tvg-name="US: CINEMANIA HOLLYWOOD 27 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="1109" tvg-chno="8855",US: CINEMANIA HOLLYWOOD 27 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=695980&extension=ts&play_token=uweA8eJOIP
+#EXTINF:-1 tvg-name="US: CINEMANIA HOLLYWOOD 28 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="1109" tvg-chno="8856",US: CINEMANIA HOLLYWOOD 28 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=695979&extension=ts&play_token=9OSRr5Yx2d
+#EXTINF:-1 tvg-name="US: CINEMANIA HOLLYWOOD 29 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="1109" tvg-chno="8857",US: CINEMANIA HOLLYWOOD 29 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=695978&extension=ts&play_token=0NrHLxkTDW
+#EXTINF:-1 tvg-name="US: CINEMANIA HOLLYWOOD 3 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="1109" tvg-chno="8831",US: CINEMANIA HOLLYWOOD 3 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=696004&extension=ts&play_token=cjQvudlwKY
+#EXTINF:-1 tvg-name="US: CINEMANIA HOLLYWOOD 30 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="1109" tvg-chno="8858",US: CINEMANIA HOLLYWOOD 30 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=695977&extension=ts&play_token=wEm26IO3Kb
+#EXTINF:-1 tvg-name="US: CINEMANIA HOLLYWOOD 31 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="1109" tvg-chno="8859",US: CINEMANIA HOLLYWOOD 31 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=695976&extension=ts&play_token=HJTpiDHyvK
+#EXTINF:-1 tvg-name="US: CINEMANIA HOLLYWOOD 32 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="1109" tvg-chno="8860",US: CINEMANIA HOLLYWOOD 32 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=695975&extension=ts&play_token=XWPEtHHDuL
+#EXTINF:-1 tvg-name="US: CINEMANIA HOLLYWOOD 33 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="1109" tvg-chno="8861",US: CINEMANIA HOLLYWOOD 33 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=695974&extension=ts&play_token=WMRCYcAdWo
+#EXTINF:-1 tvg-name="US: CINEMANIA HOLLYWOOD 34 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="1109" tvg-chno="8862",US: CINEMANIA HOLLYWOOD 34 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=695973&extension=ts&play_token=jkqblAc9Ui
+#EXTINF:-1 tvg-name="US: CINEMANIA HOLLYWOOD 35 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="1109" tvg-chno="8863",US: CINEMANIA HOLLYWOOD 35 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=695972&extension=ts&play_token=QERT9A19XX
+#EXTINF:-1 tvg-name="US: CINEMANIA HOLLYWOOD 36 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="1109" tvg-chno="8864",US: CINEMANIA HOLLYWOOD 36 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=695971&extension=ts&play_token=ZN0LEIcRMH
+#EXTINF:-1 tvg-name="US: CINEMANIA HOLLYWOOD 37 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="1109" tvg-chno="8865",US: CINEMANIA HOLLYWOOD 37 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=695970&extension=ts&play_token=tgLyBiyxql
+#EXTINF:-1 tvg-name="US: CINEMANIA HOLLYWOOD 38 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="1109" tvg-chno="8866",US: CINEMANIA HOLLYWOOD 38 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=695969&extension=ts&play_token=UhHrdSlrlX
+#EXTINF:-1 tvg-name="US: CINEMANIA HOLLYWOOD 39 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="1109" tvg-chno="8867",US: CINEMANIA HOLLYWOOD 39 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=695968&extension=ts&play_token=PidUaXaNJO
+#EXTINF:-1 tvg-name="US: CINEMANIA HOLLYWOOD 4 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="1109" tvg-chno="8832",US: CINEMANIA HOLLYWOOD 4 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=696003&extension=ts&play_token=RuEFo4HG8N
+#EXTINF:-1 tvg-name="US: CINEMANIA HOLLYWOOD 40 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="1109" tvg-chno="8868",US: CINEMANIA HOLLYWOOD 40 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=695967&extension=ts&play_token=12yFZyh9DV
+#EXTINF:-1 tvg-name="US: CINEMANIA HOLLYWOOD 41 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="1109" tvg-chno="8869",US: CINEMANIA HOLLYWOOD 41 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=695966&extension=ts&play_token=jqGn7Buyhm
+#EXTINF:-1 tvg-name="US: CINEMANIA HOLLYWOOD 42 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="1109" tvg-chno="8870",US: CINEMANIA HOLLYWOOD 42 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=695965&extension=ts&play_token=sXspW7Mrnn
+#EXTINF:-1 tvg-name="US: CINEMANIA HOLLYWOOD 43 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="1109" tvg-chno="8871",US: CINEMANIA HOLLYWOOD 43 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=695964&extension=ts&play_token=XkwzZ2XA26
+#EXTINF:-1 tvg-name="US: CINEMANIA HOLLYWOOD 44 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="1109" tvg-chno="8872",US: CINEMANIA HOLLYWOOD 44 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=695963&extension=ts&play_token=14zPFxxaFi
+#EXTINF:-1 tvg-name="US: CINEMANIA HOLLYWOOD 45 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="1109" tvg-chno="8873",US: CINEMANIA HOLLYWOOD 45 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=695962&extension=ts&play_token=hLv0n2Hmjv
+#EXTINF:-1 tvg-name="US: CINEMANIA HOLLYWOOD 46 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="1109" tvg-chno="8874",US: CINEMANIA HOLLYWOOD 46 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=695961&extension=ts&play_token=noyluZR370
+#EXTINF:-1 tvg-name="US: CINEMANIA HOLLYWOOD 47 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="1109" tvg-chno="8875",US: CINEMANIA HOLLYWOOD 47 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=695960&extension=ts&play_token=pYNq5GBzc8
+#EXTINF:-1 tvg-name="US: CINEMANIA HOLLYWOOD 48 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="1109" tvg-chno="8876",US: CINEMANIA HOLLYWOOD 48 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=695959&extension=ts&play_token=cqC0LKv939
+#EXTINF:-1 tvg-name="US: CINEMANIA HOLLYWOOD 49 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="1109" tvg-chno="8877",US: CINEMANIA HOLLYWOOD 49 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=695958&extension=ts&play_token=UwlcXELxMw
+#EXTINF:-1 tvg-name="US: CINEMANIA HOLLYWOOD 5 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="1109" tvg-chno="8833",US: CINEMANIA HOLLYWOOD 5 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=696002&extension=ts&play_token=6xhuw7WAvG
+#EXTINF:-1 tvg-name="US: CINEMANIA HOLLYWOOD 50 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="1109" tvg-chno="8878",US: CINEMANIA HOLLYWOOD 50 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=695957&extension=ts&play_token=SsTT4HqDfN
+#EXTINF:-1 tvg-name="US: CINEMANIA HOLLYWOOD 6 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="1109" tvg-chno="8834",US: CINEMANIA HOLLYWOOD 6 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=696001&extension=ts&play_token=Spun6bHdD5
+#EXTINF:-1 tvg-name="US: CINEMANIA HOLLYWOOD 7 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="1109" tvg-chno="8835",US: CINEMANIA HOLLYWOOD 7 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=696000&extension=ts&play_token=9jAm8saeJg
+#EXTINF:-1 tvg-name="US: CINEMANIA HOLLYWOOD 8 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="1109" tvg-chno="8836",US: CINEMANIA HOLLYWOOD 8 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=695999&extension=ts&play_token=JlGFQGTZFk
+#EXTINF:-1 tvg-name="US: CINEMANIA HOLLYWOOD 9 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="1109" tvg-chno="8837",US: CINEMANIA HOLLYWOOD 9 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=695998&extension=ts&play_token=zqhrUePv1s
+#EXTINF:-1 tvg-name="US: CINEMAX 5 STAR MAX" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3327.jpg?67411" group-title="493" tvg-chno="8582",US: CINEMAX 5 STAR MAX
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=436537&extension=ts&play_token=BanIg3wGXw
+#EXTINF:-1 tvg-name="US: CINEMAX 5 STARMAX 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3327.jpg?43623" group-title="493" tvg-chno="8584",US: CINEMAX 5 STARMAX 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=436158&extension=ts&play_token=OHEOPuxppO
+#EXTINF:-1 tvg-name="US: CINEMAX ACTION EAST HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8281.jpg?41462" group-title="493" tvg-chno="8578",US: CINEMAX ACTION EAST HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=325983&extension=ts&play_token=1NchsyrAH4
+#EXTINF:-1 tvg-name="US: CINEMAX EAST HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8281.jpg?41462" group-title="493" tvg-chno="8577",US: CINEMAX EAST HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=325982&extension=ts&play_token=FcOitYtqZp
+#EXTINF:-1 tvg-id="Cinemax.us" tvg-name="US: CINEMAX HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8281.jpg?41462" group-title="493" tvg-chno="8576",US: CINEMAX HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=325981&extension=ts&play_token=XZA6MWEmTx
+#EXTINF:-1 tvg-id="Cinemax.us" tvg-name="US: CINEMAX MOREMAX HDAR" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8281.jpg?41462" group-title="493" tvg-chno="8579",US: CINEMAX MOREMAX HDAR
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=325980&extension=ts&play_token=xEgaIibx1G
+#EXTINF:-1 tvg-id="Cinemax.us" tvg-name="US: CINEMAX THRILLERMAX HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8281.jpg?41462" group-title="493" tvg-chno="8580",US: CINEMAX THRILLERMAX HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=325979&extension=ts&play_token=Vbja6gRgPR
+#EXTINF:-1 tvg-id="Cinemax.us" tvg-name="US: CINEMAX WEST HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8281.jpg?41462" group-title="493" tvg-chno="8581",US: CINEMAX WEST HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=325978&extension=ts&play_token=vRi4jcJhuO
+#EXTINF:-1 tvg-id="StarzCinema.us" tvg-name="US: STARZ CINEMA EAST HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8109.jpg?10578" group-title="493" tvg-chno="8597",US: STARZ CINEMA EAST HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=325960&extension=ts&play_token=DGaBKfCajZ
+#EXTINF:-1 tvg-id="StarzCinema.us" tvg-name="US: STARZ CINEMA HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8109.jpg?10578" group-title="493" tvg-chno="8596",US: STARZ CINEMA HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=325959&extension=ts&play_token=Y5SOa8tFmg
+#EXTINF:-1 tvg-id="skycinemaaction.de" tvg-name="WOW: SKY CINEMA ACTION ᴴᴰ ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6475.jpg?67887" group-title="1268" tvg-chno="287",WOW: SKY CINEMA ACTION ᴴᴰ ◉
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=1667493&extension=ts&play_token=Yb4yPG5zV1
+#EXTINF:-1 tvg-id="skycinemaclassics.de" tvg-name="WOW: SKY CINEMA CLASSICS ᴴᴰ ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12171.png?55339" group-title="1268" tvg-chno="288",WOW: SKY CINEMA CLASSICS ᴴᴰ ◉
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=1667492&extension=ts&play_token=J6Wbobktp4
+#EXTINF:-1 tvg-id="skycinemafamily.de" tvg-name="WOW: SKY CINEMA FAMILY ᴴᴰ ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12184.jpg?119" group-title="1268" tvg-chno="289",WOW: SKY CINEMA FAMILY ᴴᴰ ◉
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=1667491&extension=ts&play_token=28gbOlCpQ4
+#EXTINF:-1 tvg-id="skycinemahighlights.de" tvg-name="WOW: SKY CINEMA HIGHLIGHTS ᴴᴰ ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12109.jpg?49399" group-title="1268" tvg-chno="285",WOW: SKY CINEMA HIGHLIGHTS ᴴᴰ ◉
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=1667495&extension=ts&play_token=bQ7LxQL7Um
+#EXTINF:-1 tvg-id="skycinemapremieren.de" tvg-name="WOW: SKY CINEMA PREMIERE ᴴᴰ ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6463.jpg?69108" group-title="1268" tvg-chno="286",WOW: SKY CINEMA PREMIERE ᴴᴰ ◉
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=1667494&extension=ts&play_token=vIDN70NELM
+#EXTINF:-1 tvg-name="### CINEMANIA HOLLYWOOD ᴿᴬᵂ ⁶⁰ᶠᵖˢ ###" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Animated-Flag-USA.gif" group-title="1109" tvg-chno="8818",### CINEMANIA HOLLYWOOD ᴿᴬᵂ ⁶⁰ᶠᵖˢ ###
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=696017&extension=ts&play_token=0Njef0Wt1c
+#EXTINF:-1 tvg-name="### CINEMANIA TV SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ ###" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Animated-Flag-USA.gif" group-title="1110" tvg-chno="8879",### CINEMANIA TV SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ ###
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=696338&extension=ts&play_token=1XS4a9muFm
+#EXTINF:-1 tvg-name="### SKYGO CINEMA VIP ###" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Animated-Flag-Germany.gif" group-title="668" tvg-chno="439",### SKYGO CINEMA VIP ###
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=715386&extension=ts&play_token=dUZsPbd04Q
+#EXTINF:-1 tvg-name="### UK CINEMA HEVC/4K ###" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" group-title="676" tvg-chno="3234",### UK CINEMA HEVC/4K ###
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=639184&extension=ts&play_token=DCmz35xNQN
+#EXTINF:-1 tvg-name="### UK CINEMA HEVC/HD ###" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" group-title="676" tvg-chno="3255",### UK CINEMA HEVC/HD ###
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=639204&extension=ts&play_token=Q5UT2Ougn8
+#EXTINF:-1 tvg-name="#### SKY CINEMA HD/4K ####" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" group-title="302" tvg-chno="3185",#### SKY CINEMA HD/4K ####
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=1015420&extension=ts&play_token=ui5VRpOT1M
+#EXTINF:-1 tvg-name="##### ONEPLAY CINEMA #####" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Animated-Flag-USA.gif" group-title="1940" tvg-chno="8614",##### ONEPLAY CINEMA #####
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=1520097&extension=ts&play_token=cgi5FKSblb
+#EXTINF:-1 tvg-name="######## EB CINEMA ########" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Animated-Flag-Germany.gif" group-title="332" tvg-chno="2253",######## EB CINEMA ########
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=227820&extension=ts&play_token=EAIntA78Rc
+#EXTINF:-1 tvg-name="RK: MOVIE HUB ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14331.png?ver=69659" group-title="1888" tvg-chno="9831",RK: MOVIE HUB ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=1475968&extension=ts&play_token=yPa3gfnaEb
+#EXTINF:-1 tvg-name="RK: MOVIE HUB ACTION ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14331.png?ver=69659" group-title="1888" tvg-chno="9830",RK: MOVIE HUB ACTION ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=1475969&extension=ts&play_token=WwO4PxrsQ1
+#EXTINF:-1 tvg-name="RK: MOVIE FAVORITES BY LIFETIME ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14331.png?ver=69659" group-title="1888" tvg-chno="9540",RK: MOVIE FAVORITES BY LIFETIME ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=1476259&extension=ts&play_token=VqOkYnXACa
+#EXTINF:-1 tvg-name="RK: MIRAMAX MOVIES ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14331.png?ver=69659" group-title="1888" tvg-chno="9532",RK: MIRAMAX MOVIES ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=1476267&extension=ts&play_token=sBKzRQRxvl
+#EXTINF:-1 tvg-name="RK: HALLMARK MOVIES & MORE ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14331.png?ver=69659" group-title="1888" tvg-chno="9436",RK: HALLMARK MOVIES & MORE ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=1476363&extension=ts&play_token=yvNtZZeLWp
+#EXTINF:-1 tvg-name="RK: GRAVITAS MOVIES ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14331.png?ver=69659" group-title="1888" tvg-chno="9429",RK: GRAVITAS MOVIES ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=1476370&extension=ts&play_token=gIDqNYryNY
+#EXTINF:-1 tvg-name="RK: FILMRISE FREE MOVIES ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14331.png?ver=69659" group-title="1888" tvg-chno="9381",RK: FILMRISE FREE MOVIES ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=1476418&extension=ts&play_token=DfRnd1nnAV
+#EXTINF:-1 tvg-name="RK: CLASSIC MOVIE WESTERNS ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14331.png?ver=69659" group-title="1888" tvg-chno="9310",RK: CLASSIC MOVIE WESTERNS ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=1476489&extension=ts&play_token=z6mvrwGidD
+#EXTINF:-1 tvg-name="RK: AT THE MOVIES ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14331.png?ver=69659" group-title="1888" tvg-chno="9232",RK: AT THE MOVIES ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=1476567&extension=ts&play_token=PH5pddvH48
+#EXTINF:-1 tvg-name="PRIME: THE ASYLUM MOVIE CHANNEL ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="1689" tvg-chno="7147",PRIME: THE ASYLUM MOVIE CHANNEL ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=1536405&extension=ts&play_token=Tb9z68nHzC
+#EXTINF:-1 tvg-name="PRIME: UNIVERSAL MOVIES ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="1689" tvg-chno="7217",PRIME: UNIVERSAL MOVIES ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=1536323&extension=ts&play_token=iwNZKbpQA8
+#EXTINF:-1 tvg-name="PRIME: SHOUT! MOVIES ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="1689" tvg-chno="7104",PRIME: SHOUT! MOVIES ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=1536460&extension=ts&play_token=OMqRWeRImx
+#EXTINF:-1 tvg-name="PRIME: MYTIME MOVIE NETWORK ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="1985" tvg-chno="2774",PRIME: MYTIME MOVIE NETWORK ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=1537425&extension=ts&play_token=v0itOcUBYR
+#EXTINF:-1 tvg-name="PRIME: MYTIME MOVIE NETWORK ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="1339" tvg-chno="97",PRIME: MYTIME MOVIE NETWORK ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=1537206&extension=ts&play_token=N5e9SPfDAV
+#EXTINF:-1 tvg-name="PRIME: MOVIESPHERE ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="1689" tvg-chno="6986",PRIME: MOVIESPHERE ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=1536601&extension=ts&play_token=0XH1xwESTr
+#EXTINF:-1 tvg-name="PRIME: MOVIESPHERE BY LIONSGATE ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="1985" tvg-chno="2769",PRIME: MOVIESPHERE BY LIONSGATE ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=1537430&extension=ts&play_token=32ElrSMPGO
+#EXTINF:-1 tvg-name="PRIME: MOVIESPHERE BY LIONSGATE ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="1339" tvg-chno="95",PRIME: MOVIESPHERE BY LIONSGATE ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=1537209&extension=ts&play_token=UWHOnkv5Nm
+#EXTINF:-1 tvg-name="PRIME: MOVIE FAVORITES BY LIFETIME ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="1689" tvg-chno="6984",PRIME: MOVIE FAVORITES BY LIFETIME ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=1536604&extension=ts&play_token=OaEXDnksKG
+#EXTINF:-1 tvg-name="PRIME: MIRAMAX MOVIE CHANNEL ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="1689" tvg-chno="6976",PRIME: MIRAMAX MOVIE CHANNEL ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=1536613&extension=ts&play_token=CZ4t7FIrMr
+#EXTINF:-1 tvg-name="PRIME: MOVIES ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="1689" tvg-chno="6985",PRIME: MOVIES ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=1536602&extension=ts&play_token=630mAkoucw
+#EXTINF:-1 tvg-name="PRIME: LIFETIME MOVIES LOVE & DRAMA ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="1689" tvg-chno="6944",PRIME: LIFETIME MOVIES LOVE & DRAMA ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=1536651&extension=ts&play_token=03SHwTDZPZ
+#EXTINF:-1 tvg-name="PRIME: HALLMARK MOVIES & MORE ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="1689" tvg-chno="6874",PRIME: HALLMARK MOVIES & MORE ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=1536730&extension=ts&play_token=YpucK7Whd7
+#EXTINF:-1 tvg-name="PRIME: FILMRISE FREE MOVIES ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="1689" tvg-chno="6823",PRIME: FILMRISE FREE MOVIES ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=1536790&extension=ts&play_token=Ba8HNEj35i
+#EXTINF:-1 tvg-name="PRIME: AMAZON MOVIES ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="1689" tvg-chno="6652",PRIME: AMAZON MOVIES ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=1536998&extension=ts&play_token=HBHjnCkpNi
+#EXTINF:-1 tvg-name="PRIME: AT THE MOVIES ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="1689" tvg-chno="6671",PRIME: AT THE MOVIES ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=1536974&extension=ts&play_token=f2tA84BCnF
+#EXTINF:-1 tvg-name="GO: FX MOVIE CHANNEL" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14545.PNG?ver=52669" group-title="2036" tvg-chno="7919",GO: FX MOVIE CHANNEL
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=1568769&extension=ts&play_token=CXbDTNXeTE
+#EXTINF:-1 tvg-name="GO: LIFETIME MOVIE NETWORK" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14545.PNG?ver=52669" group-title="2036" tvg-chno="7961",GO: LIFETIME MOVIE NETWORK
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=1568727&extension=ts&play_token=40S8iJdoLA
+#EXTINF:-1 tvg-name="GO: MOVIE FAVORITES BY LIFETIME" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14545.PNG?ver=52669" group-title="2036" tvg-chno="7980",GO: MOVIE FAVORITES BY LIFETIME
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=1568708&extension=ts&play_token=lhyLdFq25v
+#EXTINF:-1 tvg-name="GO: MOVIESPHERE" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14545.PNG?ver=52669" group-title="2036" tvg-chno="7981",GO: MOVIESPHERE
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=1568707&extension=ts&play_token=dfu89gwPrm
+#EXTINF:-1 tvg-name="GO: NET MOVIES" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14545.PNG?ver=52669" group-title="2036" tvg-chno="7998",GO: NET MOVIES
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=1568690&extension=ts&play_token=6yIyjNsni9
+#EXTINF:-1 tvg-name="GO: FAMILY MOVIE CLASSICS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14545.PNG?ver=52669" group-title="2036" tvg-chno="7903",GO: FAMILY MOVIE CLASSICS
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=1568785&extension=ts&play_token=WxUCPazrNH
