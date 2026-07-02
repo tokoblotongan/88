@@ -1468,3 +1468,452 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=1568707&e
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=1568690&extension=ts&play_token=6yIyjNsni9
 #EXTINF:-1 tvg-name="GO: FAMILY MOVIE CLASSICS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14545.PNG?ver=52669" group-title="2036" tvg-chno="7903",GO: FAMILY MOVIE CLASSICS
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:7D:D3:1D&stream=1568785&extension=ts&play_token=WxUCPazrNH
+#EXTM3U
+#EXTINF:-1 tvg-name="┃CY┃ CABELNET SPORT 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/CYPRUS/Cablenet-logo_Transparent_No-Services.png" group-title="3244" tvg-chno="2328",┃CY┃ CABELNET SPORT 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=244150&extension=ts&play_token=N8vLRDi6QJ
+#EXTINF:-1 tvg-id="animalplanet.cz" tvg-name="┃CY┃ CABELNET SPORT 3 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/CYPRUS/Cablenet-logo_Transparent_No-Services.png" group-title="3244" tvg-chno="2329",┃CY┃ CABELNET SPORT 3 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=983268&extension=ts&play_token=fke0L85o0l
+#EXTINF:-1 tvg-name="┃CY┃ CABELNET SPORT 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/CYPRUS/Cablenet-logo_Transparent_No-Services.png" group-title="3244" tvg-chno="2326",┃CY┃ CABELNET SPORT 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=244149&extension=ts&play_token=JNOZLGy42Y
+#EXTINF:-1 tvg-name="┃CY┃ CYTAVISION SPORT 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/CYPRUS/cytavision.png" group-title="3244" tvg-chno="2311",┃CY┃ CYTAVISION SPORT 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=244151&extension=ts&play_token=IXZjtHawEY
+#EXTINF:-1 tvg-name="┃CY┃ CYTAVISION SPORT 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/CYPRUS/cytavision.png" group-title="3244" tvg-chno="2313",┃CY┃ CYTAVISION SPORT 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=244152&extension=ts&play_token=F0MUSxzixq
+#EXTINF:-1 tvg-name="┃CY┃ CYTAVISION SPORT 3 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/CYPRUS/cytavision.png" group-title="3244" tvg-chno="2315",┃CY┃ CYTAVISION SPORT 3 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=244153&extension=ts&play_token=wcFbYVCS1F
+#EXTINF:-1 tvg-name="┃CY┃ CYTAVISION SPORT 4 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/CYPRUS/cytavision.png" group-title="3244" tvg-chno="2316",┃CY┃ CYTAVISION SPORT 4 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=758640&extension=ts&play_token=BhlZkc3enf
+#EXTINF:-1 tvg-name="┃CY┃ CYTAVISION SPORT 4 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/CYPRUS/cytavision.png" group-title="3244" tvg-chno="2317",┃CY┃ CYTAVISION SPORT 4 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=244154&extension=ts&play_token=rnV4bUyGjq
+#EXTINF:-1 tvg-name="┃CY┃ CYTAVISION SPORT 5 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/CYPRUS/cytavision.png" group-title="3244" tvg-chno="2319",┃CY┃ CYTAVISION SPORT 5 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=244155&extension=ts&play_token=pH7spBOODQ
+#EXTINF:-1 tvg-name="┃CY┃ CYTAVISION SPORT 6 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/CYPRUS/cytavision.png" group-title="3244" tvg-chno="2321",┃CY┃ CYTAVISION SPORT 6 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=244156&extension=ts&play_token=5LbCwQbVSE
+#EXTINF:-1 tvg-name="┃CY┃ CYTAVISION SPORT 7 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/CYPRUS/cytavision.png" group-title="3244" tvg-chno="2323",┃CY┃ CYTAVISION SPORT 7 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=244157&extension=ts&play_token=hGYHjMJDA9
+#EXTINF:-1 tvg-name="┃CY┃ CYTAVISION SPORT 8 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/CYPRUS/cytavision.png" group-title="3244" tvg-chno="2324",┃CY┃ CYTAVISION SPORT 8 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1017408&extension=ts&play_token=kJEcMGOkzu
+#EXTINF:-1 tvg-name="┃CY┃ CYTAVISION SPORT PREMIERE LEAGUE HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/CYPRUS/CYTAVISION SPORT PREMIERE LEAGUE.png" group-title="3244" tvg-chno="2309",┃CY┃ CYTAVISION SPORT PREMIERE LEAGUE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1017405&extension=ts&play_token=vfgBXzosjJ
+#EXTINF:-1 tvg-id="automotorundsportchannel.de" tvg-name="┃DE┃ AUTO MOTOR SPORT CHANNEL FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SPORT/AUTO MOTOR SPORT CHANNEL.png" group-title="6" tvg-chno="930",┃DE┃ AUTO MOTOR SPORT CHANNEL FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=760967&extension=ts&play_token=Ewn3vf4Iqc
+#EXTINF:-1 tvg-name="┃DE┃ AUTO MOTOR SPORT CHANNEL HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/AUTOMOTORSPORTCHANNELHD.png" group-title="5" tvg-chno="1155",┃DE┃ AUTO MOTOR SPORT CHANNEL HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1120&extension=ts&play_token=vshFKjnFom
+#EXTINF:-1 tvg-name="┃DE┃ AUTO MOTOR UND SPORT HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SPORT/AUTO MOTOR UND SPORT.png" group-title="6" tvg-chno="931",┃DE┃ AUTO MOTOR UND SPORT HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1149509&extension=ts&play_token=ogL3F6SmY7
+#EXTINF:-1 tvg-name="┃DE┃ AUTO MOTOR UND SPORT HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/AUTO MOTOR UND SPORT.png" group-title="3391" tvg-chno="2175",┃DE┃ AUTO MOTOR UND SPORT HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1280604&extension=ts&play_token=bY0126tphX
+#EXTINF:-1 tvg-id="esports1.de" tvg-name="┃DE┃ ESPORTS 1 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SPORT/ESPORTS 1.png" group-title="6" tvg-chno="936",┃DE┃ ESPORTS 1 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=760969&extension=ts&play_token=tAgwb6itmd
+#EXTINF:-1 tvg-name="┃DE┃ ESPORTS1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ESPORTSHD.png" group-title="5" tvg-chno="1154",┃DE┃ ESPORTS1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1118&extension=ts&play_token=ycDgBShNNS
+#EXTINF:-1 tvg-name="┃DE┃ ESPORTSONE HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/ESPORTSONE.png" group-title="3391" tvg-chno="2189",┃DE┃ ESPORTSONE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1280634&extension=ts&play_token=Pz3kfXukS2
+#EXTINF:-1 tvg-name="┃DE┃ MAGENTA SPORT 11 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTA SPORT/MAGENTA SPORT.png" group-title="3314" tvg-chno="901",┃DE┃ MAGENTA SPORT 11 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1149491&extension=ts&play_token=pGGfQJDzcd
+#EXTINF:-1 tvg-name="┃DE┃ MAGENTA SPORT 12 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTA SPORT/MAGENTA SPORT.png" group-title="3314" tvg-chno="902",┃DE┃ MAGENTA SPORT 12 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1149492&extension=ts&play_token=YjWf4BOaIZ
+#EXTINF:-1 tvg-name="┃DE┃ MAGENTA SPORT 13 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTA SPORT/MAGENTA SPORT.png" group-title="3314" tvg-chno="903",┃DE┃ MAGENTA SPORT 13 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1149493&extension=ts&play_token=ZD9tUFD9gn
+#EXTINF:-1 tvg-name="┃DE┃ MAGENTA SPORT 14 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTA SPORT/MAGENTA SPORT.png" group-title="3314" tvg-chno="904",┃DE┃ MAGENTA SPORT 14 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1149494&extension=ts&play_token=Z6a4M8eiAr
+#EXTINF:-1 tvg-name="┃DE┃ MAGENTA SPORT 15 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTA SPORT/MAGENTA SPORT.png" group-title="3314" tvg-chno="905",┃DE┃ MAGENTA SPORT 15 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1149495&extension=ts&play_token=JVMW6BDiBM
+#EXTINF:-1 tvg-name="┃DE┃ MAGENTA SPORT 16 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTA SPORT/MAGENTA SPORT.png" group-title="3314" tvg-chno="906",┃DE┃ MAGENTA SPORT 16 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1149496&extension=ts&play_token=QbpZojT2ey
+#EXTINF:-1 tvg-name="┃DE┃ MAGENTA SPORT 17 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTA SPORT/MAGENTA SPORT.png" group-title="3314" tvg-chno="907",┃DE┃ MAGENTA SPORT 17 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1149497&extension=ts&play_token=sd57d4a7iX
+#EXTINF:-1 tvg-name="┃DE┃ MAGENTA SPORT 18 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTA SPORT/MAGENTA SPORT.png" group-title="3314" tvg-chno="908",┃DE┃ MAGENTA SPORT 18 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1149498&extension=ts&play_token=rFA5AxdVv9
+#EXTINF:-1 tvg-name="┃DE┃ MAGENTA SPORT 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTA SPORT/MAGENTA SPORT.png" group-title="3314" tvg-chno="892",┃DE┃ MAGENTA SPORT 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1149482&extension=ts&play_token=lI2Df8VYGc
+#EXTINF:-1 tvg-name="┃DE┃ MAGENTA SPORT 3 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTA SPORT/MAGENTA SPORT.png" group-title="3314" tvg-chno="893",┃DE┃ MAGENTA SPORT 3 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1149483&extension=ts&play_token=16qJLWh7iy
+#EXTINF:-1 tvg-name="┃DE┃ MAGENTA SPORT 4 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTA SPORT/MAGENTA SPORT.png" group-title="3314" tvg-chno="894",┃DE┃ MAGENTA SPORT 4 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1149484&extension=ts&play_token=DXeerzkC0N
+#EXTINF:-1 tvg-name="┃DE┃ MAGENTA SPORT 5 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTA SPORT/MAGENTA SPORT.png" group-title="3314" tvg-chno="895",┃DE┃ MAGENTA SPORT 5 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1149485&extension=ts&play_token=kmXVwvHz12
+#EXTINF:-1 tvg-name="┃DE┃ MAGENTA SPORT 6 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTA SPORT/MAGENTA SPORT.png" group-title="3314" tvg-chno="896",┃DE┃ MAGENTA SPORT 6 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1149486&extension=ts&play_token=uo5beIyvUP
+#EXTINF:-1 tvg-name="┃DE┃ MAGENTA SPORT 7 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTA SPORT/MAGENTA SPORT.png" group-title="3314" tvg-chno="897",┃DE┃ MAGENTA SPORT 7 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1149487&extension=ts&play_token=Pf6Lz5a3BK
+#EXTINF:-1 tvg-name="┃DE┃ MAGENTA SPORT 8 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTA SPORT/MAGENTA SPORT.png" group-title="3314" tvg-chno="898",┃DE┃ MAGENTA SPORT 8 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1149488&extension=ts&play_token=NBahVSKQdi
+#EXTINF:-1 tvg-name="┃DE┃ MAGENTA SPORT 9 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTA SPORT/MAGENTA SPORT.png" group-title="3314" tvg-chno="899",┃DE┃ MAGENTA SPORT 9 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1149489&extension=ts&play_token=jcAHlaCmGu
+#EXTINF:-1 tvg-name="┃DE┃ MAGENTA SPORT HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTA SPORT/MAGENTA SPORT.png" group-title="3314" tvg-chno="890",┃DE┃ MAGENTA SPORT HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1149480&extension=ts&play_token=s0XiDu7vnp
+#EXTINF:-1 tvg-name="┃DE┃ MAGENTASPORT HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/MAGENTASPORT.png" group-title="3391" tvg-chno="2206",┃DE┃ MAGENTASPORT HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1280678&extension=ts&play_token=JDZSWqCkGK
+#EXTINF:-1 tvg-name="┃DE┃ MORE THAN SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SPORT/MORE THAN SPORTS.png" group-title="6" tvg-chno="933",┃DE┃ MORE THAN SPORTS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1149510&extension=ts&play_token=XEwF5kLHdl
+#EXTINF:-1 tvg-name="┃DE┃ MORE THAN SPORTS TV HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/MORE THAN SPORTS TV.png" group-title="3391" tvg-chno="2105",┃DE┃ MORE THAN SPORTS TV HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1280685&extension=ts&play_token=3KScXa2nn8
+#EXTINF:-1 tvg-name="┃DE┃ MS SPORT HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SPORT/MS SPORT.png" group-title="6" tvg-chno="926",┃DE┃ MS SPORT HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1149503&extension=ts&play_token=tROoSqkpCV
+#EXTINF:-1 tvg-name="┃DE┃ MS SPORT HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/MS SPORT.png" group-title="3391" tvg-chno="2106",┃DE┃ MS SPORT HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1280687&extension=ts&play_token=wJgR4OD99h
+#EXTINF:-1 tvg-name="┃DE┃ MY TEAM SPORT 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/MY TEAM SPORT.png" group-title="3391" tvg-chno="2211",┃DE┃ MY TEAM SPORT 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1280689&extension=ts&play_token=at3aF6kMwI
+#EXTINF:-1 tvg-name="┃DE┃ MY TEAM SPORT 10 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/MY TEAM SPORT.png" group-title="3391" tvg-chno="2220",┃DE┃ MY TEAM SPORT 10 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1280698&extension=ts&play_token=hxiBSYjRR2
+#EXTINF:-1 tvg-name="┃DE┃ MY TEAM SPORT 11 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/MY TEAM SPORT.png" group-title="3391" tvg-chno="2221",┃DE┃ MY TEAM SPORT 11 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1280699&extension=ts&play_token=paAudy1WE8
+#EXTINF:-1 tvg-name="┃DE┃ MY TEAM SPORT 12 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/MY TEAM SPORT.png" group-title="3391" tvg-chno="2222",┃DE┃ MY TEAM SPORT 12 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1280700&extension=ts&play_token=pjqkhn3LNs
+#EXTINF:-1 tvg-name="┃DE┃ MY TEAM SPORT 13 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/MY TEAM SPORT.png" group-title="3391" tvg-chno="2223",┃DE┃ MY TEAM SPORT 13 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1280701&extension=ts&play_token=Zxvw6t7jQy
+#EXTINF:-1 tvg-name="┃DE┃ MY TEAM SPORT 14 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/MY TEAM SPORT.png" group-title="3391" tvg-chno="2224",┃DE┃ MY TEAM SPORT 14 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1280702&extension=ts&play_token=A236RtbpF2
+#EXTINF:-1 tvg-name="┃DE┃ MY TEAM SPORT 15 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/MY TEAM SPORT.png" group-title="3391" tvg-chno="2225",┃DE┃ MY TEAM SPORT 15 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1280703&extension=ts&play_token=evttIAjpnQ
+#EXTINF:-1 tvg-name="┃DE┃ MY TEAM SPORT 16 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/MY TEAM SPORT.png" group-title="3391" tvg-chno="2226",┃DE┃ MY TEAM SPORT 16 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1280704&extension=ts&play_token=4npy8EjeRC
+#EXTINF:-1 tvg-name="┃DE┃ MY TEAM SPORT 17 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/MY TEAM SPORT.png" group-title="3391" tvg-chno="2227",┃DE┃ MY TEAM SPORT 17 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1280705&extension=ts&play_token=KGlqFftSCi
+#EXTINF:-1 tvg-name="┃DE┃ MY TEAM SPORT 18 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/MY TEAM SPORT.png" group-title="3391" tvg-chno="2228",┃DE┃ MY TEAM SPORT 18 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1280706&extension=ts&play_token=zzjMcVyTlF
+#EXTINF:-1 tvg-name="┃DE┃ MY TEAM SPORT 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/MY TEAM SPORT.png" group-title="3391" tvg-chno="2212",┃DE┃ MY TEAM SPORT 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1280690&extension=ts&play_token=fxprOE09p6
+#EXTINF:-1 tvg-name="┃DE┃ MY TEAM SPORT 3 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/MY TEAM SPORT.png" group-title="3391" tvg-chno="2213",┃DE┃ MY TEAM SPORT 3 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1280691&extension=ts&play_token=cDpbsEa5r3
+#EXTINF:-1 tvg-name="┃DE┃ MY TEAM SPORT 4 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/MY TEAM SPORT.png" group-title="3391" tvg-chno="2214",┃DE┃ MY TEAM SPORT 4 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1280692&extension=ts&play_token=RrpSmZfJZc
+#EXTINF:-1 tvg-name="┃DE┃ MY TEAM SPORT 5 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/MY TEAM SPORT.png" group-title="3391" tvg-chno="2215",┃DE┃ MY TEAM SPORT 5 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1280693&extension=ts&play_token=QBNi4FYTmq
+#EXTINF:-1 tvg-name="┃DE┃ MY TEAM SPORT 6 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/MY TEAM SPORT.png" group-title="3391" tvg-chno="2216",┃DE┃ MY TEAM SPORT 6 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1280694&extension=ts&play_token=pMDd48iWq0
+#EXTINF:-1 tvg-name="┃DE┃ MY TEAM SPORT 7 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/MY TEAM SPORT.png" group-title="3391" tvg-chno="2217",┃DE┃ MY TEAM SPORT 7 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1280695&extension=ts&play_token=DPFvb7oHAY
+#EXTINF:-1 tvg-name="┃DE┃ MY TEAM SPORT 8 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/MY TEAM SPORT.png" group-title="3391" tvg-chno="2218",┃DE┃ MY TEAM SPORT 8 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1280696&extension=ts&play_token=0uUa6Ily0q
+#EXTINF:-1 tvg-name="┃DE┃ MY TEAM SPORT 9 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/MY TEAM SPORT.png" group-title="3391" tvg-chno="2219",┃DE┃ MY TEAM SPORT 9 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1280697&extension=ts&play_token=rtJWaabgXz
+#EXTINF:-1 tvg-name="┃DE┃ RED BULL TV MOTORSPORT HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/RED BULL TV MOTORSPORT.png" group-title="3391" tvg-chno="2110",┃DE┃ RED BULL TV MOTORSPORT HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1280744&extension=ts&play_token=0IDmr0lKkl
+#EXTINF:-1 tvg-name="┃DE┃ RTL+ SPORT 1 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/RTL PLUS SPORT/RTL PLUS SPORT.png" group-title="373" tvg-chno="1259",┃DE┃ RTL+ SPORT 1 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=173739&extension=ts&play_token=W5JaoqeULS
+#EXTINF:-1 tvg-name="┃DE┃ RTL+ SPORT 10 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/RTL PLUS SPORT/RTL PLUS SPORT.png" group-title="373" tvg-chno="1268",┃DE┃ RTL+ SPORT 10 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=891753&extension=ts&play_token=p6w11PiED6
+#EXTINF:-1 tvg-name="┃DE┃ RTL+ SPORT 11 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/RTL PLUS SPORT/RTL PLUS SPORT.png" group-title="373" tvg-chno="1269",┃DE┃ RTL+ SPORT 11 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=891754&extension=ts&play_token=6b14fG4lJf
+#EXTINF:-1 tvg-name="┃DE┃ RTL+ SPORT 12 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/RTL PLUS SPORT/RTL PLUS SPORT.png" group-title="373" tvg-chno="1270",┃DE┃ RTL+ SPORT 12 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=891755&extension=ts&play_token=SblgruciDA
+#EXTINF:-1 tvg-name="┃DE┃ RTL+ SPORT 13 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/RTL PLUS SPORT/RTL PLUS SPORT.png" group-title="373" tvg-chno="1271",┃DE┃ RTL+ SPORT 13 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=891756&extension=ts&play_token=pLj2AzqDHh
+#EXTINF:-1 tvg-name="┃DE┃ RTL+ SPORT 14 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/RTL PLUS SPORT/RTL PLUS SPORT.png" group-title="373" tvg-chno="1272",┃DE┃ RTL+ SPORT 14 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=891757&extension=ts&play_token=kvx2OiEhzi
+#EXTINF:-1 tvg-name="┃DE┃ RTL+ SPORT 15 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/RTL PLUS SPORT/RTL PLUS SPORT.png" group-title="373" tvg-chno="1273",┃DE┃ RTL+ SPORT 15 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=891758&extension=ts&play_token=bExmb8WVqB
+#EXTINF:-1 tvg-name="┃DE┃ RTL+ SPORT 16 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/RTL PLUS SPORT/RTL PLUS SPORT.png" group-title="373" tvg-chno="1274",┃DE┃ RTL+ SPORT 16 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=891759&extension=ts&play_token=XmCFp1R9a7
+#EXTINF:-1 tvg-name="┃DE┃ RTL+ SPORT 17 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/RTL PLUS SPORT/RTL PLUS SPORT.png" group-title="373" tvg-chno="1275",┃DE┃ RTL+ SPORT 17 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=891760&extension=ts&play_token=z7N4llkNkC
+#EXTINF:-1 tvg-name="┃DE┃ RTL+ SPORT 18 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/RTL PLUS SPORT/RTL PLUS SPORT.png" group-title="373" tvg-chno="1276",┃DE┃ RTL+ SPORT 18 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=891761&extension=ts&play_token=3IKOlQween
+#EXTINF:-1 tvg-name="┃DE┃ RTL+ SPORT 19 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/RTL PLUS SPORT/RTL PLUS SPORT.png" group-title="373" tvg-chno="1277",┃DE┃ RTL+ SPORT 19 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=891762&extension=ts&play_token=RaYVe2Dkbz
+#EXTINF:-1 tvg-name="┃DE┃ RTL+ SPORT 2 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/RTL PLUS SPORT/RTL PLUS SPORT.png" group-title="373" tvg-chno="1260",┃DE┃ RTL+ SPORT 2 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=173738&extension=ts&play_token=I6hCwvuf6u
+#EXTINF:-1 tvg-name="┃DE┃ RTL+ SPORT 20 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/RTL PLUS SPORT/RTL PLUS SPORT.png" group-title="373" tvg-chno="1278",┃DE┃ RTL+ SPORT 20 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=891763&extension=ts&play_token=KQdOj5VeNu
+#EXTINF:-1 tvg-name="┃DE┃ RTL+ SPORT 3 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/RTL PLUS SPORT/RTL PLUS SPORT.png" group-title="373" tvg-chno="1261",┃DE┃ RTL+ SPORT 3 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=173737&extension=ts&play_token=7VKCU2yiPM
+#EXTINF:-1 tvg-name="┃DE┃ RTL+ SPORT 4 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/RTL PLUS SPORT/RTL PLUS SPORT.png" group-title="373" tvg-chno="1262",┃DE┃ RTL+ SPORT 4 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=173736&extension=ts&play_token=RRxt36d7hS
+#EXTINF:-1 tvg-name="┃DE┃ RTL+ SPORT 5 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/RTL PLUS SPORT/RTL PLUS SPORT.png" group-title="373" tvg-chno="1263",┃DE┃ RTL+ SPORT 5 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=173735&extension=ts&play_token=oSQHQ7FkdB
+#EXTINF:-1 tvg-name="┃DE┃ RTL+ SPORT 6 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/RTL PLUS SPORT/RTL PLUS SPORT.png" group-title="373" tvg-chno="1264",┃DE┃ RTL+ SPORT 6 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=173734&extension=ts&play_token=OZgEQH5Wgh
+#EXTINF:-1 tvg-name="┃DE┃ RTL+ SPORT 7 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/RTL PLUS SPORT/RTL PLUS SPORT.png" group-title="373" tvg-chno="1265",┃DE┃ RTL+ SPORT 7 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=891750&extension=ts&play_token=Ba4d4MHIbl
+#EXTINF:-1 tvg-name="┃DE┃ RTL+ SPORT 8 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/RTL PLUS SPORT/RTL PLUS SPORT.png" group-title="373" tvg-chno="1266",┃DE┃ RTL+ SPORT 8 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=891751&extension=ts&play_token=93qk6ST4z2
+#EXTINF:-1 tvg-name="┃DE┃ RTL+ SPORT 9 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/RTL PLUS SPORT/RTL PLUS SPORT.png" group-title="373" tvg-chno="1267",┃DE┃ RTL+ SPORT 9 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=891752&extension=ts&play_token=NRCqxEUFxx
+#EXTINF:-1 tvg-name="┃DE┃ SERVUS TV MOTORSPORT HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SPORT/SERVUS TV MOTORSPORT.png" group-title="6" tvg-chno="924",┃DE┃ SERVUS TV MOTORSPORT HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1149502&extension=ts&play_token=Svb138oOH1
+#EXTINF:-1 tvg-id="sport1.de" tvg-name="┃DE┃ SPORT 1 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SPORT/SPORT 1.png" group-title="6" tvg-chno="927",┃DE┃ SPORT 1 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=760964&extension=ts&play_token=33vwZNf0Dc
+#EXTINF:-1 tvg-id="sport1.de" tvg-name="┃DE┃ SPORT 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SPORT/SPORT 1.png" group-title="6" tvg-chno="928",┃DE┃ SPORT 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1149504&extension=ts&play_token=UBDUj6tU5g
+#EXTINF:-1 tvg-name="┃DE┃ SPORT 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SPORT1HD.png" group-title="5" tvg-chno="1150",┃DE┃ SPORT 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1124&extension=ts&play_token=SpyXdOF0XG
+#EXTINF:-1 tvg-name="┃DE┃ SPORT 1+ HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SPORT1PLUSHD.png" group-title="5" tvg-chno="1151",┃DE┃ SPORT 1+ HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1123&extension=ts&play_token=GgW1MMIIYq
+#EXTINF:-1 tvg-name="┃DE┃ SPORT DEUTSCHLAND.TV 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SPORTDEUTSCHLAND.png" group-title="963" tvg-chno="1541",┃DE┃ SPORT DEUTSCHLAND.TV 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=622638&extension=ts&play_token=dCGMp4kYjS
+#EXTINF:-1 tvg-name="┃DE┃ SPORT DEUTSCHLAND.TV 10 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SPORTDEUTSCHLAND.png" group-title="963" tvg-chno="1550",┃DE┃ SPORT DEUTSCHLAND.TV 10 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=622629&extension=ts&play_token=AzM2j9NsxX
+#EXTINF:-1 tvg-name="┃DE┃ SPORT DEUTSCHLAND.TV 11 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SPORTDEUTSCHLAND.png" group-title="963" tvg-chno="1551",┃DE┃ SPORT DEUTSCHLAND.TV 11 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=622628&extension=ts&play_token=vUN3WEkCQi
+#EXTINF:-1 tvg-name="┃DE┃ SPORT DEUTSCHLAND.TV 12 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SPORTDEUTSCHLAND.png" group-title="963" tvg-chno="1552",┃DE┃ SPORT DEUTSCHLAND.TV 12 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=622627&extension=ts&play_token=Z5wsWzdcon
+#EXTINF:-1 tvg-name="┃DE┃ SPORT DEUTSCHLAND.TV 13 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SPORTDEUTSCHLAND.png" group-title="963" tvg-chno="1553",┃DE┃ SPORT DEUTSCHLAND.TV 13 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=622626&extension=ts&play_token=31QuKRRx1f
+#EXTINF:-1 tvg-name="┃DE┃ SPORT DEUTSCHLAND.TV 14 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SPORTDEUTSCHLAND.png" group-title="963" tvg-chno="1554",┃DE┃ SPORT DEUTSCHLAND.TV 14 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=622625&extension=ts&play_token=znwEkoBLlT
+#EXTINF:-1 tvg-name="┃DE┃ SPORT DEUTSCHLAND.TV 15 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SPORTDEUTSCHLAND.png" group-title="963" tvg-chno="1555",┃DE┃ SPORT DEUTSCHLAND.TV 15 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=622624&extension=ts&play_token=BtW0tEP5Vk
+#EXTINF:-1 tvg-name="┃DE┃ SPORT DEUTSCHLAND.TV 16 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SPORTDEUTSCHLAND.png" group-title="963" tvg-chno="1556",┃DE┃ SPORT DEUTSCHLAND.TV 16 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=622623&extension=ts&play_token=2BUBo8SsLB
+#EXTINF:-1 tvg-name="┃DE┃ SPORT DEUTSCHLAND.TV 17 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SPORTDEUTSCHLAND.png" group-title="963" tvg-chno="1557",┃DE┃ SPORT DEUTSCHLAND.TV 17 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=622622&extension=ts&play_token=mJtBIOWir2
+#EXTINF:-1 tvg-name="┃DE┃ SPORT DEUTSCHLAND.TV 18 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SPORTDEUTSCHLAND.png" group-title="963" tvg-chno="1558",┃DE┃ SPORT DEUTSCHLAND.TV 18 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=622621&extension=ts&play_token=ma62sAJUzg
+#EXTINF:-1 tvg-name="┃DE┃ SPORT DEUTSCHLAND.TV 19 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SPORTDEUTSCHLAND.png" group-title="963" tvg-chno="1559",┃DE┃ SPORT DEUTSCHLAND.TV 19 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=622620&extension=ts&play_token=1ZQnAvlevy
+#EXTINF:-1 tvg-name="┃DE┃ SPORT DEUTSCHLAND.TV 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SPORTDEUTSCHLAND.png" group-title="963" tvg-chno="1542",┃DE┃ SPORT DEUTSCHLAND.TV 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=622637&extension=ts&play_token=gBSfeJ9gKT
+#EXTINF:-1 tvg-name="┃DE┃ SPORT DEUTSCHLAND.TV 20 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SPORTDEUTSCHLAND.png" group-title="963" tvg-chno="1560",┃DE┃ SPORT DEUTSCHLAND.TV 20 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=622619&extension=ts&play_token=zz8hXnFxyJ
+#EXTINF:-1 tvg-name="┃DE┃ SPORT DEUTSCHLAND.TV 3 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SPORTDEUTSCHLAND.png" group-title="963" tvg-chno="1543",┃DE┃ SPORT DEUTSCHLAND.TV 3 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=622636&extension=ts&play_token=2LqR3mEcBi
+#EXTINF:-1 tvg-name="┃DE┃ SPORT DEUTSCHLAND.TV 4 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SPORTDEUTSCHLAND.png" group-title="963" tvg-chno="1544",┃DE┃ SPORT DEUTSCHLAND.TV 4 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=622635&extension=ts&play_token=gFDttbrvGu
+#EXTINF:-1 tvg-name="┃DE┃ SPORT DEUTSCHLAND.TV 5 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SPORTDEUTSCHLAND.png" group-title="963" tvg-chno="1545",┃DE┃ SPORT DEUTSCHLAND.TV 5 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=622634&extension=ts&play_token=MFCnGTdPvb
+#EXTINF:-1 tvg-name="┃DE┃ SPORT DEUTSCHLAND.TV 6 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SPORTDEUTSCHLAND.png" group-title="963" tvg-chno="1546",┃DE┃ SPORT DEUTSCHLAND.TV 6 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=622633&extension=ts&play_token=62WtGnCTcd
+#EXTINF:-1 tvg-name="┃DE┃ SPORT DEUTSCHLAND.TV 7 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SPORTDEUTSCHLAND.png" group-title="963" tvg-chno="1547",┃DE┃ SPORT DEUTSCHLAND.TV 7 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=622632&extension=ts&play_token=kbJwfcYFcw
+#EXTINF:-1 tvg-name="┃DE┃ SPORT DEUTSCHLAND.TV 8 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SPORTDEUTSCHLAND.png" group-title="963" tvg-chno="1548",┃DE┃ SPORT DEUTSCHLAND.TV 8 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=622631&extension=ts&play_token=3E2LpblGJJ
+#EXTINF:-1 tvg-name="┃DE┃ SPORT DEUTSCHLAND.TV 9 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SPORTDEUTSCHLAND.png" group-title="963" tvg-chno="1549",┃DE┃ SPORT DEUTSCHLAND.TV 9 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=622630&extension=ts&play_token=3NejedvB0R
+#EXTINF:-1 tvg-name="┃DE┃ SPORT DIGITAL FUSSBALL 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SPORTDIGITALFUSSBALHD.png" group-title="102" tvg-chno="1238",┃DE┃ SPORT DIGITAL FUSSBALL 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=15423&extension=ts&play_token=lt47b4W3Of
+#EXTINF:-1 tvg-id="sportdigital.de" tvg-name="┃DE┃ SPORT DIGITAL FUSSBALL FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SPORT/SPORT DIGITAL FUSSBALL.png" group-title="6" tvg-chno="917",┃DE┃ SPORT DIGITAL FUSSBALL FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=760963&extension=ts&play_token=8AwJcuQobw
+#EXTINF:-1 tvg-id="sportdigital.de" tvg-name="┃DE┃ SPORT DIGITAL FUSSBALL HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SPORT/SPORT DIGITAL FUSSBALL.png" group-title="6" tvg-chno="918",┃DE┃ SPORT DIGITAL FUSSBALL HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1149501&extension=ts&play_token=1Aqxoa3ami
+#EXTINF:-1 tvg-name="┃DE┃ SPORT DIGITAL FUSSBALL HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SPORTDIGITALFUSSBALHD.png" group-title="5" tvg-chno="1149",┃DE┃ SPORT DIGITAL FUSSBALL HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1122&extension=ts&play_token=5yArRnETEz
+#EXTINF:-1 tvg-name="┃DE┃ SPORTDIGIAL +1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SPORT/SPORTDIGIAL +1.png" group-title="6" tvg-chno="920",┃DE┃ SPORTDIGIAL +1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1149505&extension=ts&play_token=LuPIW90ORm
+#EXTINF:-1 tvg-id="sport1plus.de" tvg-name="┃DE┃ SPORTDIGITAL +1 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SPORT/SPORTDIGIAL +1.png" group-title="6" tvg-chno="919",┃DE┃ SPORTDIGITAL +1 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=760965&extension=ts&play_token=twyIZ2RzrY
+#EXTINF:-1 tvg-name="┃DE┃ SPORTDIGITAL EDGE HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SPORT/SPORTDIGITAL EDGE.png" group-title="6" tvg-chno="922",┃DE┃ SPORTDIGITAL EDGE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1149508&extension=ts&play_token=Wla6TKEHtq
+#EXTINF:-1 tvg-name="┃DE┃ SPORTDIGITAL EDGE HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/EDGESPORTHD.png" group-title="5" tvg-chno="1153",┃DE┃ SPORTDIGITAL EDGE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1117&extension=ts&play_token=UmE6vKymm9
+#EXTINF:-1 tvg-name="┃DE┃ SPORTDIGITAL EDGE HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/SPORTDIGITAL EDGE.png" group-title="3391" tvg-chno="2268",┃DE┃ SPORTDIGITAL EDGE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1280782&extension=ts&play_token=kbwp4bYFCZ
+#EXTINF:-1 tvg-id="sportdigital.de" tvg-name="┃DE┃ SPORTDIGITAL FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SPORT/SPORTDIGITAL.png" group-title="6" tvg-chno="915",┃DE┃ SPORTDIGITAL FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1149507&extension=ts&play_token=HcT3VkOqGS
+#EXTINF:-1 tvg-name="┃DE┃ SPORTDIGITAL FUSSBALL HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/SPORTDIGITAL FUSSBALL.png" group-title="3391" tvg-chno="2269",┃DE┃ SPORTDIGITAL FUSSBALL HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1280783&extension=ts&play_token=vwDzTbUyX0
+#EXTINF:-1 tvg-id="sportdigital.de" tvg-name="┃DE┃ SPORTDIGITAL HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SPORT/SPORTDIGITAL.png" group-title="6" tvg-chno="916",┃DE┃ SPORTDIGITAL HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1149506&extension=ts&play_token=DhELnBeWTL
+#EXTINF:-1 tvg-id="sportdigital.de" tvg-name="┃DE┃ SPORTDIGITAL HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/SPORTDIGITAL.png" group-title="3391" tvg-chno="2270",┃DE┃ SPORTDIGITAL HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1280784&extension=ts&play_token=ANEeAr8iCX
+#EXTINF:-1 tvg-name="┃DE┃ SPORTDIGITAL1+ HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/SPORTDIGITAL1+.png" group-title="3391" tvg-chno="2267",┃DE┃ SPORTDIGITAL1+ HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1280781&extension=ts&play_token=96a2vd20ln
+#EXTINF:-1 tvg-name="┃GR┃ ANT1+ SPORTS 1 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/ANT1+.png" group-title="32" tvg-chno="37",┃GR┃ ANT1+ SPORTS 1 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=253995&extension=ts&play_token=uY4w0Wuwat
+#EXTINF:-1 tvg-name="┃GR┃ ANT1+ SPORTS 2 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/ANT1_Greek_channel_logo.svg.png" group-title="32" tvg-chno="38",┃GR┃ ANT1+ SPORTS 2 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=697964&extension=ts&play_token=R2dosi34QZ
+#EXTINF:-1 tvg-name="┃GR┃ ANT1+ SPORTS 3 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/ANT1_Greek_channel_logo.svg.png" group-title="32" tvg-chno="39",┃GR┃ ANT1+ SPORTS 3 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=697963&extension=ts&play_token=wMXgHT1BFn
+#EXTINF:-1 tvg-id="cosmotesport1.gr" tvg-name="┃GR┃ COSMOTE SPORT 1 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="3708" tvg-chno="45",┃GR┃ COSMOTE SPORT 1 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=174426&extension=ts&play_token=KNzNun0i67
+#EXTINF:-1 tvg-id="cosmotesport1.gr" tvg-name="┃GR┃ COSMOTE SPORT 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="3708" tvg-chno="46",┃GR┃ COSMOTE SPORT 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1890&extension=ts&play_token=bBxy1UFzmQ
+#EXTINF:-1 tvg-id="cosmotesport1.gr" tvg-name="┃GR┃ COSMOTE SPORT 1 SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="3708" tvg-chno="47",┃GR┃ COSMOTE SPORT 1 SD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=671508&extension=ts&play_token=oBcR5CHlog
+#EXTINF:-1 tvg-id="cosmotesport2.gr" tvg-name="┃GR┃ COSMOTE SPORT 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="3708" tvg-chno="49",┃GR┃ COSMOTE SPORT 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1889&extension=ts&play_token=xJJDNF1In4
+#EXTINF:-1 tvg-id="cosmotesport2.gr" tvg-name="┃GR┃ COSMOTE SPORT 2 SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="3708" tvg-chno="50",┃GR┃ COSMOTE SPORT 2 SD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=671509&extension=ts&play_token=Uhnx0egRwq
+#EXTINF:-1 tvg-id="cosmotesport3.gr" tvg-name="┃GR┃ COSMOTE SPORT 3 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="3708" tvg-chno="52",┃GR┃ COSMOTE SPORT 3 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1888&extension=ts&play_token=379Cfs31mE
+#EXTINF:-1 tvg-id="cosmotesport3.gr" tvg-name="┃GR┃ COSMOTE SPORT 3 SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="3708" tvg-chno="53",┃GR┃ COSMOTE SPORT 3 SD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=671510&extension=ts&play_token=XHey9Whvw1
+#EXTINF:-1 tvg-id="cosmotesport4.gr" tvg-name="┃GR┃ COSMOTE SPORT 4 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="3708" tvg-chno="55",┃GR┃ COSMOTE SPORT 4 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1887&extension=ts&play_token=DCmfUCW6nD
+#EXTINF:-1 tvg-id="cosmotesport4.gr" tvg-name="┃GR┃ COSMOTE SPORT 4 SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="3708" tvg-chno="56",┃GR┃ COSMOTE SPORT 4 SD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=671511&extension=ts&play_token=bfnRd527Eu
+#EXTINF:-1 tvg-id="cosmotesport5.gr" tvg-name="┃GR┃ COSMOTE SPORT 5 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="3708" tvg-chno="58",┃GR┃ COSMOTE SPORT 5 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1886&extension=ts&play_token=7LiEg0UOLn
+#EXTINF:-1 tvg-id="cosmotesport5.gr" tvg-name="┃GR┃ COSMOTE SPORT 5 SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="3708" tvg-chno="59",┃GR┃ COSMOTE SPORT 5 SD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=671512&extension=ts&play_token=OhggHVZyA9
+#EXTINF:-1 tvg-id="cosmotesport6.gr" tvg-name="┃GR┃ COSMOTE SPORT 6 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="3708" tvg-chno="61",┃GR┃ COSMOTE SPORT 6 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1885&extension=ts&play_token=qevj0JUdqG
+#EXTINF:-1 tvg-id="cosmotesport6.gr" tvg-name="┃GR┃ COSMOTE SPORT 6 SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="3708" tvg-chno="62",┃GR┃ COSMOTE SPORT 6 SD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=671513&extension=ts&play_token=dpCVo3VpJT
+#EXTINF:-1 tvg-id="cosmotesport7.gr" tvg-name="┃GR┃ COSMOTE SPORT 7 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="3708" tvg-chno="64",┃GR┃ COSMOTE SPORT 7 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1884&extension=ts&play_token=NzSPVzFed4
+#EXTINF:-1 tvg-id="cosmotesport8.gr" tvg-name="┃GR┃ COSMOTE SPORT 8 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="3708" tvg-chno="66",┃GR┃ COSMOTE SPORT 8 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1883&extension=ts&play_token=5bYIUaLbQH
+#EXTINF:-1 tvg-id="cosmotesport9hd.gr" tvg-name="┃GR┃ COSMOTE SPORT 9 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="3708" tvg-chno="68",┃GR┃ COSMOTE SPORT 9 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=671507&extension=ts&play_token=QpMSw0NDLm
+#EXTINF:-1 tvg-id="cosmotesporthighlight.gr" tvg-name="┃GR┃ COSMOTE SPORT HIGHLIGHTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png" group-title="3708" tvg-chno="44",┃GR┃ COSMOTE SPORT HIGHLIGHTS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=671498&extension=ts&play_token=qLqsGBpSl7
+#EXTINF:-1 tvg-id="cosmotesportpanathenaikos.gr" tvg-name="┃GR┃ COSMOTE SPORT SL PANATHINAIKOS PASS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Panathinaikos_F.C._logo.png" group-title="3708" tvg-chno="70",┃GR┃ COSMOTE SPORT SL PANATHINAIKOS PASS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=242084&extension=ts&play_token=N9sgEx9NZ8
+#EXTINF:-1 tvg-id="cosmotesportaek.gr" tvg-name="┃GR┃ COSMOTE SPORT SL PASS AEK HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/AEKPASS.png" group-title="3708" tvg-chno="74",┃GR┃ COSMOTE SPORT SL PASS AEK HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=242086&extension=ts&play_token=MkgIepDccl
+#EXTINF:-1 tvg-id="cosmotesportolympiakos.gr" tvg-name="┃GR┃ COSMOTE SPORT SL PASS OLYMPIAKOS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Olympiacos_FC_logo.svg.png" group-title="3708" tvg-chno="72",┃GR┃ COSMOTE SPORT SL PASS OLYMPIAKOS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=242085&extension=ts&play_token=5bfvetsN5n
+#EXTINF:-1 tvg-name="┃GR┃ EPT SPORTS 1 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/2560px-EPT2_logo_(2015).svg.png" group-title="32" tvg-chno="113",┃GR┃ EPT SPORTS 1 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=699604&extension=ts&play_token=m533eTxkFc
+#EXTINF:-1 tvg-name="┃GR┃ EPT SPORTS 2 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/2560px-EPT2_logo_(2015).svg.png" group-title="32" tvg-chno="114",┃GR┃ EPT SPORTS 2 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=699605&extension=ts&play_token=lAvZtjUwFp
+#EXTINF:-1 tvg-name="┃GR┃ EPT SPORTS 3 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/2560px-EPT2_logo_(2015).svg.png" group-title="32" tvg-chno="115",┃GR┃ EPT SPORTS 3 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=866625&extension=ts&play_token=FLCo7bcwsQ
+#EXTINF:-1 tvg-name="┃GR┃ ERT SPORTS 4 FHD" group-title="32" tvg-chno="116",┃GR┃ ERT SPORTS 4 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1648353&extension=ts&play_token=HrWF1PCeio
+#EXTINF:-1 tvg-id="eurosport1.gr" tvg-name="┃GR┃ EUROSPORT 1 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/EUROSPORT.png" group-title="32" tvg-chno="109",┃GR┃ EUROSPORT 1 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=173188&extension=ts&play_token=B18JCsXJex
+#EXTINF:-1 tvg-id="eurosport2.gr" tvg-name="┃GR┃ EUROSPORT 2 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/EUROSPORT.png" group-title="32" tvg-chno="110",┃GR┃ EUROSPORT 2 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=173189&extension=ts&play_token=VyDBV8BUcj
+#EXTINF:-1 tvg-name="┃GR┃ EXTREME SPORT SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/CZECHREPUBLIC/Extreme_Sports_Channel.png" group-title="32" tvg-chno="112",┃GR┃ EXTREME SPORT SD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=699602&extension=ts&play_token=cBVJju8jz6
+#EXTINF:-1 tvg-id="novasportsnews.gr" tvg-name="┃GR┃ NOVA SPORT NEWS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Sports_News_V2021.png" group-title="3707" tvg-chno="76",┃GR┃ NOVA SPORT NEWS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=174431&extension=ts&play_token=RrXj3eKCji
+#EXTINF:-1 tvg-id="novasports1.gr" tvg-name="┃GR┃ NOVA SPORTS 1 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png" group-title="3707" tvg-chno="86",┃GR┃ NOVA SPORTS 1 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=173185&extension=ts&play_token=P7xMMW9P2m
+#EXTINF:-1 tvg-id="novasports1.gr" tvg-name="┃GR┃ NOVA SPORTS 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png" group-title="3707" tvg-chno="87",┃GR┃ NOVA SPORTS 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=193070&extension=ts&play_token=qoEawp8d5o
+#EXTINF:-1 tvg-name="┃GR┃ NOVA SPORTS 1 SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png" group-title="3707" tvg-chno="88",┃GR┃ NOVA SPORTS 1 SD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1648348&extension=ts&play_token=PcuNIYdOeV
+#EXTINF:-1 tvg-id="novasports2.gr" tvg-name="┃GR┃ NOVA SPORTS 2 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png" group-title="3707" tvg-chno="89",┃GR┃ NOVA SPORTS 2 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=173186&extension=ts&play_token=FOGCNfNE11
+#EXTINF:-1 tvg-id="novasports2.gr" tvg-name="┃GR┃ NOVA SPORTS 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png" group-title="3707" tvg-chno="90",┃GR┃ NOVA SPORTS 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1878&extension=ts&play_token=GqwXBHx5DO
+#EXTINF:-1 tvg-name="┃GR┃ NOVA SPORTS 2 SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png" group-title="3707" tvg-chno="91",┃GR┃ NOVA SPORTS 2 SD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1648347&extension=ts&play_token=STEJKiQCQU
+#EXTINF:-1 tvg-id="novasports3.gr" tvg-name="┃GR┃ NOVA SPORTS 3 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png" group-title="3707" tvg-chno="92",┃GR┃ NOVA SPORTS 3 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=174271&extension=ts&play_token=H4wwneFj0t
+#EXTINF:-1 tvg-id="novasports3.gr" tvg-name="┃GR┃ NOVA SPORTS 3 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png" group-title="3707" tvg-chno="93",┃GR┃ NOVA SPORTS 3 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1877&extension=ts&play_token=IuX3ImsnPz
+#EXTINF:-1 tvg-name="┃GR┃ NOVA SPORTS 3 SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png" group-title="3707" tvg-chno="94",┃GR┃ NOVA SPORTS 3 SD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1648346&extension=ts&play_token=posmOK5S6S
+#EXTINF:-1 tvg-id="novasports4.gr" tvg-name="┃GR┃ NOVA SPORTS 4 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png" group-title="3707" tvg-chno="95",┃GR┃ NOVA SPORTS 4 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=174272&extension=ts&play_token=MReX8HdoTh
+#EXTINF:-1 tvg-id="novasports4.gr" tvg-name="┃GR┃ NOVA SPORTS 4 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png" group-title="3707" tvg-chno="96",┃GR┃ NOVA SPORTS 4 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1876&extension=ts&play_token=JXWlcxFWSZ
+#EXTINF:-1 tvg-name="┃GR┃ NOVA SPORTS 4 SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png" group-title="3707" tvg-chno="97",┃GR┃ NOVA SPORTS 4 SD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1648345&extension=ts&play_token=YbVGGSdrOj
+#EXTINF:-1 tvg-id="novasports5.gr" tvg-name="┃GR┃ NOVA SPORTS 5 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png" group-title="3707" tvg-chno="98",┃GR┃ NOVA SPORTS 5 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1875&extension=ts&play_token=iRdk6NjwnB
+#EXTINF:-1 tvg-id="novasports5.gr" tvg-name="┃GR┃ NOVA SPORTS 5 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png" group-title="3707" tvg-chno="99",┃GR┃ NOVA SPORTS 5 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=193074&extension=ts&play_token=Fz4qXw1014
+#EXTINF:-1 tvg-name="┃GR┃ NOVA SPORTS 5 SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png" group-title="3707" tvg-chno="100",┃GR┃ NOVA SPORTS 5 SD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1648344&extension=ts&play_token=08YRXgAHAF
+#EXTINF:-1 tvg-id="novasports6.gr" tvg-name="┃GR┃ NOVA SPORTS 6 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png" group-title="3707" tvg-chno="101",┃GR┃ NOVA SPORTS 6 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=174273&extension=ts&play_token=5Hmom7mH4E
+#EXTINF:-1 tvg-id="novasports6.gr" tvg-name="┃GR┃ NOVA SPORTS 6 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVASPORTSSTART.png" group-title="3707" tvg-chno="102",┃GR┃ NOVA SPORTS 6 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=699928&extension=ts&play_token=nVYCjqQAN4
+#EXTINF:-1 tvg-name="┃GR┃ NOVA SPORTS 6 SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVASPORTSSTART.png" group-title="3707" tvg-chno="103",┃GR┃ NOVA SPORTS 6 SD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1648343&extension=ts&play_token=3LKUDIExff
+#EXTINF:-1 tvg-id="novasportsextra.gr" tvg-name="┃GR┃ NOVA SPORTS EXTRA 1 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png" group-title="3707" tvg-chno="104",┃GR┃ NOVA SPORTS EXTRA 1 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=193071&extension=ts&play_token=LLM9tq4jtP
+#EXTINF:-1 tvg-id="novasportsextra2.gr" tvg-name="┃GR┃ NOVA SPORTS EXTRA 2 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png" group-title="3707" tvg-chno="105",┃GR┃ NOVA SPORTS EXTRA 2 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=193072&extension=ts&play_token=z0F7xKvnu8
+#EXTINF:-1 tvg-id="novasportsextra3.gr" tvg-name="┃GR┃ NOVA SPORTS EXTRA 3 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png" group-title="3707" tvg-chno="106",┃GR┃ NOVA SPORTS EXTRA 3 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=193073&extension=ts&play_token=flabAtpk29
+#EXTINF:-1 tvg-id="novasportsextra4.gr" tvg-name="┃GR┃ NOVA SPORTS EXTRA 4 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png" group-title="3707" tvg-chno="107",┃GR┃ NOVA SPORTS EXTRA 4 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=724019&extension=ts&play_token=T1uVNIwfk5
+#EXTINF:-1 tvg-id="novasportsnews.gr" tvg-name="┃GR┃ NOVA SPORTS NEWS FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Sports_News_V2021.png" group-title="3707" tvg-chno="75",┃GR┃ NOVA SPORTS NEWS FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1880&extension=ts&play_token=yTaTFzmG7Q
+#EXTINF:-1 tvg-id="novasportspremierleague.gr" tvg-name="┃GR┃ NOVA SPORTS PREMIER LEAGUE FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png" group-title="3707" tvg-chno="83",┃GR┃ NOVA SPORTS PREMIER LEAGUE FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1879&extension=ts&play_token=GrbYfFqQE2
+#EXTINF:-1 tvg-id="novasportspremierleague.gr" tvg-name="┃GR┃ NOVA SPORTS PREMIER LEAGUE HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png" group-title="3707" tvg-chno="84",┃GR┃ NOVA SPORTS PREMIER LEAGUE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=663683&extension=ts&play_token=UgePxC4Kse
+#EXTINF:-1 tvg-name="┃GR┃ NOVA SPORTS PREMIER LEAGUE SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png" group-title="3707" tvg-chno="85",┃GR┃ NOVA SPORTS PREMIER LEAGUE SD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1648349&extension=ts&play_token=TnVBMIQyYW
+#EXTINF:-1 tvg-id="novasportsprime.gr" tvg-name="┃GR┃ NOVA SPORTS PRIME FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Sports_Prime_V2021.png" group-title="3707" tvg-chno="77",┃GR┃ NOVA SPORTS PRIME FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1142146&extension=ts&play_token=nZPj9GD4hd
+#EXTINF:-1 tvg-id="novasportsprime.gr" tvg-name="┃GR┃ NOVA SPORTS PRIME HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Sports_Prime_V2021.png" group-title="3707" tvg-chno="78",┃GR┃ NOVA SPORTS PRIME HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1874&extension=ts&play_token=02NcujelCa
+#EXTINF:-1 tvg-name="┃GR┃ NOVA SPORTS PRIME SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Sports_Prime_V2021.png" group-title="3707" tvg-chno="79",┃GR┃ NOVA SPORTS PRIME SD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1648351&extension=ts&play_token=MO81SdNrJK
+#EXTINF:-1 tvg-id="novasportsstart.gr" tvg-name="┃GR┃ NOVA SPORTS START FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVASPORTSSTART.png" group-title="3707" tvg-chno="80",┃GR┃ NOVA SPORTS START FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=56829&extension=ts&play_token=3GiOSZUi9X
+#EXTINF:-1 tvg-id="novasportsstart.gr" tvg-name="┃GR┃ NOVA SPORTS START HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVASPORTSSTART.png" group-title="3707" tvg-chno="81",┃GR┃ NOVA SPORTS START HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=174254&extension=ts&play_token=Zocfb0L6sU
+#EXTINF:-1 tvg-name="┃GR┃ NOVA SPORTS START SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVASPORTSSTART.png" group-title="3707" tvg-chno="82",┃GR┃ NOVA SPORTS START SD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1648350&extension=ts&play_token=c8pJdIokVA
+#EXTINF:-1 tvg-name="┃GR┃ SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="3329" tvg-chno="300",┃GR┃ SPORT
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1154076&extension=ts&play_token=Wl5whrYvMg
+#EXTINF:-1 tvg-name="┃GR┃ SPORT PLUS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/SPORTPLUS.png" group-title="32" tvg-chno="108",┃GR┃ SPORT PLUS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=663269&extension=ts&play_token=y40d3m32KH
+#EXTINF:-1 tvg-name="┃GR┃ THE TRANSPORTER" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NOVA PREMIERE/24 7.png" group-title="3329" tvg-chno="303",┃GR┃ THE TRANSPORTER
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1154051&extension=ts&play_token=grDGusDHDh
+#EXTINF:-1 tvg-name="┃UCL┃ BEIN SPORTS 1 HD [AR]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="3010" tvg-chno="2041",┃UCL┃ BEIN SPORTS 1 HD [AR]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=894995&extension=ts&play_token=8qjJ74cMoQ
+#EXTINF:-1 tvg-name="┃UCL┃ BEIN SPORTS 2 HD [AR]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="3010" tvg-chno="2042",┃UCL┃ BEIN SPORTS 2 HD [AR]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=894996&extension=ts&play_token=5XEE4e3v17
+#EXTINF:-1 tvg-name="┃UCL┃ BEIN SPORTS 3 HD [AR]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="3010" tvg-chno="2043",┃UCL┃ BEIN SPORTS 3 HD [AR]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=894997&extension=ts&play_token=bkOcmUTO8c
+#EXTINF:-1 tvg-name="┃UCL┃ CANAL+ SPORT HD [FR]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="3010" tvg-chno="2045",┃UCL┃ CANAL+ SPORT HD [FR]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=894987&extension=ts&play_token=Dedghkwi6p
+#EXTINF:-1 tvg-name="┃UCL┃ SKY SPORT UNO HD [IT]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="3010" tvg-chno="2051",┃UCL┃ SKY SPORT UNO HD [IT]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=894998&extension=ts&play_token=d1SZwnHwnb
+#EXTINF:-1 tvg-name="┃UCL┃ TNT SPORTS 1 HD [UK]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="3010" tvg-chno="2030",┃UCL┃ TNT SPORTS 1 HD [UK]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=894977&extension=ts&play_token=WBWKRfsNG8
+#EXTINF:-1 tvg-name="┃UCL┃ TNT SPORTS 2 HD [UK]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="3010" tvg-chno="2031",┃UCL┃ TNT SPORTS 2 HD [UK]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=894978&extension=ts&play_token=WEKFujihlM
+#EXTINF:-1 tvg-name="┃UCL┃ TNT SPORTS 3 HD [UK]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="3010" tvg-chno="2032",┃UCL┃ TNT SPORTS 3 HD [UK]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=894979&extension=ts&play_token=xOWlUcnqAj
+#EXTINF:-1 tvg-name="┃UCL┃ TNT SPORTS 4 HD [UK]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="3010" tvg-chno="2033",┃UCL┃ TNT SPORTS 4 HD [UK]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=894980&extension=ts&play_token=RzUrD2uO91
+#EXTINF:-1 tvg-name="┃UCL┃ TNT SPORTS 5 HD [UK]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="3010" tvg-chno="2034",┃UCL┃ TNT SPORTS 5 HD [UK]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=894981&extension=ts&play_token=n5Ngnu6Z7v
+#EXTINF:-1 tvg-name="┃UCL┃ TRING SPORT 1 HD [AL]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="3010" tvg-chno="2052",┃UCL┃ TRING SPORT 1 HD [AL]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=895006&extension=ts&play_token=AJEt7taGiu
+#EXTINF:-1 tvg-name="┃UCL┃ TRING SPORT 2 HD [AL]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="3010" tvg-chno="2053",┃UCL┃ TRING SPORT 2 HD [AL]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=895007&extension=ts&play_token=oZ4L37MCiJ
+#EXTINF:-1 tvg-name="┃UCL┃ TRING SPORT 3 HD [AL]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="3010" tvg-chno="2054",┃UCL┃ TRING SPORT 3 HD [AL]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=895008&extension=ts&play_token=emHpGmMVPI
+#EXTINF:-1 tvg-name="┃UCL┃ TRING SPORT 4 HD [AL]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="3010" tvg-chno="2055",┃UCL┃ TRING SPORT 4 HD [AL]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=895009&extension=ts&play_token=TlK8WgkPzN
+#EXTINF:-1 tvg-name="┃UCL┃ TRING SPORT 5 HD [AL]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="3010" tvg-chno="2056",┃UCL┃ TRING SPORT 5 HD [AL]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=895010&extension=ts&play_token=ZbzvCxffQo
+#EXTINF:-1 tvg-name="┃UCL┃ ZIGGO SPORT 1 HD [NL]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="3010" tvg-chno="2021",┃UCL┃ ZIGGO SPORT 1 HD [NL]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=894968&extension=ts&play_token=ySCpbRbYE3
+#EXTINF:-1 tvg-name="┃UCL┃ ZIGGO SPORT 2 HD [NL]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="3010" tvg-chno="2022",┃UCL┃ ZIGGO SPORT 2 HD [NL]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=894969&extension=ts&play_token=28P5tDiOIo
+#EXTINF:-1 tvg-name="┃UCL┃ ZIGGO SPORT 3 HD [NL]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="3010" tvg-chno="2023",┃UCL┃ ZIGGO SPORT 3 HD [NL]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=894970&extension=ts&play_token=ix6zaLc22F
+#EXTINF:-1 tvg-name="┃UCL┃ ZIGGO SPORT 4 HD [NL]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="3010" tvg-chno="2024",┃UCL┃ ZIGGO SPORT 4 HD [NL]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=894971&extension=ts&play_token=COmyIh4voL
+#EXTINF:-1 tvg-name="┃UCL┃ ZIGGO SPORT 5 HD [NL]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="3010" tvg-chno="2025",┃UCL┃ ZIGGO SPORT 5 HD [NL]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=894972&extension=ts&play_token=GW8OzXCpfF
+#EXTINF:-1 tvg-name="┃UCL┃ ZIGGO SPORT 6 HD [NL]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="3010" tvg-chno="2026",┃UCL┃ ZIGGO SPORT 6 HD [NL]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=894973&extension=ts&play_token=41Kv0K3OPS
+#EXTINF:-1 tvg-name="┃GR┃ HBO 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/CZECHREPUBLIC/FILMY SÉRIE/HBO.png" group-title="2715" tvg-chno="163",┃GR┃ HBO 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1160541&extension=ts&play_token=jxxLUW0bVP
+#EXTINF:-1 tvg-name="┃GR┃ HBO 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/CZECHREPUBLIC/FILMY SÉRIE/HBO 2.png" group-title="2715" tvg-chno="164",┃GR┃ HBO 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1160542&extension=ts&play_token=wYkmK1ktKR
+#EXTINF:-1 tvg-name="┃GR┃ HBO 3 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/CZECHREPUBLIC/FILMY SÉRIE/HBO 3.png" group-title="2715" tvg-chno="165",┃GR┃ HBO 3 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1160543&extension=ts&play_token=dPR3k8T1aY
+#EXTINF:-1 tvg-name="┃DE┃ F1 TV PRO | KIMI ANTONELLI | MERCEDES" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/FORMEL 1/FORMEL 1.png" group-title="2803" tvg-chno="750",┃DE┃ F1 TV PRO | KIMI ANTONELLI | MERCEDES
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=760937&extension=ts&play_token=QTPJ42q3qp
+#EXTINF:-1 tvg-name="┃DE┃ F1 TV PRO | LEC LECLERC | FERRARI" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/FORMEL 1/FORMEL 1.png" group-title="2803" tvg-chno="752",┃DE┃ F1 TV PRO | LEC LECLERC | FERRARI
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=760935&extension=ts&play_token=Np861lemn2
+#EXTINF:-1 tvg-name="┃DE┃ F1 TV PRO | RUS RUSSELL | MERCEDES" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/FORMEL 1/FORMEL 1.png" group-title="2803" tvg-chno="759",┃DE┃ F1 TV PRO | RUS RUSSELL | MERCEDES
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=760924&extension=ts&play_token=mwun7A3vXI
+#EXTINF:-1 tvg-id="marcopolotv.de" tvg-name="┃DE┃ MARCO POLO TV HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/MARCO POLO TV.png" group-title="3391" tvg-chno="2146",┃DE┃ MARCO POLO TV HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1280680&extension=ts&play_token=Bp8X54pvkN
+#EXTINF:-1 tvg-name="┃CY┃ ALPHA CYPRUS" tvg-logo="http://picon.tivi-ott.net:25461/picon/CYPRUS/ALPHA CYPRUS 4K.png" group-title="518" tvg-chno="2292",┃CY┃ ALPHA CYPRUS
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=244169&extension=ts&play_token=tLpaFdKygI
+#EXTINF:-1 tvg-name="┃CY┃ AEK PASS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/CYPRUS/AEK PASS HD.png" group-title="3244" tvg-chno="2305",┃CY┃ AEK PASS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=866580&extension=ts&play_token=bxXtrfhGhz
+#EXTINF:-1 tvg-name="┃CY┃ ANT 1 CYPRUS" tvg-logo="http://picon.tivi-ott.net:25461/picon/CYPRUS/ANT 1 CYPRUS 4K.png" group-title="518" tvg-chno="2290",┃CY┃ ANT 1 CYPRUS
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=244171&extension=ts&play_token=8vFtLUL8Nq
+#EXTINF:-1 tvg-id="one.de" tvg-name="┃DE┃ ONE HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/ONE.png" group-title="3391" tvg-chno="2113",┃DE┃ ONE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1280729&extension=ts&play_token=WfISgS9i7v
+#EXTINF:-1 tvg-name="┃DE┃ ONE MUSIC TELEVISION HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/ONE MUSIC TELEVISION.png" group-title="3391" tvg-chno="2158",┃DE┃ ONE MUSIC TELEVISION HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1280730&extension=ts&play_token=yz1eFTlSql
+#EXTINF:-1 tvg-name="┃GR┃ ZONE+ MUSIC HOUSE" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="2714" tvg-chno="139",┃GR┃ ZONE+ MUSIC HOUSE
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=848513&extension=ts&play_token=if4BEl22rq
+#EXTINF:-1 tvg-name="┃GR┃ ZONE+ MUSIC MIX" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="2714" tvg-chno="138",┃GR┃ ZONE+ MUSIC MIX
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=848514&extension=ts&play_token=Wv6OQqovTG
+#EXTINF:-1 tvg-name="┃GR┃ ZONE+ MUSIC RAP" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="2714" tvg-chno="137",┃GR┃ ZONE+ MUSIC RAP
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=848515&extension=ts&play_token=ZwTUGV2fbT
+#EXTINF:-1 tvg-name="┃DE┃ DELUXE MUSIC HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/DELUXE MUSIC.png" group-title="3391" tvg-chno="2151",┃DE┃ DELUXE MUSIC HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1280626&extension=ts&play_token=my4omrH7lN
+#EXTINF:-1 tvg-name="┃DE┃ MTV MUSIC" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MUSIK/MTV MUSIC.png" group-title="2804" tvg-chno="597",┃DE┃ MTV MUSIC
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1025315&extension=ts&play_token=QG9dI4rVr9
