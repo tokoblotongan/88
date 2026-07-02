@@ -1917,3 +1917,436 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=848515&e
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1280626&extension=ts&play_token=my4omrH7lN
 #EXTINF:-1 tvg-name="┃DE┃ MTV MUSIC" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MUSIK/MTV MUSIC.png" group-title="2804" tvg-chno="597",┃DE┃ MTV MUSIC
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:82:32:63&stream=1025315&extension=ts&play_token=QG9dI4rVr9
+#EXTM3U x-tvg-url="http://line.smootvone.vip:80/c"
+#EXTINF:-1 tvg-id="fixandfoxi.de" tvg-name="┃DE┃ FIX & FOX" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/FIXFOXIHD.png" group-title="5" tvg-chno="690",┃DE┃ FIX & FOX
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=391&extension=ts&play_token=GyopHNJqjt
+#EXTINF:-1 tvg-id="fixandfoxi.de" tvg-name="┃DE┃ FIX & FOX FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/KINDER/FIX & FOX.png" group-title="2799" tvg-chno="95",┃DE┃ FIX & FOX FHD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1025206&extension=ts&play_token=OZUc6Q7IqK
+#EXTINF:-1 tvg-name="┃DE┃ FIX&FOXI TV SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/FIX&FOXI TV.png" group-title="3391" tvg-chno="1771",┃DE┃ FIX&FOXI TV SD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1280641&extension=ts&play_token=SXMEoLDBGa
+#EXTINF:-1 tvg-id="ardalpha.de" tvg-name="┃DE┃ ARD-ALPHA HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ARD1ALPHAHD.png" group-title="5" tvg-chno="667",┃DE┃ ARD-ALPHA HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=448&extension=ts&play_token=tCLvhxvvOX
+#EXTINF:-1 tvg-name="┃DE┃ ARD-ALPHA HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/ARD-ALPHA.png" group-title="3391" tvg-chno="1717",┃DE┃ ARD-ALPHA HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1280601&extension=ts&play_token=5qOuJv9MvQ
+#EXTINF:-1 tvg-id="arte.de" tvg-name="┃DE┃ ARTE HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ARTEHD.png" group-title="5" tvg-chno="656",┃DE┃ ARTE HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=441&extension=ts&play_token=Ni5SJ9yLfG
+#EXTINF:-1 tvg-id="arte.de" tvg-name="┃DE┃ ARTE HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/ARTE.png" group-title="3391" tvg-chno="1693",┃DE┃ ARTE HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1280602&extension=ts&play_token=516ZgkNr7Y
+#EXTINF:-1 tvg-name="┃DE┃ AXN BLACK HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/AXN BLACK.png" group-title="3391" tvg-chno="1757",┃DE┃ AXN BLACK HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1280605&extension=ts&play_token=hsmhchGOhc
+#EXTINF:-1 tvg-id="sonyaxn.de" tvg-name="┃DE┃ AXN BLACK HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SONYAXNHD.png" group-title="5" tvg-chno="710",┃DE┃ AXN BLACK HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=413&extension=ts&play_token=r35EkggljE
+#EXTINF:-1 tvg-name="┃DE┃ AXN WHITE HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/AXN WHITE.png" group-title="3391" tvg-chno="1758",┃DE┃ AXN WHITE HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1280606&extension=ts&play_token=aOWE6MMEBL
+#EXTINF:-1 tvg-id="sonyentertainmenttv.de" tvg-name="┃DE┃ AXN WHITE HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SONYCHANNELHD.png" group-title="5" tvg-chno="709",┃DE┃ AXN WHITE HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=414&extension=ts&play_token=3tHb7kDSHj
+#EXTINF:-1 tvg-name="┃DE┃ BALLERS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DESERIEAX.png" group-title="2689" tvg-chno="1596",┃DE┃ BALLERS HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=685719&extension=ts&play_token=kgCGoCj0JW
+#EXTINF:-1 tvg-name="┃DE┃ BERGBLICK HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/BERGBLICK.png" group-title="3391" tvg-chno="1761",┃DE┃ BERGBLICK HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1280611&extension=ts&play_token=Ul0xLeK3pU
+#EXTINF:-1 tvg-name="┃DE┃ BLK TV HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/BLK TV.png" group-title="3391" tvg-chno="1762",┃DE┃ BLK TV HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1280613&extension=ts&play_token=xoWwzzKxqc
+#EXTINF:-1 tvg-id="br.de" tvg-name="┃DE┃ BR FERNSEHEN NORD HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/BRFERNSEHENHD.png" group-title="5" tvg-chno="666",┃DE┃ BR FERNSEHEN NORD HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=278705&extension=ts&play_token=TdZG7QN9Tf
+#EXTINF:-1 tvg-name="┃DE┃ BUD SPENCER 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/┃DE┃ FILME 247/FILME 247.png" group-title="3390" tvg-chno="1304",┃DE┃ BUD SPENCER 1
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1280479&extension=ts&play_token=zkVC981Nqz
+#EXTINF:-1 tvg-name="┃DE┃ BUD SPENCER 2" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/┃DE┃ FILME 247/FILME 247.png" group-title="3390" tvg-chno="1305",┃DE┃ BUD SPENCER 2
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1280480&extension=ts&play_token=0dvOxfr0sJ
+#EXTINF:-1 tvg-id="dazn1.de" tvg-name="┃DE┃ DAZN BAR 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN BAR/DAZN BAR 1.png" group-title="3310" tvg-chno="353",┃DE┃ DAZN BAR 1 HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1149331&extension=ts&play_token=QDFldYPBEw
+#EXTINF:-1 tvg-id="dazn2.de" tvg-name="┃DE┃ DAZN BAR 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN BAR/DAZN BAR 2.png" group-title="3310" tvg-chno="354",┃DE┃ DAZN BAR 2 HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1149333&extension=ts&play_token=n4EhmWdiJo
+#EXTINF:-1 tvg-name="┃DE┃ DAZN UFC 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="3199" tvg-chno="610",┃DE┃ DAZN UFC 1
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1025502&extension=ts&play_token=T0Mkw9ZLZ0
+#EXTINF:-1 tvg-name="┃DE┃ DAZN UFC 10" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="3199" tvg-chno="619",┃DE┃ DAZN UFC 10
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1025493&extension=ts&play_token=mT7vVXyA2F
+#EXTINF:-1 tvg-name="┃DE┃ DAZN UFC 3" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="3199" tvg-chno="612",┃DE┃ DAZN UFC 3
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1025500&extension=ts&play_token=sY2TZdvhoL
+#EXTINF:-1 tvg-name="┃DE┃ DAZN UFC 2" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="3199" tvg-chno="611",┃DE┃ DAZN UFC 2
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1025501&extension=ts&play_token=u1mZWA6p8x
+#EXTINF:-1 tvg-name="┃DE┃ DAZN UFC 4" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="3199" tvg-chno="613",┃DE┃ DAZN UFC 4
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1025499&extension=ts&play_token=KCoGJOBdYz
+#EXTINF:-1 tvg-name="┃DE┃ DAZN UFC 5" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="3199" tvg-chno="614",┃DE┃ DAZN UFC 5
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1025498&extension=ts&play_token=XqIuDB7v8a
+#EXTINF:-1 tvg-name="┃DE┃ DAZN UFC 6" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="3199" tvg-chno="615",┃DE┃ DAZN UFC 6
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1025497&extension=ts&play_token=RPZkVVvG6h
+#EXTINF:-1 tvg-name="┃DE┃ DAZN UFC 7" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="3199" tvg-chno="616",┃DE┃ DAZN UFC 7
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1025496&extension=ts&play_token=DZWopxeaG7
+#EXTINF:-1 tvg-name="┃DE┃ DAZN UFC 8" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="3199" tvg-chno="617",┃DE┃ DAZN UFC 8
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1025495&extension=ts&play_token=wq749IJ6MW
+#EXTINF:-1 tvg-name="┃DE┃ DAZN UFC 9" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="3199" tvg-chno="618",┃DE┃ DAZN UFC 9
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1025494&extension=ts&play_token=PtyM2jgy2A
+#EXTINF:-1 tvg-name="┃DE┃ DELUXE DANCE BY KONTOR FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MUSIK/DELUXE DANCE BY KONTOR.png" group-title="2804" tvg-chno="166",┃DE┃ DELUXE DANCE BY KONTOR FHD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1025372&extension=ts&play_token=PUi1QPg5pX
+#EXTINF:-1 tvg-name="┃DE┃ DELUXE FLASHBACK FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MUSIK/DELUXE FLASHBACK.png" group-title="2804" tvg-chno="167",┃DE┃ DELUXE FLASHBACK FHD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1025373&extension=ts&play_token=sAuOUbowjX
+#EXTINF:-1 tvg-name="┃DE┃ DELUXE LOUNGE FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MUSIK/DELUXE LOUNGE.png" group-title="2804" tvg-chno="168",┃DE┃ DELUXE LOUNGE FHD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1025374&extension=ts&play_token=XFgYEK2j53
+#EXTINF:-1 tvg-id="deluxemusic.de" tvg-name="┃DE┃ DELUXE MUSIC FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MUSIK/DELUXE MUSIC.png" group-title="2804" tvg-chno="157",┃DE┃ DELUXE MUSIC FHD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1025297&extension=ts&play_token=MFo7mKyQHy
+#EXTINF:-1 tvg-id="deluxemusic.de" tvg-name="┃DE┃ DELUXE MUSIC FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MUSIK/DELUXE MUSIC.png" group-title="2804" tvg-chno="169",┃DE┃ DELUXE MUSIC FHD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1025375&extension=ts&play_token=PyQQ4NcHQz
+#EXTINF:-1 tvg-name="┃DE┃ DELUXE MUSIC HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/DELUXE MUSIC.png" group-title="3391" tvg-chno="1732",┃DE┃ DELUXE MUSIC HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1280626&extension=ts&play_token=qszWItfRlE
+#EXTINF:-1 tvg-name="┃DE┃ DELUXE RAP FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MUSIK/DELUXE RAP.png" group-title="2804" tvg-chno="170",┃DE┃ DELUXE RAP FHD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1025376&extension=ts&play_token=m86LyabjUE
+#EXTINF:-1 tvg-name="┃DE┃ DELUXE ROCK FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MUSIK/DELUXE ROCK.png" group-title="2804" tvg-chno="171",┃DE┃ DELUXE ROCK FHD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1025377&extension=ts&play_token=wCsIq9DhO2
+#EXTINF:-1 tvg-id="df1.de" tvg-name="┃DE┃ DF1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/DF1.png" group-title="3391" tvg-chno="1711",┃DE┃ DF1 HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1280627&extension=ts&play_token=qC7KvrOxAV
+#EXTINF:-1 tvg-name="┃DE┃ DMF HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/DMF.png" group-title="3391" tvg-chno="1734",┃DE┃ DMF HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1280631&extension=ts&play_token=g0gEaNHDMZ
+#EXTINF:-1 tvg-id="dokusat.de" tvg-name="┃DE┃ DOKUSAT FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NATUR/DOKUSAT.png" group-title="2802" tvg-chno="148",┃DE┃ DOKUSAT FHD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1025348&extension=ts&play_token=9IBJhJIytu
+#EXTINF:-1 tvg-name="┃DE┃ F1 TV PRO INT HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/FORMEL 1/FORMEL 1.png" group-title="2803" tvg-chno="323",┃DE┃ F1 TV PRO INT HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=760927&extension=ts&play_token=yP9Gzw8t2x
+#EXTINF:-1 tvg-name="┃DE┃ F1 TV PRO HD (DE)" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/FORMEL 1/FORMEL 1.png" group-title="2803" tvg-chno="324",┃DE┃ F1 TV PRO HD (DE)
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=760928&extension=ts&play_token=rzAcsEJfe7
+#EXTINF:-1 tvg-name="┃DE┃ F1 TV PRO | ALB ALBON | WILLIAMS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/FORMEL 1/FORMEL 1.png" group-title="2803" tvg-chno="327",┃DE┃ F1 TV PRO | ALB ALBON | WILLIAMS
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=760941&extension=ts&play_token=OPUbKaAmhS
+#EXTINF:-1 tvg-name="┃DE┃ F1 TV PRO | ALO ALONSO | ASTON MARTIN" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/FORMEL 1/FORMEL 1.png" group-title="2803" tvg-chno="343",┃DE┃ F1 TV PRO | ALO ALONSO | ASTON MARTIN
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=760921&extension=ts&play_token=zj3ehGYfyu
+#EXTINF:-1 tvg-name="┃DE┃ F1 TV PRO | BEA BEARMAN | HAAS TEAM" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/FORMEL 1/FORMEL 1.png" group-title="2803" tvg-chno="334",┃DE┃ F1 TV PRO | BEA BEARMAN | HAAS TEAM
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=760934&extension=ts&play_token=ceUQodpgxk
+#EXTINF:-1 tvg-name="┃DE┃ F1 TV PRO | BOR BORTOLETO | KICK SAUBER" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/FORMEL 1/FORMEL 1.png" group-title="2803" tvg-chno="346",┃DE┃ F1 TV PRO | BOR BORTOLETO | KICK SAUBER
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=760918&extension=ts&play_token=1GIc2uTez6
+#EXTINF:-1 tvg-name="┃DE┃ ESPORTS1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ESPORTSHD.png" group-title="5" tvg-chno="735",┃DE┃ ESPORTS1 HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1118&extension=ts&play_token=cJxwFtbnhN
+#EXTINF:-1 tvg-name="┃DE┃ EUPHORIA HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DESERIEAX.png" group-title="2689" tvg-chno="1372",┃DE┃ EUPHORIA HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=685710&extension=ts&play_token=jb3qaYOZhm
+#EXTINF:-1 tvg-id="eurosport1.de" tvg-name="┃DE┃ EUROSPORT 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SPORT/EUROSPORT 1.png" group-title="6" tvg-chno="493",┃DE┃ EUROSPORT 1 HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1149499&extension=ts&play_token=N2k6r1aVX3
+#EXTINF:-1 tvg-id="eurosport2.de" tvg-name="┃DE┃ EUROSPORT 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SPORT/EUROSPORT 2.png" group-title="6" tvg-chno="495",┃DE┃ EUROSPORT 2 HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1149500&extension=ts&play_token=PQ80WlusEg
+#EXTINF:-1 tvg-name="┃DE┃ IMEARTH HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/IMEARTH.png" group-title="3391" tvg-chno="1724",┃DE┃ IMEARTH HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1280661&extension=ts&play_token=iV9AKW3bg2
+#EXTINF:-1 tvg-name="┃DE┃ HSE HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/HSE.png" group-title="3391" tvg-chno="1746",┃DE┃ HSE HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1280660&extension=ts&play_token=aL7JyGblIy
+#EXTINF:-1 tvg-name="┃DE┃ F1 TV PRO | VER VERSTAPPEN | RED BULL RACING" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/FORMEL 1/FORMEL 1.png" group-title="2803" tvg-chno="345",┃DE┃ F1 TV PRO | VER VERSTAPPEN | RED BULL RACING
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=760919&extension=ts&play_token=H7ZylBqdR9
+#EXTINF:-1 tvg-name="┃DE┃ F1 TV PRO | TSU TSUNODA | RACING BULLS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/FORMEL 1/FORMEL 1.png" group-title="2803" tvg-chno="339",┃DE┃ F1 TV PRO | TSU TSUNODA | RACING BULLS
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=760925&extension=ts&play_token=7l97qCw7uD
+#EXTINF:-1 tvg-name="┃DE┃ F1 TV PRO | TRACKER HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/FORMEL 1/FORMEL 1.png" group-title="2803" tvg-chno="326",┃DE┃ F1 TV PRO | TRACKER HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=760926&extension=ts&play_token=DZBR37f8fu
+#EXTINF:-1 tvg-name="┃DE┃ F1 TV PRO | STR STROLL | ASTON MARTIN" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/FORMEL 1/FORMEL 1.png" group-title="2803" tvg-chno="328",┃DE┃ F1 TV PRO | STR STROLL | ASTON MARTIN
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=760940&extension=ts&play_token=LTrTONZLIB
+#EXTINF:-1 tvg-name="┃DE┃ F1 TV PRO | SAI SAINZ | WILLIAMS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/FORMEL 1/FORMEL 1.png" group-title="2803" tvg-chno="342",┃DE┃ F1 TV PRO | SAI SAINZ | WILLIAMS
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=760922&extension=ts&play_token=4IPn9xLkuR
+#EXTINF:-1 tvg-name="┃DE┃ F1 TV PRO | RUS RUSSELL | MERCEDES" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/FORMEL 1/FORMEL 1.png" group-title="2803" tvg-chno="340",┃DE┃ F1 TV PRO | RUS RUSSELL | MERCEDES
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=760924&extension=ts&play_token=wiSOaJ8wXU
+#EXTINF:-1 tvg-name="┃DE┃ F1 TV PRO | PIA PIASTRI | MCLAREN" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/FORMEL 1/FORMEL 1.png" group-title="2803" tvg-chno="337",┃DE┃ F1 TV PRO | PIA PIASTRI | MCLAREN
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=760930&extension=ts&play_token=W4Q0RBFduC
+#EXTINF:-1 tvg-name="┃DE┃ F1 TV PRO | OCO OCON | HAAS TEAM" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/FORMEL 1/FORMEL 1.png" group-title="2803" tvg-chno="332",┃DE┃ F1 TV PRO | OCO OCON | HAAS TEAM
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=760936&extension=ts&play_token=lqBz3oSHco
+#EXTINF:-1 tvg-name="┃DE┃ F1 TV PRO | NOR NORRIS | MCLAREN" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/FORMEL 1/FORMEL 1.png" group-title="2803" tvg-chno="335",┃DE┃ F1 TV PRO | NOR NORRIS | MCLAREN
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=760933&extension=ts&play_token=B8Ps256I7l
+#EXTINF:-1 tvg-name="┃DE┃ F1 TV PRO | DOO DOOHAN | ALPINE" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/FORMEL 1/FORMEL 1.png" group-title="2803" tvg-chno="336",┃DE┃ F1 TV PRO | DOO DOOHAN | ALPINE
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=760932&extension=ts&play_token=Lfrauo8MDV
+#EXTINF:-1 tvg-name="┃DE┃ F1 TV PRO | GAS GASLY | ALPINE" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/FORMEL 1/FORMEL 1.png" group-title="2803" tvg-chno="330",┃DE┃ F1 TV PRO | GAS GASLY | ALPINE
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=760938&extension=ts&play_token=NQlQUKXJN2
+#EXTINF:-1 tvg-name="┃DE┃ F1 TV PRO | HAD HADJAR | RACING BULLS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/FORMEL 1/FORMEL 1.png" group-title="2803" tvg-chno="344",┃DE┃ F1 TV PRO | HAD HADJAR | RACING BULLS
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=760920&extension=ts&play_token=eFyjwx3sli
+#EXTINF:-1 tvg-name="┃DE┃ F1 TV PRO | HUL HULKENBERG | KICK SAUBER" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/FORMEL 1/FORMEL 1.png" group-title="2803" tvg-chno="329",┃DE┃ F1 TV PRO | HUL HULKENBERG | KICK SAUBER
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=760939&extension=ts&play_token=UdwyzfWKvT
+#EXTINF:-1 tvg-name="┃DE┃ F1 TV PRO | KIMI ANTONELLI | MERCEDES" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/FORMEL 1/FORMEL 1.png" group-title="2803" tvg-chno="331",┃DE┃ F1 TV PRO | KIMI ANTONELLI | MERCEDES
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=760937&extension=ts&play_token=qRG1r7tw0J
+#EXTINF:-1 tvg-name="┃DE┃ F1 TV PRO | LAW LAWSON | RED BULL RACING" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/FORMEL 1/FORMEL 1.png" group-title="2803" tvg-chno="338",┃DE┃ F1 TV PRO | LAW LAWSON | RED BULL RACING
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=760931&extension=ts&play_token=4yXBK49UvV
+#EXTINF:-1 tvg-name="┃DE┃ F1 TV PRO | LEC LECLERC | FERRARI" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/FORMEL 1/FORMEL 1.png" group-title="2803" tvg-chno="333",┃DE┃ F1 TV PRO | LEC LECLERC | FERRARI
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=760935&extension=ts&play_token=yvf2RlqL64
+#EXTINF:-1 tvg-id="fashiontv.de" tvg-name="┃DE┃ FASHION TV HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/FASHION TV.png" group-title="3391" tvg-chno="1701",┃DE┃ FASHION TV HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1280640&extension=ts&play_token=Tjb4yTe4uZ
+#EXTINF:-1 tvg-name="┃DE┃ FOLX MUSIC TELEVISION HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/FOLX MUSIC TELEVISION.png" group-title="3391" tvg-chno="1738",┃DE┃ FOLX MUSIC TELEVISION HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1280642&extension=ts&play_token=XlqhPI44hJ
+#EXTINF:-1 tvg-name="┃DE┃ FROM HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DESERIEAX.png" group-title="2689" tvg-chno="1592",┃DE┃ FROM HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=685723&extension=ts&play_token=6OM9RJ3eAi
+#EXTINF:-1 tvg-id="geotelevision.de" tvg-name="┃DE┃ GEO HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/GEOTELEVISION.png" group-title="5" tvg-chno="723",┃DE┃ GEO HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=351&extension=ts&play_token=xWyjBTr4Uq
+#EXTINF:-1 tvg-id="geotelevision.de" tvg-name="┃DE┃ GEO TELEVISION HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/GEO TELEVISION.png" group-title="3391" tvg-chno="1774",┃DE┃ GEO TELEVISION HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1280652&extension=ts&play_token=9f1OIeDTbn
+#EXTINF:-1 tvg-name="┃DE┃ GÜSTROWTV HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/GÜSTROWTV.png" group-title="3391" tvg-chno="1776",┃DE┃ GÜSTROWTV HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1280654&extension=ts&play_token=HpbXbz6mA2
+#EXTINF:-1 tvg-name="┃DE┃ HAMBURG 1 SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/HAMBURG 1.png" group-title="3391" tvg-chno="1777",┃DE┃ HAMBURG 1 SD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1280655&extension=ts&play_token=ymW2hI4Sdh
+#EXTINF:-1 tvg-id="heimatkanal.de" tvg-name="┃DE┃ HEIMATKANAL SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/HEIMATKANAL.png" group-title="3391" tvg-chno="1778",┃DE┃ HEIMATKANAL SD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1280656&extension=ts&play_token=9bHM70hZux
+#EXTINF:-1 tvg-name="┃DE┃ MS SPORT HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/MS SPORT.png" group-title="3391" tvg-chno="1687",┃DE┃ MS SPORT HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1280687&extension=ts&play_token=84WEQGWIq7
+#EXTINF:-1 tvg-name="┃DE┃ MS SPORT HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SPORT/MS SPORT.png" group-title="6" tvg-chno="507",┃DE┃ MS SPORT HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1149503&extension=ts&play_token=XzR0BbT6Uo
+#EXTINF:-1 tvg-name="┃DE┃ MORE THAN SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SPORT/MORE THAN SPORTS.png" group-title="6" tvg-chno="514",┃DE┃ MORE THAN SPORTS HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1149510&extension=ts&play_token=m65dfjmVBf
+#EXTINF:-1 tvg-name="┃DE┃ MARVEL" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/┃DE┃ FILME 247/FILME 247.png" group-title="3390" tvg-chno="1337",┃DE┃ MARVEL
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1280514&extension=ts&play_token=cyVqvOakY0
+#EXTINF:-1 tvg-name="┃DE┃ MAX KINO HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DEMAXSELECT.png" group-title="2688" tvg-chno="1428",┃DE┃ MAX KINO HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=684979&extension=ts&play_token=qZWKg1WHZM
+#EXTINF:-1 tvg-name="┃DE┃ MAX STAR WARS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DEMAXSELECT.png" group-title="2688" tvg-chno="1436",┃DE┃ MAX STAR WARS HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=684965&extension=ts&play_token=C0ESaOs2kI
+#EXTINF:-1 tvg-id="ntv.de" tvg-name="┃DE┃ N-TV FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NACHRICHT/N-TV.png" group-title="3198" tvg-chno="74",┃DE┃ N-TV FHD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1025177&extension=ts&play_token=V6C32nXN4R
+#EXTINF:-1 tvg-id="n24doku.de" tvg-name="┃DE┃ N24 Doku HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/N24 Doku.png" group-title="3391" tvg-chno="1728",┃DE┃ N24 Doku HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1280708&extension=ts&play_token=i03vAK8t85
+#EXTINF:-1 tvg-id="natgeo.de" tvg-name="┃DE┃ NAT GEO HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/NATIONALGEOGRAPHIC.png" group-title="5" tvg-chno="716",┃DE┃ NAT GEO HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=357&extension=ts&play_token=qpGVhLzeKX
+#EXTINF:-1 tvg-name="┃DE┃ NATURKATASTROPHEN" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/┃DE┃ FILME 247/FILME 247.png" group-title="3390" tvg-chno="1342",┃DE┃ NATURKATASTROPHEN
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1280468&extension=ts&play_token=6kFH3ViEry
+#EXTINF:-1 tvg-id="rtlnitro.de" tvg-name="┃DE┃ NITRO HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NITROHD.png" group-title="5" tvg-chno="671",┃DE┃ NITRO HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=421&extension=ts&play_token=pSUwBOP8e4
+#EXTINF:-1 tvg-name="┃DE┃ NITRO HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/NITRO.png" group-title="3391" tvg-chno="1706",┃DE┃ NITRO HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1280720&extension=ts&play_token=ej6G0Vob9J
+#EXTINF:-1 tvg-name="┃DE┃ NRWISION HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/NRWISION.png" group-title="3391" tvg-chno="1817",┃DE┃ NRWISION HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1280721&extension=ts&play_token=O2l9EyiYCZ
+#EXTINF:-1 tvg-name="┃DE┃ NTV HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/NTV.png" group-title="3391" tvg-chno="1658",┃DE┃ NTV HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1280722&extension=ts&play_token=e3jsqjvh00
+#EXTINF:-1 tvg-id="ntv.de" tvg-name="┃DE┃ NTV HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NTVHD.png" group-title="5" tvg-chno="659",┃DE┃ NTV HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=439&extension=ts&play_token=nvhWGyitl3
+#EXTINF:-1 tvg-id="one.de" tvg-name="┃DE┃ ONE HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/ONE.png" group-title="3391" tvg-chno="1694",┃DE┃ ONE HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1280729&extension=ts&play_token=XgUx2fteT3
+#EXTINF:-1 tvg-name="┃DE┃ OUTTV HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/OUTTV.png" group-title="3391" tvg-chno="1704",┃DE┃ OUTTV HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1280731&extension=ts&play_token=N6CIEb3aCl
+#EXTINF:-1 tvg-name="┃DE┃ PLAY AKTION HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/PLAY SELECT/PLAY AKTION HD.png" group-title="2865" tvg-chno="1475",┃DE┃ PLAY AKTION HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=796140&extension=ts&play_token=DZvDCE3MIX
+#EXTINF:-1 tvg-name="┃DE┃ PLAY BEST OF HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/PLAY SELECT/PLAY BEST OF HD.png" group-title="2865" tvg-chno="1473",┃DE┃ PLAY BEST OF HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=796142&extension=ts&play_token=OHOzJXK2dK
+#EXTINF:-1 tvg-name="┃DE┃ PLEX BOX-OFFICE 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX3/DEPLEXTV.png" group-title="2695" tvg-chno="1578",┃DE┃ PLEX BOX-OFFICE 1
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=689896&extension=ts&play_token=rDqv9FGzHz
+#EXTINF:-1 tvg-name="┃DE┃ PLEX BOX-OFFICE 2" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX3/DEPLEXTV.png" group-title="2695" tvg-chno="1579",┃DE┃ PLEX BOX-OFFICE 2
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=689895&extension=ts&play_token=rD46HV0Nmc
+#EXTINF:-1 tvg-name="┃DE┃ PLEX BOX-OFFICE 3" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX3/DEPLEXTV.png" group-title="2695" tvg-chno="1580",┃DE┃ PLEX BOX-OFFICE 3
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=689894&extension=ts&play_token=KvurK7rqjR
+#EXTINF:-1 tvg-name="┃DE┃ PLEX CINEMA" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX3/DEPLEXTV.png" group-title="2695" tvg-chno="1584",┃DE┃ PLEX CINEMA
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=689889&extension=ts&play_token=rY4Q02WbxH
+#EXTINF:-1 tvg-name="┃DE┃ PLEX CINESTAR" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX3/DEPLEXTV.png" group-title="2695" tvg-chno="1586",┃DE┃ PLEX CINESTAR
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=689887&extension=ts&play_token=zW0lzAUo0N
+#EXTINF:-1 tvg-name="┃DE┃ PLEX FILME" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX3/DEPLEXTV.png" group-title="2695" tvg-chno="1585",┃DE┃ PLEX FILME
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=689888&extension=ts&play_token=o4hl1l7iSN
+#EXTINF:-1 tvg-name="┃DE┃ PLEX IMAX" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX3/DEPLEXTV.png" group-title="2695" tvg-chno="1587",┃DE┃ PLEX IMAX
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=689886&extension=ts&play_token=H8lWNFX852
+#EXTINF:-1 tvg-name="┃DE┃ PLEX ORIGINAL" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX3/DEPLEXTV.png" group-title="2695" tvg-chno="1583",┃DE┃ PLEX ORIGINAL
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=689890&extension=ts&play_token=CtlAknMp8c
+#EXTINF:-1 tvg-id="rtlliving.de" tvg-name="┃DE┃ RTL LIVING HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/RTLLIVIINGHD.png" group-title="5" tvg-chno="672",┃DE┃ RTL LIVING HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=419&extension=ts&play_token=nTklzFpci9
+#EXTINF:-1 tvg-id="rtlliving.de" tvg-name="┃DE┃ RTL LIVING HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/RTL LIVING.png" group-title="3391" tvg-chno="1837",┃DE┃ RTL LIVING HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1280759&extension=ts&play_token=nCmICKcnR1
+#EXTINF:-1 tvg-id="prosiebenfun.de" tvg-name="┃DE┃ PROSIEBEN FUN HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/PRO7HD.png" group-title="5" tvg-chno="650",┃DE┃ PROSIEBEN FUN HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=427&extension=ts&play_token=83oD7mltbz
+#EXTINF:-1 tvg-id="prosiebenfun.de" tvg-name="┃DE┃ PROSIEBEN FUN HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/PROSIEBEN FUN.png" group-title="3391" tvg-chno="1824",┃DE┃ PROSIEBEN FUN HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1280733&extension=ts&play_token=5pguYE2db5
+#EXTINF:-1 tvg-id="pro7.de" tvg-name="┃DE┃ PROSIEBEN HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/PRO7HD.png" group-title="5" tvg-chno="648",┃DE┃ PROSIEBEN HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=429&extension=ts&play_token=mYo0qig3nm
+#EXTINF:-1 tvg-id="pro7.de" tvg-name="┃DE┃ PROSIEBEN HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/PROSIEBEN.png" group-title="3391" tvg-chno="1649",┃DE┃ PROSIEBEN HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1280734&extension=ts&play_token=enBizpEIjN
+#EXTINF:-1 tvg-id="pro7.de" tvg-name="┃DE┃ PROSIEBEN MAXX HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/7MAXXHD.png" group-title="5" tvg-chno="649",┃DE┃ PROSIEBEN MAXX HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=428&extension=ts&play_token=L1a3rU7g6v
+#EXTINF:-1 tvg-id="qvc.de" tvg-name="┃DE┃ QVC HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/QVC.png" group-title="3391" tvg-chno="1748",┃DE┃ QVC HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1280736&extension=ts&play_token=ePMZ1wN44J
+#EXTINF:-1 tvg-name="┃DE┃ QVC ZWEI HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/QVC ZWEI.png" group-title="3391" tvg-chno="1749",┃DE┃ QVC ZWEI HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1280737&extension=ts&play_token=2RosNsbnfu
+#EXTINF:-1 tvg-id="romance.de" tvg-name="┃DE┃ ROMANCE TV HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/ROMANCE TV.png" group-title="3391" tvg-chno="1831",┃DE┃ ROMANCE TV HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1280752&extension=ts&play_token=mO36DgBiKO
+#EXTINF:-1 tvg-id="romance.de" tvg-name="┃DE┃ ROMANCE TV HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ROMANCETVHD.png" group-title="5" tvg-chno="713",┃DE┃ ROMANCE TV HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=408&extension=ts&play_token=MrXDiGSK9z
+#EXTINF:-1 tvg-id="rtlpassion.de" tvg-name="┃DE┃ RTL PASSION HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/RTL PASSION.png" group-title="3391" tvg-chno="1839",┃DE┃ RTL PASSION HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1280761&extension=ts&play_token=oBlB9ETySe
+#EXTINF:-1 tvg-id="rtlpassion.de" tvg-name="┃DE┃ RTL PASSION HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/RTLPASSIONHD.png" group-title="5" tvg-chno="668",┃DE┃ RTL PASSION HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=424&extension=ts&play_token=aVMEpjwfWx
+#EXTINF:-1 tvg-id="rtlplus.de" tvg-name="┃DE┃ RTL UP HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/RTLUP.png" group-title="5" tvg-chno="670",┃DE┃ RTL UP HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=420&extension=ts&play_token=8xzbTyp3TA
+#EXTINF:-1 tvg-name="┃DE┃ RTL+ SHINE" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/RTL+ THEMEN SENDER/_RTL+ SHINE.png" group-title="3009" tvg-chno="1143",┃DE┃ RTL+ SHINE
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=893930&extension=ts&play_token=rB5TvKdjVE
+#EXTINF:-1 tvg-name="┃DE┃ RTL+ SHOPING QUEEN" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/RTL+ THEMEN SENDER/RTL+ SHOPING QUEEN.avif.png" group-title="3009" tvg-chno="1149",┃DE┃ RTL+ SHOPING QUEEN
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=893924&extension=ts&play_token=h5RhVJZ09v
+#EXTINF:-1 tvg-name="┃DE┃ RTLUP HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/RTLUP.png" group-title="3391" tvg-chno="1707",┃DE┃ RTLUP HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1280763&extension=ts&play_token=srABB2RNC3
+#EXTINF:-1 tvg-name="┃DE┃ RTLZWEI HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/RTLZWEI.png" group-title="3391" tvg-chno="1652",┃DE┃ RTLZWEI HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1280764&extension=ts&play_token=U31aECUfpU
+#EXTINF:-1 tvg-id="sat1.de" tvg-name="┃DE┃ SAT.1 GOLD HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/GOLDHD.png" group-title="5" tvg-chno="646",┃DE┃ SAT.1 GOLD HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=431&extension=ts&play_token=R2hD6SwNm9
+#EXTINF:-1 tvg-id="sat1gold.de" tvg-name="┃DE┃ SAT.1 GOLD HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/SAT.1 GOLD.png" group-title="3391" tvg-chno="1710",┃DE┃ SAT.1 GOLD HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1280768&extension=ts&play_token=MJLdfMWVhE
+#EXTINF:-1 tvg-id="sat1.de" tvg-name="┃DE┃ SAT.1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SAT1HD.png" group-title="5" tvg-chno="645",┃DE┃ SAT.1 HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=432&extension=ts&play_token=yKCPBvJYzW
+#EXTINF:-1 tvg-id="sat1.de" tvg-name="┃DE┃ SAT.1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/SAT.1.png" group-title="3391" tvg-chno="1648",┃DE┃ SAT.1 HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1280770&extension=ts&play_token=XhbI62Y4TK
+#EXTINF:-1 tvg-name="┃DE┃ SEEFAHRT" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/┃DE┃ FILME 247/FILME 247.png" group-title="3390" tvg-chno="1352",┃DE┃ SEEFAHRT
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1280478&extension=ts&play_token=CycW6BXyLR
+#EXTINF:-1 tvg-id="sixx.de" tvg-name="┃DE┃ SIXX HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SIXXHD.png" group-title="5" tvg-chno="657",┃DE┃ SIXX HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=400&extension=ts&play_token=sGxJezVCYW
+#EXTINF:-1 tvg-id="sixx.de" tvg-name="┃DE┃ SIXX HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/SIXX.png" group-title="3391" tvg-chno="1712",┃DE┃ SIXX HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1280777&extension=ts&play_token=17LsuC7Pr5
+#EXTINF:-1 tvg-name="┃DE┃ SKATER" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/┃DE┃ FILME 247/FILME 247.png" group-title="3390" tvg-chno="1353",┃DE┃ SKATER
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1280505&extension=ts&play_token=DXLSwH5g7E
+#EXTINF:-1 tvg-id="skyatlantic.de" tvg-name="┃DE┃ SKY ATLANTIC HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/SKYATLANTIC.png" group-title="5" tvg-chno="698",┃DE┃ SKY ATLANTIC HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=376&extension=ts&play_token=yLSZj1BdrD
+#EXTINF:-1 tvg-id="skycinemaaction.de" tvg-name="┃DE┃ SKY CINEMA ACTION HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYCINEMAHD.png" group-title="5" tvg-chno="694",┃DE┃ SKY CINEMA ACTION HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=3385&extension=ts&play_token=fvLQVYBbPQ
+#EXTINF:-1 tvg-id="skycinemaclassics.de" tvg-name="┃DE┃ SKY CINEMA CLASSICS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYCINEMAHD.png" group-title="5" tvg-chno="697",┃DE┃ SKY CINEMA CLASSICS HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=379&extension=ts&play_token=Wsic4nJvKt
+#EXTINF:-1 tvg-id="skycinemapremieren.de" tvg-name="┃DE┃ SKY CINEMA PREMIEREN HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYCINEMAHD.png" group-title="5" tvg-chno="693",┃DE┃ SKY CINEMA PREMIEREN HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=385&extension=ts&play_token=wetJABwcyO
+#EXTINF:-1 tvg-id="skycinemaspecialhd.de" tvg-name="┃DE┃ SKY CINEMA HIGHLIGHT HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYCINEMAHD.png" group-title="5" tvg-chno="695",┃DE┃ SKY CINEMA HIGHLIGHT HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=380&extension=ts&play_token=dI6smyK7uF
+#EXTINF:-1 tvg-id="skycinemahighlights.de" tvg-name="┃DE┃ SKY CINEMA HIGHLIGHTS FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/FILME/SKY CINEMA HIGHLIGHTS.png" group-title="2800" tvg-chno="99",┃DE┃ SKY CINEMA HIGHLIGHTS FHD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1025213&extension=ts&play_token=sQY4XZfimS
+#EXTINF:-1 tvg-id="skycinemaspecialhd.de" tvg-name="┃DE┃ SKY CINEMA HIGHLIGHT 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYCINEMAHD.png" group-title="102" tvg-chno="785",┃DE┃ SKY CINEMA HIGHLIGHT 4K
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=15409&extension=ts&play_token=Tg3PbZ4z1J
+#EXTINF:-1 tvg-id="skykrimi.de" tvg-name="┃DE┃ SKY KRIMI HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/SKYCRIME.png" group-title="5" tvg-chno="699",┃DE┃ SKY KRIMI HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=374&extension=ts&play_token=5rGPjC7QlD
+#EXTINF:-1 tvg-id="skynaturehd.de" tvg-name="┃DE┃ SKY NATURE FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/NATUR/SKY NATURE.png" group-title="2802" tvg-chno="122",┃DE┃ SKY NATURE FHD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1025249&extension=ts&play_token=mkwmqtd3S6
+#EXTINF:-1 tvg-id="sky1.de" tvg-name="┃DE┃ SKY ONE HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYONEHD.png" group-title="5" tvg-chno="692",┃DE┃ SKY ONE HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=386&extension=ts&play_token=vcMZ8mkRV4
+#EXTINF:-1 tvg-name="┃DE┃ SKY ROJO HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/DESERIEAX.png" group-title="2689" tvg-chno="1379",┃DE┃ SKY ROJO HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=685703&extension=ts&play_token=XYzJ3cdlIt
+#EXTINF:-1 tvg-name="┃DE┃ SKY SC-FI 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYREPLAYHD.png" group-title="102" tvg-chno="790",┃DE┃ SKY SC-FI 4K
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=15415&extension=ts&play_token=qGdgkANBDs
+#EXTINF:-1 tvg-id="fox.de" tvg-name="┃DE┃ SKY SCI-FI HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYREPLAYHD.png" group-title="5" tvg-chno="700",┃DE┃ SKY SCI-FI HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=375&extension=ts&play_token=UxrukSsoUN
+#EXTINF:-1 tvg-id="skysportmix.de" tvg-name="┃DE┃ SKY SPORT MIX HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT MIX.png" group-title="3313" tvg-chno="439",┃DE┃ SKY SPORT MIX HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1149456&extension=ts&play_token=9tTsJw9Uda
+#EXTINF:-1 tvg-id="skysportnews.de" tvg-name="┃DE┃ SKY SPORT NEWS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT NEWS.png" group-title="3313" tvg-chno="435",┃DE┃ SKY SPORT NEWS HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1149457&extension=ts&play_token=VcEgLre3Fw
+#EXTINF:-1 tvg-id="toggoplus.de" tvg-name="┃DE┃ TOGGO PLUS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/TOGGOPLUSHD.png" group-title="5" tvg-chno="688",┃DE┃ TOGGO PLUS
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=389&extension=ts&play_token=s2qT1Cq2Dc
+#EXTINF:-1 tvg-id="tele5.de" tvg-name="┃DE┃ TELE 5 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/TELE6HD.png" group-title="5" tvg-chno="676",┃DE┃ TELE 5 HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=401&extension=ts&play_token=vNK6xwbnrW
+#EXTINF:-1 tvg-id="tele5.de" tvg-name="┃DE┃ TELE 5 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/TELE 5.png" group-title="3391" tvg-chno="1660",┃DE┃ TELE 5 HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1280796&extension=ts&play_token=zFhUReta6C
+#EXTINF:-1 tvg-name="┃DE┃ SWR FERNSEHEN BW HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/SWR FERNSEHEN BW.png" group-title="3391" tvg-chno="1673",┃DE┃ SWR FERNSEHEN BW HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1280792&extension=ts&play_token=4rII5umv3P
+#EXTINF:-1 tvg-name="┃DE┃ SWR FERNSEHEN RP HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/SWR FERNSEHEN RP.png" group-title="3391" tvg-chno="1674",┃DE┃ SWR FERNSEHEN RP HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1280793&extension=ts&play_token=qsSjZTydqN
+#EXTINF:-1 tvg-id="superrtl.de" tvg-name="┃DE┃ SUPER RTL HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/SUPER RTL.png" group-title="3391" tvg-chno="1653",┃DE┃ SUPER RTL HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1280791&extension=ts&play_token=gikjHF5eVX
+#EXTINF:-1 tvg-name="┃DE┃ STINGRAY ICONCERTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/STINGRAY ICONCERTS.png" group-title="3391" tvg-chno="1743",┃DE┃ STINGRAY ICONCERTS HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1280790&extension=ts&play_token=6sQU82s4Lo
+#EXTINF:-1 tvg-name="┃DE┃ STINGRAY CLASSICA HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/STINGRAY CLASSICA.png" group-title="3391" tvg-chno="1741",┃DE┃ STINGRAY CLASSICA HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1280788&extension=ts&play_token=aPHxTUdFJ7
+#EXTINF:-1 tvg-name="┃DE┃ STINGRAY DJAZZ HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/STINGRAY DJAZZ.png" group-title="3391" tvg-chno="1742",┃DE┃ STINGRAY DJAZZ HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1280789&extension=ts&play_token=woQdDnLV3W
+#EXTINF:-1 tvg-name="┃DE┃ STIMMUNGSGARTEN TV HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/STIMMUNGSGARTEN TV.png" group-title="3391" tvg-chno="1730",┃DE┃ STIMMUNGSGARTEN TV HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1280787&extension=ts&play_token=eWAYkMVxst
+#EXTINF:-1 tvg-name="┃DE┃ TRAVELXP HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/TRAVELXP.png" group-title="3391" tvg-chno="1725",┃DE┃ TRAVELXP HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1280802&extension=ts&play_token=WmDfmip3Bm
+#EXTINF:-1 tvg-name="┃DE┃ TV MAINFRANKEN HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/TV MAINFRANKEN.png" group-title="3391" tvg-chno="1855",┃DE┃ TV MAINFRANKEN HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1280806&extension=ts&play_token=ravaHleRG3
+#EXTINF:-1 tvg-name="┃DE┃ TV MITTELRHEIN SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/TV MITTELRHEIN.png" group-title="3391" tvg-chno="1856",┃DE┃ TV MITTELRHEIN SD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1280807&extension=ts&play_token=GUUP3J8FF2
+#EXTINF:-1 tvg-name="┃DE┃ TV WESTSACHSEN SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/TV WESTSACHSEN.png" group-title="3391" tvg-chno="1858",┃DE┃ TV WESTSACHSEN SD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1280809&extension=ts&play_token=a6N6XJ9u10
+#EXTINF:-1 tvg-id="universal.de" tvg-name="┃DE┃ UNIVERSAL TV HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/UNIVERSALTVHD.png" group-title="5" tvg-chno="711",┃DE┃ UNIVERSAL TV HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=409&extension=ts&play_token=AFfaJbgCoZ
+#EXTINF:-1 tvg-id="universal.de" tvg-name="┃DE┃ UNIVERSAL TV HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/UNIVERSAL TV.png" group-title="3391" tvg-chno="1859",┃DE┃ UNIVERSAL TV HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1280810&extension=ts&play_token=xCfS1dwwa4
+#EXTINF:-1 tvg-name="┃DE┃ VODAFONE GO 1 HD" group-title="2691" tvg-chno="1556",┃DE┃ VODAFONE GO 1 HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1757615&extension=ts&play_token=Mp1lVVoIOz
+#EXTINF:-1 tvg-name="┃DE┃ VODAFONE GO 10 HD" group-title="2691" tvg-chno="1565",┃DE┃ VODAFONE GO 10 HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1757630&extension=ts&play_token=OzEqYM0uSB
+#EXTINF:-1 tvg-name="┃DE┃ VODAFONE GO 2 HD" group-title="2691" tvg-chno="1557",┃DE┃ VODAFONE GO 2 HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1757616&extension=ts&play_token=wkkdrdJVhI
+#EXTINF:-1 tvg-name="┃DE┃ VODAFONE GO 3 HD" group-title="2691" tvg-chno="1558",┃DE┃ VODAFONE GO 3 HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1757617&extension=ts&play_token=pSugo2c5wi
+#EXTINF:-1 tvg-name="┃DE┃ VODAFONE GO 4 HD" group-title="2691" tvg-chno="1559",┃DE┃ VODAFONE GO 4 HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1757618&extension=ts&play_token=WmjcBI6u3R
+#EXTINF:-1 tvg-name="┃DE┃ VODAFONE GO 5 HD" group-title="2691" tvg-chno="1560",┃DE┃ VODAFONE GO 5 HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1757619&extension=ts&play_token=NHV2ae1fjs
+#EXTINF:-1 tvg-name="┃DE┃ VODAFONE GO 9 HD" group-title="2691" tvg-chno="1564",┃DE┃ VODAFONE GO 9 HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1757629&extension=ts&play_token=PAQbvV97Na
+#EXTINF:-1 tvg-name="┃DE┃ VODAFONE GO 8 HD" group-title="2691" tvg-chno="1563",┃DE┃ VODAFONE GO 8 HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1757623&extension=ts&play_token=AT2QgLE3t5
+#EXTINF:-1 tvg-name="┃DE┃ VODAFONE GO 7 HD" group-title="2691" tvg-chno="1562",┃DE┃ VODAFONE GO 7 HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1757621&extension=ts&play_token=5t5qc6osYL
+#EXTINF:-1 tvg-name="┃DE┃ VODAFONE GO 6 HD" group-title="2691" tvg-chno="1561",┃DE┃ VODAFONE GO 6 HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1757620&extension=ts&play_token=efS4GyetTC
+#EXTINF:-1 tvg-name="┃DE┃ VOLKSMUSIK.TV HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/VOLKSMUSIK.TV.png" group-title="3391" tvg-chno="1737",┃DE┃ VOLKSMUSIK.TV HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1280811&extension=ts&play_token=S7SGWKeJHj
+#EXTINF:-1 tvg-id="vox.de" tvg-name="┃DE┃ VOX HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/VOXHD.png" group-title="5" tvg-chno="651",┃DE┃ VOX HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=437&extension=ts&play_token=2FNllAqWQP
+#EXTINF:-1 tvg-id="vox.de" tvg-name="┃DE┃ VOX HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/VOX.png" group-title="3391" tvg-chno="1650",┃DE┃ VOX HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1280812&extension=ts&play_token=Ub6i8c6xX5
+#EXTINF:-1 tvg-id="vox.de" tvg-name="┃DE┃ VOXUP HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/VOXUPHD.png" group-title="5" tvg-chno="652",┃DE┃ VOXUP HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=436&extension=ts&play_token=PHu8mJStbE
+#EXTINF:-1 tvg-id="voxup.de" tvg-name="┃DE┃ VOXUP HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/VOXUP.png" group-title="3391" tvg-chno="1715",┃DE┃ VOXUP HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1280813&extension=ts&play_token=4YVPXOqPUT
+#EXTINF:-1 tvg-id="warnerfilm.de" tvg-name="┃DE┃ WARNER TV FILM HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/FILMTVHD.png" group-title="5" tvg-chno="706",┃DE┃ WARNER TV FILM HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=416&extension=ts&play_token=1njc0ZN0ge
+#EXTINF:-1 tvg-id="warnerfilm.de" tvg-name="┃DE┃ WARNER TV FILM HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/WARNER TV FILM.png" group-title="3391" tvg-chno="1861",┃DE┃ WARNER TV FILM HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1280815&extension=ts&play_token=qf3ZyQR30Q
+#EXTINF:-1 tvg-id="warnerserie.de" tvg-name="┃DE┃ WARNER TV SERIE HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/WBSERIEHD.png" group-title="5" tvg-chno="705",┃DE┃ WARNER TV SERIE HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=417&extension=ts&play_token=9RWITK2vIx
+#EXTINF:-1 tvg-id="warnerserie.de" tvg-name="┃DE┃ WARNER TV SERIE HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/WARNER TV SERIE.png" group-title="3391" tvg-chno="1862",┃DE┃ WARNER TV SERIE HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1280816&extension=ts&play_token=quLTaZ3QZV
+#EXTINF:-1 tvg-name="┃UCL┃ TABII SPOR 1 HD [TR]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="3010" tvg-chno="1639",┃UCL┃ TABII SPOR 1 HD [TR]
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=895000&extension=ts&play_token=FZCWlOJqUq
+#EXTINF:-1 tvg-name="┃UCL┃ TABII SPOR 2 HD [TR]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="3010" tvg-chno="1640",┃UCL┃ TABII SPOR 2 HD [TR]
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=895001&extension=ts&play_token=OcrcHsNxZN
+#EXTINF:-1 tvg-name="┃UCL┃ TABII SPOR 3 HD [TR]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="3010" tvg-chno="1641",┃UCL┃ TABII SPOR 3 HD [TR]
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=895002&extension=ts&play_token=SECcwZh0Vo
+#EXTINF:-1 tvg-name="┃UCL┃ TABII SPOR 4 HD [TR]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="3010" tvg-chno="1642",┃UCL┃ TABII SPOR 4 HD [TR]
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=895003&extension=ts&play_token=rhralm76mM
+#EXTINF:-1 tvg-name="┃UCL┃ TABII SPOR 5 HD [TR]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="3010" tvg-chno="1643",┃UCL┃ TABII SPOR 5 HD [TR]
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=895004&extension=ts&play_token=QCd88RtLsQ
+#EXTINF:-1 tvg-name="┃UCL┃ TABII SPOR 6 HD [TR]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="3010" tvg-chno="1644",┃UCL┃ TABII SPOR 6 HD [TR]
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=895005&extension=ts&play_token=kOPWr0B9iB
+#EXTINF:-1 tvg-name="┃UCL┃ TABII SPOR HD [TR]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="3010" tvg-chno="1638",┃UCL┃ TABII SPOR HD [TR]
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=894999&extension=ts&play_token=1PbTb8OZdU
+#EXTINF:-1 tvg-id="welt.de" tvg-name="┃DE┃ WELT HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/WELTHD.png" group-title="5" tvg-chno="678",┃DE┃ WELT HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=440&extension=ts&play_token=GT5aidhwoi
+#EXTINF:-1 tvg-id="welt.de" tvg-name="┃DE┃ WELT HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/WELT.png" group-title="3391" tvg-chno="1657",┃DE┃ WELT HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1280830&extension=ts&play_token=8pnvXDOxQW
+#EXTINF:-1 tvg-name="┃DE┃ X-MEN" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/┃DE┃ FILME 247/FILME 247.png" group-title="3390" tvg-chno="1368",┃DE┃ X-MEN
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1280463&extension=ts&play_token=ZK8vq0ADRu
+#EXTINF:-1 tvg-id="zdf.de" tvg-name="┃DE┃ ZDF HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ZDF2HD.png" group-title="5" tvg-chno="642",┃DE┃ ZDF HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=446&extension=ts&play_token=KM4q04ma9N
+#EXTINF:-1 tvg-id="zdf.de" tvg-name="┃DE┃ ZDF HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/ZDF.png" group-title="3391" tvg-chno="1646",┃DE┃ ZDF HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1280832&extension=ts&play_token=bvXXMGaNvL
+#EXTINF:-1 tvg-id="zdfinfo.de" tvg-name="┃DE┃ ZDF INFO HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ZDFINFOHD.png" group-title="5" tvg-chno="674",┃DE┃ ZDF INFO HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=444&extension=ts&play_token=pxhHyKeCC4
+#EXTINF:-1 tvg-id="zdfneo.de" tvg-name="┃DE┃ ZDF NEO HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/ZDFNEOHD.png" group-title="5" tvg-chno="673",┃DE┃ ZDF NEO HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=445&extension=ts&play_token=2c0zrq4QGR
+#EXTINF:-1 tvg-id="zdfinfo.de" tvg-name="┃DE┃ ZDFINFO HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/ZDFINFO.png" group-title="3391" tvg-chno="1718",┃DE┃ ZDFINFO HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1280833&extension=ts&play_token=2Z1xTHRtPv
+#EXTINF:-1 tvg-id="zdfneo.de" tvg-name="┃DE┃ ZDFNEO HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/ZDFNEO.png" group-title="3391" tvg-chno="1661",┃DE┃ ZDFNEO HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1280834&extension=ts&play_token=7DKWf9lHOp
+#EXTINF:-1 tvg-name="┃DE┃ ZWEI MUSIC TELEVISION HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/ZWEI MUSIC TELEVISION.png" group-title="3391" tvg-chno="1740",┃DE┃ ZWEI MUSIC TELEVISION HD
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=1280835&extension=ts&play_token=SH0n8aAFMq
+#EXTINF:-1 tvg-name="┃UCL┃ CANAL+ HD [FR]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="3010" tvg-chno="1625",┃UCL┃ CANAL+ HD [FR]
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=894986&extension=ts&play_token=YeDU1qKgLi
+#EXTINF:-1 tvg-name="┃UCL┃ CANAL+ FOOT HD [FR]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="3010" tvg-chno="1627",┃UCL┃ CANAL+ FOOT HD [FR]
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=894988&extension=ts&play_token=vmNg4PbT2X
+#EXTINF:-1 tvg-name="┃UCL┃ CANAL+ SPORT HD [FR]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="3010" tvg-chno="1626",┃UCL┃ CANAL+ SPORT HD [FR]
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=894987&extension=ts&play_token=7Ek1ggPWMO
+#EXTINF:-1 tvg-name="┃UCL┃ CANAL+ LIVE 4 HD [FR]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="3010" tvg-chno="1631",┃UCL┃ CANAL+ LIVE 4 HD [FR]
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=894985&extension=ts&play_token=Hfs2OpM7oa
+#EXTINF:-1 tvg-name="┃UCL┃ CANAL+ LIVE 3 HD [FR]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="3010" tvg-chno="1630",┃UCL┃ CANAL+ LIVE 3 HD [FR]
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=894984&extension=ts&play_token=cwSn2ksfC6
+#EXTINF:-1 tvg-name="┃UCL┃ CANAL+ LIVE 2 HD [FR]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="3010" tvg-chno="1629",┃UCL┃ CANAL+ LIVE 2 HD [FR]
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=894983&extension=ts&play_token=ppn5otgoEB
+#EXTINF:-1 tvg-name="┃UCL┃ CANAL+ LIVE 1 HD [FR]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="3010" tvg-chno="1628",┃UCL┃ CANAL+ LIVE 1 HD [FR]
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=894982&extension=ts&play_token=5s7IulE1dU
+#EXTINF:-1 tvg-name="┃UCL┃ DAZN 2 HD [DE]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="3010" tvg-chno="1609",┃UCL┃ DAZN 2 HD [DE]
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=894975&extension=ts&play_token=S20fpCHZAH
+#EXTINF:-1 tvg-name="┃UCL┃ DAZN 1 HD [DE]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="3010" tvg-chno="1608",┃UCL┃ DAZN 1 HD [DE]
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=894974&extension=ts&play_token=SHfyTDD5sw
+#EXTINF:-1 tvg-name="┃UCL┃ ZIGGO SPORT 6 HD [NL]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="3010" tvg-chno="1607",┃UCL┃ ZIGGO SPORT 6 HD [NL]
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=894973&extension=ts&play_token=h5VM57R31l
+#EXTINF:-1 tvg-name="┃UCL┃ ZIGGO SPORT 5 HD [NL]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="3010" tvg-chno="1606",┃UCL┃ ZIGGO SPORT 5 HD [NL]
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=894972&extension=ts&play_token=jz75v5zIyA
+#EXTINF:-1 tvg-name="┃UCL┃ ZIGGO SPORT 4 HD [NL]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="3010" tvg-chno="1605",┃UCL┃ ZIGGO SPORT 4 HD [NL]
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=894971&extension=ts&play_token=uTZXOSpJkn
+#EXTINF:-1 tvg-name="┃UCL┃ ZIGGO SPORT 3 HD [NL]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="3010" tvg-chno="1604",┃UCL┃ ZIGGO SPORT 3 HD [NL]
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=894970&extension=ts&play_token=VqSBbVtXPW
+#EXTINF:-1 tvg-name="┃UCL┃ ZIGGO SPORT 2 HD [NL]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="3010" tvg-chno="1603",┃UCL┃ ZIGGO SPORT 2 HD [NL]
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=894969&extension=ts&play_token=r2oaDG8Ia8
+#EXTINF:-1 tvg-name="┃UCL┃ ZIGGO SPORT 1 HD [NL]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="3010" tvg-chno="1602",┃UCL┃ ZIGGO SPORT 1 HD [NL]
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=894968&extension=ts&play_token=i87YTGj14Y
+#EXTINF:-1 tvg-name="┃UCL┃ TRING SPORT 5 HD [AL]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="3010" tvg-chno="1637",┃UCL┃ TRING SPORT 5 HD [AL]
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=895010&extension=ts&play_token=8W0hoVTQy4
+#EXTINF:-1 tvg-name="┃UCL┃ TRING SPORT 1 HD [AL]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="3010" tvg-chno="1633",┃UCL┃ TRING SPORT 1 HD [AL]
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=895006&extension=ts&play_token=IDzcFCwzli
+#EXTINF:-1 tvg-name="┃UCL┃ TRING SPORT 2 HD [AL]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="3010" tvg-chno="1634",┃UCL┃ TRING SPORT 2 HD [AL]
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=895007&extension=ts&play_token=UD4uNSqFyq
+#EXTINF:-1 tvg-name="┃UCL┃ TRING SPORT 3 HD [AL]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="3010" tvg-chno="1635",┃UCL┃ TRING SPORT 3 HD [AL]
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=895008&extension=ts&play_token=CB3Hh9Mpnc
+#EXTINF:-1 tvg-name="┃UCL┃ TRING SPORT 4 HD [AL]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="3010" tvg-chno="1636",┃UCL┃ TRING SPORT 4 HD [AL]
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:00:12:2C&stream=895009&extension=ts&play_token=E4p4sK53Cp
