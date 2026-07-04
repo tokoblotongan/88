@@ -5291,3 +5291,272 @@ http://eagleat.xyz:8080/live/hakan7920/5257920hkn/514808.ts
 http://eagleat.xyz:8080/live/hakan7920/5257920hkn/80505.ts
 #EXTINF:-1 tvg-id="Ekol Sports" tvg-name="TR: EKOL SPORTS HD" tvg-logo="" group-title="EUROSPORT",TR: EKOL SPORTS HD
 http://eagleat.xyz:8080/live/hakan7920/5257920hkn/197063.ts
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="┃AR┃ STARZPLAY AD SPORTS 1 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/STARZPLAY/STARZPLAY.png" group-title="STARZPLAY",┃AR┃ STARZPLAY AD SPORTS 1 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=712414&extension=ts&play_token=r9r5mvEeTg
+#EXTINF:-1 tvg-id="" tvg-name="┃AR┃ STARZPLAY AD SPORTS 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/STARZPLAY/STARZPLAY.png" group-title="STARZPLAY",┃AR┃ STARZPLAY AD SPORTS 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=712415&extension=ts&play_token=k7WSzCme3F
+#EXTINF:-1 tvg-id="" tvg-name="┃AR┃ STARZPLAY AD SPORTS 2 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/STARZPLAY/STARZPLAY.png" group-title="STARZPLAY",┃AR┃ STARZPLAY AD SPORTS 2 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=712416&extension=ts&play_token=XD6hCdgCj0
+#EXTINF:-1 tvg-id="" tvg-name="┃AR┃ STARZPLAY AD SPORTS 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/STARZPLAY/STARZPLAY.png" group-title="STARZPLAY",┃AR┃ STARZPLAY AD SPORTS 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=712417&extension=ts&play_token=YlRyAjH5R6
+#EXTINF:-1 tvg-id="" tvg-name="┃AR┃ STARZPLAY AD SPORTS ASIA 1 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/STARZPLAY/STARZPLAY.png" group-title="STARZPLAY",┃AR┃ STARZPLAY AD SPORTS ASIA 1 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=712422&extension=ts&play_token=z9qMM1wdqX
+#EXTINF:-1 tvg-id="" tvg-name="┃AR┃ STARZPLAY AD SPORTS ASIA 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/STARZPLAY/STARZPLAY.png" group-title="STARZPLAY",┃AR┃ STARZPLAY AD SPORTS ASIA 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=712423&extension=ts&play_token=jcGWfVvScx
+#EXTINF:-1 tvg-id="" tvg-name="┃AR┃ STARZPLAY AD SPORTS ASIA 2 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/STARZPLAY/STARZPLAY.png" group-title="STARZPLAY",┃AR┃ STARZPLAY AD SPORTS ASIA 2 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=712424&extension=ts&play_token=58du42x3QQ
+#EXTINF:-1 tvg-id="" tvg-name="┃AR┃ STARZPLAY AD SPORTS ASIA 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/STARZPLAY/STARZPLAY.png" group-title="STARZPLAY",┃AR┃ STARZPLAY AD SPORTS ASIA 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=712425&extension=ts&play_token=dfNeDLLKvO
+#EXTINF:-1 tvg-id="" tvg-name="┃AR┃ STARZPLAY AD SPORTS PREMIUM 1 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/STARZPLAY/STARZPLAY.png" group-title="STARZPLAY",┃AR┃ STARZPLAY AD SPORTS PREMIUM 1 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=712418&extension=ts&play_token=1zMW0sDNLx
+#EXTINF:-1 tvg-id="" tvg-name="┃AR┃ STARZPLAY AD SPORTS PREMIUM 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/STARZPLAY/STARZPLAY.png" group-title="STARZPLAY",┃AR┃ STARZPLAY AD SPORTS PREMIUM 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=712419&extension=ts&play_token=2PughynJci
+#EXTINF:-1 tvg-id="" tvg-name="┃AR┃ STARZPLAY AD SPORTS PREMIUM 2 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/STARZPLAY/STARZPLAY.png" group-title="STARZPLAY",┃AR┃ STARZPLAY AD SPORTS PREMIUM 2 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=712420&extension=ts&play_token=YyArPmV8ua
+#EXTINF:-1 tvg-id="" tvg-name="┃AR┃ STARZPLAY AD SPORTS PREMIUM 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/STARZPLAY/STARZPLAY.png" group-title="STARZPLAY",┃AR┃ STARZPLAY AD SPORTS PREMIUM 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=712421&extension=ts&play_token=sI6jZu27gg
+#EXTINF:-1 tvg-id="" tvg-name="┃AR┃ STARZPLAY SPORTS CRICLIFE 1 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/STARZPLAY/STARZPLAY.png" group-title="STARZPLAY",┃AR┃ STARZPLAY SPORTS CRICLIFE 1 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=712430&extension=ts&play_token=bgHjbhCPi8
+#EXTINF:-1 tvg-id="" tvg-name="┃AR┃ STARZPLAY SPORTS CRICLIFE 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/STARZPLAY/STARZPLAY.png" group-title="STARZPLAY",┃AR┃ STARZPLAY SPORTS CRICLIFE 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=712431&extension=ts&play_token=KqJBfJtzWX
+#EXTINF:-1 tvg-id="" tvg-name="┃AR┃ STARZPLAY SPORTS CRICLIFE 2 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/STARZPLAY/STARZPLAY.png" group-title="STARZPLAY",┃AR┃ STARZPLAY SPORTS CRICLIFE 2 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=712432&extension=ts&play_token=EKxZROvFbq
+#EXTINF:-1 tvg-id="" tvg-name="┃AR┃ STARZPLAY SPORTS CRICLIFE 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/STARZPLAY/STARZPLAY.png" group-title="STARZPLAY",┃AR┃ STARZPLAY SPORTS CRICLIFE 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=712433&extension=ts&play_token=lNhwT5izsR
+#EXTINF:-1 tvg-id="" tvg-name="┃AR┃ STARZPLAY SPORTS CRICLIFE 3 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/STARZPLAY/STARZPLAY.png" group-title="STARZPLAY",┃AR┃ STARZPLAY SPORTS CRICLIFE 3 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=712434&extension=ts&play_token=JOevYWjv17
+#EXTINF:-1 tvg-id="" tvg-name="┃AR┃ STARZPLAY SPORTS CRICLIFE 3 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/STARZPLAY/STARZPLAY.png" group-title="STARZPLAY",┃AR┃ STARZPLAY SPORTS CRICLIFE 3 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=712435&extension=ts&play_token=sjEtULqKV8
+#EXTINF:-1 tvg-id="" tvg-name="┃AR┃ STARZPLAY SPORTS UFC 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/STARZPLAY/STARZPLAY.png" group-title="STARZPLAY",┃AR┃ STARZPLAY SPORTS UFC 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=712426&extension=ts&play_token=4Y42kDs3eU
+#EXTINF:-1 tvg-id="" tvg-name="┃AR┃ STARZPLAY SPORTS UFC HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/STARZPLAY/STARZPLAY.png" group-title="STARZPLAY",┃AR┃ STARZPLAY SPORTS UFC HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=712427&extension=ts&play_token=mRoYPJmoKF
+#EXTINF:-1 tvg-id="" tvg-name="┃AR┃ STARZPLAY SPORTS YAS 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/STARZPLAY/STARZPLAY.png" group-title="STARZPLAY",┃AR┃ STARZPLAY SPORTS YAS 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=712428&extension=ts&play_token=dlwjKRh6pL
+#EXTINF:-1 tvg-id="" tvg-name="┃AR┃ STARZPLAY SPORTS YAS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/STARZPLAY/STARZPLAY.png" group-title="STARZPLAY",┃AR┃ STARZPLAY SPORTS YAS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=712429&extension=ts&play_token=ubziVOcw8y
+#EXTINF:-1 tvg-id="alkassone.qa" tvg-name="┃AR┃ AL KASS 1 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/BEINSPORTS/alkaas.png" group-title="AL KASS",┃AR┃ AL KASS 1 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=242232&extension=ts&play_token=ot2b7vXYEx
+#EXTINF:-1 tvg-id="" tvg-name="┃AR┃ AL KASS 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/BEINSPORTS/alkaas.png" group-title="AL KASS",┃AR┃ AL KASS 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=712436&extension=ts&play_token=m7uPrnuExx
+#EXTINF:-1 tvg-id="alkasstwo.qa" tvg-name="┃AR┃ AL KASS 2 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/BEINSPORTS/alkaas.png" group-title="AL KASS",┃AR┃ AL KASS 2 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=242231&extension=ts&play_token=CjNPOR0qEr
+#EXTINF:-1 tvg-id="" tvg-name="┃AR┃ AL KASS 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/BEINSPORTS/alkaas.png" group-title="AL KASS",┃AR┃ AL KASS 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=712437&extension=ts&play_token=2qeUSAAa2f
+#EXTINF:-1 tvg-id="alkassthree.qa" tvg-name="┃AR┃ AL KASS 3 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/BEINSPORTS/alkaas.png" group-title="AL KASS",┃AR┃ AL KASS 3 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=242229&extension=ts&play_token=VKidoZDfmF
+#EXTINF:-1 tvg-id="" tvg-name="┃AR┃ AL KASS 3 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/BEINSPORTS/alkaas.png" group-title="AL KASS",┃AR┃ AL KASS 3 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=712438&extension=ts&play_token=TiVCN3B10A
+#EXTINF:-1 tvg-id="alkassfour.qa" tvg-name="┃AR┃ AL KASS 4 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/BEINSPORTS/alkaas.png" group-title="AL KASS",┃AR┃ AL KASS 4 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=242230&extension=ts&play_token=JUCZJRRezO
+#EXTINF:-1 tvg-id="" tvg-name="┃AR┃ AL KASS 4 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/BEINSPORTS/alkaas.png" group-title="AL KASS",┃AR┃ AL KASS 4 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=712439&extension=ts&play_token=DrgaWYuPO4
+#EXTINF:-1 tvg-id="alkassfive.qa" tvg-name="┃AR┃ AL KASS 5 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/BEINSPORTS/alkaas.png" group-title="AL KASS",┃AR┃ AL KASS 5 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=242228&extension=ts&play_token=Sne2kVf1C8
+#EXTINF:-1 tvg-id="" tvg-name="┃AR┃ AL KASS 5 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/BEINSPORTS/alkaas.png" group-title="AL KASS",┃AR┃ AL KASS 5 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=712440&extension=ts&play_token=YEOVd96Mum
+#EXTINF:-1 tvg-id="" tvg-name="┃UCL┃ CANAL+ FOOT HD [FR]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="CANAL +",┃UCL┃ CANAL+ FOOT HD [FR]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=894988&extension=ts&play_token=YMJikp8dqg
+#EXTINF:-1 tvg-id="" tvg-name="┃UCL┃ CANAL+ HD [FR]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="CANAL +",┃UCL┃ CANAL+ HD [FR]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=894986&extension=ts&play_token=n54RoBc7qL
+#EXTINF:-1 tvg-id="" tvg-name="┃UCL┃ CANAL+ LIVE 1 HD [FR]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="CANAL +",┃UCL┃ CANAL+ LIVE 1 HD [FR]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=894982&extension=ts&play_token=HWgpBUZt3z
+#EXTINF:-1 tvg-id="" tvg-name="┃UCL┃ CANAL+ LIVE 2 HD [FR]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="CANAL +",┃UCL┃ CANAL+ LIVE 2 HD [FR]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=894983&extension=ts&play_token=EuklLhSOGl
+#EXTINF:-1 tvg-id="" tvg-name="┃UCL┃ CANAL+ LIVE 3 HD [FR]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="CANAL +",┃UCL┃ CANAL+ LIVE 3 HD [FR]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=894984&extension=ts&play_token=So9doE2Y3s
+#EXTINF:-1 tvg-id="" tvg-name="┃UCL┃ CANAL+ LIVE 4 HD [FR]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="CANAL +",┃UCL┃ CANAL+ LIVE 4 HD [FR]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=894985&extension=ts&play_token=uTocqJcN6u
+#EXTINF:-1 tvg-id="" tvg-name="┃UCL┃ CANAL+ SPORT HD [FR]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="CANAL +",┃UCL┃ CANAL+ SPORT HD [FR]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=894987&extension=ts&play_token=q2eo34hf7n
+#EXTINF:-1 tvg-id="" tvg-name="┃UCL┃ ZIGGO SPORT 1 HD [NL]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="ZIGGO",┃UCL┃ ZIGGO SPORT 1 HD [NL]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=894968&extension=ts&play_token=uNzL9jjsZO
+#EXTINF:-1 tvg-id="" tvg-name="┃UCL┃ ZIGGO SPORT 2 HD [NL]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="ZIGGO",┃UCL┃ ZIGGO SPORT 2 HD [NL]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=894969&extension=ts&play_token=MF5OkRlNHw
+#EXTINF:-1 tvg-id="" tvg-name="┃UCL┃ ZIGGO SPORT 3 HD [NL]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="ZIGGO",┃UCL┃ ZIGGO SPORT 3 HD [NL]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=894970&extension=ts&play_token=2geQ69qvot
+#EXTINF:-1 tvg-id="" tvg-name="┃UCL┃ ZIGGO SPORT 4 HD [NL]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="ZIGGO",┃UCL┃ ZIGGO SPORT 4 HD [NL]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=894971&extension=ts&play_token=2SKjmp6KRr
+#EXTINF:-1 tvg-id="" tvg-name="┃UCL┃ ZIGGO SPORT 5 HD [NL]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="ZIGGO",┃UCL┃ ZIGGO SPORT 5 HD [NL]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=894972&extension=ts&play_token=WHju8kefXO
+#EXTINF:-1 tvg-id="" tvg-name="┃UCL┃ ZIGGO SPORT 6 HD [NL]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="ZIGGO",┃UCL┃ ZIGGO SPORT 6 HD [NL]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=894973&extension=ts&play_token=GXQQrKi1GC
+#EXTINF:-1 tvg-id="" tvg-name="┃UCL┃ TABII SPOR 6 HD [TR]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="TABII SPORT",┃UCL┃ TABII SPOR 6 HD [TR]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=895005&extension=ts&play_token=VtrrtzJZ47
+#EXTINF:-1 tvg-id="" tvg-name="┃UCL┃ TABII SPOR 5 HD [TR]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="TABII SPORT",┃UCL┃ TABII SPOR 5 HD [TR]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=895004&extension=ts&play_token=DN1y3scDro
+#EXTINF:-1 tvg-id="" tvg-name="┃UCL┃ TABII SPOR 4 HD [TR]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="TABII SPORT",┃UCL┃ TABII SPOR 4 HD [TR]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=895003&extension=ts&play_token=3XhHwrKz1B
+#EXTINF:-1 tvg-id="" tvg-name="┃UCL┃ TABII SPOR 3 HD [TR]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="TABII SPORT",┃UCL┃ TABII SPOR 3 HD [TR]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=895002&extension=ts&play_token=phuf5W20K0
+#EXTINF:-1 tvg-id="" tvg-name="┃UCL┃ TABII SPOR 2 HD [TR]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="TABII SPORT",┃UCL┃ TABII SPOR 2 HD [TR]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=895001&extension=ts&play_token=AJvKEx45Y6
+#EXTINF:-1 tvg-id="" tvg-name="┃UCL┃ TABII SPOR 1 HD [TR]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="TABII SPORT",┃UCL┃ TABII SPOR 1 HD [TR]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=895000&extension=ts&play_token=Yj4T3KVwSr
+#EXTINF:-1 tvg-id="" tvg-name="┃UCL┃ TABII SPOR HD [TR]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="TABII SPORT",┃UCL┃ TABII SPOR HD [TR]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=894999&extension=ts&play_token=i0DLv9JeCg
+#EXTINF:-1 tvg-id="" tvg-name="┃UCL┃ TRING SPORT 1 HD [AL]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="TRING SPORT",┃UCL┃ TRING SPORT 1 HD [AL]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=895006&extension=ts&play_token=4lIFFMoGiG
+#EXTINF:-1 tvg-id="" tvg-name="┃UCL┃ TRING SPORT 2 HD [AL]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="TRING SPORT",┃UCL┃ TRING SPORT 2 HD [AL]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=895007&extension=ts&play_token=XKN0Obiqju
+#EXTINF:-1 tvg-id="" tvg-name="┃UCL┃ TRING SPORT 3 HD [AL]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="TRING SPORT",┃UCL┃ TRING SPORT 3 HD [AL]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=895008&extension=ts&play_token=0YrlmIGwvO
+#EXTINF:-1 tvg-id="" tvg-name="┃UCL┃ TRING SPORT 4 HD [AL]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="TRING SPORT",┃UCL┃ TRING SPORT 4 HD [AL]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=895009&extension=ts&play_token=16DqwNhhjX
+#EXTINF:-1 tvg-id="" tvg-name="┃UCL┃ TRING SPORT 5 HD [AL]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="TRING SPORT",┃UCL┃ TRING SPORT 5 HD [AL]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=895010&extension=ts&play_token=kNTy6qLPaV
+#EXTINF:-1 tvg-id="" tvg-name="┃UCL┃ TRING SPORT 9 HD [AL]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="TRING SPORT",┃UCL┃ TRING SPORT 9 HD [AL]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=1030319&extension=ts&play_token=6nm3TKCTmB
+#EXTINF:-1 tvg-id="" tvg-name="┃UCL┃ TRING SPORT 8 HD [AL]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="TRING SPORT",┃UCL┃ TRING SPORT 8 HD [AL]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=1030318&extension=ts&play_token=YCEM6bbl0f
+#EXTINF:-1 tvg-id="" tvg-name="┃UCL┃ TRING SPORT 6 HD [AL]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="TRING SPORT",┃UCL┃ TRING SPORT 6 HD [AL]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=1030316&extension=ts&play_token=Bp9JRL74D6
+#EXTINF:-1 tvg-id="" tvg-name="┃UCL┃ TRING SPORT 7 HD [AL]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="TRING SPORT",┃UCL┃ TRING SPORT 7 HD [AL]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=1030317&extension=ts&play_token=jPHN7KFmag
+#EXTINF:-1 tvg-id="" tvg-name="┃MXGP┃MXGP TV - ON MAX | WK |" tvg-logo="http://picon.tivi-ott.net:25461/picon/MOTORCROSS/MXGP TV.png" group-title="MXGP",┃MXGP┃MXGP TV - ON MAX | WK |
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=1140527&extension=ts&play_token=5fbzcJpUfv
+#EXTINF:-1 tvg-id="" tvg-name="┃MXGP┃MXGP TV - ON MAX |" tvg-logo="http://picon.tivi-ott.net:25461/picon/MOTORCROSS/MXGP TV.png" group-title="MXGP",┃MXGP┃MXGP TV - ON MAX |
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=1140526&extension=ts&play_token=d9lpYhAeli
+#EXTINF:-1 tvg-id="" tvg-name="┃MXGP┃MXGP TV - ON MAX |" tvg-logo="http://picon.tivi-ott.net:25461/picon/MOTORCROSS/MXGP TV.png" group-title="MXGP",┃MXGP┃MXGP TV - ON MAX |
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=1140522&extension=ts&play_token=N1sGLnPtgy
+#EXTINF:-1 tvg-id="" tvg-name="┃MXGP┃MXGP TV - LIVE |" tvg-logo="http://picon.tivi-ott.net:25461/picon/MOTORCROSS/MXGP TV.png" group-title="MXGP",┃MXGP┃MXGP TV - LIVE |
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=1090921&extension=ts&play_token=jtQ4sIyG2j
+#EXTINF:-1 tvg-id="" tvg-name="┃UCL┃ TNT SPORTS 1 HD [UK]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="TNT SPORT",┃UCL┃ TNT SPORTS 1 HD [UK]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=894977&extension=ts&play_token=7AyNImyFiE
+#EXTINF:-1 tvg-id="" tvg-name="┃UCL┃ TNT SPORTS 2 HD [UK]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="TNT SPORT",┃UCL┃ TNT SPORTS 2 HD [UK]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=894978&extension=ts&play_token=vcCyRck1ic
+#EXTINF:-1 tvg-id="" tvg-name="┃UCL┃ TNT SPORTS 3 HD [UK]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="TNT SPORT",┃UCL┃ TNT SPORTS 3 HD [UK]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=894979&extension=ts&play_token=TvrH18kRUI
+#EXTINF:-1 tvg-id="" tvg-name="┃UCL┃ TNT SPORTS 4 HD [UK]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="TNT SPORT",┃UCL┃ TNT SPORTS 4 HD [UK]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=894980&extension=ts&play_token=2AiG0ZvzDz
+#EXTINF:-1 tvg-id="" tvg-name="┃UCL┃ TNT SPORTS 5 HD [UK]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="TNT SPORT",┃UCL┃ TNT SPORTS 5 HD [UK]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=894981&extension=ts&play_token=sZMQ4GZZHv
+#EXTINF:-1 tvg-id="" tvg-name="┃UCL┃ SKY SPORT UNO HD [IT]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="TNT SPORT",┃UCL┃ SKY SPORT UNO HD [IT]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=894998&extension=ts&play_token=7eqK0a49vl
+#EXTINF:-1 tvg-id="" tvg-name="┃UCL┃ DAZN 1 HD [DE]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="DAZN UCL",┃UCL┃ DAZN 1 HD [DE]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=894974&extension=ts&play_token=26f9VbN12R
+#EXTINF:-1 tvg-id="" tvg-name="┃UCL┃ DAZN 2 HD [DE]" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="DAZN UCL",┃UCL┃ DAZN 2 HD [DE]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=894975&extension=ts&play_token=g93xmg1Eop
+#EXTINF:-1 tvg-id="" tvg-name="┃WC┃ DAZN MUNDIAL 1 HD [ES]" tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="DAZN UCL",┃WC┃ DAZN MUNDIAL 1 HD [ES]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=1745110&extension=ts&play_token=cUCBitwlif
+#EXTINF:-1 tvg-id="" tvg-name="┃WC┃ DAZN MUNDIAL 2 HD [ES]" tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="DAZN UCL",┃WC┃ DAZN MUNDIAL 2 HD [ES]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=1745111&extension=ts&play_token=EhtXJ3uZk0
+#EXTINF:-1 tvg-id="" tvg-name="┃WC┃ DAZN MUNDIAL 3 HD [ES]" tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="DAZN UCL",┃WC┃ DAZN MUNDIAL 3 HD [ES]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=1745112&extension=ts&play_token=ky5LOQqw7W
+#EXTINF:-1 tvg-id="" tvg-name="┃WC┃ DAZN MUNDIAL 4 HD [ES]" tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="DAZN UCL",┃WC┃ DAZN MUNDIAL 4 HD [ES]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=1745113&extension=ts&play_token=WilYykizlb
+#EXTINF:-1 tvg-id="" tvg-name="┃MOTOGP┃ FOX SPORTS 506 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/MOTORCYCLE GRAND PRIX/FOX SPORTS 506.png" group-title="MOTOGP",┃MOTOGP┃ FOX SPORTS 506 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=1091519&extension=ts&play_token=wouKIj1E7T
+#EXTINF:-1 tvg-id="" tvg-name="┃MOTOGP┃ MOTOGP HELI" tvg-logo="http://picon.tivi-ott.net:25461/picon/MOTORCYCLE GRAND PRIX/MOTOGP.png" group-title="MOTOGP",┃MOTOGP┃ MOTOGP HELI
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=1091511&extension=ts&play_token=IPfmJOxIN1
+#EXTINF:-1 tvg-id="" tvg-name="┃MOTOGP┃ MOTOGP IPFAMB" tvg-logo="http://picon.tivi-ott.net:25461/picon/MOTORCYCLE GRAND PRIX/MOTOGP.png" group-title="MOTOGP",┃MOTOGP┃ MOTOGP IPFAMB
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=1091513&extension=ts&play_token=FV7Zf0x38T
+#EXTINF:-1 tvg-id="" tvg-name="┃MOTOGP┃ MOTOGP IPFMIX" tvg-logo="http://picon.tivi-ott.net:25461/picon/MOTORCYCLE GRAND PRIX/MOTOGP.png" group-title="MOTOGP",┃MOTOGP┃ MOTOGP IPFMIX
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=1091512&extension=ts&play_token=t4oQemdon6
+#EXTINF:-1 tvg-id="" tvg-name="┃MOTOGP┃ MOTOGP OB 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/MOTORCYCLE GRAND PRIX/MOTOGP.png" group-title="MOTOGP",┃MOTOGP┃ MOTOGP OB 1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=1091510&extension=ts&play_token=iGxtHJ32nX
+#EXTINF:-1 tvg-id="" tvg-name="┃MOTOGP┃ MOTOGP OB 2" tvg-logo="http://picon.tivi-ott.net:25461/picon/MOTORCYCLE GRAND PRIX/MOTOGP.png" group-title="MOTOGP",┃MOTOGP┃ MOTOGP OB 2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=1091509&extension=ts&play_token=vi8Ex3P9Kk
+#EXTINF:-1 tvg-id="" tvg-name="┃MOTOGP┃ MOTOGP OB 3" tvg-logo="http://picon.tivi-ott.net:25461/picon/MOTORCYCLE GRAND PRIX/MOTOGP.png" group-title="MOTOGP",┃MOTOGP┃ MOTOGP OB 3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=1091508&extension=ts&play_token=zRW0I4VHSf
+#EXTINF:-1 tvg-id="" tvg-name="┃MOTOGP┃ MOTOGP OB 4" tvg-logo="http://picon.tivi-ott.net:25461/picon/MOTORCYCLE GRAND PRIX/MOTOGP.png" group-title="MOTOGP",┃MOTOGP┃ MOTOGP OB 4
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=1091507&extension=ts&play_token=m8MvUJC3TL
+#EXTINF:-1 tvg-id="" tvg-name="┃MOTOGP┃ TNT SPORT 2" tvg-logo="http://picon.tivi-ott.net:25461/picon/MOTORCYCLE GRAND PRIX/TNT SPORTS 1.png" group-title="MOTOGP",┃MOTOGP┃ TNT SPORT 2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=1091515&extension=ts&play_token=DWCk2thTEG
+#EXTINF:-1 tvg-id="" tvg-name="┃MOTOGP┃ TNT SPORT 2 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/MOTORCYCLE GRAND PRIX/TNT SPORTS 1.png" group-title="MOTOGP",┃MOTOGP┃ TNT SPORT 2 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=1091517&extension=ts&play_token=NFKG6d2GNk
+#EXTINF:-1 tvg-id="" tvg-name="┃MOTOGP┃ TNT SPORT 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/MOTORCYCLE GRAND PRIX/TNT SPORTS 1.png" group-title="MOTOGP",┃MOTOGP┃ TNT SPORT 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=1091516&extension=ts&play_token=TAPbNTWveP
+#EXTINF:-1 tvg-id="" tvg-name="┃MOTOGP┃ TNT SPORTS 2 FHD HEVC" tvg-logo="http://picon.tivi-ott.net:25461/picon/MOTORCYCLE GRAND PRIX/TNT SPORTS 1.png" group-title="MOTOGP",┃MOTOGP┃ TNT SPORTS 2 FHD HEVC
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=1091514&extension=ts&play_token=vbRKtHkei1
+#EXTINF:-1 tvg-id="" tvg-name="┃AR┃ THMANYAH 1 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/┃AR┃ THMANYAH/THMANYAH.png" group-title="THMANYAH",┃AR┃ THMANYAH 1 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=1264554&extension=ts&play_token=AoYPFGopJS
+#EXTINF:-1 tvg-id="" tvg-name="┃AR┃ THMANYAH 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/┃AR┃ THMANYAH/THMANYAH.png" group-title="THMANYAH",┃AR┃ THMANYAH 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=1264556&extension=ts&play_token=AsnNcTVEFs
+#EXTINF:-1 tvg-id="" tvg-name="┃AR┃ THMANYAH 2 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/┃AR┃ THMANYAH/THMANYAH.png" group-title="THMANYAH",┃AR┃ THMANYAH 2 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=1264555&extension=ts&play_token=uALTnIhO92
+#EXTINF:-1 tvg-id="" tvg-name="┃AR┃ THMANYAH 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/┃AR┃ THMANYAH/THMANYAH.png" group-title="THMANYAH",┃AR┃ THMANYAH 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=1264557&extension=ts&play_token=RpzcMAF6mt
+#EXTINF:-1 tvg-id="" tvg-name="┃AR┃ THMANYAH 3 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/┃AR┃ THMANYAH/THMANYAH.png" group-title="THMANYAH",┃AR┃ THMANYAH 3 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=1303870&extension=ts&play_token=bjMaUaCiZU
+#EXTINF:-1 tvg-id="" tvg-name="┃AR┃ THMANYAH 3 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/┃AR┃ THMANYAH/THMANYAH.png" group-title="THMANYAH",┃AR┃ THMANYAH 3 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=1303871&extension=ts&play_token=jiFPw66gly
+#EXTINF:-1 tvg-id="" tvg-name="┃WC┃ BEIN SPORTS MAX 1 HD [AR]" tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="BEIN",┃WC┃ BEIN SPORTS MAX 1 HD [AR]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=1745083&extension=ts&play_token=56mN4kXd2E
+#EXTINF:-1 tvg-id="" tvg-name="┃WC┃ BEIN SPORTS MAX 2 HD [AR]" tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="BEIN",┃WC┃ BEIN SPORTS MAX 2 HD [AR]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=1745084&extension=ts&play_token=uIaqifr6rx
+#EXTINF:-1 tvg-id="" tvg-name="┃WC┃ BEIN SPORTS MAX 3 HD [EN]" tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="BEIN",┃WC┃ BEIN SPORTS MAX 3 HD [EN]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=1745085&extension=ts&play_token=QvZKZGH8P3
+#EXTINF:-1 tvg-id="" tvg-name="┃WC┃ BEIN SPORTS MAX 4 HD [EN]" tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="BEIN",┃WC┃ BEIN SPORTS MAX 4 HD [EN]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=1745086&extension=ts&play_token=2Be5A7gne1
+#EXTINF:-1 tvg-id="" tvg-name="┃WC┃ BEIN SPORTS MAX 5 HD [FR]" tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="BEIN",┃WC┃ BEIN SPORTS MAX 5 HD [FR]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=1745087&extension=ts&play_token=zRpd9zkh4j
+#EXTINF:-1 tvg-id="" tvg-name="┃WC┃ BEIN SPORTS MAX 6 HD [FR]" tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="BEIN",┃WC┃ BEIN SPORTS MAX 6 HD [FR]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=1745088&extension=ts&play_token=IZ6vI3X353
+#EXTINF:-1 tvg-id="" tvg-name="┃WC┃ BBC 1 HD [UK]" tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="MIX SPORT",┃WC┃ BBC 1 HD [UK]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=1745114&extension=ts&play_token=xYuEGR1qdA
+#EXTINF:-1 tvg-id="" tvg-name="┃WC┃ DAS ERSTE HD [DE]" tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="MIX SPORT",┃WC┃ DAS ERSTE HD [DE]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=1745090&extension=ts&play_token=IcNVO21UaZ
+#EXTINF:-1 tvg-id="" tvg-name="┃WC┃ EPT 1 HD [GR]" tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="MIX SPORT",┃WC┃ EPT 1 HD [GR]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=1745107&extension=ts&play_token=aIzp3yDIaW
+#EXTINF:-1 tvg-id="" tvg-name="┃WC┃ FOX SPORTS 1 HD [USA]" tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="MIX SPORT",┃WC┃ FOX SPORTS 1 HD [USA]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=1745108&extension=ts&play_token=dlQQmIs7Uj
+#EXTINF:-1 tvg-id="" tvg-name="┃WC┃ FOX SPORTS 2 HD [USA]" tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="MIX SPORT",┃WC┃ FOX SPORTS 2 HD [USA]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=1745109&extension=ts&play_token=lUdPTjpXpL
+#EXTINF:-1 tvg-id="" tvg-name="┃WC┃ FUSSBALL.TV 1 HD [DE]" tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="MIX SPORT",┃WC┃ FUSSBALL.TV 1 HD [DE]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=1745092&extension=ts&play_token=eoh8d3FqNH
+#EXTINF:-1 tvg-id="" tvg-name="┃WC┃ FUSSBALL.TV 1 UHD [DE]" tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="MIX SPORT",┃WC┃ FUSSBALL.TV 1 UHD [DE]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=1745095&extension=ts&play_token=1j8tIHdUXR
+#EXTINF:-1 tvg-id="" tvg-name="┃WC┃ FUSSBALL.TV 2 HD [DE]" tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="MIX SPORT",┃WC┃ FUSSBALL.TV 2 HD [DE]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=1745093&extension=ts&play_token=bkmq9KLnAW
+#EXTINF:-1 tvg-id="" tvg-name="┃WC┃ FUSSBALL.TV 2 UHD [DE]" tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="MIX SPORT",┃WC┃ FUSSBALL.TV 2 UHD [DE]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=1745096&extension=ts&play_token=WyKUNmtbX9
+#EXTINF:-1 tvg-id="" tvg-name="┃WC┃ FUSSBALL.TV 3 HD [DE]" tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="MIX SPORT",┃WC┃ FUSSBALL.TV 3 HD [DE]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=1745094&extension=ts&play_token=XpdMKN1Rix
+#EXTINF:-1 tvg-id="" tvg-name="┃WC┃ FUSSBALL.TV 3 UHD [DE]" tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="MIX SPORT",┃WC┃ FUSSBALL.TV 3 UHD [DE]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=1745097&extension=ts&play_token=oIwKhVgrhV
+#EXTINF:-1 tvg-id="" tvg-name="┃WC┃ ITV 1 HD [UK]" tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="MIX SPORT",┃WC┃ ITV 1 HD [UK]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=1745115&extension=ts&play_token=xed3Uv0h32
+#EXTINF:-1 tvg-id="" tvg-name="┃WC┃ KLAN TV HD [AL]" tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="MIX SPORT",┃WC┃ KLAN TV HD [AL]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=1745103&extension=ts&play_token=2y2njKMtFZ
+#EXTINF:-1 tvg-id="" tvg-name="┃WC┃ M6 HD [FR]" tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="MIX SPORT",┃WC┃ M6 HD [FR]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=1745089&extension=ts&play_token=NdMUJvpxWz
+#EXTINF:-1 tvg-id="" tvg-name="┃WC┃ NPO 1 HD [NL]" tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="MIX SPORT",┃WC┃ NPO 1 HD [NL]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=1745078&extension=ts&play_token=ydvX4dwToZ
+#EXTINF:-1 tvg-id="" tvg-name="┃WC┃ NPO 2 HD [NL]" tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="MIX SPORT",┃WC┃ NPO 2 HD [NL]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=1745079&extension=ts&play_token=bwZGLYNQ21
+#EXTINF:-1 tvg-id="" tvg-name="┃WC┃ NPO 3 HD [NL]" tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="MIX SPORT",┃WC┃ NPO 3 HD [NL]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=1745080&extension=ts&play_token=DKEzCKMvKL
+#EXTINF:-1 tvg-id="" tvg-name="┃WC┃ RAI 1 HD [IT]" tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="MIX SPORT",┃WC┃ RAI 1 HD [IT]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=1745099&extension=ts&play_token=gFULO8zH0E
+#EXTINF:-1 tvg-id="" tvg-name="┃WC┃ RTK 1 HD [AL]" tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="MIX SPORT",┃WC┃ RTK 1 HD [AL]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=1745102&extension=ts&play_token=3UbeivXZ7D
+#EXTINF:-1 tvg-id="" tvg-name="┃WC┃ SERVUS TV HD [AT]" tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="MIX SPORT",┃WC┃ SERVUS TV HD [AT]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=1745098&extension=ts&play_token=TUNyHFIb9O
+#EXTINF:-1 tvg-id="" tvg-name="┃WC┃ SPORT TV 1 HD [PT]" tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="MIX SPORT",┃WC┃ SPORT TV 1 HD [PT]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=1745117&extension=ts&play_token=HNj1O6hB8G
+#EXTINF:-1 tvg-id="" tvg-name="┃WC┃ SPORT TV 2 HD [PT]" tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="MIX SPORT",┃WC┃ SPORT TV 2 HD [PT]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=1745118&extension=ts&play_token=r12JwkButN
+#EXTINF:-1 tvg-id="" tvg-name="┃WC┃ SPORT TV 3 HD [PT]" tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="MIX SPORT",┃WC┃ SPORT TV 3 HD [PT]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=1745119&extension=ts&play_token=XN8YyVTers
+#EXTINF:-1 tvg-id="" tvg-name="┃WC┃ SPORT TV 4 HD [PT]" tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="MIX SPORT",┃WC┃ SPORT TV 4 HD [PT]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=1745120&extension=ts&play_token=VrqrE6RMjf
+#EXTINF:-1 tvg-id="" tvg-name="┃WC┃ SPORT TV+ HD [PT]" tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="MIX SPORT",┃WC┃ SPORT TV+ HD [PT]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=1745116&extension=ts&play_token=l8r5yDqn8D
+#EXTINF:-1 tvg-id="" tvg-name="┃WC┃ TABII SPOR HD [TR]" tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="MIX SPORT",┃WC┃ TABII SPOR HD [TR]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=1745101&extension=ts&play_token=Az2ZlWWRMs
+#EXTINF:-1 tvg-id="" tvg-name="┃WC┃ TIPIK HD [BE]" tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="MIX SPORT",┃WC┃ TIPIK HD [BE]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=1745082&extension=ts&play_token=ZnbkC55bRD
+#EXTINF:-1 tvg-id="" tvg-name="┃WC┃ TRT 1 HD [TR]" tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="MIX SPORT",┃WC┃ TRT 1 HD [TR]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=1745100&extension=ts&play_token=2UQ2ez161y
+#EXTINF:-1 tvg-id="" tvg-name="┃WC┃ TVP 1 HD [PL]" tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="MIX SPORT",┃WC┃ TVP 1 HD [PL]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=1745105&extension=ts&play_token=TwmvChUMvb
+#EXTINF:-1 tvg-id="" tvg-name="┃WC┃ TVP 2 HD [PL]" tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="MIX SPORT",┃WC┃ TVP 2 HD [PL]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=1745106&extension=ts&play_token=BGpaSRXH9p
+#EXTINF:-1 tvg-id="" tvg-name="┃WC┃ TVP SPORT HD [PL]" tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="MIX SPORT",┃WC┃ TVP SPORT HD [PL]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=1745104&extension=ts&play_token=CAnCg5v21I
+#EXTINF:-1 tvg-id="" tvg-name="┃WC┃ VRT 1 HD [BE]" tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="MIX SPORT",┃WC┃ VRT 1 HD [BE]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=1745081&extension=ts&play_token=u2myK4loH9
+#EXTINF:-1 tvg-id="" tvg-name="┃WC┃ ZDF HD [DE]" tvg-logo="http://picon.tivi-ott.net:25461/picon/WORLD CUP 2026/WORLD CUP 2026.png" group-title="MIX SPORT",┃WC┃ ZDF HD [DE]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:26:D1&stream=1745091&extension=ts&play_token=x1kuHIXoIO
