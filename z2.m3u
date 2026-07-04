@@ -5092,3 +5092,202 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:1E:1E&stream=1170574&
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:1E:1E&stream=1170575&extension=ts&play_token=l6CrEtGqK8
 #EXTINF:-1 tvg-id="questplus1.uk" tvg-name="┃UK┃ QUEST +1" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/ENTERTAINMENT/QUEST.png" group-title="UK",┃UK┃ QUEST +1
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:1E:1E&stream=1170573&extension=ts&play_token=sUpKkNlclT
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="MELODIC TECHNO MIX 1" tvg-logo="http://dolby-zorextv.dynuddns.net:8080/LOGO.YENI/CLUBBER.MUSIC/MELODIC.TECNO.png" group-title="MELODIC TECHNO",MELODIC TECHNO MIX 1
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/64431.ts
+#EXTINF:-1 tvg-id="" tvg-name="MELODIC TECHNO MIX 2" tvg-logo="http://dolby-zorextv.dynuddns.net:8080/LOGO.YENI/CLUBBER.MUSIC/MELODIC.TECNO.png" group-title="MELODIC TECHNO",MELODIC TECHNO MIX 2
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/98695.ts
+#EXTINF:-1 tvg-id="" tvg-name="MELODIC TRANCE MIX 1" tvg-logo="http://dolby-zorextv.dynuddns.net:8080/LOGO.YENI/CLUBBER.MUSIC/MELODIC.TRANCE.png" group-title="MELODIC TECHNO",MELODIC TRANCE MIX 1
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/55043.ts
+#EXTINF:-1 tvg-id="" tvg-name="MEDITATION  I" tvg-logo="http://dolby-zorextv.dynuddns.net:8080/LOGO.YENI/RELAX.MUSIC/MEDITATION.png" group-title="MEDITATION",MEDITATION  I
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/156139.ts
+#EXTINF:-1 tvg-id="" tvg-name="MEDITATION II" tvg-logo="http://dolby-zorextv.dynuddns.net:8080/LOGO.YENI/RELAX.MUSIC/MEDITATION.png" group-title="MEDITATION",MEDITATION II
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/15588.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: FX CINEMA 1 HD" tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/FILMX/CINEMA.1.png" group-title="FX CINEMA",TR: FX CINEMA 1 HD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/222112.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: FX CINEMA 2 HD" tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/FILMX/CINEMA.2.png" group-title="FX CINEMA",TR: FX CINEMA 2 HD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/222113.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: FX CINEMA 3 HD" tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/FILMX/CINEMA.3.png" group-title="FX CINEMA",TR: FX CINEMA 3 HD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/222114.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: FX CINEMA 4 HD" tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/FILMX/CINEMA.4.png" group-title="FX CINEMA",TR: FX CINEMA 4 HD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/222115.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: FX CINEMA 5 HD" tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/FILMX/CINEMA.5.png" group-title="FX CINEMA",TR: FX CINEMA 5 HD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/222116.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: FH KÜLT CINEMA 1 HD" tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/FILM.HAUS/KULT.CINEMA.1.png" group-title="FX CINEMA",TR: FH KÜLT CINEMA 1 HD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/222072.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: FH KÜLT CINEMA 2 HD" tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/FILM.HAUS/KULT.CINEMA.2.png" group-title="FX CINEMA",TR: FH KÜLT CINEMA 2 HD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/222073.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: FH KÜLT CINEMA 3 HD" tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/FILM.HAUS/KULT.CINEMA.3.png" group-title="FX CINEMA",TR: FH KÜLT CINEMA 3 HD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/222074.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: FH CINEMA 5 HD" tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/FILM.HAUS/CINEMA.5.png" group-title="FX CINEMA",TR: FH CINEMA 5 HD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/222079.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: FH CINEMA 4 HD" tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/FILM.HAUS/CINEMA.4.png" group-title="FX CINEMA",TR: FH CINEMA 4 HD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/222078.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: FH CINEMA 3 HD" tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/FILM.HAUS/CINEMA.3.png" group-title="FX CINEMA",TR: FH CINEMA 3 HD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/222077.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: FH CINEMA 2 HD" tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/FILM.HAUS/CINEMA.2.png" group-title="FX CINEMA",TR: FH CINEMA 2 HD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/222076.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: FH CINEMA 1 HD" tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/FILM.HAUS/CINEMA.1.png" group-title="FX CINEMA",TR: FH CINEMA 1 HD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/222075.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: CV CINEMA 5 HD" tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/CINEVERSE/CINEMA.5.png" group-title="FX CINEMA",TR: CV CINEMA 5 HD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/222042.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: CV CINEMA 1  HD" tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/CINEVERSE/CINEMA.1.png" group-title="FX CINEMA",TR: CV CINEMA 1  HD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/222038.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: CV CINEMA 2 HD" tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/CINEVERSE/CINEMA.2.png" group-title="FX CINEMA",TR: CV CINEMA 2 HD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/222039.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: CV CINEMA 3 HD" tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/CINEVERSE/CINEMA.3.png" group-title="FX CINEMA",TR: CV CINEMA 3 HD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/222040.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: CV CINEMA 4 HD" tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/CINEVERSE/CINEMA.4.png" group-title="FX CINEMA",TR: CV CINEMA 4 HD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/222041.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINEMAXIMUM 1 HD" tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/CINEMAXIMUM/1.png" group-title="CINEMAXIMUM",TR: CINEMAXIMUM 1 HD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/222000.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINEMAXIMUM 2 HD" tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/CINEMAXIMUM/2.png" group-title="CINEMAXIMUM",TR: CINEMAXIMUM 2 HD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/222001.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINEMAXIMUM 3 HD" tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/CINEMAXIMUM/3.png" group-title="CINEMAXIMUM",TR: CINEMAXIMUM 3 HD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/222002.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINEMAXIMUM 4 HD" tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/CINEMAXIMUM/4.png" group-title="CINEMAXIMUM",TR: CINEMAXIMUM 4 HD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/222003.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINEMAXIMUM 5 HD" tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/CINEMAXIMUM/5.png" group-title="CINEMAXIMUM",TR: CINEMAXIMUM 5 HD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/222004.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: MARVEL CINEMA 1 HD" tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/MARVEL.STUDIO/1.png" group-title="MARVEL CINEMA",TR: MARVEL CINEMA 1 HD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/221860.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: MARVEL CINEMA 2 HD" tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/MARVEL.STUDIO/2.png" group-title="MARVEL CINEMA",TR: MARVEL CINEMA 2 HD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/221861.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: MARVEL CINEMA 3 HD" tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/MARVEL.STUDIO/3.png" group-title="MARVEL CINEMA",TR: MARVEL CINEMA 3 HD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/221862.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: MARVEL CINEMA 4 HD" tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/MARVEL.STUDIO/4.png" group-title="MARVEL CINEMA",TR: MARVEL CINEMA 4 HD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/221863.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: MARVEL CINEMA 5 HD" tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/MARVEL.STUDIO/5.png" group-title="MARVEL CINEMA",TR: MARVEL CINEMA 5 HD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/221864.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: WESTERN CINEMA 1 HD" tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/WESTERN.STUDIO/1.png" group-title="MARVEL CINEMA",TR: WESTERN CINEMA 1 HD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/221865.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: WESTERN CINEMA 2 HD" tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/WESTERN.STUDIO/2.png" group-title="MARVEL CINEMA",TR: WESTERN CINEMA 2 HD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/221866.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: WESTERN CINEMA 3 HD" tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/WESTERN.STUDIO/3.png" group-title="MARVEL CINEMA",TR: WESTERN CINEMA 3 HD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/221867.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: WESTERN CINEMA 4 HD" tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/WESTERN.STUDIO/4.png" group-title="MARVEL CINEMA",TR: WESTERN CINEMA 4 HD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/221868.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: WESTERN CINEMA 5 HD" tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/WESTERN.STUDIO/5.png" group-title="MARVEL CINEMA",TR: WESTERN CINEMA 5 HD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/221869.ts
+#EXTINF:-1 tvg-id="" tvg-name="SRB: ARENA SPORT 1 PREMIUM FHD" tvg-logo="" group-title="SPORT",SRB: ARENA SPORT 1 PREMIUM FHD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/15036.ts
+#EXTINF:-1 tvg-id="" tvg-name="NL: Ziggo Sport 1 ᴴᴰ" tvg-logo="http://dolby-zorextv.dynuddns.net:8080/LOGO.YENI/NL/ODIDO/ZIGGO.SPORT.1.png" group-title="SPORT",NL: Ziggo Sport 1 ᴴᴰ
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/90583.ts
+#EXTINF:-1 tvg-id="" tvg-name="HR: ARENA SPORT 1 FHD" tvg-logo="http://dolby-zorextv.dynuddns.net:8080/LOGO/EX.YU/SPOR/HD/ARENA.SPORT.1.png" group-title="SPORT",HR: ARENA SPORT 1 FHD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/16448.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports 1 HD" tvg-logo="http://dolby-zorextv.dynuddns.net:8080/LOGO/USA/SPORTS/HD/FOX.SPORTS.1.png" group-title="SPORT",US: Fox Sports 1 HD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/19253.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports 2 HD" tvg-logo="http://dolby-zorextv.dynuddns.net:8080/LOGO/USA/SPORTS/HD/FOX.SPORTS.2.png" group-title="SPORT",US: Fox Sports 2 HD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/160322.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1" tvg-logo="http://dolby-zorextv.dynuddns.net:8080/LOGO/PT/SPORTS/FHD/SPORT.TV.1.png" group-title="SPORT",PT: SPORT TV 1
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/132540.ts
+#EXTINF:-1 tvg-id="tvpsport.pl" tvg-name="PL: TVP Sport ᴴᴰ" tvg-logo="http://dolby-zorextv.dynuddns.net:8080/LOGO/PL/HD/TVP.SPORT.png" group-title="SPORT",PL: TVP Sport ᴴᴰ
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/39514.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI SPORT+ ᴴᴰ" tvg-logo="http://dolby-zorextv.dynuddns.net:8080/LOGO/IT/DAZN.SPORT/HD/RAI.SPORT.png" group-title="SPORT",IT: RAI SPORT+ ᴴᴰ
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/167758.ts
+#EXTINF:-1 tvg-id="" tvg-name="AT: ORF SPORT  + ᴴᴰ" tvg-logo="http://dolby-zorextv.dynuddns.net:8080/LOGO.YENI/AT/ORF.SPORT.PLUS.png" group-title="SPORT",AT: ORF SPORT  + ᴴᴰ
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/163169.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORT 2 ᴴᴰ" tvg-logo="http://dolby-zorextv.dynuddns.net:8080/LOGO/AL/SPORT/HD/SUPER.SPORT.2.png" group-title="SPORT",AL: SUPER SPORT 2 ᴴᴰ
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/107324.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORT 1 ᴴᴰ" tvg-logo="http://dolby-zorextv.dynuddns.net:8080/LOGO/AL/SPORT/HD/SUPER.SPORT.1.png" group-title="SPORT",AL: SUPER SPORT 1 ᴴᴰ
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/23972.ts
+#EXTINF:-1 tvg-id="Exxen Sport" tvg-name="TR: EXXEN SPORT  3 HD" tvg-logo="" group-title="EXXEN SPORT",TR: EXXEN SPORT  3 HD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/299766.ts
+#EXTINF:-1 tvg-id="Exxen Sport" tvg-name="TR: EXXEN SPORT 1 FHD" tvg-logo="http://dolby-zorextv.dynuddns.net:8080/LOGO.YENI/TR/EXXEN.SPORTS/1.FHD.png" group-title="EXXEN SPORT",TR: EXXEN SPORT 1 FHD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/143915.ts
+#EXTINF:-1 tvg-id="Exxen Sport" tvg-name="TR: EXXEN SPORT 1 HD" tvg-logo="http://dolby-zorextv.dynuddns.net:8080/LOGO.YENI/TR/EXXEN.SPORTS/1.FHD.png" group-title="EXXEN SPORT",TR: EXXEN SPORT 1 HD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/299760.ts
+#EXTINF:-1 tvg-id="Exxen Sport" tvg-name="TR: EXXEN SPORT 2 FHD" tvg-logo="http://dolby-zorextv.dynuddns.net:8080/LOGO.YENI/TR/EXXEN.SPORTS/2.FHD.png" group-title="EXXEN SPORT",TR: EXXEN SPORT 2 FHD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/114070.ts
+#EXTINF:-1 tvg-id="Exxen Sport" tvg-name="TR: EXXEN SPORT 2 HD" tvg-logo="" group-title="EXXEN SPORT",TR: EXXEN SPORT 2 HD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/299763.ts
+#EXTINF:-1 tvg-id="Exxen Sport" tvg-name="TR: EXXEN SPORT 3 FHD" tvg-logo="http://dolby-zorextv.dynuddns.net:8080/LOGO.YENI/TR/EXXEN.SPORTS/3.FHD.png" group-title="EXXEN SPORT",TR: EXXEN SPORT 3 FHD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/122853.ts
+#EXTINF:-1 tvg-id="Exxen Sport" tvg-name="TR: EXXEN SPORT 4 HD" tvg-logo="" group-title="EXXEN SPORT",TR: EXXEN SPORT 4 HD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/299769.ts
+#EXTINF:-1 tvg-id="Exxen Sport" tvg-name="TR: EXXEN SPORT 4 FHD" tvg-logo="http://dolby-zorextv.dynuddns.net:8080/LOGO.YENI/TR/EXXEN.SPORTS/4.FHD.png" group-title="EXXEN SPORT",TR: EXXEN SPORT 4 FHD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/133406.ts
+#EXTINF:-1 tvg-id="Exxen Sport" tvg-name="TR: EXXEN SPORT 5 FHD" tvg-logo="http://dolby-zorextv.dynuddns.net:8080/LOGO.YENI/TR/EXXEN.SPORTS/5.FHD.png" group-title="EXXEN SPORT",TR: EXXEN SPORT 5 FHD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/99140.ts
+#EXTINF:-1 tvg-id="Exxen Sport" tvg-name="TR: EXXEN SPORT 8 FHD" tvg-logo="http://dolby-zorextv.dynuddns.net:8080/LOGO.YENI/TR/EXXEN.SPORTS/8.FHD.png" group-title="EXXEN SPORT",TR: EXXEN SPORT 8 FHD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/58551.ts
+#EXTINF:-1 tvg-id="Exxen Sport" tvg-name="TR: EXXEN SPORT 7 HD" tvg-logo="" group-title="EXXEN SPORT",TR: EXXEN SPORT 7 HD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/299778.ts
+#EXTINF:-1 tvg-id="Exxen Sport" tvg-name="TR: EXXEN SPORT 7 FHD" tvg-logo="http://dolby-zorextv.dynuddns.net:8080/LOGO.YENI/TR/EXXEN.SPORTS/7.FHD.png" group-title="EXXEN SPORT",TR: EXXEN SPORT 7 FHD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/68647.ts
+#EXTINF:-1 tvg-id="Exxen Sport" tvg-name="TR: EXXEN SPORT 6 HD" tvg-logo="" group-title="EXXEN SPORT",TR: EXXEN SPORT 6 HD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/299775.ts
+#EXTINF:-1 tvg-id="Exxen Sport" tvg-name="TR: EXXEN SPORT 6 FHD" tvg-logo="http://dolby-zorextv.dynuddns.net:8080/LOGO.YENI/TR/EXXEN.SPORTS/6.FHD.png" group-title="EXXEN SPORT",TR: EXXEN SPORT 6 FHD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/116627.ts
+#EXTINF:-1 tvg-id="Exxen Sport" tvg-name="TR: EXXEN SPORT 5 HD" tvg-logo="" group-title="EXXEN SPORT",TR: EXXEN SPORT 5 HD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/299772.ts
+#EXTINF:-1 tvg-id="Exxen Sport" tvg-name="TR: EXXEN SPORT 8 HD" tvg-logo="" group-title="EXXEN SPORT",TR: EXXEN SPORT 8 HD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/299781.ts
+#EXTINF:-1 tvg-id="S Sport 2" tvg-name="TR: S-SPORT 1 FHD" tvg-logo="http://dolby-zorextv.dynuddns.net:8080/LOGO.YENI/TR/S.SPORT/S.SPORT.1.FHD.png" group-title="TR SPORT",TR: S-SPORT 1 FHD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/71749.ts
+#EXTINF:-1 tvg-id="S Sport 2" tvg-name="TR: S-SPORT 1 HD" tvg-logo="http://dolby-zorextv.dynuddns.net:8080/LOGO.YENI/TR/S.SPORT/S.SPORT.1.HD.png" group-title="TR SPORT",TR: S-SPORT 1 HD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/13736.ts
+#EXTINF:-1 tvg-id="S Sport 2" tvg-name="TR: S-SPORT 1 SD" tvg-logo="http://dolby-zorextv.dynuddns.net:8080/LOGO.YENI/TR/S.SPORT/S.SPORT.1.SD.png" group-title="TR SPORT",TR: S-SPORT 1 SD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/96209.ts
+#EXTINF:-1 tvg-id="S Sport 2" tvg-name="TR: S-SPORT 2 FHD" tvg-logo="http://dolby-zorextv.dynuddns.net:8080/LOGO.YENI/TR/S.SPORT/S.SPORT.2.FHD.png" group-title="TR SPORT",TR: S-SPORT 2 FHD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/197161.ts
+#EXTINF:-1 tvg-id="S Sport 2" tvg-name="TR: S-SPORT 2 HD" tvg-logo="http://dolby-zorextv.dynuddns.net:8080/LOGO.YENI/TR/S.SPORT/S.SPORT.2.FHD.png" group-title="TR SPORT",TR: S-SPORT 2 HD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/197162.ts
+#EXTINF:-1 tvg-id="S Sport 2" tvg-name="TR: S-SPORT 2 SD" tvg-logo="http://dolby-zorextv.dynuddns.net:8080/LOGO.YENI/TR/S.SPORT/S.SPORT.2.FHD.png" group-title="TR SPORT",TR: S-SPORT 2 SD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/197163.ts
+#EXTINF:-1 tvg-id="S Sport Plus" tvg-name="TR: S Sport Plus 1 FHD (Maç Saati Aktif)" tvg-logo="http://dolby-zorextv.dynuddns.net:8080/LOGO.YENI/TR/S.SPORT/PLUS.1.png" group-title="TR SPORT",TR: S Sport Plus 1 FHD (Maç Saati Aktif)
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/193970.ts
+#EXTINF:-1 tvg-id="S Sport Plus" tvg-name="TR: S Sport Plus 1 HD (Maç Saati Aktif)" tvg-logo="http://dolby-zorextv.dynuddns.net:8080/LOGO.YENI/TR/S.SPORT/PLUS.1.png" group-title="TR SPORT",TR: S Sport Plus 1 HD (Maç Saati Aktif)
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/140143.ts
+#EXTINF:-1 tvg-id="S Sport Plus" tvg-name="TR: S Sport Plus 1 SD (Maç Saati Aktif)" tvg-logo="http://dolby-zorextv.dynuddns.net:8080/LOGO.YENI/TR/S.SPORT/PLUS.1.png" group-title="TR SPORT",TR: S Sport Plus 1 SD (Maç Saati Aktif)
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/193972.ts
+#EXTINF:-1 tvg-id="S Sport Plus" tvg-name="TR: S Sport Plus 10 HD" tvg-logo="" group-title="TR SPORT",TR: S Sport Plus 10 HD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/199046.ts
+#EXTINF:-1 tvg-id="S Sport Plus" tvg-name="TR: S Sport Plus 11 HD" tvg-logo="" group-title="TR SPORT",TR: S Sport Plus 11 HD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/199047.ts
+#EXTINF:-1 tvg-id="S Sport Plus" tvg-name="TR: S Sport Plus 13 HD" tvg-logo="" group-title="TR SPORT",TR: S Sport Plus 13 HD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/199049.ts
+#EXTINF:-1 tvg-id="S Sport Plus" tvg-name="TR: S Sport Plus 14 HD" tvg-logo="" group-title="TR SPORT",TR: S Sport Plus 14 HD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/199050.ts
+#EXTINF:-1 tvg-id="S Sport Plus" tvg-name="TR: S Sport Plus 15 HD" tvg-logo="" group-title="TR SPORT",TR: S Sport Plus 15 HD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/199051.ts
+#EXTINF:-1 tvg-id="S Sport Plus" tvg-name="TR: S Sport Plus 16 HD" tvg-logo="" group-title="TR SPORT",TR: S Sport Plus 16 HD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/199052.ts
+#EXTINF:-1 tvg-id="S Sport Plus" tvg-name="TR: S Sport Plus 17 HD" tvg-logo="" group-title="TR SPORT",TR: S Sport Plus 17 HD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/199053.ts
+#EXTINF:-1 tvg-id="S Sport Plus" tvg-name="TR: S Sport Plus 18 HD" tvg-logo="" group-title="TR SPORT",TR: S Sport Plus 18 HD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/199054.ts
+#EXTINF:-1 tvg-id="S Sport Plus" tvg-name="TR: S Sport Plus 2 HD (Maç Saati Aktif)" tvg-logo="http://dolby-zorextv.dynuddns.net:8080/LOGO.YENI/TR/S.SPORT/PLUS.2.png" group-title="TR SPORT",TR: S Sport Plus 2 HD (Maç Saati Aktif)
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/197160.ts
+#EXTINF:-1 tvg-id="S Sport Plus" tvg-name="TR: S Sport Plus 3 HD (Maç Saati Aktif)" tvg-logo="http://dolby-zorextv.dynuddns.net:8080/LOGO.YENI/TR/S.SPORT/PLUS.3.png" group-title="TR SPORT",TR: S Sport Plus 3 HD (Maç Saati Aktif)
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/11332.ts
+#EXTINF:-1 tvg-id="S Sport Plus" tvg-name="TR: S Sport Plus 20 HD" tvg-logo="" group-title="TR SPORT",TR: S Sport Plus 20 HD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/199056.ts
+#EXTINF:-1 tvg-id="S Sport Plus" tvg-name="TR: S Sport Plus 9 HD (Maç Saati Aktif)" tvg-logo="" group-title="TR SPORT",TR: S Sport Plus 9 HD (Maç Saati Aktif)
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/199045.ts
+#EXTINF:-1 tvg-id="S Sport Plus" tvg-name="TR: S Sport Plus 8 HD (Maç Saati Aktif)" tvg-logo="" group-title="TR SPORT",TR: S Sport Plus 8 HD (Maç Saati Aktif)
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/199044.ts
+#EXTINF:-1 tvg-id="S Sport Plus" tvg-name="TR: S Sport Plus 7 HD (Maç Saati Aktif)" tvg-logo="http://dolby-zorextv.dynuddns.net:8080/LOGO.YENI/TR/S.SPORT/PLUS.7.png" group-title="TR SPORT",TR: S Sport Plus 7 HD (Maç Saati Aktif)
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/95505.ts
+#EXTINF:-1 tvg-id="S Sport Plus" tvg-name="TR: S Sport Plus 6 HD (Maç Saati Aktif)" tvg-logo="http://dolby-zorextv.dynuddns.net:8080/LOGO.YENI/TR/S.SPORT/PLUS.6.png" group-title="TR SPORT",TR: S Sport Plus 6 HD (Maç Saati Aktif)
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/139705.ts
+#EXTINF:-1 tvg-id="S Sport Plus" tvg-name="TR: S Sport Plus 4 HD (Maç Saati Aktif)" tvg-logo="http://dolby-zorextv.dynuddns.net:8080/LOGO.YENI/TR/S.SPORT/PLUS.4.png" group-title="TR SPORT",TR: S Sport Plus 4 HD (Maç Saati Aktif)
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/17471.ts
+#EXTINF:-1 tvg-id="S Sport Plus" tvg-name="TR: S Sport Plus 5 HD (Maç Saati Aktif)" tvg-logo="http://dolby-zorextv.dynuddns.net:8080/LOGO.YENI/TR/S.SPORT/PLUS.5.png" group-title="TR SPORT",TR: S Sport Plus 5 HD (Maç Saati Aktif)
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/154120.ts
+#EXTINF:-1 tvg-id="S Sport Plus" tvg-name="TR: S Sport Plus 19 HD" tvg-logo="" group-title="TR SPORT",TR: S Sport Plus 19 HD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/199055.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: COSMO SPORTS FHD" tvg-logo="http://dolby-zorextv.dynuddns.net:8080/LOGO.YENI/TR/SONRADAN/COSMOS.png" group-title="EUROSPORT",TR: COSMO SPORTS FHD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/173947.ts
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="TR: EUROSPORT 1 FHD" tvg-logo="http://dolby-zorextv.dynuddns.net:8080/LOGO.YENI/TR/TR.SPOR/EURO.SPORT.1.png" group-title="EUROSPORT",TR: EUROSPORT 1 FHD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/514799.ts
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="TR: EUROSPORT 1 HD" tvg-logo="http://dolby-zorextv.dynuddns.net:8080/LOGO.YENI/TR/TR.SPOR/EURO.SPORT.1.png" group-title="EUROSPORT",TR: EUROSPORT 1 HD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/514802.ts
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="TR: EUROSPORT 2 FHD" tvg-logo="http://dolby-zorextv.dynuddns.net:8080/LOGO.YENI/TR/TR.SPOR/EURO.SPORT.2.png" group-title="EUROSPORT",TR: EUROSPORT 2 FHD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/514805.ts
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="TR: EUROSPORT 2 HD" tvg-logo="http://dolby-zorextv.dynuddns.net:8080/LOGO.YENI/TR/TR.SPOR/EURO.SPORT.2.png" group-title="EUROSPORT",TR: EUROSPORT 2 HD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/514808.ts
+#EXTINF:-1 tvg-id="SPORTS TV" tvg-name="TR: SPORTS TV HD" tvg-logo="http://dolby-zorextv.dynuddns.net:8080/LOGO.YENI/TR/TR.SPOR/SPORTS.TV.png" group-title="EUROSPORT",TR: SPORTS TV HD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/80505.ts
+#EXTINF:-1 tvg-id="Ekol Sports" tvg-name="TR: EKOL SPORTS HD" tvg-logo="" group-title="EUROSPORT",TR: EKOL SPORTS HD
+http://eagleat.xyz:8080/live/hakan7920/5257920hkn/197063.ts
