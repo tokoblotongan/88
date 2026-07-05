@@ -6113,3 +6113,292 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=895874&exte
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=1280835&extension=ts&play_token=u6L09w4lFr
 #EXTINF:-1 tvg-id="" tvg-name="┃DE┃ ZWEI MUSIC TELEVISION FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MUSIK/ZWEI MUSIC TELEVISION.png" group-title="ZWEI",┃DE┃ ZWEI MUSIC TELEVISION FHD
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=1025304&extension=ts&play_token=evciweN4OK
+#EXTM3U
+#EXTINF:-1 tvg-id="arenasport1.rs" tvg-name="┃BA┃ ARENA SPORT 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png" group-title="ARENA SPORT",┃BA┃ ARENA SPORT 1 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=559146&extension=ts&play_token=mxUPgHqfVY
+#EXTINF:-1 tvg-id="arenasport2.rs" tvg-name="┃BA┃ ARENA SPORT 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png" group-title="ARENA SPORT",┃BA┃ ARENA SPORT 2 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=559147&extension=ts&play_token=XesvZvnKoB
+#EXTINF:-1 tvg-id="arenasport3.rs" tvg-name="┃BA┃ ARENA SPORT 3 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png" group-title="ARENA SPORT",┃BA┃ ARENA SPORT 3 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=559148&extension=ts&play_token=NH3qtJYMO7
+#EXTINF:-1 tvg-id="arenasport4.rs" tvg-name="┃BA┃ ARENA SPORT 4 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png" group-title="ARENA SPORT",┃BA┃ ARENA SPORT 4 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=559149&extension=ts&play_token=XqjqViZDpG
+#EXTINF:-1 tvg-id="arenasport5.rs" tvg-name="┃BA┃ ARENA SPORT 5 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png" group-title="ARENA SPORT",┃BA┃ ARENA SPORT 5 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=559150&extension=ts&play_token=FrbdvylAdH
+#EXTINF:-1 tvg-id="arenasport6.rs" tvg-name="┃BA┃ ARENA SPORT 6 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png" group-title="ARENA SPORT",┃BA┃ ARENA SPORT 6 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=559151&extension=ts&play_token=DZGC5MpLHo
+#EXTINF:-1 tvg-id="arenapremium1.rs" tvg-name="┃BA┃ ARENA SPORT PREMIUM 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png" group-title="ARENA SPORT",┃BA┃ ARENA SPORT PREMIUM 1 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=559143&extension=ts&play_token=0KtT255KNa
+#EXTINF:-1 tvg-id="arenapremium2.rs" tvg-name="┃BA┃ ARENA SPORT PREMIUM 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png" group-title="ARENA SPORT",┃BA┃ ARENA SPORT PREMIUM 2 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=559144&extension=ts&play_token=qw4VDgSBVV
+#EXTINF:-1 tvg-id="arenapremium3.rs" tvg-name="┃BA┃ ARENA SPORT PREMIUM 3 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png" group-title="ARENA SPORT",┃BA┃ ARENA SPORT PREMIUM 3 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=559145&extension=ts&play_token=LSQl1pszon
+#EXTINF:-1 tvg-id="arenaesport.si" tvg-name="┃HR┃ ARENA E SPORT 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png" group-title="ARENA SPORT",┃HR┃ ARENA E SPORT 4K
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=558969&extension=ts&play_token=tYxKiVcBnq
+#EXTINF:-1 tvg-id="arenafight.si" tvg-name="┃HR┃ ARENA FIGHT 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png" group-title="ARENA SPORT",┃HR┃ ARENA FIGHT 4K
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=558967&extension=ts&play_token=DoxeU5nY4p
+#EXTINF:-1 tvg-id="arenasport1.rs" tvg-name="┃HR┃ ARENA SPORT 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png" group-title="ARENA SPORT",┃HR┃ ARENA SPORT 1 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=1115&extension=ts&play_token=iDx5lukPs2
+#EXTINF:-1 tvg-id="arenasport10.rs" tvg-name="┃HR┃ ARENA SPORT 10 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png" group-title="ARENA SPORT",┃HR┃ ARENA SPORT 10 4K
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=558964&extension=ts&play_token=jQ3yxEndUr
+#EXTINF:-1 tvg-id="arenasport2.rs" tvg-name="┃HR┃ ARENA SPORT 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png" group-title="ARENA SPORT",┃HR┃ ARENA SPORT 2 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=1114&extension=ts&play_token=GiVgqWbKmM
+#EXTINF:-1 tvg-id="arenasport3.rs" tvg-name="┃HR┃ ARENA SPORT 3 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png" group-title="ARENA SPORT",┃HR┃ ARENA SPORT 3 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=1113&extension=ts&play_token=TA4HKaHqaI
+#EXTINF:-1 tvg-id="arenasport4.rs" tvg-name="┃HR┃ ARENA SPORT 4 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png" group-title="ARENA SPORT",┃HR┃ ARENA SPORT 4 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=1112&extension=ts&play_token=4iMRCeVBCo
+#EXTINF:-1 tvg-id="arenasport5.rs" tvg-name="┃HR┃ ARENA SPORT 5 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png" group-title="ARENA SPORT",┃HR┃ ARENA SPORT 5 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=1111&extension=ts&play_token=2DSfwE2I5K
+#EXTINF:-1 tvg-id="arenasport6.rs" tvg-name="┃HR┃ ARENA SPORT 6 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png" group-title="ARENA SPORT",┃HR┃ ARENA SPORT 6 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=1110&extension=ts&play_token=qxEGcenkgq
+#EXTINF:-1 tvg-id="arenasport7.rs" tvg-name="┃HR┃ ARENA SPORT 7 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png" group-title="ARENA SPORT",┃HR┃ ARENA SPORT 7 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=558961&extension=ts&play_token=NRZehzbEUU
+#EXTINF:-1 tvg-id="arenasport8.rs" tvg-name="┃HR┃ ARENA SPORT 8 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png" group-title="ARENA SPORT",┃HR┃ ARENA SPORT 8 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=558962&extension=ts&play_token=LrBPQHVNZc
+#EXTINF:-1 tvg-id="arenasport9.rs" tvg-name="┃HR┃ ARENA SPORT 9 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png" group-title="ARENA SPORT",┃HR┃ ARENA SPORT 9 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=558963&extension=ts&play_token=mx2Mw7Qe92
+#EXTINF:-1 tvg-id="skysportarena.it" tvg-name="┃IT┃ SKY SPORT ARENA FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKYSPORTARENA.png" group-title="ARENA SPORT",┃IT┃ SKY SPORT ARENA FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=177696&extension=ts&play_token=egvQvxGW5a
+#EXTINF:-1 tvg-id="skysportarena.it" tvg-name="┃IT┃ SKY SPORT ARENA HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKYSPORTARENA.png" group-title="ARENA SPORT",┃IT┃ SKY SPORT ARENA HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=177686&extension=ts&play_token=Jn0BMB64Ba
+#EXTINF:-1 tvg-id="skysportarena.it" tvg-name="┃IT┃ SKY SPORT ARENA HEVC" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKYSPORTARENA.png" group-title="ARENA SPORT",┃IT┃ SKY SPORT ARENA HEVC
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=1167171&extension=ts&play_token=t7Hsh5a0x3
+#EXTINF:-1 tvg-id="skysportarena.it" tvg-name="┃IT┃ SKY SPORT ARENA SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKYSPORTARENA.png" group-title="ARENA SPORT",┃IT┃ SKY SPORT ARENA SD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=1167334&extension=ts&play_token=HNtU0vd3MS
+#EXTINF:-1 tvg-id="arenasport1.rs" tvg-name="┃RS┃ ARENA SPORT 1 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png" group-title="ARENA SPORT",┃RS┃ ARENA SPORT 1 4K
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=1101&extension=ts&play_token=pqPzFoYKzd
+#EXTINF:-1 tvg-id="arenasport1.rs" tvg-name="┃RS┃ ARENA SPORT 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png" group-title="ARENA SPORT",┃RS┃ ARENA SPORT 1 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=1100&extension=ts&play_token=bJ960lDJ7r
+#EXTINF:-1 tvg-id="arenasport2.rs" tvg-name="┃RS┃ ARENA SPORT 2 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/arenasport2.png" group-title="ARENA SPORT",┃RS┃ ARENA SPORT 2 4K
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=1099&extension=ts&play_token=7vJQ2mm0pT
+#EXTINF:-1 tvg-id="arenasport2.rs" tvg-name="┃RS┃ ARENA SPORT 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/arenasport2.png" group-title="ARENA SPORT",┃RS┃ ARENA SPORT 2 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=1098&extension=ts&play_token=4AiQQRwixw
+#EXTINF:-1 tvg-id="arenasport3.rs" tvg-name="┃RS┃ ARENA SPORT 3 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png" group-title="ARENA SPORT",┃RS┃ ARENA SPORT 3 4K
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=1097&extension=ts&play_token=lmn1oYi7al
+#EXTINF:-1 tvg-id="arenasport3.rs" tvg-name="┃RS┃ ARENA SPORT 3 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png" group-title="ARENA SPORT",┃RS┃ ARENA SPORT 3 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=1096&extension=ts&play_token=CwOkUg2OcX
+#EXTINF:-1 tvg-id="arenasport4.rs" tvg-name="┃RS┃ ARENA SPORT 4 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/Arena_Sport_4.png" group-title="ARENA SPORT",┃RS┃ ARENA SPORT 4 4K
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=1095&extension=ts&play_token=zlUXTatUpP
+#EXTINF:-1 tvg-id="arenasport4.rs" tvg-name="┃RS┃ ARENA SPORT 4 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/Arena_Sport_4.png" group-title="ARENA SPORT",┃RS┃ ARENA SPORT 4 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=1094&extension=ts&play_token=teN4uTOIeV
+#EXTINF:-1 tvg-id="arenasport5.rs" tvg-name="┃RS┃ ARENA SPORT 5" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/Arena_Sport_5.png" group-title="ARENA SPORT",┃RS┃ ARENA SPORT 5
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=559024&extension=ts&play_token=4nhqJxxvmD
+#EXTINF:-1 tvg-id="arenasport5.rs" tvg-name="┃RS┃ ARENA SPORT 5 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/Arena_Sport_5.png" group-title="ARENA SPORT",┃RS┃ ARENA SPORT 5 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=1093&extension=ts&play_token=Mn5PGOf26l
+#EXTINF:-1 tvg-id="arenapremium1.rs" tvg-name="┃RS┃ ARENA SPORT PREMIUM 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/ARENA-SPORT-PREMIUM-1.png" group-title="ARENA SPORT",┃RS┃ ARENA SPORT PREMIUM 1 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=559016&extension=ts&play_token=FW5O6sfoiI
+#EXTINF:-1 tvg-id="arenapremium2.rs" tvg-name="┃RS┃ ARENA SPORT PREMIUM 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/ARENA-SPORT-PREMIUM-1.png" group-title="ARENA SPORT",┃RS┃ ARENA SPORT PREMIUM 2 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=559017&extension=ts&play_token=IEFC8aHtpc
+#EXTINF:-1 tvg-id="arenapremium3.rs" tvg-name="┃RS┃ ARENA SPORT PREMIUM 3 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/arenasport3.png" group-title="ARENA SPORT",┃RS┃ ARENA SPORT PREMIUM 3 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=559018&extension=ts&play_token=BZcAO3unei
+#EXTINF:-1 tvg-id="arenapremium1.rs" tvg-name="┃RS┃ ARENA SPORT PREMIUM 4 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/ARENA-SPORT-PREMIUM-1.png" group-title="ARENA SPORT",┃RS┃ ARENA SPORT PREMIUM 4 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=559019&extension=ts&play_token=FExiBxjv88
+#EXTINF:-1 tvg-id="arenapremium2.rs" tvg-name="┃RS┃ ARENA SPORT PREMIUM 5 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/ARENA-SPORT-PREMIUM-1.png" group-title="ARENA SPORT",┃RS┃ ARENA SPORT PREMIUM 5 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=559020&extension=ts&play_token=zVdjsNdKZi
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ ART SPORT 4 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/SPORT/ART SPORT 4.png" group-title="ART SPORT",┃AL┃ ART SPORT 4 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=214769&extension=ts&play_token=gS0CUcuXhB
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ ART SPORT 5 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/SPORT/ART SPORT 5.png" group-title="ART SPORT",┃AL┃ ART SPORT 5 FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=1652480&extension=ts&play_token=KG9bm9Hn76
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ ART SPORT 5 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/SPORT/ART SPORT 5.png" group-title="ART SPORT",┃AL┃ ART SPORT 5 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=214770&extension=ts&play_token=zgeOzuxsk2
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ ART SPORT 6 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/SPORT/ART SPORT 6.png" group-title="ART SPORT",┃AL┃ ART SPORT 6 FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=1652481&extension=ts&play_token=aPZfRCB0VH
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ ART SPORT 6 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/SPORT/ART SPORT 6.png" group-title="ART SPORT",┃AL┃ ART SPORT 6 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=214771&extension=ts&play_token=3dac4CrNBA
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ ART SPORT 1 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/SPORT/ART SPORT 1.png" group-title="ART SPORT",┃AL┃ ART SPORT 1 FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=1652476&extension=ts&play_token=36vuwwTtSl
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ ART SPORT 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/SPORT/ART SPORT 1.png" group-title="ART SPORT",┃AL┃ ART SPORT 1 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=336&extension=ts&play_token=6nnDOtpitB
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ ART SPORT 2 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/SPORT/ART SPORT 2.png" group-title="ART SPORT",┃AL┃ ART SPORT 2 FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=1652477&extension=ts&play_token=dk8D0B87RD
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ ART SPORT 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/SPORT/ART SPORT 2.png" group-title="ART SPORT",┃AL┃ ART SPORT 2 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=337&extension=ts&play_token=cJHkQqXHGu
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ ART SPORT 3 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/SPORT/ART SPORT 3.png" group-title="ART SPORT",┃AL┃ ART SPORT 3 FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=1652478&extension=ts&play_token=hAVOVR0Mr9
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ ART SPORT 3 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/SPORT/ART SPORT 3.png" group-title="ART SPORT",┃AL┃ ART SPORT 3 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=338&extension=ts&play_token=g3B9iMi2KC
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ ART SPORT 4 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/SPORT/ART SPORT 4.png" group-title="ART SPORT",┃AL┃ ART SPORT 4 FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=1652479&extension=ts&play_token=E1mnNVZdiH
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ SUPER SPORT 1 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/SUPERSPORT.png" group-title="SUPERSPORT",┃AL┃ SUPER SPORT 1 FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=299&extension=ts&play_token=YCroROn71K
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ SUPER SPORT 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/SUPERSPORT.png" group-title="SUPERSPORT",┃AL┃ SUPER SPORT 1 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=212476&extension=ts&play_token=yMqk6uoqW8
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ SUPER SPORT 1 HEVC" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/SUPERSPORT.png" group-title="SUPERSPORT",┃AL┃ SUPER SPORT 1 HEVC
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=285&extension=ts&play_token=irWgyjTb2y
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ SUPER SPORT 2 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/SUPERSPORT.png" group-title="SUPERSPORT",┃AL┃ SUPER SPORT 2 FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=300&extension=ts&play_token=d6gKbAQlC4
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ SUPER SPORT 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/SUPERSPORT.png" group-title="SUPERSPORT",┃AL┃ SUPER SPORT 2 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=212477&extension=ts&play_token=wU1hIfZ5SO
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ SUPER SPORT 2 HEVC" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/SUPERSPORT.png" group-title="SUPERSPORT",┃AL┃ SUPER SPORT 2 HEVC
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=286&extension=ts&play_token=BJeMwrNvy7
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ SUPER SPORT 3 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/SUPERSPORT.png" group-title="SUPERSPORT",┃AL┃ SUPER SPORT 3 FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=301&extension=ts&play_token=E0TcU6gIQF
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ SUPER SPORT 3 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/SUPERSPORT.png" group-title="SUPERSPORT",┃AL┃ SUPER SPORT 3 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=212478&extension=ts&play_token=YpSMLDNIz4
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ SUPER SPORT 3 HEVC" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/SUPERSPORT.png" group-title="SUPERSPORT",┃AL┃ SUPER SPORT 3 HEVC
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=287&extension=ts&play_token=fNOg4XNhbn
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ SUPER SPORT 4 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/SUPERSPORT.png" group-title="SUPERSPORT",┃AL┃ SUPER SPORT 4 FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=302&extension=ts&play_token=VfApVdZ6Yt
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ SUPER SPORT 4 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/SUPERSPORT.png" group-title="SUPERSPORT",┃AL┃ SUPER SPORT 4 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=212479&extension=ts&play_token=qDbLYOBs0u
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ SUPER SPORT 4 HEVC" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/SUPERSPORT.png" group-title="SUPERSPORT",┃AL┃ SUPER SPORT 4 HEVC
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=288&extension=ts&play_token=rVmljRwaPW
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ SUPER SPORT 5 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/SUPERSPORT.png" group-title="SUPERSPORT",┃AL┃ SUPER SPORT 5 FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=303&extension=ts&play_token=fV5vx6oHvS
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ SUPER SPORT 5 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/SUPERSPORT.png" group-title="SUPERSPORT",┃AL┃ SUPER SPORT 5 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=212480&extension=ts&play_token=V4otHdhwJd
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ SUPER SPORT 5 HEVC" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/SUPERSPORT.png" group-title="SUPERSPORT",┃AL┃ SUPER SPORT 5 HEVC
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=289&extension=ts&play_token=u1ADhy7lGZ
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ SUPER SPORT 6 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/SUPERSPORT.png" group-title="SUPERSPORT",┃AL┃ SUPER SPORT 6 FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=304&extension=ts&play_token=lJV6JkVzXu
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ SUPER SPORT 6 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/SUPERSPORT.png" group-title="SUPERSPORT",┃AL┃ SUPER SPORT 6 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=212481&extension=ts&play_token=Y2uC3jaE6u
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ SUPER SPORT 6 HEVC" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/SUPERSPORT.png" group-title="SUPERSPORT",┃AL┃ SUPER SPORT 6 HEVC
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=290&extension=ts&play_token=ApinEvsTGM
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ SUPER SPORT 7 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/SUPERSPORT.png" group-title="SUPERSPORT",┃AL┃ SUPER SPORT 7 FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=305&extension=ts&play_token=cg8rXZcpsy
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ SUPER SPORT 7 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/SUPERSPORT.png" group-title="SUPERSPORT",┃AL┃ SUPER SPORT 7 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=212482&extension=ts&play_token=YUHq0WGcSe
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ SUPER SPORT 7 HEVC" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/SUPERSPORT.png" group-title="SUPERSPORT",┃AL┃ SUPER SPORT 7 HEVC
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=291&extension=ts&play_token=Y4oQ5UcgS8
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ PLAY SUPER 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD PLAY SUPER/PLAY SUPER.png" group-title="PLAY SUPER",┃FR┃ PLAY SUPER 1 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=942061&extension=ts&play_token=DvI8ynKFyE
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ PLAY SUPER 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD PLAY SUPER/PLAY SUPER.png" group-title="PLAY SUPER",┃FR┃ PLAY SUPER 2 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=942060&extension=ts&play_token=ONLco6LWHm
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ PLAY SUPER 3 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD PLAY SUPER/PLAY SUPER.png" group-title="PLAY SUPER",┃FR┃ PLAY SUPER 3 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=942059&extension=ts&play_token=H57Afh5Yvc
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ PLAY SUPER 4 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD PLAY SUPER/PLAY SUPER.png" group-title="PLAY SUPER",┃FR┃ PLAY SUPER 4 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=942058&extension=ts&play_token=YHB5ugkuY0
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ PLAY SUPER 5 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD PLAY SUPER/PLAY SUPER.png" group-title="PLAY SUPER",┃FR┃ PLAY SUPER 5 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=942057&extension=ts&play_token=S0LVu0stlY
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ PLAY SUPER 6 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD PLAY SUPER/PLAY SUPER.png" group-title="PLAY SUPER",┃FR┃ PLAY SUPER 6 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=942056&extension=ts&play_token=66ehTu34vd
+#EXTINF:-1 tvg-id="" tvg-name="┃FR┃ PLAY SUPER INFO HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD PLAY SUPER/PLAY SUPER.png" group-title="PLAY SUPER",┃FR┃ PLAY SUPER INFO HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=942062&extension=ts&play_token=jBQGJivhfJ
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ E 2XL HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/E 2XL HD.png" group-title="E TV",┃AL┃ E 2XL HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=189300&extension=ts&play_token=6rC5ZnbKhz
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ E CA KA SHPIJA HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/CAKASHPIJA.png" group-title="E TV",┃AL┃ E CA KA SHPIJA HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=189298&extension=ts&play_token=lxCimPPD1R
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ E CIFTELI HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/MUSIC/E CIFTELI HD.png" group-title="E TV",┃AL┃ E CIFTELI HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=189294&extension=ts&play_token=wLr9kanaCo
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ E ACTION HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX3/ALCINE.png" group-title="E TV",┃AL┃ E ACTION HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=189279&extension=ts&play_token=iQZ6X4uy5v
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ E FILMA24 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX3/ALCINE.png" group-title="E TV",┃AL┃ E FILMA24 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=189274&extension=ts&play_token=Jmats7lpJ2
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ E PREMIERE 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BRASIL/premiere.png" group-title="E TV",┃AL┃ E PREMIERE 1 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=189275&extension=ts&play_token=xGQavNgond
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ E SHKENCA HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/E SHKENCA HD.png" group-title="E TV",┃AL┃ E SHKENCA HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=189288&extension=ts&play_token=AGCTQcTq2E
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ E STUPCAT HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/STUPCAT.png" group-title="E TV",┃AL┃ E STUPCAT HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=189296&extension=ts&play_token=qDZsMZ47aP
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ E WESTERN HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX3/ALCINE.png" group-title="E TV",┃AL┃ E WESTERN HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=189286&extension=ts&play_token=qoqg1pswt4
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ E THRILLER HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX3/ALCINE.png" group-title="E TV",┃AL┃ E THRILLER HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=189280&extension=ts&play_token=ZgugmqVVpo
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ E SCI-FI HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX3/ALCINE.png" group-title="E TV",┃AL┃ E SCI-FI HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=189281&extension=ts&play_token=MDgRROuQlX
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ E ROMANCE HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX3/ALCINE.png" group-title="E TV",┃AL┃ E ROMANCE HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=189283&extension=ts&play_token=TiUWY3c0Pf
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ E PREMIERE 4 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BRASIL/premiere.png" group-title="E TV",┃AL┃ E PREMIERE 4 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=189278&extension=ts&play_token=rsmj160o6r
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ E PREMIERE 3 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BRASIL/premiere.png" group-title="E TV",┃AL┃ E PREMIERE 3 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=189277&extension=ts&play_token=2Wjw1ZhUFx
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ E PREMIERE 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/BRASIL/premiere.png" group-title="E TV",┃AL┃ E PREMIERE 2 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=189276&extension=ts&play_token=BSpI1IbBLJ
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ TRING ACTION FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/TRING.png" group-title="TRING TV",┃AL┃ TRING ACTION FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=106&extension=ts&play_token=6vf3JhxHSW
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ TRING ACTION HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/TRING.png" group-title="TRING TV",┃AL┃ TRING ACTION HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=212453&extension=ts&play_token=muHmYag0hp
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ TRING COLLECTION FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/TRING.png" group-title="TRING TV",┃AL┃ TRING COLLECTION FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=212462&extension=ts&play_token=cY8DdJyqML
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ TRING COLLECTION HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/TRING.png" group-title="TRING TV",┃AL┃ TRING COLLECTION HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=212463&extension=ts&play_token=BZBWKYHCtq
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ TRING FANTASY FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/TRING.png" group-title="TRING TV",┃AL┃ TRING FANTASY FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=109&extension=ts&play_token=ePMGCwGcSY
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ TRING NOVELAS FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/TRING.png" group-title="TRING TV",┃AL┃ TRING NOVELAS FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=15345&extension=ts&play_token=baB5TZWP4O
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ TRING NOVELAS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/TRING.png" group-title="TRING TV",┃AL┃ TRING NOVELAS HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=212457&extension=ts&play_token=t7ze6vaSCu
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ TRING ORIGINAL HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/TRING.png" group-title="TRING TV",┃AL┃ TRING ORIGINAL HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=384916&extension=ts&play_token=xq6QSU8TQX
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ TRING PLANET" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/TRING.png" group-title="TRING TV",┃AL┃ TRING PLANET
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=224&extension=ts&play_token=Lrec09XpZM
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ TRING SHQIP FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/TRING.png" group-title="TRING TV",┃AL┃ TRING SHQIP FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=112&extension=ts&play_token=KSd2BpUgC0
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ TRING SHQIP HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/TRING.png" group-title="TRING TV",┃AL┃ TRING SHQIP HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=212460&extension=ts&play_token=oceBOFVMDT
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ TRING SOFIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/TRING.png" group-title="TRING TV",┃AL┃ TRING SOFIA
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=199&extension=ts&play_token=80RXCMwlHz
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ TRING 3+ FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/TRING.png" group-title="TRING TV",┃AL┃ TRING 3+ FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=53&extension=ts&play_token=cWYRUwDh6M
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ TRING 3+ HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/TRING.png" group-title="TRING TV",┃AL┃ TRING 3+ HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=54&extension=ts&play_token=3nLYJTMJZI
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ TOP-ONE MIX HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/┃AL┃ OD CINEMA/TOP ONE MIX.png" group-title="TOP ONE",┃AL┃ TOP-ONE MIX HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=1653081&extension=ts&play_token=0wBag0cNqQ
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ TOP-ONE HORROR HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/┃AL┃ OD CINEMA/TOP ONE HORROR.png" group-title="TOP ONE",┃AL┃ TOP-ONE HORROR HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=1653078&extension=ts&play_token=eVlvrPD3ea
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ TOP-ONE FANTAZI HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/┃AL┃ OD CINEMA/TOP-ONE FANTAZI.png" group-title="TOP ONE",┃AL┃ TOP-ONE FANTAZI HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=1653082&extension=ts&play_token=VJb75UocO0
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ TOP-ONE AVENTURE HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/┃AL┃ OD CINEMA/TOP ONE AVENTURE.png" group-title="TOP ONE",┃AL┃ TOP-ONE AVENTURE HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=1653079&extension=ts&play_token=MlWokDRLap
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ TOP-ONE AKSION HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/┃AL┃ OD CINEMA/TOP ONE AKSION.png" group-title="TOP ONE",┃AL┃ TOP-ONE AKSION HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=1653076&extension=ts&play_token=hgKjtrhiGL
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ TELE ONE AKSION HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/┃AL┃ OD CINEMA/TELE ONE AKSION.png" group-title="TOP ONE",┃AL┃ TELE ONE AKSION HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=1653067&extension=ts&play_token=ssrC8cMBLj
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ TELE ONE CRIME HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/┃AL┃ OD CINEMA/TELE ONE CRIME.png" group-title="TOP ONE",┃AL┃ TELE ONE CRIME HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=1653066&extension=ts&play_token=jaKKzVRh59
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ TELE ONE EPIK HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/┃AL┃ OD CINEMA/TELE ONE EPIK.png" group-title="TOP ONE",┃AL┃ TELE ONE EPIK HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=1653064&extension=ts&play_token=eW7soJices
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ TELE ONE FANTAZI HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/┃AL┃ OD CINEMA/TELE ONE FANTAZI.png" group-title="TOP ONE",┃AL┃ TELE ONE FANTAZI HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=1653063&extension=ts&play_token=WU9JzJBjwq
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ TELE ONE GOLD COLLECTION HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/┃AL┃ OD CINEMA/TELE ONE GOLD COLLECTION.png" group-title="TOP ONE",┃AL┃ TELE ONE GOLD COLLECTION HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=1653062&extension=ts&play_token=wsChtYoY5t
+#EXTINF:-1 tvg-id="" tvg-name="┃MK┃ NASA TV (NASHA TV)" tvg-logo="http://picon.tivi-ott.net:25461/picon/MACEDONIA/640px-NASA_TV.svg.png" group-title="T FILM",┃MK┃ NASA TV (NASHA TV)
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=911&extension=ts&play_token=cLARjelZ2w
+#EXTINF:-1 tvg-id="nasachannel.us" tvg-name="┃USA┃ NASA HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/docu/nasa.png" group-title="T FILM",┃USA┃ NASA HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=858798&extension=ts&play_token=QXoGl7ozrs
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ CINEMA 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/┃AL┃ OD CINEMA/CINEMA 1.png" group-title="T FILM",┃AL┃ CINEMA 1 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=1653068&extension=ts&play_token=JbWQk5QcJB
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ CINEMA 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/┃AL┃ OD CINEMA/CINEMA 2.png" group-title="T FILM",┃AL┃ CINEMA 2 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=1653069&extension=ts&play_token=TjQY1vSDLu
+#EXTINF:-1 tvg-id="tvdukagjini.al" tvg-name="┃AL┃ DUKAGJINI HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/Dukagjini_RTV_Logo.png" group-title="T FILM",┃AL┃ DUKAGJINI HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=20&extension=ts&play_token=5FZnfkrnWS
+#EXTINF:-1 tvg-id="tvdukagjini.al" tvg-name="┃AL┃ DUKAGJINI FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/Dukagjini_RTV_Logo.png" group-title="T FILM",┃AL┃ DUKAGJINI FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=18&extension=ts&play_token=6I7ZsWDOY5
+#EXTINF:-1 tvg-id="filmaksion.al" tvg-name="┃AL┃ FILM AKSION FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/Film_Aksion_AL_logo%20(1).png" group-title="T FILM",┃AL┃ FILM AKSION FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=92&extension=ts&play_token=Ou34xy8Az6
+#EXTINF:-1 tvg-id="filmaksion.al" tvg-name="┃AL┃ FILM AKSION HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/Film_Aksion_AL_logo%20(1).png" group-title="T FILM",┃AL┃ FILM AKSION HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=212428&extension=ts&play_token=dX4n0uHRsC
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ FILM MAX FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX3/ALFILMMAX.png" group-title="T FILM",┃AL┃ FILM MAX FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=90&extension=ts&play_token=GRXD3Ca3uL
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ FILM MAX HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX3/ALFILMMAX.png" group-title="T FILM",┃AL┃ FILM MAX HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=212426&extension=ts&play_token=LqO1wEVsB7
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ FILM T FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ALFILMTV.png" group-title="T FILM",┃AL┃ FILM T FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=99&extension=ts&play_token=WQseV2s404
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ FILM T HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ALFILMTV.png" group-title="T FILM",┃AL┃ FILM T HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=212451&extension=ts&play_token=Q5YZEFDVPO
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ FILM STINET FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/Stinet_AL_logo.png" group-title="T FILM",┃AL┃ FILM STINET FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=98&extension=ts&play_token=NznV6h32d1
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ FILM STINET HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/Stinet_AL_logo.png" group-title="T FILM",┃AL┃ FILM STINET HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=212450&extension=ts&play_token=6njnEF1TWm
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ FILMBOX ARTHOUSE" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/FILMBOXHD.png" group-title="T FILM",┃AL┃ FILMBOX ARTHOUSE
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=130&extension=ts&play_token=28vnNOmKM4
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ FILMBOX PREMIUM HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/FILMBOXHD.png" group-title="T FILM",┃AL┃ FILMBOX PREMIUM HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=129&extension=ts&play_token=Bfel6dcNF1
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ FILMBOX PLUS" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/FILMBOXHD.png" group-title="T FILM",┃AL┃ FILMBOX PLUS
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=132&extension=ts&play_token=pFXrCiFi87
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ FILMBOX EXTRA HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/FILMBOXHD.png" group-title="T FILM",┃AL┃ FILMBOX EXTRA HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=131&extension=ts&play_token=odesFGvgDg
+#EXTINF:-1 tvg-id="filmthriller.al" tvg-name="┃AL┃ FILM THRILLER HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/Film_Thriller_AL_logo.png" group-title="T FILM",┃AL┃ FILM THRILLER HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=212431&extension=ts&play_token=Ykg6zmAw7m
+#EXTINF:-1 tvg-id="filmthriller.al" tvg-name="┃AL┃ FILM THRILLER FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/Film_Thriller_AL_logo.png" group-title="T FILM",┃AL┃ FILM THRILLER FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=93&extension=ts&play_token=IRkYNDby7U
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ FIRST CHANNEL FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/FIRSTCHANNEL.png" group-title="T FILM",┃AL┃ FIRST CHANNEL FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=34&extension=ts&play_token=Wc4g0dntdS
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ FIRST CHANNEL HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/FIRSTCHANNEL.png" group-title="T FILM",┃AL┃ FIRST CHANNEL HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=35&extension=ts&play_token=Jb8XnqdFml
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ T PRIME 1 HD" tvg-logo="" group-title="T FILM",┃AL┃ T PRIME 1 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=1652933&extension=ts&play_token=gErr1ORIcg
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ T PRIME 2 HD" tvg-logo="" group-title="T FILM",┃AL┃ T PRIME 2 HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=1652932&extension=ts&play_token=eKQLq4UBYm
+#EXTINF:-1 tvg-id="" tvg-name="┃AL┃ T THRILLER HD" tvg-logo="" group-title="T FILM",┃AL┃ T THRILLER HD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=1652930&extension=ts&play_token=DxIRnFkDkL
