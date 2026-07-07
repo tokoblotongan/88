@@ -6402,3 +6402,308 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=1652933&ext
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=1652932&extension=ts&play_token=eKQLq4UBYm
 #EXTINF:-1 tvg-id="" tvg-name="┃AL┃ T THRILLER HD" tvg-logo="" group-title="T FILM",┃AL┃ T THRILLER HD
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:1A:6B:0E&stream=1652930&extension=ts&play_token=DxIRnFkDkL
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="US: SPECTRUM XCAST ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13790.png?ver=32687" group-title="SPECTRUM TV",US: SPECTRUM XCAST ᴴᴰ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=926264&extension=ts&play_token=K34fiMbaMW
+#EXTINF:-1 tvg-id="" tvg-name="US: SPECTRUM XCAST 3 ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13790.png?ver=32687" group-title="SPECTRUM TV",US: SPECTRUM XCAST 3 ᴴᴰ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=926262&extension=ts&play_token=0fZ7HYHJkA
+#EXTINF:-1 tvg-id="" tvg-name="US: SPECTRUM XCAST 2 ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13790.png?ver=32687" group-title="SPECTRUM TV",US: SPECTRUM XCAST 2 ᴴᴰ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=926263&extension=ts&play_token=1y9YzThoT2
+#EXTINF:-1 tvg-id="SpectrumSportsNetLA.us" tvg-name="US: SPECTRUM SPORTSNET [LA DODGERS]" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10072.jpg?7470" group-title="SPECTRUM TV",US: SPECTRUM SPORTSNET [LA DODGERS]
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=437220&extension=ts&play_token=0s3b2N65WS
+#EXTINF:-1 tvg-id="" tvg-name="US: SPECTRUM SPORTS 2 ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13790.png?ver=32687" group-title="SPECTRUM TV",US: SPECTRUM SPORTS 2 ᴴᴰ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=926256&extension=ts&play_token=DBwOs1UXdJ
+#EXTINF:-1 tvg-id="" tvg-name="US: SPECTRUM SPORTS 1 ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13790.png?ver=32687" group-title="SPECTRUM TV",US: SPECTRUM SPORTS 1 ᴴᴰ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=926257&extension=ts&play_token=geWDVNoy1e
+#EXTINF:-1 tvg-id="" tvg-name="US: SPECTRUM OC16 ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13790.png?ver=32687" group-title="SPECTRUM TV",US: SPECTRUM OC16 ᴴᴰ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=926254&extension=ts&play_token=MyZW99xg1V
+#EXTINF:-1 tvg-id="" tvg-name="US: SPECTRUM NEWS SAN ANTONIO ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13790.png?ver=32687" group-title="SPECTRUM TV",US: SPECTRUM NEWS SAN ANTONIO ᴴᴰ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=926251&extension=ts&play_token=cdE8n80Wo7
+#EXTINF:-1 tvg-id="" tvg-name="US: SPECTRUM NEWS NY1 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/120/3840.jpg?14981" group-title="SPECTRUM TV",US: SPECTRUM NEWS NY1 HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=610835&extension=ts&play_token=U3tdbfgyVC
+#EXTINF:-1 tvg-id="" tvg-name="US: SPECTRUM NEWS MO ST LOUIS- IP ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13790.png?ver=32687" group-title="SPECTRUM TV",US: SPECTRUM NEWS MO ST LOUIS- IP ᴴᴰ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=926249&extension=ts&play_token=PwkgSt4CO1
+#EXTINF:-1 tvg-id="" tvg-name="## SPECTRUM NETWORK ᴿᴬᵂ ⁶⁰ᶠᵖˢ ##" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Animated-Flag-USA.gif" group-title="SPECTRUM TV",## SPECTRUM NETWORK ᴿᴬᵂ ⁶⁰ᶠᵖˢ ##
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=926266&extension=ts&play_token=5369eZZkD7
+#EXTINF:-1 tvg-id="" tvg-name="US: SPECTRUM NEWS NY1 ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13790.png?ver=32687" group-title="SPECTRUM TV",US: SPECTRUM NEWS NY1 ᴴᴰ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=926250&extension=ts&play_token=gum0B6Abps
+#EXTINF:-1 tvg-id="" tvg-name="US: SPECTRUM NEWS AUSTIN ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13790.png?ver=32687" group-title="SPECTRUM TV",US: SPECTRUM NEWS AUSTIN ᴴᴰ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=926247&extension=ts&play_token=MCd8Ul1UXS
+#EXTINF:-1 tvg-id="" tvg-name="US: SPECTRUM NEWS 13 ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13790.png?ver=32687" group-title="SPECTRUM TV",US: SPECTRUM NEWS 13 ᴴᴰ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=926246&extension=ts&play_token=LWeIwNYgOx
+#EXTINF:-1 tvg-id="" tvg-name="US: SPECTRUM NEWS 1 ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13790.png?ver=32687" group-title="SPECTRUM TV",US: SPECTRUM NEWS 1 ᴴᴰ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=926234&extension=ts&play_token=AMMGaP5CgP
+#EXTINF:-1 tvg-id="" tvg-name="US: SPECTRUM NEWS 1 WORCESTER ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13790.png?ver=32687" group-title="SPECTRUM TV",US: SPECTRUM NEWS 1 WORCESTER ᴴᴰ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=926245&extension=ts&play_token=mQ1i9uKSdA
+#EXTINF:-1 tvg-id="" tvg-name="US: SPECTRUM NEWS 1 SPRINGFIELD ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13790.png?ver=32687" group-title="SPECTRUM TV",US: SPECTRUM NEWS 1 SPRINGFIELD ᴴᴰ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=926244&extension=ts&play_token=ETAcMUOPWh
+#EXTINF:-1 tvg-id="" tvg-name="US: SPECTRUM NEWS 1 SOUTHERN TIER ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13790.png?ver=32687" group-title="SPECTRUM TV",US: SPECTRUM NEWS 1 SOUTHERN TIER ᴴᴰ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=926243&extension=ts&play_token=3a4rYoyEUb
+#EXTINF:-1 tvg-id="" tvg-name="US: SPECTRUM NEWS 1 ROTX ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13790.png?ver=32687" group-title="SPECTRUM TV",US: SPECTRUM NEWS 1 ROTX ᴴᴰ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=926242&extension=ts&play_token=wxoehiExUo
+#EXTINF:-1 tvg-id="" tvg-name="US: SPECTRUM NEWS 1 ROCHESTER ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13790.png?ver=32687" group-title="SPECTRUM TV",US: SPECTRUM NEWS 1 ROCHESTER ᴴᴰ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=926241&extension=ts&play_token=YhWKtcATr9
+#EXTINF:-1 tvg-id="" tvg-name="US: SPECTRUM NEWS 1 RALEIGH ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13790.png?ver=32687" group-title="SPECTRUM TV",US: SPECTRUM NEWS 1 RALEIGH ᴴᴰ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=926240&extension=ts&play_token=vVjKqzEOcP
+#EXTINF:-1 tvg-id="" tvg-name="US: SPECTRUM NEWS 1 PITTSFIELD ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13790.png?ver=32687" group-title="SPECTRUM TV",US: SPECTRUM NEWS 1 PITTSFIELD ᴴᴰ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=926239&extension=ts&play_token=wxvlxqnCrI
+#EXTINF:-1 tvg-id="" tvg-name="US: SPECTRUM NEWS 1 OHIO ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13790.png?ver=32687" group-title="SPECTRUM TV",US: SPECTRUM NEWS 1 OHIO ᴴᴰ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=926238&extension=ts&play_token=SqEU3184vy
+#EXTINF:-1 tvg-id="" tvg-name="US: SPECTRUM NEWS 1 KENTUCKY ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13790.png?ver=32687" group-title="SPECTRUM TV",US: SPECTRUM NEWS 1 KENTUCKY ᴴᴰ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=926237&extension=ts&play_token=YtfmWHyv9h
+#EXTINF:-1 tvg-id="" tvg-name="US: SPECTRUM NEWS 1 KANSAS CITY ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13790.png?ver=32687" group-title="SPECTRUM TV",US: SPECTRUM NEWS 1 KANSAS CITY ᴴᴰ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=926236&extension=ts&play_token=lBofGzw4f8
+#EXTINF:-1 tvg-id="" tvg-name="US: SPECTRUM NEWS 1 HUDSON VALLEY ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13790.png?ver=32687" group-title="SPECTRUM TV",US: SPECTRUM NEWS 1 HUDSON VALLEY ᴴᴰ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=926235&extension=ts&play_token=EVO8WUZINU
+#EXTINF:-1 tvg-id="SpectrumNews13.us" tvg-name="US: SPECTRUM NEWS 1 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3840.jpg?93054" group-title="SPECTRUM TV",US: SPECTRUM NEWS 1 HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=324962&extension=ts&play_token=rSLuuW3UWA
+#EXTINF:-1 tvg-id="" tvg-name="US: SPECTRUM NEWS 1 GREENSBORO ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13790.png?ver=32687" group-title="SPECTRUM TV",US: SPECTRUM NEWS 1 GREENSBORO ᴴᴰ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=926233&extension=ts&play_token=3TQru9jQGY
+#EXTINF:-1 tvg-id="" tvg-name="US: SPECTRUM NEWS 1 DALLAS ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13790.png?ver=32687" group-title="SPECTRUM TV",US: SPECTRUM NEWS 1 DALLAS ᴴᴰ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=926231&extension=ts&play_token=JitQpt7mxg
+#EXTINF:-1 tvg-id="" tvg-name="US: SPECTRUM NEWS 1 CHARLOTTE ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13790.png?ver=32687" group-title="SPECTRUM TV",US: SPECTRUM NEWS 1 CHARLOTTE ᴴᴰ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=926230&extension=ts&play_token=cKJB0jXwEA
+#EXTINF:-1 tvg-id="" tvg-name="US: SPECTRUM NEWS 1 CENTRAL NY ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13790.png?ver=32687" group-title="SPECTRUM TV",US: SPECTRUM NEWS 1 CENTRAL NY ᴴᴰ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=926229&extension=ts&play_token=ptV1Q63HLj
+#EXTINF:-1 tvg-id="" tvg-name="US: SPECTRUM NEWS 1 CAROLINAS MOUNTAIN ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13790.png?ver=32687" group-title="SPECTRUM TV",US: SPECTRUM NEWS 1 CAROLINAS MOUNTAIN ᴴᴰ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=926228&extension=ts&play_token=26QOLgAQDp
+#EXTINF:-1 tvg-id="" tvg-name="US: SPECTRUM NEWS 1 BUFFALO ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13790.png?ver=32687" group-title="SPECTRUM TV",US: SPECTRUM NEWS 1 BUFFALO ᴴᴰ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=926227&extension=ts&play_token=f3VymZdZkU
+#EXTINF:-1 tvg-id="" tvg-name="US: SPECTRUM NEWS 1 ALBANY ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13790.png?ver=32687" group-title="SPECTRUM TV",US: SPECTRUM NEWS 1 ALBANY ᴴᴰ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=926226&extension=ts&play_token=scZataIQy7
+#EXTINF:-1 tvg-id="" tvg-name="US: SPECTRUM NEWS 1 - TOLEDO/LIMA ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13790.png?ver=32687" group-title="SPECTRUM TV",US: SPECTRUM NEWS 1 - TOLEDO/LIMA ᴴᴰ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=926225&extension=ts&play_token=ZzDlhIkHY2
+#EXTINF:-1 tvg-id="" tvg-name="US: SPECTRUM NEWS 1 - SO CAL ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13790.png?ver=32687" group-title="SPECTRUM TV",US: SPECTRUM NEWS 1 - SO CAL ᴴᴰ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=926224&extension=ts&play_token=JtKzcQWj0W
+#EXTINF:-1 tvg-id="" tvg-name="US: SPECTRUM NEWS 1 - EL PASO TEXAS ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13790.png?ver=32687" group-title="SPECTRUM TV",US: SPECTRUM NEWS 1 - EL PASO TEXAS ᴴᴰ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=926222&extension=ts&play_token=lr2nVXXlI1
+#EXTINF:-1 tvg-id="" tvg-name="US: SPECTRUM NEWS 1 - DAYTON ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13790.png?ver=32687" group-title="SPECTRUM TV",US: SPECTRUM NEWS 1 - DAYTON ᴴᴰ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=926221&extension=ts&play_token=apDU8c1NNH
+#EXTINF:-1 tvg-id="" tvg-name="US: SPECTRUM NEWS 1 - DALLAS -FT WORTH ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13790.png?ver=32687" group-title="SPECTRUM TV",US: SPECTRUM NEWS 1 - DALLAS -FT WORTH ᴴᴰ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=926220&extension=ts&play_token=flPQrW7qwb
+#EXTINF:-1 tvg-id="" tvg-name="US: SPECTRUM NEWS 1 - COLUMBUS ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13790.png?ver=32687" group-title="SPECTRUM TV",US: SPECTRUM NEWS 1 - COLUMBUS ᴴᴰ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=926219&extension=ts&play_token=VXo91Rs3TC
+#EXTINF:-1 tvg-id="" tvg-name="US: SPECTRUM NEWS 1 - CLEVELAND/AKRON ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13790.png?ver=32687" group-title="SPECTRUM TV",US: SPECTRUM NEWS 1 - CLEVELAND/AKRON ᴴᴰ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=926218&extension=ts&play_token=c1c6AwfBX6
+#EXTINF:-1 tvg-id="" tvg-name="US: SPECTRUM NEWS 1 - CINCINNATI ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13790.png?ver=32687" group-title="SPECTRUM TV",US: SPECTRUM NEWS 1 - CINCINNATI ᴴᴰ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=926217&extension=ts&play_token=m50Ud4FgWg
+#EXTINF:-1 tvg-id="" tvg-name="US: SPECTRUM NEWS 1 - (MA) WORCESTER ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13790.png?ver=32687" group-title="SPECTRUM TV",US: SPECTRUM NEWS 1 - (MA) WORCESTER ᴴᴰ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=926216&extension=ts&play_token=EGoBBzIjXD
+#EXTINF:-1 tvg-id="" tvg-name="US: SPECTRUM NEWS 1 - (MA) SPRINGFIELD ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13790.png?ver=32687" group-title="SPECTRUM TV",US: SPECTRUM NEWS 1 - (MA) SPRINGFIELD ᴴᴰ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=926215&extension=ts&play_token=DHPkSpfM26
+#EXTINF:-1 tvg-id="" tvg-name="US: SPECTRUM NEWS 1 - (MA) PITTSFIELD ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13790.png?ver=32687" group-title="SPECTRUM TV",US: SPECTRUM NEWS 1 - (MA) PITTSFIELD ᴴᴰ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=926214&extension=ts&play_token=UIU4W6SmVi
+#EXTINF:-1 tvg-id="" tvg-name="US: SPECTRUM NEWS 1 - (KENTUCKY) LOUISVILLE ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13790.png?ver=32687" group-title="SPECTRUM TV",US: SPECTRUM NEWS 1 - (KENTUCKY) LOUISVILLE ᴴᴰ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=926213&extension=ts&play_token=dXg6HL2FVQ
+#EXTINF:-1 tvg-id="" tvg-name="US: SPECTRUM NEWS 1 - (KENTUCKY) LEXINGTON ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13790.png?ver=32687" group-title="SPECTRUM TV",US: SPECTRUM NEWS 1 - (KENTUCKY) LEXINGTON ᴴᴰ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=926212&extension=ts&play_token=CI7EmuxbrA
+#EXTINF:-1 tvg-id="" tvg-name="US: SPECTRUM NEWS 1 - (KENTUCKY) - EVANSVILLE ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13790.png?ver=32687" group-title="SPECTRUM TV",US: SPECTRUM NEWS 1 - (KENTUCKY) - EVANSVILLE ᴴᴰ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=926211&extension=ts&play_token=QGHywqZcDv
+#EXTINF:-1 tvg-id="" tvg-name="US: SPECTRUM NEWS 1 - (KENTUCKY) - COVINGTON ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13790.png?ver=32687" group-title="SPECTRUM TV",US: SPECTRUM NEWS 1 - (KENTUCKY) - COVINGTON ᴴᴰ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=926210&extension=ts&play_token=4FVnmymTae
+#EXTINF:-1 tvg-id="" tvg-name="US: SPECTRUM NEWS 1 (CAROLINAS) - RALEIGH ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13790.png?ver=32687" group-title="SPECTRUM TV",US: SPECTRUM NEWS 1 (CAROLINAS) - RALEIGH ᴴᴰ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=926208&extension=ts&play_token=2B9YmuXCIk
+#EXTINF:-1 tvg-id="" tvg-name="US: SPECTRUM NEWS 1 (CAROLINAS) - MOUNTAIN ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13790.png?ver=32687" group-title="SPECTRUM TV",US: SPECTRUM NEWS 1 (CAROLINAS) - MOUNTAIN ᴴᴰ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=926207&extension=ts&play_token=DD59Zpe4iG
+#EXTINF:-1 tvg-id="" tvg-name="US: SPECTRUM NEWS 1 (CAROLINAS) - COASTAL ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13790.png?ver=32687" group-title="SPECTRUM TV",US: SPECTRUM NEWS 1 (CAROLINAS) - COASTAL ᴴᴰ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=926206&extension=ts&play_token=rP69U5TxLb
+#EXTINF:-1 tvg-id="" tvg-name="US: SPECTRUM NEWS 1 (CAROLINAS) - CHARLOTTE ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13790.png?ver=32687" group-title="SPECTRUM TV",US: SPECTRUM NEWS 1 (CAROLINAS) - CHARLOTTE ᴴᴰ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=926205&extension=ts&play_token=REZbhEmjyR
+#EXTINF:-1 tvg-id="" tvg-name="US: SPECTRUM NEWS 1 (CAROLINAS) -  GREENSBORO ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13790.png?ver=32687" group-title="SPECTRUM TV",US: SPECTRUM NEWS 1 (CAROLINAS) -  GREENSBORO ᴴᴰ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=926204&extension=ts&play_token=VgtYtMeYI5
+#EXTINF:-1 tvg-id="" tvg-name="US: SPECTRUM NEWS - NY1 ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13790.png?ver=32687" group-title="SPECTRUM TV",US: SPECTRUM NEWS - NY1 ᴴᴰ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=926202&extension=ts&play_token=mHpVlNjbKr
+#EXTINF:-1 tvg-id="" tvg-name="US: SPECTRUM NEWS - CENTRAL NY ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13790.png?ver=32687" group-title="SPECTRUM TV",US: SPECTRUM NEWS - CENTRAL NY ᴴᴰ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=926200&extension=ts&play_token=b8E5R2JVH5
+#EXTINF:-1 tvg-id="" tvg-name="US: SPECTRUM NEWS - BUFFALO ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13790.png?ver=32687" group-title="SPECTRUM TV",US: SPECTRUM NEWS - BUFFALO ᴴᴰ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=926199&extension=ts&play_token=3r1Zwef1Z6
+#EXTINF:-1 tvg-id="" tvg-name="US: SPECTRUM NEWS - AUSTIN ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13790.png?ver=32687" group-title="SPECTRUM TV",US: SPECTRUM NEWS - AUSTIN ᴴᴰ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=926198&extension=ts&play_token=GsCVgpmGDb
+#EXTINF:-1 tvg-id="" tvg-name="US: SPECTRUM NEWS - ALBANY CAPITAL REGION ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13790.png?ver=32687" group-title="SPECTRUM TV",US: SPECTRUM NEWS - ALBANY CAPITAL REGION ᴴᴰ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=926197&extension=ts&play_token=hfwIU7tujM
+#EXTINF:-1 tvg-id="" tvg-name="US: SPECTRUM NEWS - (NEW YORK) ROCHESTER ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13790.png?ver=32687" group-title="SPECTRUM TV",US: SPECTRUM NEWS - (NEW YORK) ROCHESTER ᴴᴰ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=926196&extension=ts&play_token=cgtjhl4IFB
+#EXTINF:-1 tvg-id="" tvg-name="US: SPECTRUM BAY NEWS 9 ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13790.png?ver=32687" group-title="SPECTRUM TV",US: SPECTRUM BAY NEWS 9 ᴴᴰ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=926190&extension=ts&play_token=T4JAOWoePA
+#EXTINF:-1 tvg-id="" tvg-name="US: SPECTRUM BAY NEWS 9 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10715.jpg?56020" group-title="SPECTRUM TV",US: SPECTRUM BAY NEWS 9 HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=737839&extension=ts&play_token=UpQ1aVRuPv
+#EXTINF:-1 tvg-id="" tvg-name="PRIME: ADULT ANIMATION ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="HOLLYWOOD PRE,IERE",PRIME: ADULT ANIMATION ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=1537012&extension=ts&play_token=gdgvSMdyrQ
+#EXTINF:-1 tvg-id="" tvg-name="US: CM HOLLYWOOD PREMIERE 9 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="HOLLYWOOD PRE,IERE",US: CM HOLLYWOOD PREMIERE 9 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=696008&extension=ts&play_token=AlEc7BJTqf
+#EXTINF:-1 tvg-id="" tvg-name="US: CM HOLLYWOOD PREMIERE 8 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="HOLLYWOOD PRE,IERE",US: CM HOLLYWOOD PREMIERE 8 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=696009&extension=ts&play_token=T2XvaAVgfn
+#EXTINF:-1 tvg-id="" tvg-name="US: CM HOLLYWOOD PREMIERE 7 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="HOLLYWOOD PRE,IERE",US: CM HOLLYWOOD PREMIERE 7 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=696010&extension=ts&play_token=wYXaihRVtQ
+#EXTINF:-1 tvg-id="" tvg-name="US: CM HOLLYWOOD PREMIERE 6 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="HOLLYWOOD PRE,IERE",US: CM HOLLYWOOD PREMIERE 6 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=696011&extension=ts&play_token=pr3Wx5lLDi
+#EXTINF:-1 tvg-id="" tvg-name="US: CM HOLLYWOOD PREMIERE 5 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="HOLLYWOOD PRE,IERE",US: CM HOLLYWOOD PREMIERE 5 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=696012&extension=ts&play_token=moWphA1OE5
+#EXTINF:-1 tvg-id="" tvg-name="US: CM HOLLYWOOD PREMIERE 4 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="HOLLYWOOD PRE,IERE",US: CM HOLLYWOOD PREMIERE 4 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=696013&extension=ts&play_token=nyTMeYPhuv
+#EXTINF:-1 tvg-id="" tvg-name="US: CM HOLLYWOOD PREMIERE 3 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="HOLLYWOOD PRE,IERE",US: CM HOLLYWOOD PREMIERE 3 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=696014&extension=ts&play_token=K6ILF1P52N
+#EXTINF:-1 tvg-id="" tvg-name="US: C HOLLYWOOD PREMIERE 10 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="HOLLYWOOD PRE,IERE",US: C HOLLYWOOD PREMIERE 10 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=696007&extension=ts&play_token=Z4j4RUZryo
+#EXTINF:-1 tvg-id="" tvg-name="US: CM HOLLYWOOD PREMIERE 1 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="HOLLYWOOD PRE,IERE",US: CM HOLLYWOOD PREMIERE 1 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=696016&extension=ts&play_token=byMuoYIOlQ
+#EXTINF:-1 tvg-id="" tvg-name="US: CM HOLLYWOOD PREMIERE 2 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="HOLLYWOOD PRE,IERE",US: CM HOLLYWOOD PREMIERE 2 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=696015&extension=ts&play_token=PEnfqBneW8
+#EXTINF:-1 tvg-id="" tvg-name="IL: YES 5 GOLD ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14590.png?62683" group-title="YES TV",IL: YES 5 GOLD ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=1562481&extension=ts&play_token=TSvDIrMsUN
+#EXTINF:-1 tvg-id="" tvg-name="IL: YES 5 LIVE ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14590.png?62683" group-title="YES TV",IL: YES 5 LIVE ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=1562478&extension=ts&play_token=sB25Q7JHTJ
+#EXTINF:-1 tvg-id="" tvg-name="IL: YES 5 PLUS ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14590.png?62683" group-title="YES TV",IL: YES 5 PLUS ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=1562479&extension=ts&play_token=3CHxFt205T
+#EXTINF:-1 tvg-id="" tvg-name="IL: YES 5 SPORT ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14590.png?62683" group-title="YES TV",IL: YES 5 SPORT ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=1562480&extension=ts&play_token=HmxdIHQ6Jn
+#EXTINF:-1 tvg-id="" tvg-name="IL: YES 5 STARS ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14590.png?62683" group-title="YES TV",IL: YES 5 STARS ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=1562477&extension=ts&play_token=2TnP1gGuip
+#EXTINF:-1 tvg-id="" tvg-name="IL: YES SPORT 4 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14590.png?62683" group-title="YES TV",IL: YES SPORT 4 ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=1562482&extension=ts&play_token=BW8DZYQaO4
+#EXTINF:-1 tvg-id="polsatgames.pl" tvg-name="PL: POLSAT GAMES ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9851.jpg?61521" group-title="POLSAT",PL: POLSAT GAMES ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=1562575&extension=ts&play_token=7wGeefmiLP
+#EXTINF:-1 tvg-id="polsatsport.pl" tvg-name="PL: POLSAT SPORT 1 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14555.png?55327" group-title="POLSAT",PL: POLSAT SPORT 1 ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=1562585&extension=ts&play_token=wX6JbluJpI
+#EXTINF:-1 tvg-id="" tvg-name="PL: POLSAT SPORT 2 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14556.png?67330" group-title="POLSAT",PL: POLSAT SPORT 2 ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=1562584&extension=ts&play_token=DrGX5XlRDi
+#EXTINF:-1 tvg-id="" tvg-name="PL: POLSAT SPORT 3 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14557.png?80360" group-title="POLSAT",PL: POLSAT SPORT 3 ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=1562583&extension=ts&play_token=R1zN70u5Fu
+#EXTINF:-1 tvg-id="polsatsportextra.pl" tvg-name="PL: POLSAT SPORT EXTRA 1 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9887.jpg?84015" group-title="POLSAT",PL: POLSAT SPORT EXTRA 1 ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=1562580&extension=ts&play_token=DX4FcaYiD8
+#EXTINF:-1 tvg-id="" tvg-name="PL: POLSAT SPORT EXTRA 3 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9887.jpg?84015" group-title="POLSAT",PL: POLSAT SPORT EXTRA 3 ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=1562578&extension=ts&play_token=Nij39qW5Ti
+#EXTINF:-1 tvg-id="" tvg-name="PL: POLSAT SPORT EXTRA 4 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9887.jpg?84015" group-title="POLSAT",PL: POLSAT SPORT EXTRA 4 ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=1562577&extension=ts&play_token=VKlEyTHef0
+#EXTINF:-1 tvg-id="polsatsportfight.pl" tvg-name="PL: POLSAT SPORT FIGHT ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9894.jpg?13129" group-title="POLSAT",PL: POLSAT SPORT FIGHT ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=1562576&extension=ts&play_token=F2GfFZUyeJ
+#EXTINF:-1 tvg-id="" tvg-name="PL: POLSAT SPORT EXTRA 2 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9887.jpg?84015" group-title="POLSAT",PL: POLSAT SPORT EXTRA 2 ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=1562579&extension=ts&play_token=GI97Jkqgwn
+#EXTINF:-1 tvg-id="polsatsportpremium1.pl" tvg-name="PL: POLSAT SPORT PREMIUM 1 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14558.png?81683" group-title="POLSAT",PL: POLSAT SPORT PREMIUM 1 ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=1562582&extension=ts&play_token=gPzb4bD7wb
+#EXTINF:-1 tvg-id="polsatsportpremium2.pl" tvg-name="PL: POLSAT SPORT PREMIUM 2 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14559.png?70198" group-title="POLSAT",PL: POLSAT SPORT PREMIUM 2 ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=1562581&extension=ts&play_token=knqr9qXIzQ
+#EXTINF:-1 tvg-id="canalplussport.pl" tvg-name="PL: CANAL+ SPORT 1 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14546.png?35467" group-title="CANAL SPORT",PL: CANAL+ SPORT 1 ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=1562553&extension=ts&play_token=cg9AB83M41
+#EXTINF:-1 tvg-id="canalplussport2.pl" tvg-name="PL: CANAL+ SPORT 2 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14547.png?87083" group-title="CANAL SPORT",PL: CANAL+ SPORT 2 ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=1562552&extension=ts&play_token=sMSF5yOyQ0
+#EXTINF:-1 tvg-id="canalplussport3.pl" tvg-name="PL: CANAL+ SPORT 3 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6062.png?25426" group-title="CANAL SPORT",PL: CANAL+ SPORT 3 ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=1562551&extension=ts&play_token=qSdfCnS9H8
+#EXTINF:-1 tvg-id="canalplussport4.pl" tvg-name="PL: CANAL+ SPORT 4 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6333.jpg?10650" group-title="CANAL SPORT",PL: CANAL+ SPORT 4 ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=1562550&extension=ts&play_token=3mBodLk3mz
+#EXTINF:-1 tvg-id="canalplussport5.pl" tvg-name="PL: CANAL+ SPORT 5 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12055.jpg?5020" group-title="CANAL SPORT",PL: CANAL+ SPORT 5 ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=1562549&extension=ts&play_token=ZxXLgpsEOE
+#EXTINF:-1 tvg-id="canalplussport.pl" tvg-name="PL: CANAL+ SPORT ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12054.png?64024" group-title="CANAL SPORT",PL: CANAL+ SPORT ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=1562554&extension=ts&play_token=KIor0JHWIq
+#EXTINF:-1 tvg-id="VirginMediaOne.ie" tvg-name="IRL: VIRGIN MEDIA EXTRA 1 4K ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12123.png?48124" group-title="VIRGIN MEDIA",IRL: VIRGIN MEDIA EXTRA 1 4K ◉
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=681520&extension=ts&play_token=FfDJhVJjV2
+#EXTINF:-1 tvg-id="" tvg-name="IRL: VIRGIN MEDIA FOUR 4K ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12123.png?48124" group-title="VIRGIN MEDIA",IRL: VIRGIN MEDIA FOUR 4K ◉
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=681518&extension=ts&play_token=De60YLkP04
+#EXTINF:-1 tvg-id="VirginMediaOne.ie" tvg-name="IRL: VIRGIN MEDIA ONE ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12121.jpg?12138" group-title="VIRGIN MEDIA",IRL: VIRGIN MEDIA ONE ◉
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=380823&extension=ts&play_token=PvLQttnpym
+#EXTINF:-1 tvg-id="VirginMediaThree.ie" tvg-name="IRL: VIRGIN MEDIA THREE ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1231.jpg?83050" group-title="VIRGIN MEDIA",IRL: VIRGIN MEDIA THREE ◉
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=380825&extension=ts&play_token=7811N4yGPs
+#EXTINF:-1 tvg-id="VirginMediaTwo.ie" tvg-name="IRL: VIRGIN MEDIA TWO ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2320.jpg?14568" group-title="VIRGIN MEDIA",IRL: VIRGIN MEDIA TWO ◉
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=380824&extension=ts&play_token=uTcO93dX5A
+#EXTINF:-1 tvg-id="" tvg-name="UK: CRUISE 1ST  TV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6524.png?99227" group-title="UK TV",UK: CRUISE 1ST  TV
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=1008121&extension=ts&play_token=rYxKscUS7Z
+#EXTINF:-1 tvg-id="" tvg-name="UK: DANCE/ EDM - DIRECT ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13872.jpg?ver=88577" group-title="UK TV",UK: DANCE/ EDM - DIRECT ᴴᴰ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=1290975&extension=ts&play_token=yTT8oSRZza
+#EXTINF:-1 tvg-id="CraftExtra.uk" tvg-name="UK: CRAFT EXTRA ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13017.jpg?81719" group-title="UK TV",UK: CRAFT EXTRA ◉
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=162318&extension=ts&play_token=uOtU2zrzIp
+#EXTINF:-1 tvg-id="CreateCraft.uk" tvg-name="UK: CREATE AND CRAFT 4K ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8563.jpg?36094" group-title="UK TV",UK: CREATE AND CRAFT 4K ◉
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=402180&extension=ts&play_token=BYu55P4cX8
+#EXTINF:-1 tvg-id="" tvg-name="UK: CHU CHU TV 1 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13118.jpg?86815" group-title="UK TV",UK: CHU CHU TV 1 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=231804&extension=ts&play_token=I96UA1B5Fn
+#EXTINF:-1 tvg-id="" tvg-name="UK: CHU CHU TV 10 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13118.jpg?86815" group-title="UK TV",UK: CHU CHU TV 10 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=231813&extension=ts&play_token=zE94LFDqmF
+#EXTINF:-1 tvg-id="" tvg-name="UK: CHU CHU TV 2 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13118.jpg?86815" group-title="UK TV",UK: CHU CHU TV 2 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=231805&extension=ts&play_token=EjAjYduGtk
+#EXTINF:-1 tvg-id="" tvg-name="UK: CHU CHU TV 3 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13118.jpg?86815" group-title="UK TV",UK: CHU CHU TV 3 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=231806&extension=ts&play_token=29M9s2iMkq
+#EXTINF:-1 tvg-id="" tvg-name="UK: CHU CHU TV 4 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13118.jpg?86815" group-title="UK TV",UK: CHU CHU TV 4 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=231807&extension=ts&play_token=vfdQxLuqp7
+#EXTINF:-1 tvg-id="" tvg-name="UK: CHU CHU TV 5 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13118.jpg?86815" group-title="UK TV",UK: CHU CHU TV 5 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=231808&extension=ts&play_token=3vlD5eqQsi
+#EXTINF:-1 tvg-id="" tvg-name="UK: CHU CHU TV 6 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13118.jpg?86815" group-title="UK TV",UK: CHU CHU TV 6 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=231809&extension=ts&play_token=SqHNBqDAbC
+#EXTINF:-1 tvg-id="" tvg-name="UK: CHU CHU TV 7 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13118.jpg?86815" group-title="UK TV",UK: CHU CHU TV 7 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=231810&extension=ts&play_token=diU9BnXEXB
+#EXTINF:-1 tvg-id="" tvg-name="UK: CHU CHU TV 8 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13118.jpg?86815" group-title="UK TV",UK: CHU CHU TV 8 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=231811&extension=ts&play_token=XozXM6mO84
+#EXTINF:-1 tvg-id="" tvg-name="UK: CHU CHU TV 9 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13118.jpg?86815" group-title="UK TV",UK: CHU CHU TV 9 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=231812&extension=ts&play_token=VFo1MeHPbl
+#EXTINF:-1 tvg-id="EEntertainment.uk" tvg-name="UK: E! ENTERTAINMENT ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6000.jpg?40398" group-title="UK TV",UK: E! ENTERTAINMENT ◉
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=162287&extension=ts&play_token=D51ua3thjC
+#EXTINF:-1 tvg-id="E4.uk" tvg-name="UK: E4  HEVC 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12134.jpg?57654" group-title="UK TV",UK: E4  HEVC 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=717658&extension=ts&play_token=IbbAGYLMfQ
+#EXTINF:-1 tvg-id="E4.uk" tvg-name="UK: E4 +1 ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12134.jpg?43604" group-title="UK TV",UK: E4 +1 ◉
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=632691&extension=ts&play_token=qA26iy8Mrj
+#EXTINF:-1 tvg-id="E4.uk" tvg-name="UK: E4 4K ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12134.jpg?43604" group-title="UK TV",UK: E4 4K ◉
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=162115&extension=ts&play_token=K3BY3yfoRv
+#EXTINF:-1 tvg-id="TS" tvg-name="UK: E4 EXTRA ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12105.jpg?32422" group-title="UK TV",UK: E4 EXTRA ◉
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=646004&extension=ts&play_token=4kfirf5qLL
+#EXTINF:-1 tvg-id="E4.uk" tvg-name="UK: E4 HEVC HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12134.jpg?30711" group-title="UK TV",UK: E4 HEVC HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=717674&extension=ts&play_token=g9VijoMuh9
+#EXTINF:-1 tvg-id="E4.uk" tvg-name="UK: E4 ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12134.jpg?43604" group-title="UK TV",UK: E4 ◉
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=162135&extension=ts&play_token=IlBRyzpn30
+#EXTINF:-1 tvg-id="Eden.uk" tvg-name="UK: EDEN +1 ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12142.jpg?17672" group-title="UK TV",UK: EDEN +1 ◉
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=162286&extension=ts&play_token=VjoeKmGwzf
+#EXTINF:-1 tvg-id="Eden.uk" tvg-name="UK: EDEN 4K ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12142.jpg?17672" group-title="UK TV",UK: EDEN 4K ◉
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=162258&extension=ts&play_token=4dcgGU1sVg
+#EXTINF:-1 tvg-id="Eden.uk" tvg-name="UK: EDEN ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12142.jpg?17672" group-title="UK TV",UK: EDEN ◉
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=162285&extension=ts&play_token=PzX01OHtRz
+#EXTINF:-1 tvg-id="" tvg-name="UK: EDGE SPORT ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8117.png?91903" group-title="UK TV",UK: EDGE SPORT ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=587964&extension=ts&play_token=AMDkiEKNjr
+#EXTINF:-1 tvg-id="" tvg-name="LV: GO3 SPORT 1 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14581.png?26570" group-title="GO3 SPORT",LV: GO3 SPORT 1 ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=1562501&extension=ts&play_token=JjHZIgTO93
+#EXTINF:-1 tvg-id="" tvg-name="LV: GO3 SPORT 2 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14582.jpg?38283" group-title="GO3 SPORT",LV: GO3 SPORT 2 ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=1562500&extension=ts&play_token=OQtmVMQPs7
+#EXTINF:-1 tvg-id="" tvg-name="LV: GO3 SPORT 3 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14583.jpg?41145" group-title="GO3 SPORT",LV: GO3 SPORT 3 ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=1562499&extension=ts&play_token=AOpZBt0UUg
+#EXTINF:-1 tvg-id="" tvg-name="LV: GO3 SPORT OPEN ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14584.jpg?11682" group-title="GO3 SPORT",LV: GO3 SPORT OPEN ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=1562498&extension=ts&play_token=oyvBOuTL0Y
+#EXTINF:-1 tvg-id="best4sportlattelecom.lv" tvg-name="LV: BEST4 SPORT TV ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14580.jpg?18715" group-title="NOVA SPORT",LV: BEST4 SPORT TV ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=1562505&extension=ts&play_token=XUGSWOxEJC
+#EXTINF:-1 tvg-id="best4sporttv2.lv" tvg-name="LV: BEST4 SPORT TV-2 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14580.jpg?18715" group-title="NOVA SPORT",LV: BEST4 SPORT TV-2 ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=1562504&extension=ts&play_token=HXsJxIgx2j
+#EXTINF:-1 tvg-id="" tvg-name="GR: NOVA SPORTS START ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3782.png?52261" group-title="NOVA SPORT",GR: NOVA SPORTS START ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=1562872&extension=ts&play_token=Q2fFxjfOZM
+#EXTINF:-1 tvg-id="" tvg-name="GR: NOVA SPORTS START ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1974.png?94125" group-title="NOVA SPORT",GR: NOVA SPORTS START ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=1562884&extension=ts&play_token=pNuEkopzDo
+#EXTINF:-1 tvg-id="novasportsprime.gr" tvg-name="GR: NOVA SPORTS PRIME ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1974.png?4771" group-title="NOVA SPORT",GR: NOVA SPORTS PRIME ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=1562873&extension=ts&play_token=p7IAIXyi5T
+#EXTINF:-1 tvg-id="novasportsprime.gr" tvg-name="GR: NOVA SPORTS PRIME ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1974.png?24531" group-title="NOVA SPORT",GR: NOVA SPORTS PRIME ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=1562885&extension=ts&play_token=TRqiz3bbSQ
+#EXTINF:-1 tvg-id="novasportsprime.gr" tvg-name="GR: NOVA SPORTS PREMIER LEAGUE ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10117.png?12109" group-title="NOVA SPORT",GR: NOVA SPORTS PREMIER LEAGUE ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=1562882&extension=ts&play_token=ijfJcwA279
+#EXTINF:-1 tvg-id="" tvg-name="GR: NOVA SPORTS NEWS ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3907.png?86840" group-title="NOVA SPORT",GR: NOVA SPORTS NEWS ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=1562883&extension=ts&play_token=9yoD3dfXkb
+#EXTINF:-1 tvg-id="" tvg-name="LV: SETANTA SPORTS 1 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14585.jpg?55162" group-title="NOVA SPORT",LV: SETANTA SPORTS 1 ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=1562497&extension=ts&play_token=uLmXuAlWHo
+#EXTINF:-1 tvg-id="" tvg-name="LV: SETANTA SPORTS 2 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14586.png?6643" group-title="NOVA SPORT",LV: SETANTA SPORTS 2 ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=1562496&extension=ts&play_token=UajoDaqLze
+#EXTINF:-1 tvg-id="elevensports1.pl" tvg-name="PL: ELEVEN SPORT 1 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13778.jpg?17135" group-title="NOVA SPORT",PL: ELEVEN SPORT 1 ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=1562589&extension=ts&play_token=RVutV81DLv
+#EXTINF:-1 tvg-id="elevensports2.pl" tvg-name="PL: ELEVEN SPORT 2 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9987.jpg?92191" group-title="NOVA SPORT",PL: ELEVEN SPORT 2 ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=1562588&extension=ts&play_token=HelZi52HfM
+#EXTINF:-1 tvg-id="elevensportsports4.pl" tvg-name="PL: ELEVEN SPORT 4 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9983.jpg?74559" group-title="NOVA SPORT",PL: ELEVEN SPORT 4 ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=1562586&extension=ts&play_token=CkfzcV40Ya
+#EXTINF:-1 tvg-id="extremesports.pl" tvg-name="PL: EXTREME SPORTS ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/619.png?49529" group-title="NOVA SPORT",PL: EXTREME SPORTS ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=1562545&extension=ts&play_token=Dy7nUWqXcz
+#EXTINF:-1 tvg-id="" tvg-name="PL: FIGHT KLUB ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/4744.jpg?27969" group-title="NOVA SPORT",PL: FIGHT KLUB ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=1562546&extension=ts&play_token=cqc5J47Oui
+#EXTINF:-1 tvg-id="eurosport2.pl" tvg-name="PL: EUROSPORT 2 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/627.jpg?64833" group-title="NOVA SPORT",PL: EUROSPORT 2 ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=1562547&extension=ts&play_token=jpnFBCg5Oa
+#EXTINF:-1 tvg-id="eurosport1.pl" tvg-name="PL: EUROSPORT 1 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/615.jpg?22559" group-title="NOVA SPORT",PL: EUROSPORT 1 ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=1562548&extension=ts&play_token=Wj9NUbcnVE
+#EXTINF:-1 tvg-id="elevensports1.pl" tvg-name="PL: ELEVEN ᵁᴴᴰ ³⁸⁴⁰ᴾ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8262.jpg?37231" group-title="NOVA SPORT",PL: ELEVEN ᵁᴴᴰ ³⁸⁴⁰ᴾ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=1562590&extension=ts&play_token=4syv0R97SB
+#EXTINF:-1 tvg-id="tvp1.pl" tvg-name="PL: TVP 1 ᴿᴬᵂ" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/9818.jpg?65742" group-title="NOVA SPORT",PL: TVP 1 ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=2012618&extension=ts&play_token=XNbqJRyjXd
+#EXTINF:-1 tvg-id="tvpsport.pl" tvg-name="PL: TVP SPORT ᴿᴬᵂ" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/9804.jpg?96102" group-title="NOVA SPORT",PL: TVP SPORT ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=2012619&extension=ts&play_token=D20Anh0zbz
+#EXTINF:-1 tvg-id="tvpsport.pl" tvg-name="PL: TVP SPORT ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9804.jpg?73180" group-title="NOVA SPORT",PL: TVP SPORT ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=1562544&extension=ts&play_token=aOD9Yw12EB
+#EXTINF:-1 tvg-id="" tvg-name="TUBI: WOMEN'S SPORTS NETWORK ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14491.png?ver=79983" group-title="NOVA SPORT",TUBI: WOMEN'S SPORTS NETWORK ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:77:5B:D6&stream=1548268&extension=ts&play_token=B2dKNhcA5Z
