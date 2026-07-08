@@ -1,0 +1,153 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="AMP: SONY ENTERTAINMENT TV" tvg-logo="http://51.158.145.100/picons/logos/CARIBBEAN/SONYENTERTAINMENT.png" group-title="SONY TV",AMP: SONY ENTERTAINMENT TV
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=1847405&extension=ts&play_token=s9IrypJeNO
+#EXTINF:-1 tvg-id="" tvg-name="AZ: SONY ENTERTAINMENT ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13808.png?ver=74393" group-title="SONY TV",AZ: SONY ENTERTAINMENT ᴿᴬᵂ
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=1991669&extension=ts&play_token=CNqZGD40rb
+#EXTINF:-1 tvg-id="" tvg-name="AZ: SONY MAX ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13808.png?ver=74393" group-title="SONY TV",AZ: SONY MAX ᴿᴬᵂ
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=1991668&extension=ts&play_token=WnvzEUyvcy
+#EXTINF:-1 tvg-id="" tvg-name="AZ: SONY SAB ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13808.png?ver=74393" group-title="SONY TV",AZ: SONY SAB ᴿᴬᵂ
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=1991667&extension=ts&play_token=80mbWoj7Me
+#EXTINF:-1 tvg-id="" tvg-name="BAN:  SONY AATH" tvg-logo="http://picons.cmshulk.com/picons/225775.png" group-title="SONY TV",BAN:  SONY AATH
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=1667666&extension=ts&play_token=8IM4ikrOFX
+#EXTINF:-1 tvg-id="" tvg-name="BR: CANAL SONY HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/laz.sony.png" group-title="SONY TV",BR: CANAL SONY HD
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=439184&extension=ts&play_token=M7YByPKPnD
+#EXTINF:-1 tvg-id="" tvg-name="BR: SONY HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/laz.sony.png" group-title="SONY TV",BR: SONY HD
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=439263&extension=ts&play_token=pPLgS1ytzd
+#EXTINF:-1 tvg-id="" tvg-name="CO: SONY TV" tvg-logo="http://picons.cmshulk.com/picons/logos/SON--TV.png" group-title="SONY TV",CO: SONY TV
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=609297&extension=ts&play_token=F98iCRfxqo
+#EXTINF:-1 tvg-id="" tvg-name="DE: SONY AXN HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9346.jpg?8581" group-title="SONY TV",DE: SONY AXN HD
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=479887&extension=ts&play_token=r2zUWAUKjq
+#EXTINF:-1 tvg-id="" tvg-name="DE: SONY CHANNEL HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9346.jpg?8581" group-title="SONY TV",DE: SONY CHANNEL HD
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=479886&extension=ts&play_token=QPP0UJY8fu
+#EXTINF:-1 tvg-id="SonyPix.in" tvg-name="ENGLISH: SONY PIX" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/SONY-PIX-HD.jpeg" group-title="SONY TV",ENGLISH: SONY PIX
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=441205&extension=ts&play_token=7PxI2PPImQ
+#EXTINF:-1 tvg-id="" tvg-name="ES: SONY CHANNEL ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13781.png?ver=99080" group-title="SONY TV",ES: SONY CHANNEL ᴴᴰ
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=1340215&extension=ts&play_token=axtEoq9Mkw
+#EXTINF:-1 tvg-id="" tvg-name="ES: SONY MOVIES ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13781.png?ver=99080" group-title="SONY TV",ES: SONY MOVIES ᴴᴰ
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=1340214&extension=ts&play_token=29TNXDRRUE
+#EXTINF:-1 tvg-id="Sony.in" tvg-name="HINDI: SONY HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/in.sonytvhd.png" group-title="SONY TV",HINDI: SONY HD
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=440270&extension=ts&play_token=CAFQqeIIbL
+#EXTINF:-1 tvg-id="Sony.in" tvg-name="HINDI: SONY HD (Back-Up)" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/in.sonytvhd.png" group-title="SONY TV",HINDI: SONY HD (Back-Up)
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=440272&extension=ts&play_token=tiCEW4mwqt
+#EXTINF:-1 tvg-id="" tvg-name="HINDI: SONY MARATHI" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/THEQ-.png" group-title="SONY TV",HINDI: SONY MARATHI
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=440475&extension=ts&play_token=VxpT4ooyiU
+#EXTINF:-1 tvg-id="SonyMax2.in" tvg-name="HINDI: SONY MAX 2" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/sonymax2.png" group-title="SONY TV",HINDI: SONY MAX 2
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=440277&extension=ts&play_token=ICBX1wyFN9
+#EXTINF:-1 tvg-id="SonyMax2.in" tvg-name="HINDI: SONY MAX 2 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/sonymax2.png" group-title="SONY TV",HINDI: SONY MAX 2 HD
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=440276&extension=ts&play_token=dut1khYXSC
+#EXTINF:-1 tvg-id="SonyMax.in" tvg-name="HINDI: SONY MAX HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/in.sonymaxhd.png" group-title="SONY TV",HINDI: SONY MAX HD
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=440274&extension=ts&play_token=z0eL2HuuUR
+#EXTINF:-1 tvg-id="SonyMax.in" tvg-name="HINDI: SONY MAX HD (Back-Up)" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/SONY-MAX-HD.png" group-title="SONY TV",HINDI: SONY MAX HD (Back-Up)
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=440275&extension=ts&play_token=DB7vsGFjbL
+#EXTINF:-1 tvg-id="SonyPal.in" tvg-name="HINDI: SONY PAL" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/sonypal.jpg" group-title="SONY TV",HINDI: SONY PAL
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=440283&extension=ts&play_token=7jFrWbJvZC
+#EXTINF:-1 tvg-id="SonyPix.in" tvg-name="HINDI: SONY PIX HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/SONY-PIX-HD.jpeg" group-title="SONY TV",HINDI: SONY PIX HD
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=440282&extension=ts&play_token=Gd3IwWANmC
+#EXTINF:-1 tvg-id="SonySAB.in" tvg-name="HINDI: SONY SAB" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/sonysab.png" group-title="SONY TV",HINDI: SONY SAB
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=440279&extension=ts&play_token=lqrnADC6PD
+#EXTINF:-1 tvg-id="SonySAB.in" tvg-name="HINDI: SONY SAB HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/sonysabhd.jpg" group-title="SONY TV",HINDI: SONY SAB HD
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=440278&extension=ts&play_token=drp2iCISbo
+#EXTINF:-1 tvg-id="Sony.in" tvg-name="HINDI: SONY TV" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/sonytv.png" group-title="SONY TV",HINDI: SONY TV
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=440271&extension=ts&play_token=JkWnt9NMtb
+#EXTINF:-1 tvg-id="" tvg-name="HINDI: SONY USA HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12051.jpg?24632" group-title="SONY TV",HINDI: SONY USA HD
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=725412&extension=ts&play_token=iSHkYuFzB0
+#EXTINF:-1 tvg-id="SonyWah.in" tvg-name="HINDI: SONY WAH" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/sonywah.jpg" group-title="SONY TV",HINDI: SONY WAH
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=440284&extension=ts&play_token=SYmZ75hIvj
+#EXTINF:-1 tvg-id="SonyYAY.in" tvg-name="HINDI: SONY YAY" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/SONY-YAY.jpg" group-title="SONY TV",HINDI: SONY YAY
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=440285&extension=ts&play_token=WleguywaX4
+#EXTINF:-1 tvg-id="" tvg-name="IN-PREM: SONYLIV HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="SONY TV",IN-PREM: SONYLIV HD
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=1629770&extension=ts&play_token=8X23EPMeeY
+#EXTINF:-1 tvg-id="" tvg-name="IN-PREM: SONYLIV SERIES" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="SONY TV",IN-PREM: SONYLIV SERIES
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=1629545&extension=ts&play_token=SY32ZCf2ZQ
+#EXTINF:-1 tvg-id="uk.Sony Max 2 HD" tvg-name="IN: SONY MAX 2 ᴴᴰ ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/4736.jpg?21277" group-title="SONY TV",IN: SONY MAX 2 ᴴᴰ ◉
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=1015333&extension=ts&play_token=Tv4K8xB5Vx
+#EXTINF:-1 tvg-id="SonyMax.uk" tvg-name="IN: SONY MAX ᴴᴰ ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/4736.jpg?21277" group-title="SONY TV",IN: SONY MAX ᴴᴰ ◉
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=1015334&extension=ts&play_token=dA5WpEedRj
+#EXTINF:-1 tvg-id="" tvg-name="IN: SONY MAX ᴿᴬᵂ ⁽ᴮᴷ⁾" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/4736.jpg?43915" group-title="SONY TV",IN: SONY MAX ᴿᴬᵂ ⁽ᴮᴷ⁾
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=2001271&extension=ts&play_token=1gfT3zTuv1
+#EXTINF:-1 tvg-id="SonyMax.uk" tvg-name="IN: SONY MAX ᴿᴬᵂ ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/4736.jpg?21277" group-title="SONY TV",IN: SONY MAX ᴿᴬᵂ ◉
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=1015335&extension=ts&play_token=HfgtUUDjbW
+#EXTINF:-1 tvg-id="sonysabhd.in" tvg-name="IN: SONY SAB (BK) ᴴᴰ ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/4736.jpg?21277" group-title="SONY TV",IN: SONY SAB (BK) ᴴᴰ ◉
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=1015331&extension=ts&play_token=3cgkoZ7gZw
+#EXTINF:-1 tvg-id="sonysabhd.in" tvg-name="IN: SONY SAB ᴴᴰ ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/4736.jpg?21277" group-title="SONY TV",IN: SONY SAB ᴴᴰ ◉
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=1015332&extension=ts&play_token=VGbgGeZHQc
+#EXTINF:-1 tvg-id="" tvg-name="IN: SONY SAB ᴿᴬᵂ ⁽ᴮᴷ⁾" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/4736.jpg?43915" group-title="SONY TV",IN: SONY SAB ᴿᴬᵂ ⁽ᴮᴷ⁾
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=2001272&extension=ts&play_token=VqQcIQMdTU
+#EXTINF:-1 tvg-id="sonytv.uk" tvg-name="IN: SONY TV ᴴᴰ ⁽ᴮᴷ⁾" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/4736.jpg?43915" group-title="SONY TV",IN: SONY TV ᴴᴰ ⁽ᴮᴷ⁾
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=1989101&extension=ts&play_token=PYgWCZGKX9
+#EXTINF:-1 tvg-id="uk.Sony TV Asia HD" tvg-name="IN: SONY TV ᴴᴰ ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/4736.jpg?56939" group-title="SONY TV",IN: SONY TV ᴴᴰ ◉
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=1015345&extension=ts&play_token=zoDL6IcFwZ
+#EXTINF:-1 tvg-id="" tvg-name="IN: SONY TV ᴿᴬᵂ ⁽ᴮᴷ⁾" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/4736.jpg?43915" group-title="SONY TV",IN: SONY TV ᴿᴬᵂ ⁽ᴮᴷ⁾
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=2001273&extension=ts&play_token=Fih5dYwfUH
+#EXTINF:-1 tvg-id="uk.Sony TV Asia HD" tvg-name="IN: SONY TV ᴿᴬᵂ ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/4736.jpg?56939" group-title="SONY TV",IN: SONY TV ᴿᴬᵂ ◉
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=1015344&extension=ts&play_token=R3ZkYyscMD
+#EXTINF:-1 tvg-id="" tvg-name="RK: SONY ONE CINEMA ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14331.png?ver=69659" group-title="SONY TV",RK: SONY ONE CINEMA ᴿᴬᵂ
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=1476141&extension=ts&play_token=fjb6cIC71I
+#EXTINF:-1 tvg-id="" tvg-name="RK: SONY ONE COMPETENCIAS ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14331.png?ver=69659" group-title="SONY TV",RK: SONY ONE COMPETENCIAS ᴿᴬᵂ
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=1476140&extension=ts&play_token=AjvmUuPNeM
+#EXTINF:-1 tvg-id="" tvg-name="RK: SONY ONE NOVELAS ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14331.png?ver=69659" group-title="SONY TV",RK: SONY ONE NOVELAS ᴿᴬᵂ
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=1476139&extension=ts&play_token=Ysm3kwCYty
+#EXTINF:-1 tvg-id="SonyTV.ru" tvg-name="RU: SONY CHANNEL" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/sonychannel.png" group-title="SONY TV",RU: SONY CHANNEL
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=439418&extension=ts&play_token=o2J0GbSz7x
+#EXTINF:-1 tvg-id="SonySciFi.ru" tvg-name="RU: SONY SCI-FI" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/sonyscifi.png" group-title="SONY TV",RU: SONY SCI-FI
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=439417&extension=ts&play_token=4h04cIsxlb
+#EXTINF:-1 tvg-id="" tvg-name="RU: SONY TB" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/sonyturbo.png" group-title="SONY TV",RU: SONY TB
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=439416&extension=ts&play_token=jvF9nF4D15
+#EXTINF:-1 tvg-id="" tvg-name="RU: SONY TURBO" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/sonyturbo.png" group-title="SONY TV",RU: SONY TURBO
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=439415&extension=ts&play_token=xpOKcCgLij
+#EXTINF:-1 tvg-id="SonySIX.in" tvg-name="SPORTS: SONY SIX" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/SONY-SIX.png" group-title="SONY TV",SPORTS: SONY SIX
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=441109&extension=ts&play_token=t0t8ibLnOt
+#EXTINF:-1 tvg-id="SonySIX.in" tvg-name="SPORTS: SONY SIX HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12051.jpg?ver=25330" group-title="SONY TV",SPORTS: SONY SIX HD
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=852144&extension=ts&play_token=EGzTURHKCx
+#EXTINF:-1 tvg-id="" tvg-name="SU: PREMIUM+ SONYLIVE SERIES 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14816.jpg?32901" group-title="SONY TV",SU: PREMIUM+ SONYLIVE SERIES 4K
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=668544&extension=ts&play_token=yuf2Gph9E7
+#EXTINF:-1 tvg-id="SonyBBCEarth.in" tvg-name="TAMIL: SONY BBC EARTH HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/sonybbcearth.jpg" group-title="SONY TV",TAMIL: SONY BBC EARTH HD
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=440753&extension=ts&play_token=8dvlZxYMKS
+#EXTINF:-1 tvg-id="SonyYAY.in" tvg-name="TAMIL: SONY YAY" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/SONY-YAY.jpg" group-title="SONY TV",TAMIL: SONY YAY
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=440754&extension=ts&play_token=N2aiIzJnTc
+#EXTINF:-1 tvg-id="SonyYAY.in" tvg-name="TELUGU: SONY YAY" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/SONY-YAY.jpg" group-title="SONY TV",TELUGU: SONY YAY
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=441041&extension=ts&play_token=9dpbG5nNcF
+#EXTINF:-1 tvg-id="TS" tvg-name="UK: SONY ACTION ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7718.jpg?39454" group-title="SONY TV",UK: SONY ACTION ◉
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=162368&extension=ts&play_token=5e9kQQf0S6
+#EXTINF:-1 tvg-id="SonyChannel.uk" tvg-name="UK: SONY CHANNEL ◉" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7718.jpg?39454" group-title="SONY TV",UK: SONY CHANNEL ◉
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=162370&extension=ts&play_token=idvC7w6k24
+#EXTINF:-1 tvg-id="SonyMax.in" tvg-name="UK: SONY MAX HEVC 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14828.png?1027" group-title="SONY TV",UK: SONY MAX HEVC 4K
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=717724&extension=ts&play_token=npRLmjmOG0
+#EXTINF:-1 tvg-id="SonyMax.uk" tvg-name="UK: SONY MAX HEVC HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14828.png?1027" group-title="SONY TV",UK: SONY MAX HEVC HD
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=717731&extension=ts&play_token=UNMO3Hk6yY
+#EXTINF:-1 tvg-id="Sony.in" tvg-name="UK: SONY TV HEVC 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/4736.jpg?78269" group-title="SONY TV",UK: SONY TV HEVC 4K
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=717725&extension=ts&play_token=SgxdlZ9DgW
+#EXTINF:-1 tvg-id="" tvg-name="UK: SONY TV HEVC HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/4736.jpg?21245" group-title="SONY TV",UK: SONY TV HEVC HD
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=717732&extension=ts&play_token=4UnT1vXIgD
+#EXTINF:-1 tvg-id="" tvg-name="US: CINE SONY" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6320.jpg?46408" group-title="SONY TV",US: CINE SONY
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=436116&extension=ts&play_token=nFQKW9YsDh
+#EXTINF:-1 tvg-id="SonyMovieChannel.us" tvg-name="US: SONY MOVIE CHANNEL HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12196.png?95561" group-title="SONY TV",US: SONY MOVIE CHANNEL HD
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=325988&extension=ts&play_token=1RSPOSclQd
+#EXTINF:-1 tvg-id="" tvg-name="VIX: SONY ONE COMPETENCIAS ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14456.jpg?ver=20107" group-title="SONY TV",VIX: SONY ONE COMPETENCIAS ᴿᴬᵂ
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=1672156&extension=ts&play_token=NXDtfOkOLk
+#EXTINF:-1 tvg-id="" tvg-name="VZ: CANAL SONY" tvg-logo="http://picons.cmshulk.com/picons/logos/CANAL-SONY.png" group-title="SONY TV",VZ: CANAL SONY
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=609700&extension=ts&play_token=BCvtaNSNMF
+#EXTINF:-1 tvg-id="hubsports1.sg" tvg-name="SG: HUB SPORTS 1 ᴿᴬᵂ" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/15077.png?73402" group-title="HUB SPORT",SG: HUB SPORTS 1 ᴿᴬᵂ
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=1968693&extension=ts&play_token=Qu0IYdsQt2
+#EXTINF:-1 tvg-id="hubsports2.sg" tvg-name="SG: HUB SPORTS 2 ᴿᴬᵂ" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/15077.png?73402" group-title="HUB SPORT",SG: HUB SPORTS 2 ᴿᴬᵂ
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=1968692&extension=ts&play_token=T6gNQM93j7
+#EXTINF:-1 tvg-id="HubSports3.sg" tvg-name="SG: HUB SPORTS 3 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10571.jpg?69130" group-title="HUB SPORT",SG: HUB SPORTS 3 HD
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=852119&extension=ts&play_token=4woQ2aRtwj
+#EXTINF:-1 tvg-id="hubsports3.sg" tvg-name="SG: HUB SPORTS 3 ᴿᴬᵂ" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/15077.png?73402" group-title="HUB SPORT",SG: HUB SPORTS 3 ᴿᴬᵂ
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=1968691&extension=ts&play_token=NMsGMLC6d2
+#EXTINF:-1 tvg-id="hubsports4.sg" tvg-name="SG: HUB SPORTS 4 ᴿᴬᵂ" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/15077.png?73402" group-title="HUB SPORT",SG: HUB SPORTS 4 ᴿᴬᵂ
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=1968690&extension=ts&play_token=TCMCgKa7u0
+#EXTINF:-1 tvg-id="hubsports5.sg" tvg-name="SG: HUB SPORTS 5 ᴿᴬᵂ" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/15077.png?73402" group-title="HUB SPORT",SG: HUB SPORTS 5 ᴿᴬᵂ
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=1968689&extension=ts&play_token=3CxKAulT5b
+#EXTINF:-1 tvg-id="hubsports6.sg" tvg-name="SG: HUB SPORTS 6 ᴿᴬᵂ" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/15077.png?73402" group-title="HUB SPORT",SG: HUB SPORTS 6 ᴿᴬᵂ
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=1968688&extension=ts&play_token=I51ojr50SL
+#EXTINF:-1 tvg-id="hubsports7.sg" tvg-name="SG: HUB SPORTS 7 ᴿᴬᵂ" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/15077.png?73402" group-title="HUB SPORT",SG: HUB SPORTS 7 ᴿᴬᵂ
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=1968687&extension=ts&play_token=aiflcZz4pe
+#EXTINF:-1 tvg-id="hubsports8.sg" tvg-name="SG: HUB SPORTS 8 ᴿᴬᵂ" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/15077.png?73402" group-title="HUB SPORT",SG: HUB SPORTS 8 ᴿᴬᵂ
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=1968686&extension=ts&play_token=nnMnqaHOzQ
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: HUB SPORTS 1 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11571.jpg?94789" group-title="HUB SPORT",SPORTS: HUB SPORTS 1 HD
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=444699&extension=ts&play_token=5NPsUWquQA
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: HUB SPORTS 2 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11571.jpg?94789" group-title="HUB SPORT",SPORTS: HUB SPORTS 2 HD
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=444698&extension=ts&play_token=bdE3HNDMwI
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: HUB SPORTS 3 HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11571.jpg?94789" group-title="HUB SPORT",SPORTS: HUB SPORTS 3 HD
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:2D:86&stream=444697&extension=ts&play_token=iZ751DYqWj
