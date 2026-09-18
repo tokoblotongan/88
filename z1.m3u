@@ -1161,3 +1161,666 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=246&exte
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=75&extension=ts&play_token=2HozeCm3su
 #EXTINF:-1 tvg-id="" tvg-name="┃AL┃ ATV HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/ATV.png" group-title="MIX",┃AL┃ ATV HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:50:1E:E5&stream=37&extension=ts&play_token=16ds5gVfzK
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="MG| MOTOGP AMBIENT" tvg-logo="http://51.158.145.100/picons/logos/PPV/F1.png" group-title="MotoGP -2027/02",MG| MOTOGP AMBIENT
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=920216&extension=ts&play_token=84mwZkIauy
+#EXTINF:-1 tvg-id="" tvg-name="MG| MOTOGP 360" tvg-logo="http://51.158.145.100/picons/logos/PPV/F1.png" group-title="MotoGP -2027/02",MG| MOTOGP 360
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=920218&extension=ts&play_token=PjmtqeClhW
+#EXTINF:-1 tvg-id="" tvg-name="MG| MOTOGP CANAL+" tvg-logo="http://51.158.145.100/picons/logos/PPV/F1.png" group-title="MotoGP -2027/02",MG| MOTOGP CANAL+
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=317816&extension=ts&play_token=2O5c28z7ZT
+#EXTINF:-1 tvg-id="" tvg-name="MG| MOTOGP COMMENTARY" tvg-logo="http://51.158.145.100/picons/logos/PPV/F1.png" group-title="MotoGP -2027/02",MG| MOTOGP COMMENTARY
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=920215&extension=ts&play_token=YctR1Ko02F
+#EXTINF:-1 tvg-id="" tvg-name="MG| MOTOGP EVENT 1" tvg-logo="http://51.158.145.100/picons/logos/PPV/F1.png" group-title="MotoGP -2027/02",MG| MOTOGP EVENT 1
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=317813&extension=ts&play_token=qP4S4JIN5k
+#EXTINF:-1 tvg-id="" tvg-name="MG| MOTOGP EVENT 2" tvg-logo="http://51.158.145.100/picons/logos/PPV/F1.png" group-title="MotoGP -2027/02",MG| MOTOGP EVENT 2
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=920211&extension=ts&play_token=34xbGBVcup
+#EXTINF:-1 tvg-id="" tvg-name="MG| MOTOGP EVENT 3" tvg-logo="http://51.158.145.100/picons/logos/PPV/F1.png" group-title="MotoGP -2027/02",MG| MOTOGP EVENT 3
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=920212&extension=ts&play_token=0BV9mhVisF
+#EXTINF:-1 tvg-id="" tvg-name="MG| MOTOGP HELICOPTER" tvg-logo="http://51.158.145.100/picons/logos/PPV/F1.png" group-title="MotoGP -2027/02",MG| MOTOGP HELICOPTER
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=920217&extension=ts&play_token=idrATPDXfn
+#EXTINF:-1 tvg-id="" tvg-name="MG| MOTOGP LIVE TIMING" tvg-logo="http://51.158.145.100/picons/logos/PPV/F1.png" group-title="MotoGP -2027/02",MG| MOTOGP LIVE TIMING
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=920213&extension=ts&play_token=lZwuGjvNrx
+#EXTINF:-1 tvg-id="" tvg-name="MG| MOTOGP LIVE TRACKING" tvg-logo="http://51.158.145.100/picons/logos/PPV/F1.png" group-title="MotoGP -2027/02",MG| MOTOGP LIVE TRACKING
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=920214&extension=ts&play_token=g02m3wFtBi
+#EXTINF:-1 tvg-id="" tvg-name="MG| MOTOGP ON BOARD 1" tvg-logo="http://51.158.145.100/picons/logos/PPV/F1.png" group-title="MotoGP -2027/02",MG| MOTOGP ON BOARD 1
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=317809&extension=ts&play_token=dEzbgERV4w
+#EXTINF:-1 tvg-id="" tvg-name="MG| MOTOGP ON BOARD 2" tvg-logo="http://51.158.145.100/picons/logos/PPV/F1.png" group-title="MotoGP -2027/02",MG| MOTOGP ON BOARD 2
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=317810&extension=ts&play_token=1iMjfCW2fm
+#EXTINF:-1 tvg-id="" tvg-name="MG| MOTOGP ON BOARD 3" tvg-logo="http://51.158.145.100/picons/logos/PPV/F1.png" group-title="MotoGP -2027/02",MG| MOTOGP ON BOARD 3
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=317811&extension=ts&play_token=7fETQT6Vq2
+#EXTINF:-1 tvg-id="" tvg-name="MG| MOTOGP ON BOARD 4" tvg-logo="http://51.158.145.100/picons/logos/PPV/F1.png" group-title="MotoGP -2027/02",MG| MOTOGP ON BOARD 4
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=317812&extension=ts&play_token=wKZ1puluK6
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ART SPORT 1 HD" tvg-logo="http://picons.cmshulk.com/picons/116245.png" group-title="ART SPORT 27/02",ALB| ART SPORT 1 HD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=116245&extension=ts&play_token=xFK0lKVY51
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ART SPORT 2 HD" tvg-logo="http://picons.cmshulk.com/picons/116244.png" group-title="ART SPORT 27/02",ALB| ART SPORT 2 HD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=116244&extension=ts&play_token=WqZ5zKBwei
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ART SPORT 3 HD" tvg-logo="http://picons.cmshulk.com/picons/116243.png" group-title="ART SPORT 27/02",ALB| ART SPORT 3 HD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=116243&extension=ts&play_token=eH4rW51Suf
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ART SPORT 4 HD" tvg-logo="http://picons.cmshulk.com/picons/1033371.png" group-title="ART SPORT 27/02",ALB| ART SPORT 4 HD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1033371&extension=ts&play_token=TEequBu2tC
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ART SPORT 5 HD" tvg-logo="http://picons.cmshulk.com/picons/1033372.png" group-title="ART SPORT 27/02",ALB| ART SPORT 5 HD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1033372&extension=ts&play_token=U2wBY0Liyz
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ART SPORT 6 HD" tvg-logo="http://picons.cmshulk.com/picons/1033373.png" group-title="ART SPORT 27/02",ALB| ART SPORT 6 HD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1033373&extension=ts&play_token=Tms01QZZ9P
+#EXTINF:-1 tvg-id="" tvg-name="CA| ROGERS SUPER SPORTS PACK 1" tvg-logo="http://51.158.145.100/picons/logos/CANADA/ROGERS-SUPER-SPORTS.png" group-title="ROGER SPORT 27/02",CA| ROGERS SUPER SPORTS PACK 1
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1618997&extension=ts&play_token=Tt5MdAeFFL
+#EXTINF:-1 tvg-id="" tvg-name="CA| ROGERS SUPER SPORTS PACK 10" tvg-logo="http://51.158.145.100/picons/logos/CANADA/ROGERS-SUPER-SPORTS.png" group-title="ROGER SPORT 27/02",CA| ROGERS SUPER SPORTS PACK 10
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1618996&extension=ts&play_token=41u12CXxGF
+#EXTINF:-1 tvg-id="" tvg-name="CA| ROGERS SUPER SPORTS PACK 11" tvg-logo="http://51.158.145.100/picons/logos/CANADA/ROGERS-SUPER-SPORTS.png" group-title="ROGER SPORT 27/02",CA| ROGERS SUPER SPORTS PACK 11
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1619014&extension=ts&play_token=OavM6Z7yYl
+#EXTINF:-1 tvg-id="" tvg-name="CA| ROGERS SUPER SPORTS PACK 12" tvg-logo="http://51.158.145.100/picons/logos/CANADA/ROGERS-SUPER-SPORTS.png" group-title="ROGER SPORT 27/02",CA| ROGERS SUPER SPORTS PACK 12
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1618995&extension=ts&play_token=1M8saBPmYV
+#EXTINF:-1 tvg-id="" tvg-name="CA| ROGERS SUPER SPORTS PACK 12" tvg-logo="http://51.158.145.100/picons/logos/CANADA/ROGERS-SUPER-SPORTS.png" group-title="ROGER SPORT 27/02",CA| ROGERS SUPER SPORTS PACK 12
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1619013&extension=ts&play_token=gI2pwPMSBY
+#EXTINF:-1 tvg-id="" tvg-name="CA| ROGERS SUPER SPORTS PACK 13" tvg-logo="http://51.158.145.100/picons/logos/CANADA/ROGERS-SUPER-SPORTS.png" group-title="ROGER SPORT 27/02",CA| ROGERS SUPER SPORTS PACK 13
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1618994&extension=ts&play_token=lLwWoNAmps
+#EXTINF:-1 tvg-id="" tvg-name="CA| ROGERS SUPER SPORTS PACK 13" tvg-logo="http://51.158.145.100/picons/logos/CANADA/ROGERS-SUPER-SPORTS.png" group-title="ROGER SPORT 27/02",CA| ROGERS SUPER SPORTS PACK 13
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1619012&extension=ts&play_token=fm4pfGRbGU
+#EXTINF:-1 tvg-id="" tvg-name="CA| ROGERS SUPER SPORTS PACK 14" tvg-logo="http://51.158.145.100/picons/logos/CANADA/ROGERS-SUPER-SPORTS.png" group-title="ROGER SPORT 27/02",CA| ROGERS SUPER SPORTS PACK 14
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1618993&extension=ts&play_token=fbFKgktSbK
+#EXTINF:-1 tvg-id="" tvg-name="CA| ROGERS SUPER SPORTS PACK 14" tvg-logo="http://51.158.145.100/picons/logos/CANADA/ROGERS-SUPER-SPORTS.png" group-title="ROGER SPORT 27/02",CA| ROGERS SUPER SPORTS PACK 14
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1619011&extension=ts&play_token=pYQZ7tKXT8
+#EXTINF:-1 tvg-id="" tvg-name="CA| ROGERS SUPER SPORTS PACK 15" tvg-logo="http://51.158.145.100/picons/logos/CANADA/ROGERS-SUPER-SPORTS.png" group-title="ROGER SPORT 27/02",CA| ROGERS SUPER SPORTS PACK 15
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1618992&extension=ts&play_token=BxVP25lZtX
+#EXTINF:-1 tvg-id="" tvg-name="CA| ROGERS SUPER SPORTS PACK 15" tvg-logo="http://51.158.145.100/picons/logos/CANADA/ROGERS-SUPER-SPORTS.png" group-title="ROGER SPORT 27/02",CA| ROGERS SUPER SPORTS PACK 15
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1619010&extension=ts&play_token=3wsuicwMAp
+#EXTINF:-1 tvg-id="" tvg-name="CA| ROGERS SUPER SPORTS PACK 16" tvg-logo="http://51.158.145.100/picons/logos/CANADA/ROGERS-SUPER-SPORTS.png" group-title="ROGER SPORT 27/02",CA| ROGERS SUPER SPORTS PACK 16
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1618991&extension=ts&play_token=pMjianBhbR
+#EXTINF:-1 tvg-id="" tvg-name="CA| ROGERS SUPER SPORTS PACK 16" tvg-logo="http://51.158.145.100/picons/logos/CANADA/ROGERS-SUPER-SPORTS.png" group-title="ROGER SPORT 27/02",CA| ROGERS SUPER SPORTS PACK 16
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1619009&extension=ts&play_token=7FgcwGtRdo
+#EXTINF:-1 tvg-id="" tvg-name="CA| ROGERS SUPER SPORTS PACK 17" tvg-logo="http://51.158.145.100/picons/logos/CANADA/ROGERS-SUPER-SPORTS.png" group-title="ROGER SPORT 27/02",CA| ROGERS SUPER SPORTS PACK 17
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1618990&extension=ts&play_token=avVsnCIZTe
+#EXTINF:-1 tvg-id="" tvg-name="CA| ROGERS SUPER SPORTS PACK 17" tvg-logo="http://51.158.145.100/picons/logos/CANADA/ROGERS-SUPER-SPORTS.png" group-title="ROGER SPORT 27/02",CA| ROGERS SUPER SPORTS PACK 17
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1619008&extension=ts&play_token=YhgYWoNPxO
+#EXTINF:-1 tvg-id="" tvg-name="CA| ROGERS SUPER SPORTS PACK 18" tvg-logo="http://51.158.145.100/picons/logos/CANADA/ROGERS-SUPER-SPORTS.png" group-title="ROGER SPORT 27/02",CA| ROGERS SUPER SPORTS PACK 18
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1618989&extension=ts&play_token=GqjWucY3FB
+#EXTINF:-1 tvg-id="" tvg-name="CA| ROGERS SUPER SPORTS PACK 18" tvg-logo="http://51.158.145.100/picons/logos/CANADA/ROGERS-SUPER-SPORTS.png" group-title="ROGER SPORT 27/02",CA| ROGERS SUPER SPORTS PACK 18
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1619007&extension=ts&play_token=ugv9lIZKOV
+#EXTINF:-1 tvg-id="" tvg-name="CA| ROGERS SUPER SPORTS PACK 19" tvg-logo="http://51.158.145.100/picons/logos/CANADA/ROGERS-SUPER-SPORTS.png" group-title="ROGER SPORT 27/02",CA| ROGERS SUPER SPORTS PACK 19
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1618988&extension=ts&play_token=68PYv3YThV
+#EXTINF:-1 tvg-id="" tvg-name="CA| ROGERS SUPER SPORTS PACK 19" tvg-logo="http://51.158.145.100/picons/logos/CANADA/ROGERS-SUPER-SPORTS.png" group-title="ROGER SPORT 27/02",CA| ROGERS SUPER SPORTS PACK 19
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1619006&extension=ts&play_token=tICZJ28FAq
+#EXTINF:-1 tvg-id="" tvg-name="CA| ROGERS SUPER SPORTS PACK 2" tvg-logo="http://51.158.145.100/picons/logos/CANADA/ROGERS-SUPER-SPORTS.png" group-title="ROGER SPORT 27/02",CA| ROGERS SUPER SPORTS PACK 2
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1618987&extension=ts&play_token=k4mTw2iIoG
+#EXTINF:-1 tvg-id="" tvg-name="CA| ROGERS SUPER SPORTS PACK 20" tvg-logo="http://51.158.145.100/picons/logos/CANADA/ROGERS-SUPER-SPORTS.png" group-title="ROGER SPORT 27/02",CA| ROGERS SUPER SPORTS PACK 20
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1618986&extension=ts&play_token=7KoX2pslc2
+#EXTINF:-1 tvg-id="" tvg-name="CA| ROGERS SUPER SPORTS PACK 21" tvg-logo="http://51.158.145.100/picons/logos/CANADA/ROGERS-SUPER-SPORTS.png" group-title="ROGER SPORT 27/02",CA| ROGERS SUPER SPORTS PACK 21
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1618985&extension=ts&play_token=EGpAelT9DX
+#EXTINF:-1 tvg-id="" tvg-name="CA| ROGERS SUPER SPORTS PACK 22" tvg-logo="http://51.158.145.100/picons/logos/CANADA/ROGERS-SUPER-SPORTS.png" group-title="ROGER SPORT 27/02",CA| ROGERS SUPER SPORTS PACK 22
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1618984&extension=ts&play_token=JCKsTVwugU
+#EXTINF:-1 tvg-id="" tvg-name="CA| ROGERS SUPER SPORTS PACK 23" tvg-logo="http://51.158.145.100/picons/logos/CANADA/ROGERS-SUPER-SPORTS.png" group-title="ROGER SPORT 27/02",CA| ROGERS SUPER SPORTS PACK 23
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1618983&extension=ts&play_token=wd53xmkb6Q
+#EXTINF:-1 tvg-id="" tvg-name="CA| ROGERS SUPER SPORTS PACK 24" tvg-logo="http://51.158.145.100/picons/logos/CANADA/ROGERS-SUPER-SPORTS.png" group-title="ROGER SPORT 27/02",CA| ROGERS SUPER SPORTS PACK 24
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1618982&extension=ts&play_token=5lUWInLPXT
+#EXTINF:-1 tvg-id="" tvg-name="CA| ROGERS SUPER SPORTS PACK 3" tvg-logo="http://51.158.145.100/picons/logos/CANADA/ROGERS-SUPER-SPORTS.png" group-title="ROGER SPORT 27/02",CA| ROGERS SUPER SPORTS PACK 3
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1618981&extension=ts&play_token=fO4BARARpT
+#EXTINF:-1 tvg-id="" tvg-name="CA| ROGERS SUPER SPORTS PACK 33" tvg-logo="http://51.158.145.100/picons/logos/CANADA/ROGERS-SUPER-SPORTS.png" group-title="ROGER SPORT 27/02",CA| ROGERS SUPER SPORTS PACK 33
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1619005&extension=ts&play_token=xRJtEDUQZr
+#EXTINF:-1 tvg-id="" tvg-name="CA| ROGERS SUPER SPORTS PACK 36" tvg-logo="http://51.158.145.100/picons/logos/CANADA/ROGERS-SUPER-SPORTS.png" group-title="ROGER SPORT 27/02",CA| ROGERS SUPER SPORTS PACK 36
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1619004&extension=ts&play_token=h1AV2qEyvG
+#EXTINF:-1 tvg-id="" tvg-name="CA| ROGERS SUPER SPORTS PACK 37" tvg-logo="http://51.158.145.100/picons/logos/CANADA/ROGERS-SUPER-SPORTS.png" group-title="ROGER SPORT 27/02",CA| ROGERS SUPER SPORTS PACK 37
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1619003&extension=ts&play_token=qkKkm1X6nK
+#EXTINF:-1 tvg-id="" tvg-name="CA| ROGERS SUPER SPORTS PACK 38" tvg-logo="http://51.158.145.100/picons/logos/CANADA/ROGERS-SUPER-SPORTS.png" group-title="ROGER SPORT 27/02",CA| ROGERS SUPER SPORTS PACK 38
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1619002&extension=ts&play_token=tkdbdyrPUI
+#EXTINF:-1 tvg-id="" tvg-name="CA| ROGERS SUPER SPORTS PACK 39" tvg-logo="http://51.158.145.100/picons/logos/CANADA/ROGERS-SUPER-SPORTS.png" group-title="ROGER SPORT 27/02",CA| ROGERS SUPER SPORTS PACK 39
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1619001&extension=ts&play_token=bmcDjhU92Z
+#EXTINF:-1 tvg-id="" tvg-name="CA| ROGERS SUPER SPORTS PACK 4" tvg-logo="http://51.158.145.100/picons/logos/CANADA/ROGERS-SUPER-SPORTS.png" group-title="ROGER SPORT 27/02",CA| ROGERS SUPER SPORTS PACK 4
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1618980&extension=ts&play_token=yVUF8UlS6D
+#EXTINF:-1 tvg-id="" tvg-name="CA| ROGERS SUPER SPORTS PACK 40" tvg-logo="http://51.158.145.100/picons/logos/CANADA/ROGERS-SUPER-SPORTS.png" group-title="ROGER SPORT 27/02",CA| ROGERS SUPER SPORTS PACK 40
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1619000&extension=ts&play_token=zi9YN06pHF
+#EXTINF:-1 tvg-id="" tvg-name="CA| ROGERS SUPER SPORTS PACK 41" tvg-logo="http://51.158.145.100/picons/logos/CANADA/ROGERS-SUPER-SPORTS.png" group-title="ROGER SPORT 27/02",CA| ROGERS SUPER SPORTS PACK 41
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1618999&extension=ts&play_token=4Z99WRb0L9
+#EXTINF:-1 tvg-id="" tvg-name="CA| ROGERS SUPER SPORTS PACK 5" tvg-logo="http://51.158.145.100/picons/logos/CANADA/ROGERS-SUPER-SPORTS.png" group-title="ROGER SPORT 27/02",CA| ROGERS SUPER SPORTS PACK 5
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1618979&extension=ts&play_token=8OnvuvBpSS
+#EXTINF:-1 tvg-id="" tvg-name="CA| ROGERS SUPER SPORTS PACK 6" tvg-logo="http://51.158.145.100/picons/logos/CANADA/ROGERS-SUPER-SPORTS.png" group-title="ROGER SPORT 27/02",CA| ROGERS SUPER SPORTS PACK 6
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1618978&extension=ts&play_token=6ovgnpdQFk
+#EXTINF:-1 tvg-id="" tvg-name="CA| ROGERS SUPER SPORTS PACK 7" tvg-logo="http://51.158.145.100/picons/logos/CANADA/ROGERS-SUPER-SPORTS.png" group-title="ROGER SPORT 27/02",CA| ROGERS SUPER SPORTS PACK 7
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1618977&extension=ts&play_token=1p6F9h2z8O
+#EXTINF:-1 tvg-id="" tvg-name="CA| ROGERS SUPER SPORTS PACK 8" tvg-logo="http://51.158.145.100/picons/logos/CANADA/ROGERS-SUPER-SPORTS.png" group-title="ROGER SPORT 27/02",CA| ROGERS SUPER SPORTS PACK 8
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1618976&extension=ts&play_token=usNC082S7t
+#EXTINF:-1 tvg-id="" tvg-name="CA| ROGERS SUPER SPORTS PACK 9" tvg-logo="http://51.158.145.100/picons/logos/CANADA/ROGERS-SUPER-SPORTS.png" group-title="ROGER SPORT 27/02",CA| ROGERS SUPER SPORTS PACK 9
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1618998&extension=ts&play_token=ZsBKmw8pTM
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ARENA SPORT 1 PREMIUM ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1720079.png" group-title="ARENA SPORT 27/02",ALB| ARENA SPORT 1 PREMIUM ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1720079&extension=ts&play_token=CAeSRVsuoD
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ARENA SPORT 1 RS ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1720089.png" group-title="ARENA SPORT 27/02",ALB| ARENA SPORT 1 RS ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1720089&extension=ts&play_token=n8hEEl4PJT
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ARENA SPORT 10 RS ᴿᴬᵂ" tvg-logo="https://logo.protv.cc/piconsnew/arenasport10hd.png" group-title="ARENA SPORT 27/02",ALB| ARENA SPORT 10 RS ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1720080&extension=ts&play_token=EMn6ea5nrI
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ARENA SPORT 1X2 ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1720076.png" group-title="ARENA SPORT 27/02",ALB| ARENA SPORT 1X2 ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1720076&extension=ts&play_token=DXbAvPQdqg
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ARENA SPORT 2 PREMIUM ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1720078.png" group-title="ARENA SPORT 27/02",ALB| ARENA SPORT 2 PREMIUM ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1720078&extension=ts&play_token=o9kAFw0sPt
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ARENA SPORT 2 RS ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1720088.png" group-title="ARENA SPORT 27/02",ALB| ARENA SPORT 2 RS ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1720088&extension=ts&play_token=EZhde2UkEx
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ARENA SPORT 3 PREMIUM ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1720077.png" group-title="ARENA SPORT 27/02",ALB| ARENA SPORT 3 PREMIUM ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1720077&extension=ts&play_token=nNhzRkunBO
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ARENA SPORT 3 RS ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1720087.png" group-title="ARENA SPORT 27/02",ALB| ARENA SPORT 3 RS ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1720087&extension=ts&play_token=SOBfusXk6c
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ARENA SPORT 4 RS ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1720086.png" group-title="ARENA SPORT 27/02",ALB| ARENA SPORT 4 RS ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1720086&extension=ts&play_token=P1ZfIDdnFF
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ARENA SPORT 5 RS ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1720085.png" group-title="ARENA SPORT 27/02",ALB| ARENA SPORT 5 RS ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1720085&extension=ts&play_token=PA6GDsg24j
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ARENA SPORT 6 RS ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1720084.png" group-title="ARENA SPORT 27/02",ALB| ARENA SPORT 6 RS ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1720084&extension=ts&play_token=mvcLAtgCrp
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ARENA SPORT 7 RS ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1720083.png" group-title="ARENA SPORT 27/02",ALB| ARENA SPORT 7 RS ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1720083&extension=ts&play_token=arskMq1830
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ARENA SPORT 8 RS ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1720082.png" group-title="ARENA SPORT 27/02",ALB| ARENA SPORT 8 RS ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1720082&extension=ts&play_token=0Vb039bxSG
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ARENA SPORT 9 RS ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1720081.png" group-title="ARENA SPORT 27/02",ALB| ARENA SPORT 9 RS ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1720081&extension=ts&play_token=jbOne8i4SV
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ARENA SPORTS 1 HR ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1720074.png" group-title="ARENA SPORT 27/02",ALB| ARENA SPORTS 1 HR ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1720074&extension=ts&play_token=U7tKMV8eYu
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ARENA SPORTS 10 HR ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1720065.png" group-title="ARENA SPORT 27/02",ALB| ARENA SPORTS 10 HR ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1720065&extension=ts&play_token=4JZxGbxK2t
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ARENA SPORTS 2 HR ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1720073.png" group-title="ARENA SPORT 27/02",ALB| ARENA SPORTS 2 HR ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1720073&extension=ts&play_token=29t4q6kOpQ
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ARENA SPORTS 3 HR ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1720072.png" group-title="ARENA SPORT 27/02",ALB| ARENA SPORTS 3 HR ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1720072&extension=ts&play_token=jdktWrmHyL
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ARENA SPORTS 4 HR ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1720071.png" group-title="ARENA SPORT 27/02",ALB| ARENA SPORTS 4 HR ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1720071&extension=ts&play_token=NTVaKjod3v
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ARENA SPORTS 5 HR ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1720070.png" group-title="ARENA SPORT 27/02",ALB| ARENA SPORTS 5 HR ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1720070&extension=ts&play_token=N74WNe0rfR
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ARENA SPORTS 6 HR ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1720069.png" group-title="ARENA SPORT 27/02",ALB| ARENA SPORTS 6 HR ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1720069&extension=ts&play_token=X5xOL5MHTq
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ARENA SPORTS 7 HR ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1720068.png" group-title="ARENA SPORT 27/02",ALB| ARENA SPORTS 7 HR ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1720068&extension=ts&play_token=OvKnThXx76
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ARENA SPORTS 8 HR ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1720067.png" group-title="ARENA SPORT 27/02",ALB| ARENA SPORTS 8 HR ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1720067&extension=ts&play_token=6Q9DTinO9f
+#EXTINF:-1 tvg-id="" tvg-name="ALB| ARENA SPORTS 9 HR ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1720066.png" group-title="ARENA SPORT 27/02",ALB| ARENA SPORTS 9 HR ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1720066&extension=ts&play_token=RF9UnWvkRY
+#EXTINF:-1 tvg-id="NBCSportsBayArea.us" tvg-name="US| NBC SPORTS BAY AREA" tvg-logo="http://51.158.145.100/picons/logos/USA/234675.png" group-title="ARENA SPORT 27/02",US| NBC SPORTS BAY AREA
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=234675&extension=ts&play_token=KzQFKQcYrC
+#EXTINF:-1 tvg-id="" tvg-name="PRIME| FUBO SPORTS NETWORK 2 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/CANADA/1920775.png" group-title="FUBO 27/02",PRIME| FUBO SPORTS NETWORK 2 ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1920775&extension=ts&play_token=Si5NG8RvV0
+#EXTINF:-1 tvg-id="" tvg-name="PRIME| FUBO SPORTS NETWORK ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/CANADA/1920776.png" group-title="FUBO 27/02",PRIME| FUBO SPORTS NETWORK ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1920776&extension=ts&play_token=mhiioHPUq1
+#EXTINF:-1 tvg-id="" tvg-name="US| FUBO SPORTS 1 HD" tvg-logo="http://51.158.145.100/picons/logos/USA/738902.png" group-title="FUBO 27/02",US| FUBO SPORTS 1 HD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=738902&extension=ts&play_token=hS9db6XW7A
+#EXTINF:-1 tvg-id="" tvg-name="US| FUBO SPORTS 2 HD" tvg-logo="http://51.158.145.100/picons/logos/USA/738901.png" group-title="FUBO 27/02",US| FUBO SPORTS 2 HD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=738901&extension=ts&play_token=K4Wo5ROAd9
+#EXTINF:-1 tvg-id="FuboSportsNetwork.us" tvg-name="US| FUBO SPORTS NETWORK HD" tvg-logo="http://51.158.145.100/picons/logos/USA/91895.png" group-title="FUBO 27/02",US| FUBO SPORTS NETWORK HD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=91895&extension=ts&play_token=GhfgcOjVMt
+#EXTINF:-1 tvg-id="" tvg-name="PRIME| NBC SPORTS NOW ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/USA/1920028.png" group-title="NBC 27/02",PRIME| NBC SPORTS NOW ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1920028&extension=ts&play_token=PPScETYqsH
+#EXTINF:-1 tvg-id="SportsBoston.us" tvg-name="US| NBC SPORTS BOSTON" tvg-logo="http://51.158.145.100/picons/logos/USA/1614326.png" group-title="NBC 27/02",US| NBC SPORTS BOSTON
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1614326&extension=ts&play_token=w9UFjesiX3
+#EXTINF:-1 tvg-id="NBCSportsCalifornia.us" tvg-name="US| NBC SPORTS CALIFORNIA" tvg-logo="http://51.158.145.100/picons/logos/USA/234673.png" group-title="NBC 27/02",US| NBC SPORTS CALIFORNIA
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=234673&extension=ts&play_token=8nMe9SHiJO
+#EXTINF:-1 tvg-id="NBCSportsChicago.us" tvg-name="US| NBC SPORTS CHICAGO" tvg-logo="http://51.158.145.100/picons/logos/USA/234674.png" group-title="NBC 27/02",US| NBC SPORTS CHICAGO
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=234674&extension=ts&play_token=tdPzbhs0MR
+#EXTINF:-1 tvg-id="us.NBC Sports Chicago Plus HD" tvg-name="US| NBC SPORTS CHICAGO PLUS" tvg-logo="http://51.158.145.100/picons/logos/USA/90944.png" group-title="NBC 27/02",US| NBC SPORTS CHICAGO PLUS
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=90944&extension=ts&play_token=327812RPHv
+#EXTINF:-1 tvg-id="NBCSportsNetwork.us" tvg-name="US| NBC SPORTS NETWORK" tvg-logo="http://51.158.145.100/picons/logos/USA/234677.png" group-title="NBC 27/02",US| NBC SPORTS NETWORK
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=234677&extension=ts&play_token=O7G1YGqxkl
+#EXTINF:-1 tvg-id="NBCSportsPhiladelphia.us" tvg-name="US| NBC SPORTS PHILADELFIA" tvg-logo="http://51.158.145.100/picons/logos/USA/234671.png" group-title="NBC 27/02",US| NBC SPORTS PHILADELFIA
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=234671&extension=ts&play_token=44XhsclSNs
+#EXTINF:-1 tvg-id="" tvg-name="US| NBC SPORTS UHD/4K" tvg-logo="http://51.158.145.100/picons/logos/USA/1124350.png" group-title="NBC 27/02",US| NBC SPORTS UHD/4K
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1124350&extension=ts&play_token=WpwGPP7Czl
+#EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-name="US| NBC SPORTS WASHINGTON" tvg-logo="http://51.158.145.100/picons/logos/USA/234672.png" group-title="NBC 27/02",US| NBC SPORTS WASHINGTON
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=234672&extension=ts&play_token=1mlIVdp5Rs
+#EXTINF:-1 tvg-id="" tvg-name="ALB| EUROSPORT 1 HR ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1720048.png" group-title="ALB 27/02",ALB| EUROSPORT 1 HR ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1720048&extension=ts&play_token=Md2iirGDdf
+#EXTINF:-1 tvg-id="" tvg-name="ALB| EUROSPORT 1 ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1720092.png" group-title="ALB 27/02",ALB| EUROSPORT 1 ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1720092&extension=ts&play_token=5TieXGTuop
+#EXTINF:-1 tvg-id="" tvg-name="ALB| EUROSPORT 2 HR ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1720047.png" group-title="ALB 27/02",ALB| EUROSPORT 2 HR ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1720047&extension=ts&play_token=bn8xBMKqzS
+#EXTINF:-1 tvg-id="" tvg-name="ALB| EUROSPORT 2 ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1720091.png" group-title="ALB 27/02",ALB| EUROSPORT 2 ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1720091&extension=ts&play_token=sS2mzgeXP3
+#EXTINF:-1 tvg-id="" tvg-name="ALB| K SPORT 1 HD" tvg-logo="http://picons.cmshulk.com/picons/116257.png" group-title="ALB 27/02",ALB| K SPORT 1 HD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=116257&extension=ts&play_token=82p6AkQ8Jq
+#EXTINF:-1 tvg-id="" tvg-name="ALB| K SPORT 1 ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1720098.png" group-title="ALB 27/02",ALB| K SPORT 1 ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1720098&extension=ts&play_token=hWoHdh9gkR
+#EXTINF:-1 tvg-id="" tvg-name="ALB| K SPORT 2 HD" tvg-logo="http://picons.cmshulk.com/picons/116258.png" group-title="ALB 27/02",ALB| K SPORT 2 HD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=116258&extension=ts&play_token=12oJIqBF9J
+#EXTINF:-1 tvg-id="" tvg-name="ALB| K SPORT 2 ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1720097.png" group-title="ALB 27/02",ALB| K SPORT 2 ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1720097&extension=ts&play_token=lAvDK7w4aj
+#EXTINF:-1 tvg-id="" tvg-name="ALB| K SPORT 3 HD" tvg-logo="http://picons.cmshulk.com/picons/116259.png" group-title="ALB 27/02",ALB| K SPORT 3 HD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=116259&extension=ts&play_token=xsk3tUBldp
+#EXTINF:-1 tvg-id="" tvg-name="ALB| K SPORT 3 ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1720096.png" group-title="ALB 27/02",ALB| K SPORT 3 ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1720096&extension=ts&play_token=tJwgA12rB7
+#EXTINF:-1 tvg-id="" tvg-name="ALB| K SPORT 4 HD" tvg-logo="http://picons.cmshulk.com/picons/116260.png" group-title="ALB 27/02",ALB| K SPORT 4 HD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=116260&extension=ts&play_token=hs4zUzbGWm
+#EXTINF:-1 tvg-id="" tvg-name="ALB| K SPORT 4 ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1720095.png" group-title="ALB 27/02",ALB| K SPORT 4 ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1720095&extension=ts&play_token=hRiPHrpUNS
+#EXTINF:-1 tvg-id="" tvg-name="ALB| K SPORT 5 HD" tvg-logo="http://picons.cmshulk.com/picons/116247.png" group-title="ALB 27/02",ALB| K SPORT 5 HD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=116247&extension=ts&play_token=bbP65Ajj69
+#EXTINF:-1 tvg-id="" tvg-name="ALB| K SPORT 5 ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1720094.png" group-title="ALB 27/02",ALB| K SPORT 5 ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1720094&extension=ts&play_token=nxUo9mWUJ4
+#EXTINF:-1 tvg-id="" tvg-name="ALB| MAX SPORT 1 HR ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1720064.png" group-title="ALB 27/02",ALB| MAX SPORT 1 HR ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1720064&extension=ts&play_token=DDA7Utq7AS
+#EXTINF:-1 tvg-id="" tvg-name="ALB| MAX SPORT 2 HR ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1720063.png" group-title="ALB 27/02",ALB| MAX SPORT 2 HR ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1720063&extension=ts&play_token=k01j1hf4vs
+#EXTINF:-1 tvg-id="RTSHSport.al" tvg-name="ALB| RTSH SPORT 4K" tvg-logo="http://picons.cmshulk.com/picons/116136.png" group-title="ALB 27/02",ALB| RTSH SPORT 4K
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=116136&extension=ts&play_token=nHytxP9d6Q
+#EXTINF:-1 tvg-id="" tvg-name="ALB| RTSH SPORT ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1720093.png" group-title="ALB 27/02",ALB| RTSH SPORT ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1720093&extension=ts&play_token=Wf588Q0cLr
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SPORT 1 ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1720110.png" group-title="ALB 27/02",ALB| SPORT 1 ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1720110&extension=ts&play_token=g3OdddIJce
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SPORT 2 ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1720109.png" group-title="ALB 27/02",ALB| SPORT 2 ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1720109&extension=ts&play_token=3qiDBLjQEP
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SPORT 3 ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1720108.png" group-title="ALB 27/02",ALB| SPORT 3 ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1720108&extension=ts&play_token=2QsFcHGcME
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SPORT 4 ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1720107.png" group-title="ALB 27/02",ALB| SPORT 4 ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1720107&extension=ts&play_token=bS10B6xBoV
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SPORT 5 ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1720106.png" group-title="ALB 27/02",ALB| SPORT 5 ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1720106&extension=ts&play_token=WPn9TtWdMi
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SPORT 6 ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1720105.png" group-title="ALB 27/02",ALB| SPORT 6 ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1720105&extension=ts&play_token=rdbnvVxcyn
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SPORT KLUB 1 HR ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1720051.png" group-title="ALB 27/02",ALB| SPORT KLUB 1 HR ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1720051&extension=ts&play_token=NuhhRTYWUK
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SPORT KLUB 1 RS ᴿᴬᵂ" tvg-logo="https://logo.protv.cc/piconsnew/sportklub1.png" group-title="ALB 27/02",ALB| SPORT KLUB 1 RS ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1720062&extension=ts&play_token=2I0VDbRyOf
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SPORT KLUB 10 RS ᴿᴬᵂ" tvg-logo="https://logo.protv.cc/piconsnew/sportklubhd.png" group-title="ALB 27/02",ALB| SPORT KLUB 10 RS ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1720053&extension=ts&play_token=hSQ75hfrLv
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SPORT KLUB 2 HR ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1720050.png" group-title="ALB 27/02",ALB| SPORT KLUB 2 HR ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1720050&extension=ts&play_token=HxOczw3Qio
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SPORT KLUB 2 RS ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1720061.png" group-title="ALB 27/02",ALB| SPORT KLUB 2 RS ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1720061&extension=ts&play_token=uELZfWj3At
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SPORT KLUB 3 HR ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1720049.png" group-title="ALB 27/02",ALB| SPORT KLUB 3 HR ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1720049&extension=ts&play_token=yOLhgh4Lav
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SPORT KLUB 3 RS  ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1720060.png" group-title="ALB 27/02",ALB| SPORT KLUB 3 RS  ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1720060&extension=ts&play_token=qfgm4V48gN
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SPORT KLUB 4 RS ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/SPORT-KLUB-4.png" group-title="ALB 27/02",ALB| SPORT KLUB 4 RS ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1720059&extension=ts&play_token=7HOWET81er
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SPORT KLUB 5 RS ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/SPORT-KLUB-5.png" group-title="ALB 27/02",ALB| SPORT KLUB 5 RS ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1720058&extension=ts&play_token=sHCxA72Y7t
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SPORT KLUB 6 RS ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/SPORT-KLUB-6.png" group-title="ALB 27/02",ALB| SPORT KLUB 6 RS ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1720057&extension=ts&play_token=c3pQzJSLcR
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SPORT KLUB 7 RS ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/SPORT-KLUB-7.png" group-title="ALB 27/02",ALB| SPORT KLUB 7 RS ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1720056&extension=ts&play_token=SxFKSKNcuz
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SPORT KLUB 8 RS ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/SPORT-KLUB-8.png" group-title="ALB 27/02",ALB| SPORT KLUB 8 RS ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1720055&extension=ts&play_token=kVJ2cZk18v
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SPORT KLUB 9 RS ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/SPORT-KLUB-9.png" group-title="ALB 27/02",ALB| SPORT KLUB 9 RS ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1720054&extension=ts&play_token=bUDgf91T4T
+#EXTINF:-1 tvg-id="SuperSportKosova1.al" tvg-name="ALB| SUPER SPORT 1 4K" tvg-logo="http://picons.cmshulk.com/picons/116330.png" group-title="ALB 27/02",ALB| SUPER SPORT 1 4K
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=116330&extension=ts&play_token=771XwjDTyF
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SUPER SPORT 1 4K HEVC" tvg-logo="http://picons.cmshulk.com/picons/315174.png" group-title="ALB 27/02",ALB| SUPER SPORT 1 4K HEVC
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=315174&extension=ts&play_token=qJvQuH2AlL
+#EXTINF:-1 tvg-id="SuperSportKosova1.al" tvg-name="ALB| SUPER SPORT 1 HD" tvg-logo="http://picons.cmshulk.com/picons/116248.png" group-title="ALB 27/02",ALB| SUPER SPORT 1 HD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=116248&extension=ts&play_token=LYbUOnlLw1
+#EXTINF:-1 tvg-id="SuperSportKosova2.al" tvg-name="ALB| SUPER SPORT 2 4K" tvg-logo="http://picons.cmshulk.com/picons/116331.png" group-title="ALB 27/02",ALB| SUPER SPORT 2 4K
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=116331&extension=ts&play_token=mGg315C0jk
+#EXTINF:-1 tvg-id="SuperSport2.al" tvg-name="ALB| SUPER SPORT 2 4K HEVC" tvg-logo="http://picons.cmshulk.com/picons/315173.png" group-title="ALB 27/02",ALB| SUPER SPORT 2 4K HEVC
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=315173&extension=ts&play_token=4fg5TukQ8s
+#EXTINF:-1 tvg-id="SuperSport2.al" tvg-name="ALB| SUPER SPORT 2 HD" tvg-logo="http://picons.cmshulk.com/picons/116249.png" group-title="ALB 27/02",ALB| SUPER SPORT 2 HD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=116249&extension=ts&play_token=8JYtwFKyzr
+#EXTINF:-1 tvg-id="SuperSportKosova3.al" tvg-name="ALB| SUPER SPORT 3 4K" tvg-logo="http://picons.cmshulk.com/picons/116332.png" group-title="ALB 27/02",ALB| SUPER SPORT 3 4K
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=116332&extension=ts&play_token=fDdGcRhsro
+#EXTINF:-1 tvg-id="SuperSport3.al" tvg-name="ALB| SUPER SPORT 3 4K HEVC" tvg-logo="http://picons.cmshulk.com/picons/315172.png" group-title="ALB 27/02",ALB| SUPER SPORT 3 4K HEVC
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=315172&extension=ts&play_token=vndMvrHDE8
+#EXTINF:-1 tvg-id="SuperSport3.al" tvg-name="ALB| SUPER SPORT 3 HD" tvg-logo="http://picons.cmshulk.com/picons/116250.png" group-title="ALB 27/02",ALB| SUPER SPORT 3 HD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=116250&extension=ts&play_token=HYVffaWkgy
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SUPER SPORT 4 4K" tvg-logo="http://picons.cmshulk.com/picons/116333.png" group-title="ALB 27/02",ALB| SUPER SPORT 4 4K
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=116333&extension=ts&play_token=Ofs6sfXer8
+#EXTINF:-1 tvg-id="SuperSport4.al" tvg-name="ALB| SUPER SPORT 4 HD" tvg-logo="http://picons.cmshulk.com/picons/116251.png" group-title="ALB 27/02",ALB| SUPER SPORT 4 HD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=116251&extension=ts&play_token=IkOpmd1M7O
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SUPER SPORT 5 4K" tvg-logo="http://picons.cmshulk.com/picons/116334.png" group-title="ALB 27/02",ALB| SUPER SPORT 5 4K
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=116334&extension=ts&play_token=AQcHz10gvd
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SUPER SPORT 5 4K HEVC" tvg-logo="http://picons.cmshulk.com/picons/315170.png" group-title="ALB 27/02",ALB| SUPER SPORT 5 4K HEVC
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=315170&extension=ts&play_token=PcmKUPID6b
+#EXTINF:-1 tvg-id="SuperSport5.al" tvg-name="ALB| SUPER SPORT 5 HD" tvg-logo="http://picons.cmshulk.com/picons/116252.png" group-title="ALB 27/02",ALB| SUPER SPORT 5 HD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=116252&extension=ts&play_token=H60NhgrrK1
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SUPER SPORT 6 4K" tvg-logo="http://103.176.90.118/picons/logos/logos/SUPER-SPORT-6.png" group-title="ALB 27/02",ALB| SUPER SPORT 6 4K
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=116335&extension=ts&play_token=JYsVfM4DzC
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SUPER SPORT 6 HD" tvg-logo="http://103.176.90.118/picons/logos/logos/SUPER-SPORT-6.png" group-title="ALB 27/02",ALB| SUPER SPORT 6 HD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=116253&extension=ts&play_token=JQ8uXSY6fF
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SUPER SPORT 7 4K" tvg-logo="http://103.176.90.118/picons/logos/logos/SUPER-SPORT-KOSOVA-1.png" group-title="ALB 27/02",ALB| SUPER SPORT 7 4K
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=116336&extension=ts&play_token=0szqdsWVqn
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SUPER SPORT KOSOVA 1" tvg-logo="http://103.176.90.118/picons/logos/logos/SUPER-SPORT-KOSOVA-1.png" group-title="ALB 27/02",ALB| SUPER SPORT KOSOVA 1
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=902985&extension=ts&play_token=qBwiGXMOAF
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SUPER SPORT KOSOVA 2" tvg-logo="http://picons.cmshulk.com/picons/902988.png" group-title="ALB 27/02",ALB| SUPER SPORT KOSOVA 2
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=902988&extension=ts&play_token=mfzoIQdKMa
+#EXTINF:-1 tvg-id="SuperSport4.al" tvg-name="ALB| SUPER SPORT4 4K HEVC" tvg-logo="http://picons.cmshulk.com/picons/315171.png" group-title="ALB 27/02",ALB| SUPER SPORT4 4K HEVC
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=315171&extension=ts&play_token=XahfmF9oJE
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SUPER SPORT6 4K HEVC" tvg-logo="http://103.176.90.118/picons/logos/logos/SUPER-SPORT-6.png" group-title="ALB 27/02",ALB| SUPER SPORT6 4K HEVC
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=315169&extension=ts&play_token=EblX4flc1W
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SUPER SPORT7 4K HEVC" tvg-logo="http://103.176.90.118/picons/logos/logos/SUPER-SPORT-KOSOVA-1.png" group-title="ALB 27/02",ALB| SUPER SPORT7 4K HEVC
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=315168&extension=ts&play_token=f1XNb5qSJg
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SUPERSPORT 1 ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1720120.png" group-title="ALB 27/02",ALB| SUPERSPORT 1 ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1720120&extension=ts&play_token=F9aUeFGqe7
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SUPERSPORT 2 ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1720119.png" group-title="ALB 27/02",ALB| SUPERSPORT 2 ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1720119&extension=ts&play_token=LBBIx5xGJY
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SUPERSPORT 3 ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1720118.png" group-title="ALB 27/02",ALB| SUPERSPORT 3 ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1720118&extension=ts&play_token=pg0xiFxxgp
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SUPERSPORT 4 ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1720117.png" group-title="ALB 27/02",ALB| SUPERSPORT 4 ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1720117&extension=ts&play_token=GTVkAVbpRt
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SUPERSPORT 5 ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1720116.png" group-title="ALB 27/02",ALB| SUPERSPORT 5 ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1720116&extension=ts&play_token=7wygdovsOt
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SUPERSPORT 6 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/supersport6.png" group-title="ALB 27/02",ALB| SUPERSPORT 6 ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1720115&extension=ts&play_token=JghQ6LozNS
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SUPERSPORT 7 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/supersport7.png" group-title="ALB 27/02",ALB| SUPERSPORT 7 ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1720114&extension=ts&play_token=ILlFHCbgZj
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SUPERSPORT KOSOVA 1 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/SUPER-SPORT-KOSOVA-1.png" group-title="ALB 27/02",ALB| SUPERSPORT KOSOVA 1 ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1720113&extension=ts&play_token=HUCXoXssma
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SUPERSPORT KOSOVA 2 ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1720112.png" group-title="ALB 27/02",ALB| SUPERSPORT KOSOVA 2 ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1720112&extension=ts&play_token=zvEaEI2wEs
+#EXTINF:-1 tvg-id="" tvg-name="ALB| SUPERSPORT KOSOVA 3 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/logos/SUPERSPORT-KOSOVA-3.png" group-title="ALB 27/02",ALB| SUPERSPORT KOSOVA 3 ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1720111&extension=ts&play_token=rBJX1OJUAJ
+#EXTINF:-1 tvg-id="TringSport1.al" tvg-name="ALB| TRING SPORT 1 4K" tvg-logo="http://picons.cmshulk.com/picons/116210.png" group-title="ALB 27/02",ALB| TRING SPORT 1 4K
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=116210&extension=ts&play_token=gIrZyFa1Xp
+#EXTINF:-1 tvg-id="TringSport1.al" tvg-name="ALB| TRING SPORT 1 HD" tvg-logo="http://picons.cmshulk.com/picons/116211.png" group-title="ALB 27/02",ALB| TRING SPORT 1 HD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=116211&extension=ts&play_token=GH8fO0We5C
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TRING SPORT 1 ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1720103.png" group-title="ALB 27/02",ALB| TRING SPORT 1 ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1720103&extension=ts&play_token=yjV7pnb8lC
+#EXTINF:-1 tvg-id="TringSport2.al" tvg-name="ALB| TRING SPORT 2 4K" tvg-logo="http://picons.cmshulk.com/picons/116212.png" group-title="ALB 27/02",ALB| TRING SPORT 2 4K
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=116212&extension=ts&play_token=Gw8pjUCx26
+#EXTINF:-1 tvg-id="TringSport2.al" tvg-name="ALB| TRING SPORT 2 HD" tvg-logo="http://picons.cmshulk.com/picons/116213.png" group-title="ALB 27/02",ALB| TRING SPORT 2 HD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=116213&extension=ts&play_token=YMw1G7dsc1
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TRING SPORT 2 ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1720102.png" group-title="ALB 27/02",ALB| TRING SPORT 2 ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1720102&extension=ts&play_token=ur5IllFAU1
+#EXTINF:-1 tvg-id="TringSport3.al" tvg-name="ALB| TRING SPORT 3 4K" tvg-logo="http://picons.cmshulk.com/picons/116214.png" group-title="ALB 27/02",ALB| TRING SPORT 3 4K
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=116214&extension=ts&play_token=u5ur92T4b1
+#EXTINF:-1 tvg-id="TringSport3.al" tvg-name="ALB| TRING SPORT 3 HD" tvg-logo="http://picons.cmshulk.com/picons/116215.png" group-title="ALB 27/02",ALB| TRING SPORT 3 HD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=116215&extension=ts&play_token=B1w1rlIY2z
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TRING SPORT 3 ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1720101.png" group-title="ALB 27/02",ALB| TRING SPORT 3 ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1720101&extension=ts&play_token=uD6kCiR8a1
+#EXTINF:-1 tvg-id="TringSport4.al" tvg-name="ALB| TRING SPORT 4 4K" tvg-logo="http://picons.cmshulk.com/picons/116216.png" group-title="ALB 27/02",ALB| TRING SPORT 4 4K
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=116216&extension=ts&play_token=PCoXucICcn
+#EXTINF:-1 tvg-id="TringSport4.al" tvg-name="ALB| TRING SPORT 4 HD" tvg-logo="http://picons.cmshulk.com/picons/116217.png" group-title="ALB 27/02",ALB| TRING SPORT 4 HD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=116217&extension=ts&play_token=THn2BBtsvA
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TRING SPORT 4 ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1720100.png" group-title="ALB 27/02",ALB| TRING SPORT 4 ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1720100&extension=ts&play_token=ngo3C7cZwH
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TRING SPORT 5 ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1720099.png" group-title="ALB 27/02",ALB| TRING SPORT 5 ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1720099&extension=ts&play_token=lJVG4U8Mo8
+#EXTINF:-1 tvg-id="TringSportNews.al" tvg-name="ALB| TRING SPORT NEWS" tvg-logo="http://picons.cmshulk.com/picons/116218.png" group-title="ALB 27/02",ALB| TRING SPORT NEWS
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=116218&extension=ts&play_token=pfyEp5busr
+#EXTINF:-1 tvg-id="TringSportNews.al" tvg-name="ALB| TRING SPORT NEWS HD" tvg-logo="http://picons.cmshulk.com/picons/116219.png" group-title="ALB 27/02",ALB| TRING SPORT NEWS HD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=116219&extension=ts&play_token=wqryoDJAUS
+#EXTINF:-1 tvg-id="" tvg-name="ALB| TRING SPORT NEWS ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1720104.png" group-title="ALB 27/02",ALB| TRING SPORT NEWS ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1720104&extension=ts&play_token=Kgnn1qLMMr
+#EXTINF:-1 tvg-id="Sportsnet360.ca" tvg-name="CA| SPORTSNET 360 FHD" tvg-logo="http://51.158.145.100/picons/logos/CANADA/904211.png" group-title="SPORTNET 27/02",CA| SPORTSNET 360 FHD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=904211&extension=ts&play_token=ZULT7rqOuk
+#EXTINF:-1 tvg-id="Sportsnet360.ca" tvg-name="CA| SPORTSNET 360 HD" tvg-logo="http://51.158.145.100/picons/logos/CANADA/177349.png" group-title="SPORTNET 27/02",CA| SPORTSNET 360 HD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=177349&extension=ts&play_token=B1bWXF9Hxp
+#EXTINF:-1 tvg-id="SportsnetEast.ca" tvg-name="CA| SPORTSNET EAST FHD" tvg-logo="http://51.158.145.100/picons/logos/CANADA/904210.png" group-title="SPORTNET 27/02",CA| SPORTSNET EAST FHD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=904210&extension=ts&play_token=9vTW8WzCQB
+#EXTINF:-1 tvg-id="SportsnetEast.ca" tvg-name="CA| SPORTSNET EAST HD" tvg-logo="http://51.158.145.100/picons/logos/CANADA/177350.png" group-title="SPORTNET 27/02",CA| SPORTSNET EAST HD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=177350&extension=ts&play_token=7tCoVoZGXE
+#EXTINF:-1 tvg-id="SportsnetOne.ca" tvg-name="CA| SPORTSNET ONE FHD" tvg-logo="http://51.158.145.100/picons/logos/CANADA/904209.png" group-title="SPORTNET 27/02",CA| SPORTSNET ONE FHD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=904209&extension=ts&play_token=JJzLipEmJJ
+#EXTINF:-1 tvg-id="SportsnetOne.ca" tvg-name="CA| SPORTSNET ONE HD" tvg-logo="http://51.158.145.100/picons/logos/CANADA/177352.png" group-title="SPORTNET 27/02",CA| SPORTSNET ONE HD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=177352&extension=ts&play_token=77SRCfGswC
+#EXTINF:-1 tvg-id="SportsnetOntario.ca" tvg-name="CA| SPORTSNET ONTARIO FHD" tvg-logo="http://51.158.145.100/picons/logos/CANADA/904208.png" group-title="SPORTNET 27/02",CA| SPORTSNET ONTARIO FHD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=904208&extension=ts&play_token=qzxSKZqDJu
+#EXTINF:-1 tvg-id="SportsnetOntario.ca" tvg-name="CA| SPORTSNET ONTARIO HD" tvg-logo="http://51.158.145.100/picons/logos/CANADA/177353.png" group-title="SPORTNET 27/02",CA| SPORTSNET ONTARIO HD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=177353&extension=ts&play_token=eyv6rBQXxS
+#EXTINF:-1 tvg-id="SportsnetPacific.ca" tvg-name="CA| SPORTSNET PACIFIC FHD" tvg-logo="http://51.158.145.100/picons/logos/CANADA/904207.png" group-title="SPORTNET 27/02",CA| SPORTSNET PACIFIC FHD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=904207&extension=ts&play_token=jv49QSlYR3
+#EXTINF:-1 tvg-id="SportsnetPacific.ca" tvg-name="CA| SPORTSNET PACIFIC HD" tvg-logo="http://51.158.145.100/picons/logos/CANADA/177354.png" group-title="SPORTNET 27/02",CA| SPORTSNET PACIFIC HD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=177354&extension=ts&play_token=br72jBSW51
+#EXTINF:-1 tvg-id="Sportsnet360.ca" tvg-name="CA| SPORTSNET PPV" tvg-logo="http://51.158.145.100/picons/logos/CANADA/1434825.png" group-title="SPORTNET 27/02",CA| SPORTSNET PPV
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1434825&extension=ts&play_token=cdFKdk5Ngd
+#EXTINF:-1 tvg-id="SportsnetWest.ca" tvg-name="CA| SPORTSNET WEST FHD" tvg-logo="http://51.158.145.100/picons/logos/CANADA/904206.png" group-title="SPORTNET 27/02",CA| SPORTSNET WEST FHD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=904206&extension=ts&play_token=cf0jndqo2s
+#EXTINF:-1 tvg-id="SportsnetWest.ca" tvg-name="CA| SPORTSNET WEST HD" tvg-logo="http://51.158.145.100/picons/logos/CANADA/177351.png" group-title="SPORTNET 27/02",CA| SPORTSNET WEST HD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=177351&extension=ts&play_token=DGDCYoQt1N
+#EXTINF:-1 tvg-id="SportsnetWorld.ca" tvg-name="CA| SPORTSNET WORLD EXTRA 1" tvg-logo="http://51.158.145.100/picons/logos/CANADA/1434821.png" group-title="SPORTNET 27/02",CA| SPORTSNET WORLD EXTRA 1
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1434821&extension=ts&play_token=60x2V3THmb
+#EXTINF:-1 tvg-id="SportsnetWorld.ca" tvg-name="CA| SPORTSNET WORLD EXTRA 2" tvg-logo="http://51.158.145.100/picons/logos/CANADA/1434822.png" group-title="SPORTNET 27/02",CA| SPORTSNET WORLD EXTRA 2
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1434822&extension=ts&play_token=TzB6fRQWgD
+#EXTINF:-1 tvg-id="SportsnetWorld.ca" tvg-name="CA| SPORTSNET WORLD EXTRA 3" tvg-logo="http://51.158.145.100/picons/logos/CANADA/1434823.png" group-title="SPORTNET 27/02",CA| SPORTSNET WORLD EXTRA 3
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1434823&extension=ts&play_token=3fYTeNQ23A
+#EXTINF:-1 tvg-id="SportsnetWorld.ca" tvg-name="CA| SPORTSNET WORLD EXTRA 4" tvg-logo="http://51.158.145.100/picons/logos/CANADA/1434824.png" group-title="SPORTNET 27/02",CA| SPORTSNET WORLD EXTRA 4
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1434824&extension=ts&play_token=gUmbjYiqPR
+#EXTINF:-1 tvg-id="SportsnetWorld.ca" tvg-name="CA| SPORTSNET WORLD FHD" tvg-logo="http://51.158.145.100/picons/logos/CANADA/904205.png" group-title="SPORTNET 27/02",CA| SPORTSNET WORLD FHD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=904205&extension=ts&play_token=hrGs6xBOAA
+#EXTINF:-1 tvg-id="SportsnetWorld.ca" tvg-name="CA| SPORTSNET WORLD HD" tvg-logo="http://51.158.145.100/picons/logos/CANADA/177355.png" group-title="SPORTNET 27/02",CA| SPORTSNET WORLD HD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=177355&extension=ts&play_token=Ewdeij8yO5
+#EXTINF:-1 tvg-id="" tvg-name="ENDED | SPORTSNET CENTRAL | Fri 18 Sep 04:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 1" tvg-logo="http://51.158.145.100/picons/logos/CANADA/177349.png" group-title="SPORTNET 27/02",ENDED | SPORTSNET CENTRAL | Fri 18 Sep 04:30 NDT (CA) | 8K EXCLUSIVE | CA: SPORTSNET PPV 1
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1916421&extension=ts&play_token=Dkz80qpjzd
+#EXTINF:-1 tvg-id="" tvg-name="PRIME| ALL WOMEN'S SPORTS NETWORK ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/USA/1920473.png" group-title="SPORTNET 27/02",PRIME| ALL WOMEN'S SPORTS NETWORK ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1920473&extension=ts&play_token=NDKPTj2A9y
+#EXTINF:-1 tvg-id="" tvg-name="PRIME| CBS SPORTS GOLAZO NETWORK ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/USA/1920370.png" group-title="SPORTNET 27/02",PRIME| CBS SPORTS GOLAZO NETWORK ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1920370&extension=ts&play_token=8ZC3XZdtr4
+#EXTINF:-1 tvg-id="" tvg-name="PRIME| FANDUEL SPORTS NETWORK DETROIT ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/USA/1920271.png" group-title="SPORTNET 27/02",PRIME| FANDUEL SPORTS NETWORK DETROIT ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1920271&extension=ts&play_token=RYMmNMOKbJ
+#EXTINF:-1 tvg-id="" tvg-name="PRIME| FANDUEL SPORTS NETWORK EXTRA ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/USA/1920270.png" group-title="SPORTNET 27/02",PRIME| FANDUEL SPORTS NETWORK EXTRA ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1920270&extension=ts&play_token=acYVuMdca8
+#EXTINF:-1 tvg-id="" tvg-name="PRIME| SPORTSNET 360 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/CANADA/1920742.png" group-title="SPORTNET 27/02",PRIME| SPORTSNET 360 ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1920742&extension=ts&play_token=c2Ysj38oW4
+#EXTINF:-1 tvg-id="" tvg-name="PRIME| SPORTSNET EAST ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/CANADA/1920741.png" group-title="SPORTNET 27/02",PRIME| SPORTSNET EAST ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1920741&extension=ts&play_token=2qan4O9GWI
+#EXTINF:-1 tvg-id="" tvg-name="PRIME| SPORTSNET ONE ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/CANADA/1920740.png" group-title="SPORTNET 27/02",PRIME| SPORTSNET ONE ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1920740&extension=ts&play_token=fM6VCImE2M
+#EXTINF:-1 tvg-id="" tvg-name="PRIME| SPORTSNET ONTARIO ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/CANADA/1920739.png" group-title="SPORTNET 27/02",PRIME| SPORTSNET ONTARIO ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1920739&extension=ts&play_token=pnMXja5Wtw
+#EXTINF:-1 tvg-id="" tvg-name="PRIME| SPORTSNET PACIFIC ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/CANADA/1920738.png" group-title="SPORTNET 27/02",PRIME| SPORTSNET PACIFIC ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1920738&extension=ts&play_token=S3llGIPJp6
+#EXTINF:-1 tvg-id="" tvg-name="PRIME| SPORTSNET WEST ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/CANADA/1920737.png" group-title="SPORTNET 27/02",PRIME| SPORTSNET WEST ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1920737&extension=ts&play_token=YeHujLKmpu
+#EXTINF:-1 tvg-id="" tvg-name="PRIME| THE WOMEN'S SPORTS NETWORK ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/USA/1919834.png" group-title="SPORTNET 27/02",PRIME| THE WOMEN'S SPORTS NETWORK ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1919834&extension=ts&play_token=ESXbec6WUd
+#EXTINF:-1 tvg-id="" tvg-name="TUBI| WOMEN'S SPORTS NETWORK ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/USA/1924199.png" group-title="SPORTNET 27/02",TUBI| WOMEN'S SPORTS NETWORK ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1924199&extension=ts&play_token=lSYDQmnkyn
+#EXTINF:-1 tvg-id="" tvg-name="US| AT&T SPORTSNET ROCKY MOUNTAIN HD" tvg-logo="http://51.158.145.100/picons/logos/USA/272826.png" group-title="SPORTNET 27/02",US| AT&T SPORTSNET ROCKY MOUNTAIN HD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=272826&extension=ts&play_token=x87wmqDbhl
+#EXTINF:-1 tvg-id="ATTSportsNetHouston.us" tvg-name="US| AT&T SPORTSNET SOUTHWEST HD" tvg-logo="http://51.158.145.100/picons/logos/USA/91892.png" group-title="SPORTNET 27/02",US| AT&T SPORTSNET SOUTHWEST HD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=91892&extension=ts&play_token=CTx5tvk5o9
+#EXTINF:-1 tvg-id="CBSSportsGolazo.us" tvg-name="US| CBS SPORTS GALAZO NETWORK HD" tvg-logo="http://51.158.145.100/picons/logos/USA/1293199.png" group-title="SPORTNET 27/02",US| CBS SPORTS GALAZO NETWORK HD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1293199&extension=ts&play_token=0r4iXDOvtk
+#EXTINF:-1 tvg-id="US-CBS Sports Network USA" tvg-name="US| CBS SPORTS NETWORK HD" tvg-logo="http://51.158.145.100/picons/logos/USA/45601.png" group-title="SPORTNET 27/02",US| CBS SPORTS NETWORK HD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=45601&extension=ts&play_token=OaRQgFWnnS
+#EXTINF:-1 tvg-id="US-NBC Sports Chicago" tvg-name="US| CHICAGO SPORTS NETWORK HD" tvg-logo="http://51.158.145.100/picons/logos/USA/90942.png" group-title="SPORTNET 27/02",US| CHICAGO SPORTS NETWORK HD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=90942&extension=ts&play_token=L7wVDYqzQT
+#EXTINF:-1 tvg-id="NBCSportsChicago.us" tvg-name="US| CHICAGO SPORTS NETWORK UHD/4K (EVENT ONLY)" tvg-logo="http://51.158.145.100/picons/logos/USA/1124349.png" group-title="SPORTNET 27/02",US| CHICAGO SPORTS NETWORK UHD/4K (EVENT ONLY)
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1124349&extension=ts&play_token=sAzjR7NaDt
+#EXTINF:-1 tvg-id="" tvg-name="US| MARQUEE SPORTS NETWORK HD" tvg-logo="http://51.158.145.100/picons/logos/USA/272828.png" group-title="SPORTNET 27/02",US| MARQUEE SPORTS NETWORK HD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=272828&extension=ts&play_token=FJyge7n1Nv
+#EXTINF:-1 tvg-id="" tvg-name="US| MONUMENTAL SPORTS NETWORK HD" tvg-logo="http://51.158.145.100/picons/logos/USA/91873.png" group-title="SPORTNET 27/02",US| MONUMENTAL SPORTS NETWORK HD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=91873&extension=ts&play_token=5ffmgX4eTO
+#EXTINF:-1 tvg-id="SpectrumSportsNet.us" tvg-name="US| SPECTRUM SPORTSNET" tvg-logo="http://51.158.145.100/picons/logos/USA/1696805.png" group-title="SPORTNET 27/02",US| SPECTRUM SPORTSNET
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1696805&extension=ts&play_token=C5iY9c5ZqQ
+#EXTINF:-1 tvg-id="" tvg-name="US| SPORTSNET LA DODGERS HD" tvg-logo="http://51.158.145.100/picons/logos/USA/91905.png" group-title="SPORTNET 27/02",US| SPORTSNET LA DODGERS HD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=91905&extension=ts&play_token=bO74wTBWKs
+#EXTINF:-1 tvg-id="SPECSN Spectrum SportsNet HD" tvg-name="US| SPORTSNET LA LAKERS HD" tvg-logo="http://51.158.145.100/picons/logos/USA/91904.png" group-title="SPORTNET 27/02",US| SPORTSNET LA LAKERS HD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=91904&extension=ts&play_token=QI7r9JPVRh
+#EXTINF:-1 tvg-id="us.SNY Sportsnet NY" tvg-name="US| SPORTSNET NEW YORK HD" tvg-logo="http://51.158.145.100/picons/logos/USA/90946.png" group-title="SPORTNET 27/02",US| SPORTSNET NEW YORK HD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=90946&extension=ts&play_token=lnQN9k2ix7
+#EXTINF:-1 tvg-id="ATTSportsNetPittsburgh.us" tvg-name="US| SPORTSNET PITTSBURGH HD" tvg-logo="http://51.158.145.100/picons/logos/USA/272825.png" group-title="SPORTNET 27/02",US| SPORTSNET PITTSBURGH HD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=272825&extension=ts&play_token=DWzGclEj8H
+#EXTINF:-1 tvg-id="" tvg-name="CA| SUPER SPORTS CH 267" tvg-logo="http://51.158.145.100/picons/logos/CANADA/1043914.png" group-title="SUPER 27/02",CA| SUPER SPORTS CH 267
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1043914&extension=ts&play_token=jK8WCxPM1c
+#EXTINF:-1 tvg-id="" tvg-name="CA| SUPER SPORTS CH 368" tvg-logo="http://51.158.145.100/picons/logos/CANADA/1043915.png" group-title="SUPER 27/02",CA| SUPER SPORTS CH 368
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1043915&extension=ts&play_token=oPKxed0CzT
+#EXTINF:-1 tvg-id="" tvg-name="CA| SUPER SPORTS CH 422" tvg-logo="http://51.158.145.100/picons/logos/CANADA/1043916.png" group-title="SUPER 27/02",CA| SUPER SPORTS CH 422
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1043916&extension=ts&play_token=MEWRrRFK6x
+#EXTINF:-1 tvg-id="" tvg-name="CA| SUPER SPORTS CH 431/476" tvg-logo="http://51.158.145.100/picons/logos/CANADA/1043917.png" group-title="SUPER 27/02",CA| SUPER SPORTS CH 431/476
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1043917&extension=ts&play_token=mrY5Oi8qY8
+#EXTINF:-1 tvg-id="" tvg-name="CA| SUPER SPORTS CH 432/472" tvg-logo="http://51.158.145.100/picons/logos/CANADA/1043918.png" group-title="SUPER 27/02",CA| SUPER SPORTS CH 432/472
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1043918&extension=ts&play_token=B374erF9vt
+#EXTINF:-1 tvg-id="" tvg-name="CA| SUPER SPORTS CH 433" tvg-logo="http://51.158.145.100/picons/logos/CANADA/1043920.png" group-title="SUPER 27/02",CA| SUPER SPORTS CH 433
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1043920&extension=ts&play_token=sAnxSwdWcn
+#EXTINF:-1 tvg-id="" tvg-name="CA| SUPER SPORTS CH 434" tvg-logo="http://51.158.145.100/picons/logos/CANADA/1043921.png" group-title="SUPER 27/02",CA| SUPER SPORTS CH 434
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1043921&extension=ts&play_token=AhOIAKxFFH
+#EXTINF:-1 tvg-id="" tvg-name="CA| SUPER SPORTS CH 435" tvg-logo="http://51.158.145.100/picons/logos/CANADA/1043922.png" group-title="SUPER 27/02",CA| SUPER SPORTS CH 435
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1043922&extension=ts&play_token=Dd0Nl84zT8
+#EXTINF:-1 tvg-id="" tvg-name="CA| SUPER SPORTS CH 436" tvg-logo="http://51.158.145.100/picons/logos/CANADA/1043924.png" group-title="SUPER 27/02",CA| SUPER SPORTS CH 436
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1043924&extension=ts&play_token=PTsbMhCAx9
+#EXTINF:-1 tvg-id="" tvg-name="CA| SUPER SPORTS CH 437" tvg-logo="http://51.158.145.100/picons/logos/CANADA/1043926.png" group-title="SUPER 27/02",CA| SUPER SPORTS CH 437
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1043926&extension=ts&play_token=Bwe9k1zxYl
+#EXTINF:-1 tvg-id="" tvg-name="CA| SUPER SPORTS CH 438" tvg-logo="http://51.158.145.100/picons/logos/CANADA/1043927.png" group-title="SUPER 27/02",CA| SUPER SPORTS CH 438
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1043927&extension=ts&play_token=bYgeGljT16
+#EXTINF:-1 tvg-id="" tvg-name="CA| SUPER SPORTS CH 439" tvg-logo="http://51.158.145.100/picons/logos/CANADA/1043928.png" group-title="SUPER 27/02",CA| SUPER SPORTS CH 439
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1043928&extension=ts&play_token=wwaDWw4RjC
+#EXTINF:-1 tvg-id="" tvg-name="CA| SUPER SPORTS CH 440" tvg-logo="http://51.158.145.100/picons/logos/CANADA/1043931.png" group-title="SUPER 27/02",CA| SUPER SPORTS CH 440
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1043931&extension=ts&play_token=dKUvNOda8k
+#EXTINF:-1 tvg-id="" tvg-name="CA| SUPER SPORTS CH 441" tvg-logo="http://51.158.145.100/picons/logos/CANADA/1043933.png" group-title="SUPER 27/02",CA| SUPER SPORTS CH 441
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1043933&extension=ts&play_token=BQwPVeAmyJ
+#EXTINF:-1 tvg-id="" tvg-name="CA| SUPER SPORTS CH 442" tvg-logo="http://51.158.145.100/picons/logos/CANADA/1043934.png" group-title="SUPER 27/02",CA| SUPER SPORTS CH 442
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1043934&extension=ts&play_token=GNXpcoxipH
+#EXTINF:-1 tvg-id="" tvg-name="CA| SUPER SPORTS CH 443" tvg-logo="http://51.158.145.100/picons/logos/CANADA/1043936.png" group-title="SUPER 27/02",CA| SUPER SPORTS CH 443
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1043936&extension=ts&play_token=efOSRiXwfl
+#EXTINF:-1 tvg-id="" tvg-name="CA| SUPER SPORTS CH 444" tvg-logo="http://51.158.145.100/picons/logos/CANADA/1043938.png" group-title="SUPER 27/02",CA| SUPER SPORTS CH 444
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1043938&extension=ts&play_token=xnbGu4cW4o
+#EXTINF:-1 tvg-id="" tvg-name="CA| SUPER SPORTS CH 450" tvg-logo="http://51.158.145.100/picons/logos/CANADA/1043940.png" group-title="SUPER 27/02",CA| SUPER SPORTS CH 450
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1043940&extension=ts&play_token=m2IaOZZKHG
+#EXTINF:-1 tvg-id="" tvg-name="CA| SUPER SPORTS CH 452" tvg-logo="http://51.158.145.100/picons/logos/CANADA/1043941.png" group-title="SUPER 27/02",CA| SUPER SPORTS CH 452
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1043941&extension=ts&play_token=NspzjTbhu4
+#EXTINF:-1 tvg-id="" tvg-name="CA| SUPER SPORTS CH 453" tvg-logo="http://51.158.145.100/picons/logos/CANADA/1043942.png" group-title="SUPER 27/02",CA| SUPER SPORTS CH 453
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1043942&extension=ts&play_token=GfgB9t2kMZ
+#EXTINF:-1 tvg-id="" tvg-name="CA| SUPER SPORTS CH 454/477" tvg-logo="http://51.158.145.100/picons/logos/CANADA/1043943.png" group-title="SUPER 27/02",CA| SUPER SPORTS CH 454/477
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1043943&extension=ts&play_token=eVnnZTDdgm
+#EXTINF:-1 tvg-id="" tvg-name="CA| SUPER SPORTS CH 455/478" tvg-logo="http://51.158.145.100/picons/logos/CANADA/1043944.png" group-title="SUPER 27/02",CA| SUPER SPORTS CH 455/478
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1043944&extension=ts&play_token=zKN4LcpfV5
+#EXTINF:-1 tvg-id="" tvg-name="CA| SUPER SPORTS CH 456/479" tvg-logo="http://51.158.145.100/picons/logos/CANADA/1043945.png" group-title="SUPER 27/02",CA| SUPER SPORTS CH 456/479
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1043945&extension=ts&play_token=X9uqI8kpye
+#EXTINF:-1 tvg-id="" tvg-name="CA| SUPER SPORTS CH 457/480" tvg-logo="http://51.158.145.100/picons/logos/CANADA/1043947.png" group-title="SUPER 27/02",CA| SUPER SPORTS CH 457/480
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1043947&extension=ts&play_token=Kf41BQAaoP
+#EXTINF:-1 tvg-id="" tvg-name="CA| SUPER SPORTS CH 458/481" tvg-logo="http://51.158.145.100/picons/logos/CANADA/1043948.png" group-title="SUPER 27/02",CA| SUPER SPORTS CH 458/481
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1043948&extension=ts&play_token=WsTO8Yf0yR
+#EXTINF:-1 tvg-id="" tvg-name="CA| SUPER SPORTS CH 459/482" tvg-logo="http://51.158.145.100/picons/logos/CANADA/1043949.png" group-title="SUPER 27/02",CA| SUPER SPORTS CH 459/482
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1043949&extension=ts&play_token=LsQDSqv9hF
+#EXTINF:-1 tvg-id="" tvg-name="CA| SUPER SPORTS CH 460/483" tvg-logo="http://51.158.145.100/picons/logos/CANADA/1043950.png" group-title="SUPER 27/02",CA| SUPER SPORTS CH 460/483
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1043950&extension=ts&play_token=e7QA8Aqt1U
+#EXTINF:-1 tvg-id="" tvg-name="CA| SUPER SPORTS CH 461" tvg-logo="http://51.158.145.100/picons/logos/CANADA/1043951.png" group-title="SUPER 27/02",CA| SUPER SPORTS CH 461
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1043951&extension=ts&play_token=XJU46niZXj
+#EXTINF:-1 tvg-id="" tvg-name="CA| SUPER SPORTS CH 462" tvg-logo="http://51.158.145.100/picons/logos/CANADA/1043952.png" group-title="SUPER 27/02",CA| SUPER SPORTS CH 462
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1043952&extension=ts&play_token=RH9Sv24kqg
+#EXTINF:-1 tvg-id="" tvg-name="CA| SUPER SPORTS CH 464" tvg-logo="http://51.158.145.100/picons/logos/CANADA/1043953.png" group-title="SUPER 27/02",CA| SUPER SPORTS CH 464
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1043953&extension=ts&play_token=HQulTES4F5
+#EXTINF:-1 tvg-id="" tvg-name="CA| SUPER SPORTS CH 465" tvg-logo="http://51.158.145.100/picons/logos/CANADA/1043954.png" group-title="SUPER 27/02",CA| SUPER SPORTS CH 465
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1043954&extension=ts&play_token=NR8nW0hLIP
+#EXTINF:-1 tvg-id="" tvg-name="CA| SUPER SPORTS CH 473" tvg-logo="http://51.158.145.100/picons/logos/CANADA/1043955.png" group-title="SUPER 27/02",CA| SUPER SPORTS CH 473
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1043955&extension=ts&play_token=e6NrUoSPYp
+#EXTINF:-1 tvg-id="" tvg-name="CA| SUPER SPORTS CH 474" tvg-logo="http://51.158.145.100/picons/logos/CANADA/1043956.png" group-title="SUPER 27/02",CA| SUPER SPORTS CH 474
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1043956&extension=ts&play_token=Z3hy4sGUc4
+#EXTINF:-1 tvg-id="" tvg-name="CA| SUPER SPORTS CH 475" tvg-logo="http://51.158.145.100/picons/logos/CANADA/1043957.png" group-title="SUPER 27/02",CA| SUPER SPORTS CH 475
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1043957&extension=ts&play_token=bWTEKVYHHW
+#EXTINF:-1 tvg-id="" tvg-name="CA| SUPER SPORTS CH 476" tvg-logo="http://51.158.145.100/picons/logos/CANADA/1043958.png" group-title="SUPER 27/02",CA| SUPER SPORTS CH 476
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1043958&extension=ts&play_token=Ny9yxq09HU
+#EXTINF:-1 tvg-id="" tvg-name="CA| SUPER SPORTS CH 477" tvg-logo="http://51.158.145.100/picons/logos/CANADA/1043959.png" group-title="SUPER 27/02",CA| SUPER SPORTS CH 477
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1043959&extension=ts&play_token=JPSAweMjp0
+#EXTINF:-1 tvg-id="BeinSports1.fr" tvg-name="CA| BEIN SPORTS 1 HD" tvg-logo="http://51.158.145.100/picons/logos/CANADA/177356.png" group-title="MIX 27/02",CA| BEIN SPORTS 1 HD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=177356&extension=ts&play_token=9FIXeo2YHd
+#EXTINF:-1 tvg-id="beINSports2.ca" tvg-name="CA| BEIN SPORTS 2 HD" tvg-logo="http://51.158.145.100/picons/logos/CANADA/177357.png" group-title="MIX 27/02",CA| BEIN SPORTS 2 HD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=177357&extension=ts&play_token=0yK1hUN9Eo
+#EXTINF:-1 tvg-id="beINSports4.ca" tvg-name="CA| BEIN SPORTS 4 HD" tvg-logo="http://51.158.145.100/picons/logos/CANADA/177358.png" group-title="MIX 27/02",CA| BEIN SPORTS 4 HD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=177358&extension=ts&play_token=3pd0eVYsSI
+#EXTINF:-1 tvg-id="beINSports5.ca" tvg-name="CA| BEIN SPORTS 5 HD" tvg-logo="http://51.158.145.100/picons/logos/CANADA/177359.png" group-title="MIX 27/02",CA| BEIN SPORTS 5 HD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=177359&extension=ts&play_token=DCvOQPp2ae
+#EXTINF:-1 tvg-id="US-Sportsman Channel" tvg-name="CA| SPORTSMAN HD" tvg-logo="http://51.158.145.100/picons/logos/CANADA/176905.png" group-title="MIX 27/02",CA| SPORTSMAN HD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=176905&extension=ts&play_token=cXGYM4tIg3
+#EXTINF:-1 tvg-id="TVASports2.ca" tvg-name="CA| TVA SPORTS 2 HD" tvg-logo="http://51.158.145.100/picons/logos/CANADA/177320.png" group-title="MIX 27/02",CA| TVA SPORTS 2 HD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=177320&extension=ts&play_token=4owY0RR6DS
+#EXTINF:-1 tvg-id="TVASports.ca" tvg-name="CA| TVA SPORTS HD" tvg-logo="http://51.158.145.100/picons/logos/CANADA/177319.png" group-title="MIX 27/02",CA| TVA SPORTS HD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=177319&extension=ts&play_token=UbE7fGYXDy
+#EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="F1| SKY SPORT F1 IT" tvg-logo="http://51.158.145.100/picons/logos/PPV/F1.png" group-title="MIX 27/02",F1| SKY SPORT F1 IT
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=317778&extension=ts&play_token=B1mtDGg4GD
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="F1| SKY SPORTS F1" tvg-logo="http://51.158.145.100/picons/logos/PPV/F1.png" group-title="MIX 27/02",F1| SKY SPORTS F1
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=317781&extension=ts&play_token=XBMRU9hHjg
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="F1| SKY SPORTS F1 FHD" tvg-logo="http://51.158.145.100/picons/logos/PPV/F1.png" group-title="MIX 27/02",F1| SKY SPORTS F1 FHD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=317779&extension=ts&play_token=8j5iTeteAF
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="F1| SKY SPORTS F1 HD" tvg-logo="http://51.158.145.100/picons/logos/PPV/F1.png" group-title="MIX 27/02",F1| SKY SPORTS F1 HD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=317782&extension=ts&play_token=GE0yL0H5ds
+#EXTINF:-1 tvg-id="SkySportF1.de" tvg-name="F1| SKY SPORTS F1 HD DE" tvg-logo="http://51.158.145.100/picons/logos/PPV/F1.png" group-title="MIX 27/02",F1| SKY SPORTS F1 HD DE
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=317780&extension=ts&play_token=H2U8utUWcp
+#EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="F1| SKY SPORTS FORMULA 1 HD IT" tvg-logo="http://51.158.145.100/picons/logos/PPV/F1.png" group-title="MIX 27/02",F1| SKY SPORTS FORMULA 1 HD IT
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=317777&extension=ts&play_token=b8xzkJuLPP
+#EXTINF:-1 tvg-id="" tvg-name="22 Jul 07:50 ET" tvg-logo="http://51.158.145.100/picons/logos/PPV/Fite.png" group-title="MIX 27/02",22 Jul 07:50 ET
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1387158&extension=ts&play_token=XOwhBtyjqU
+#EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-name="HR| SKY SPORTS RACING HD" tvg-logo="http://picons.cmshulk.com/picons/899880.png" group-title="MIX 27/02",HR| SKY SPORTS RACING HD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=899880&extension=ts&play_token=oPtayd7zHi
+#EXTINF:-1 tvg-id="" tvg-name="PRIME| MSG SPORTSZONE ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/USA/1920070.png" group-title="MIX 27/02",PRIME| MSG SPORTSZONE ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1920070&extension=ts&play_token=4ysLKtz5jj
+#EXTINF:-1 tvg-id="" tvg-name="PRIME| RDS INFO SPORTS ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/CANADA/1920746.png" group-title="MIX 27/02",PRIME| RDS INFO SPORTS ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1920746&extension=ts&play_token=BGFXr5bJcW
+#EXTINF:-1 tvg-id="" tvg-name="PRIME| RYZ SPORTS ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/USA/1919945.png" group-title="MIX 27/02",PRIME| RYZ SPORTS ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1919945&extension=ts&play_token=92fu8F7Yne
+#EXTINF:-1 tvg-id="" tvg-name="PRIME| SPEED SPORT 1 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/USA/1919921.png" group-title="MIX 27/02",PRIME| SPEED SPORT 1 ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1919921&extension=ts&play_token=d1dRdGCYkK
+#EXTINF:-1 tvg-id="" tvg-name="PRIME| SPORTSGRID ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/USA/1919917.png" group-title="MIX 27/02",PRIME| SPORTSGRID ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1919917&extension=ts&play_token=BG1Uq3Dtdz
+#EXTINF:-1 tvg-id="" tvg-name="TUBI| BEIN SPORTS XTRA EN ESPAÑOL ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/USA/1924336.png" group-title="MIX 27/02",TUBI| BEIN SPORTS XTRA EN ESPAÑOL ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1924336&extension=ts&play_token=nzuQqrt3Hi
+#EXTINF:-1 tvg-id="" tvg-name="TUBI| FOX SPORTS EXTRA ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/USA/1924287.png" group-title="MIX 27/02",TUBI| FOX SPORTS EXTRA ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1924287&extension=ts&play_token=2ytZ9RlYWT
+#EXTINF:-1 tvg-id="" tvg-name="TUBI| FOX SPORTS ON TUBI ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/USA/1924286.png" group-title="MIX 27/02",TUBI| FOX SPORTS ON TUBI ᴿᴬᵂ
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1924286&extension=ts&play_token=LJjpsTwzFD
+#EXTINF:-1 tvg-id="" tvg-name="US (Paramount 048) | Lens vs. Sporting CP (2026-10-13 12:00:05)" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png" group-title="MIX 27/02",US (Paramount 048) | Lens vs. Sporting CP (2026-10-13 12:00:05)
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1910694&extension=ts&play_token=Ii4BTg7M6H
+#EXTINF:-1 tvg-id="" tvg-name="US (Peacock 040) | Sporting JAX v. Lexington SC (2026-09-20 17:00:00)" tvg-logo="http://51.158.145.100/picons/logos/PPV/Peacock.png" group-title="MIX 27/02",US (Peacock 040) | Sporting JAX v. Lexington SC (2026-09-20 17:00:00)
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1910837&extension=ts&play_token=AZkKgKgx60
+#EXTINF:-1 tvg-id="" tvg-name="US (Peacock 063) | Ascent FC v. Sporting JAX (2026-09-26 19:00:00)" tvg-logo="http://51.158.145.100/picons/logos/PPV/Peacock.png" group-title="MIX 27/02",US (Peacock 063) | Ascent FC v. Sporting JAX (2026-09-26 19:00:00)
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1910814&extension=ts&play_token=eF48gZgA3i
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 SPORTS MOVIES" tvg-logo="http://103.176.90.95/images/558768.png" group-title="MIX 27/02",US| 24/7 SPORTS MOVIES
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=558768&extension=ts&play_token=XF0z43t2hr
+#EXTINF:-1 tvg-id="AFNSports.us" tvg-name="US| AFN SPORT" tvg-logo="http://51.158.145.100/picons/logos/USA/1099330.png" group-title="MIX 27/02",US| AFN SPORT
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1099330&extension=ts&play_token=KFgInoehYZ
+#EXTINF:-1 tvg-id="AltitudeSports.us" tvg-name="US| ALTITUDE SPORTS 2 HD" tvg-logo="http://51.158.145.100/picons/logos/USA/1060883.png" group-title="MIX 27/02",US| ALTITUDE SPORTS 2 HD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1060883&extension=ts&play_token=4iM2uTv7HO
+#EXTINF:-1 tvg-id="AltitudeSports.us" tvg-name="US| ALTITUDE SPORTS HD" tvg-logo="http://51.158.145.100/picons/logos/USA/460918.png" group-title="MIX 27/02",US| ALTITUDE SPORTS HD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=460918&extension=ts&play_token=jmTVzTBmtd
+#EXTINF:-1 tvg-id="" tvg-name="US| B/R MAX SPORTS EVENTS 1" tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="MIX 27/02",US| B/R MAX SPORTS EVENTS 1
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1522929&extension=ts&play_token=jshDTY5IGP
+#EXTINF:-1 tvg-id="" tvg-name="US| B/R MAX SPORTS EVENTS 10" tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="MIX 27/02",US| B/R MAX SPORTS EVENTS 10
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1522920&extension=ts&play_token=2KfHe0VP8Q
+#EXTINF:-1 tvg-id="" tvg-name="US| B/R MAX SPORTS EVENTS 11" tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="MIX 27/02",US| B/R MAX SPORTS EVENTS 11
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1522919&extension=ts&play_token=kG0HyI39gi
+#EXTINF:-1 tvg-id="" tvg-name="US| B/R MAX SPORTS EVENTS 12" tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="MIX 27/02",US| B/R MAX SPORTS EVENTS 12
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1522918&extension=ts&play_token=q9I95Jmvyp
+#EXTINF:-1 tvg-id="" tvg-name="US| B/R MAX SPORTS EVENTS 2" tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="MIX 27/02",US| B/R MAX SPORTS EVENTS 2
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1522928&extension=ts&play_token=fSwNjidybg
+#EXTINF:-1 tvg-id="" tvg-name="US| B/R MAX SPORTS EVENTS 3" tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="MIX 27/02",US| B/R MAX SPORTS EVENTS 3
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1522927&extension=ts&play_token=LB157qLYgv
+#EXTINF:-1 tvg-id="" tvg-name="US| B/R MAX SPORTS EVENTS 4" tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="MIX 27/02",US| B/R MAX SPORTS EVENTS 4
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1522926&extension=ts&play_token=CW7nT5HfjX
+#EXTINF:-1 tvg-id="" tvg-name="US| B/R MAX SPORTS EVENTS 5" tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="MIX 27/02",US| B/R MAX SPORTS EVENTS 5
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1522925&extension=ts&play_token=fL7VccVqaU
+#EXTINF:-1 tvg-id="" tvg-name="US| B/R MAX SPORTS EVENTS 6" tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="MIX 27/02",US| B/R MAX SPORTS EVENTS 6
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1522924&extension=ts&play_token=F6o1qP3aJ3
+#EXTINF:-1 tvg-id="" tvg-name="US| B/R MAX SPORTS EVENTS 7" tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="MIX 27/02",US| B/R MAX SPORTS EVENTS 7
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1522923&extension=ts&play_token=o4lz7bkf4o
+#EXTINF:-1 tvg-id="" tvg-name="US| B/R MAX SPORTS EVENTS 8" tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="MIX 27/02",US| B/R MAX SPORTS EVENTS 8
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1522922&extension=ts&play_token=XjVl5nsKXc
+#EXTINF:-1 tvg-id="" tvg-name="US| B/R MAX SPORTS EVENTS 9" tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="MIX 27/02",US| B/R MAX SPORTS EVENTS 9
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1522921&extension=ts&play_token=f8otgeLa7H
+#EXTINF:-1 tvg-id="liga" tvg-name="US| BEIN SPORTS 2 HD" tvg-logo="http://51.158.145.100/picons/logos/USA/83953.png" group-title="MIX 27/02",US| BEIN SPORTS 2 HD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=83953&extension=ts&play_token=xz9K1CCOJn
+#EXTINF:-1 tvg-id="beINSports4.us" tvg-name="US| BEIN SPORTS 4 HD" tvg-logo="http://51.158.145.100/picons/logos/USA/83954.png" group-title="MIX 27/02",US| BEIN SPORTS 4 HD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=83954&extension=ts&play_token=xqOq7WACNZ
+#EXTINF:-1 tvg-id="beINSports5.us" tvg-name="US| BEIN SPORTS 5 HD" tvg-logo="http://51.158.145.100/picons/logos/USA/83955.png" group-title="MIX 27/02",US| BEIN SPORTS 5 HD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=83955&extension=ts&play_token=aw80Zu8132
+#EXTINF:-1 tvg-id="beINSports6.us" tvg-name="US| BEIN SPORTS 6 HD" tvg-logo="http://51.158.145.100/picons/logos/USA/83956.png" group-title="MIX 27/02",US| BEIN SPORTS 6 HD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=83956&extension=ts&play_token=d4D7tg429W
+#EXTINF:-1 tvg-id="beINSports7.us" tvg-name="US| BEIN SPORTS 7 HD" tvg-logo="http://51.158.145.100/picons/logos/USA/83957.png" group-title="MIX 27/02",US| BEIN SPORTS 7 HD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=83957&extension=ts&play_token=SGc59ZkAMp
+#EXTINF:-1 tvg-id="beINSports8.us" tvg-name="US| BEIN SPORTS 8 HD" tvg-logo="http://51.158.145.100/picons/logos/USA/83958.png" group-title="MIX 27/02",US| BEIN SPORTS 8 HD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=83958&extension=ts&play_token=hpVFQjqkOy
+#EXTINF:-1 tvg-id="beINSports.us" tvg-name="US| BEIN SPORTS HD" tvg-logo="http://51.158.145.100/picons/logos/USA/45611.png" group-title="MIX 27/02",US| BEIN SPORTS HD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=45611&extension=ts&play_token=Td2eIV05nO
+#EXTINF:-1 tvg-id="beINSports.us" tvg-name="US| BEIN SPORTS XTRA N (ES) HD" tvg-logo="http://51.158.145.100/picons/logos/USA/1127391.png" group-title="MIX 27/02",US| BEIN SPORTS XTRA N (ES) HD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1127391&extension=ts&play_token=RejwM3a3zs
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="US| FOX SPORTS 1 HD" tvg-logo="http://51.158.145.100/picons/logos/USA/45571.png" group-title="MIX 27/02",US| FOX SPORTS 1 HD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=45571&extension=ts&play_token=o8gAY86YH2
+#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="US| FOX SPORTS 2 HD" tvg-logo="http://51.158.145.100/picons/logos/USA/45570.png" group-title="MIX 27/02",US| FOX SPORTS 2 HD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=45570&extension=ts&play_token=CO2qdM57Ds
+#EXTINF:-1 tvg-id="US-Fox Sports Detroit" tvg-name="US| FOX SPORTS DETROIT HD" tvg-logo="http://51.158.145.100/picons/logos/USA/45568.png" group-title="MIX 27/02",US| FOX SPORTS DETROIT HD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=45568&extension=ts&play_token=tlKthznWZ1
+#EXTINF:-1 tvg-id="US-Fox Sports Midwest" tvg-name="US| FOX SPORTS MIDWEST HD" tvg-logo="http://51.158.145.100/picons/logos/USA/91688.png" group-title="MIX 27/02",US| FOX SPORTS MIDWEST HD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=91688&extension=ts&play_token=hlmEuVObfC
+#EXTINF:-1 tvg-id="US-Fox Sports North" tvg-name="US| FOX SPORTS NORTH HD" tvg-logo="http://51.158.145.100/picons/logos/USA/45566.png" group-title="MIX 27/02",US| FOX SPORTS NORTH HD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=45566&extension=ts&play_token=tSJW22vbEB
+#EXTINF:-1 tvg-id="US-Fox Sports Ohio" tvg-name="US| FOX SPORTS OHIO HD" tvg-logo="http://51.158.145.100/picons/logos/USA/84908.png" group-title="MIX 27/02",US| FOX SPORTS OHIO HD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=84908&extension=ts&play_token=oG1Zg3UzrA
+#EXTINF:-1 tvg-id="US-Fox Sports San Diego" tvg-name="US| FOX SPORTS SAN DIEGO HD" tvg-logo="http://51.158.145.100/picons/logos/USA/45564.png" group-title="MIX 27/02",US| FOX SPORTS SAN DIEGO HD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=45564&extension=ts&play_token=XyVQti1Sao
+#EXTINF:-1 tvg-id="US-Fox Sports South" tvg-name="US| FOX SPORTS SOUTH HD" tvg-logo="http://51.158.145.100/picons/logos/USA/45563.png" group-title="MIX 27/02",US| FOX SPORTS SOUTH HD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=45563&extension=ts&play_token=rSmFj2MDQh
+#EXTINF:-1 tvg-id="FoxSportsSun.us" tvg-name="US| FOX SPORTS SUN HD" tvg-logo="http://51.158.145.100/picons/logos/USA/45560.png" group-title="MIX 27/02",US| FOX SPORTS SUN HD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=45560&extension=ts&play_token=FZyxaDI4BX
+#EXTINF:-1 tvg-id="US-Fox Sports Wisconsin" tvg-name="US| FOX SPORTS WISCONSIN HD" tvg-logo="http://51.158.145.100/picons/logos/USA/45558.png" group-title="MIX 27/02",US| FOX SPORTS WISCONSIN HD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=45558&extension=ts&play_token=mydZYl3PWl
+#EXTINF:-1 tvg-id="us.Ginx eSports TV Canada" tvg-name="US| GINX ESPORTS HD" tvg-logo="http://51.158.145.100/picons/logos/USA/91854.png" group-title="MIX 27/02",US| GINX ESPORTS HD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=91854&extension=ts&play_token=QjdRYVF7CI
+#EXTINF:-1 tvg-id="loc.MNT (WQMY) Williamsport, PA" tvg-name="US| MY 53 WILLIAMSPORT PA (WQMY)" tvg-logo="http://51.158.145.100/picons/logos/PPV/CW.png" group-title="MIX 27/02",US| MY 53 WILLIAMSPORT PA (WQMY)
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=174218&extension=ts&play_token=JZzgKDla4Y
+#EXTINF:-1 tvg-id="ElevenSports.us" tvg-name="US| NEXT LEVEL SPORTS HD" tvg-logo="http://51.158.145.100/picons/logos/USA/45583.png" group-title="MIX 27/02",US| NEXT LEVEL SPORTS HD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=45583&extension=ts&play_token=olBNMiCUwA
+#EXTINF:-1 tvg-id="" tvg-name="US| SPECTRUM SPORTS 1" tvg-logo="http://51.158.145.100/picons/logos/USA/1597020.png" group-title="MIX 27/02",US| SPECTRUM SPORTS 1
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1597020&extension=ts&play_token=97Tz28UIgv
+#EXTINF:-1 tvg-id="" tvg-name="US| SPECTRUM SPORTS 2" tvg-logo="http://51.158.145.100/picons/logos/USA/1597019.png" group-title="MIX 27/02",US| SPECTRUM SPORTS 2
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1597019&extension=ts&play_token=rSUSvet6cU
+#EXTINF:-1 tvg-id="" tvg-name="US| SPORTSGRID" tvg-logo="http://51.158.145.100/picons/logos/USA/988340.png" group-title="MIX 27/02",US| SPORTSGRID
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=988340&extension=ts&play_token=aL1ZXhAiE1
+#EXTINF:-1 tvg-id="" tvg-name="US| THE TRANSPORTER FHD" tvg-logo="http://51.158.145.100/picons/logos/USA/CINEMANIA.png" group-title="MIX 27/02",US| THE TRANSPORTER FHD
+http://hottest.plus:80/play/live.php?mac=00:1A:79:B6:17:17&stream=1430184&extension=ts&play_token=ejjL49XWlq
