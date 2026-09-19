@@ -14030,3 +14030,78 @@ http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=13128
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1149333&extension=ts&play_token=gBCdZdKSzb
 #EXTINF:-1 tvg-id="dazn1.de" tvg-name="┃DE┃ DAZN BAR 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN BAR/DAZN BAR 1.png" group-title="MIX 27/05",┃DE┃ DAZN BAR 1 HD
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1149331&extension=ts&play_token=iF1ltZPY2E
+#EXTM3U
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="UK-NOWTV| TNT SPORT 1 HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905817.png" group-title="TNT 27/02",UK-NOWTV| TNT SPORT 1 HD
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:FE:19:5A&stream=1905817&extension=ts&play_token=B1YPOpE0bI
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="UK-NOWTV| TNT SPORT (UHD/4K)" tvg-logo="http://51.158.145.100/picons/logos/UK/1905820.png" group-title="TNT 27/02",UK-NOWTV| TNT SPORT (UHD/4K)
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:FE:19:5A&stream=1905820&extension=ts&play_token=HYeL1X3UPu
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="UK-NOWTV| TNT SPORT 1 FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905819.png" group-title="TNT 27/02",UK-NOWTV| TNT SPORT 1 FHD
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:FE:19:5A&stream=1905819&extension=ts&play_token=JOS8L4eBH4
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="UK-NOWTV| TNT SPORT 1 HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905818.png" group-title="TNT 27/02",UK-NOWTV| TNT SPORT 1 HD
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:FE:19:5A&stream=1905818&extension=ts&play_token=MywrCnkU97
+#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-name="UK-NOWTV| TNT SPORT 2 FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905816.png" group-title="TNT 27/02",UK-NOWTV| TNT SPORT 2 FHD
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:FE:19:5A&stream=1905816&extension=ts&play_token=d0uHAHwhkr
+#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-name="UK-NOWTV| TNT SPORT 2 HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905814.png" group-title="TNT 27/02",UK-NOWTV| TNT SPORT 2 HD
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:FE:19:5A&stream=1905814&extension=ts&play_token=qqk4XeksFC
+#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-name="UK-NOWTV| TNT SPORT 2 HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905815.png" group-title="TNT 27/02",UK-NOWTV| TNT SPORT 2 HD
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:FE:19:5A&stream=1905815&extension=ts&play_token=Wk6KPaU0eX
+#EXTINF:-1 tvg-id="TNTSports3.uk" tvg-name="UK-NOWTV| TNT SPORT 3 FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905813.png" group-title="TNT 27/02",UK-NOWTV| TNT SPORT 3 FHD
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:FE:19:5A&stream=1905813&extension=ts&play_token=y6wkjpIkiy
+#EXTINF:-1 tvg-id="TNTSports3.uk" tvg-name="UK-NOWTV| TNT SPORT 3 HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905811.png" group-title="TNT 27/02",UK-NOWTV| TNT SPORT 3 HD
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:FE:19:5A&stream=1905811&extension=ts&play_token=foDLtTGIOl
+#EXTINF:-1 tvg-id="TNTSports3.uk" tvg-name="UK-NOWTV| TNT SPORT 3 HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905812.png" group-title="TNT 27/02",UK-NOWTV| TNT SPORT 3 HD
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:FE:19:5A&stream=1905812&extension=ts&play_token=WFJOuND8Km
+#EXTINF:-1 tvg-id="TNTSports4.uk" tvg-name="UK-NOWTV| TNT SPORTS 4 FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905810.png" group-title="TNT 27/02",UK-NOWTV| TNT SPORTS 4 FHD
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:FE:19:5A&stream=1905810&extension=ts&play_token=AeHOLpmXiU
+#EXTINF:-1 tvg-id="TNTSports4.uk" tvg-name="UK-NOWTV| TNT SPORTS 4 HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905808.png" group-title="TNT 27/02",UK-NOWTV| TNT SPORTS 4 HD
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:FE:19:5A&stream=1905808&extension=ts&play_token=P5A0CGrt1l
+#EXTINF:-1 tvg-id="TNTSports4.uk" tvg-name="UK-NOWTV| TNT SPORTS 4 HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905809.png" group-title="TNT 27/02",UK-NOWTV| TNT SPORTS 4 HD
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:FE:19:5A&stream=1905809&extension=ts&play_token=0GSdcOQNPE
+#EXTINF:-1 tvg-id="" tvg-name="UK| TNT SPORT 1" tvg-logo="http://51.158.145.100/picons/logos/UK/1917626.png" group-title="TNT 27/02",UK| TNT SPORT 1
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:FE:19:5A&stream=1917626&extension=ts&play_token=u6fbyClpvo
+#EXTINF:-1 tvg-id="" tvg-name="UK| TNT SPORT 2" tvg-logo="http://51.158.145.100/picons/logos/UK/1917625.png" group-title="TNT 27/02",UK| TNT SPORT 2
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:FE:19:5A&stream=1917625&extension=ts&play_token=BdB9x96UqK
+#EXTINF:-1 tvg-id="" tvg-name="UK| TNT SPORT 3" tvg-logo="http://51.158.145.100/picons/logos/UK/1917624.png" group-title="TNT 27/02",UK| TNT SPORT 3
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:FE:19:5A&stream=1917624&extension=ts&play_token=EWJFKBjxoi
+#EXTINF:-1 tvg-id="" tvg-name="UK| TNT SPORT 4" tvg-logo="http://51.158.145.100/picons/logos/UK/1917623.png" group-title="TNT 27/02",UK| TNT SPORT 4
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:FE:19:5A&stream=1917623&extension=ts&play_token=OQsyOmcmoC
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-name="UK| TNT SPORTS 1 SD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS1.png" group-title="TNT 27/02",UK| TNT SPORTS 1 SD
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:FE:19:5A&stream=1047260&extension=ts&play_token=lHe2ysZg2c
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="UK| TNT SPORTS 1 HD ◉" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS1.png" group-title="TNT 27/02",UK| TNT SPORTS 1 HD ◉
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:FE:19:5A&stream=1261564&extension=ts&play_token=I7viJBOZb8
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-name="UK| TNT SPORTS 1 HD" tvg-logo="http://103.176.90.92/images/79486.png" group-title="TNT 27/02",UK| TNT SPORTS 1 HD
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:FE:19:5A&stream=79486&extension=ts&play_token=OAji3xsZ1C
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-name="UK| TNT SPORTS 2 HD" tvg-logo="http://103.176.90.92/images/79485.png" group-title="TNT 27/02",UK| TNT SPORTS 2 HD
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:FE:19:5A&stream=79485&extension=ts&play_token=MAKodVSrg0
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-name="UK| TNT SPORTS 2 SD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS2.png" group-title="TNT 27/02",UK| TNT SPORTS 2 SD
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:FE:19:5A&stream=1047261&extension=ts&play_token=rqlzcuYoVZ
+#EXTINF:-1 tvg-id="TNT.Sports.5.HD.uk" tvg-name="UK| TNT SPORTS 5 HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS5.png" group-title="TNT 27/02",UK| TNT SPORTS 5 HD
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:FE:19:5A&stream=1004549&extension=ts&play_token=FUbMfO3SNS
+#EXTINF:-1 tvg-id="TNT.Sports.5.HD.uk" tvg-name="UK| TNT SPORTS 5 FHD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS5.png" group-title="TNT 27/02",UK| TNT SPORTS 5 FHD
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:FE:19:5A&stream=1004548&extension=ts&play_token=GBO9pFOdGg
+#EXTINF:-1 tvg-id="TNT.Sports.5.HD.uk" tvg-name="UK| TNT SPORTS 5" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS5.png" group-title="TNT 27/02",UK| TNT SPORTS 5
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:FE:19:5A&stream=1004550&extension=ts&play_token=pYF30mRE96
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-name="UK| TNT SPORTS 4 SD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS4.png" group-title="TNT 27/02",UK| TNT SPORTS 4 SD
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:FE:19:5A&stream=1047263&extension=ts&play_token=O1ctbDGhpL
+#EXTINF:-1 tvg-id="" tvg-name="UK| TNT SPORTS 4 HEVC HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS4.png" group-title="TNT 27/02",UK| TNT SPORTS 4 HEVC HD
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:FE:19:5A&stream=1458651&extension=ts&play_token=NPtWCj5VAz
+#EXTINF:-1 tvg-id="" tvg-name="UK| TNT SPORTS 4 HEVC FHD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS4.png" group-title="TNT 27/02",UK| TNT SPORTS 4 HEVC FHD
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:FE:19:5A&stream=1458815&extension=ts&play_token=8fdWgwOQEJ
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-name="UK| TNT SPORTS 4 HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS4.png" group-title="TNT 27/02",UK| TNT SPORTS 4 HD
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:FE:19:5A&stream=1002857&extension=ts&play_token=wiTs5fxDIz
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-name="UK| TNT SPORTS 4 FHD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS4.png" group-title="TNT 27/02",UK| TNT SPORTS 4 FHD
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:FE:19:5A&stream=1019935&extension=ts&play_token=CiwoYv41Lp
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-name="UK| TNT SPORTS 3 SD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS3.png" group-title="TNT 27/02",UK| TNT SPORTS 3 SD
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:FE:19:5A&stream=1047262&extension=ts&play_token=4NMVNw2Mt3
+#EXTINF:-1 tvg-id="uk.417 BT Sport 3" tvg-name="UK| TNT SPORTS 3 HEVC HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS3.png" group-title="TNT 27/02",UK| TNT SPORTS 3 HEVC HD
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:FE:19:5A&stream=1458652&extension=ts&play_token=Z3Ixfy5DBa
+#EXTINF:-1 tvg-id="uk.869 BT Sport 3 HD" tvg-name="UK| TNT SPORTS 3 HEVC FHD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS3.png" group-title="TNT 27/02",UK| TNT SPORTS 3 HEVC FHD
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:FE:19:5A&stream=1458665&extension=ts&play_token=t3Drz2Mnho
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-name="UK| TNT SPORTS 3 HD" tvg-logo="http://103.176.90.92/images/79484.png" group-title="TNT 27/02",UK| TNT SPORTS 3 HD
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:FE:19:5A&stream=79484&extension=ts&play_token=7tJl1RhBgX
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-name="UK| TNT SPORTS 3 FHD" tvg-logo="http://103.176.90.92/images/30565.png" group-title="TNT 27/02",UK| TNT SPORTS 3 FHD
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:FE:19:5A&stream=30565&extension=ts&play_token=M76AhNkV6k
+#EXTINF:-1 tvg-id="uk.414 BT Sport 2" tvg-name="UK| TNT SPORTS 2 HEVC HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS2.png" group-title="TNT 27/02",UK| TNT SPORTS 2 HEVC HD
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:FE:19:5A&stream=1458653&extension=ts&play_token=SJVo6Qhfyf
+#EXTINF:-1 tvg-id="uk.868 BT Sport 2 HD" tvg-name="UK| TNT SPORTS 2 HEVC FHD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS2.png" group-title="TNT 27/02",UK| TNT SPORTS 2 HEVC FHD
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:FE:19:5A&stream=1458666&extension=ts&play_token=Wen0BYpA17
