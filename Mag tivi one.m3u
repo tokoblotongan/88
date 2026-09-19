@@ -1,0 +1,171 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="┃EN┃ TNT SPORTS BOX OFFICE SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/PPV/PPV.png" group-title="TNT 27/05",┃EN┃ TNT SPORTS BOX OFFICE SD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1947338&extension=ts&play_token=LkIMJd1erH
+#EXTINF:-1 tvg-id="tntsports1.uk" tvg-name="┃UK┃ TNT SPORTS 1 SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="TNT 27/05",┃UK┃ TNT SPORTS 1 SD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1311948&extension=ts&play_token=VxykeP0Dvs
+#EXTINF:-1 tvg-id="tntsports10.uk" tvg-name="┃UK┃ TNT SPORTS 10 SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="TNT 27/05",┃UK┃ TNT SPORTS 10 SD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1311958&extension=ts&play_token=FOhLsIozuc
+#EXTINF:-1 tvg-id="tntsports2.uk" tvg-name="┃UK┃ TNT SPORTS 2 SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="TNT 27/05",┃UK┃ TNT SPORTS 2 SD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1311950&extension=ts&play_token=V30fQ5LRzL
+#EXTINF:-1 tvg-id="tntsports3.uk" tvg-name="┃UK┃ TNT SPORTS 3 SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="TNT 27/05",┃UK┃ TNT SPORTS 3 SD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1311951&extension=ts&play_token=fjfbBtw8pU
+#EXTINF:-1 tvg-id="tntsports4.uk" tvg-name="┃UK┃ TNT SPORTS 4 SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="TNT 27/05",┃UK┃ TNT SPORTS 4 SD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1311952&extension=ts&play_token=lFPMGy1PPS
+#EXTINF:-1 tvg-id="tntsports5.uk" tvg-name="┃UK┃ TNT SPORTS 5 SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="TNT 27/05",┃UK┃ TNT SPORTS 5 SD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1311953&extension=ts&play_token=14qp8RZiU7
+#EXTINF:-1 tvg-id="tntsports6.uk" tvg-name="┃UK┃ TNT SPORTS 6 SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="TNT 27/05",┃UK┃ TNT SPORTS 6 SD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1311954&extension=ts&play_token=SIZSUlNIKx
+#EXTINF:-1 tvg-id="tntsports7.uk" tvg-name="┃UK┃ TNT SPORTS 7 SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="TNT 27/05",┃UK┃ TNT SPORTS 7 SD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1311955&extension=ts&play_token=0MhLWkz1WZ
+#EXTINF:-1 tvg-id="tntsports8.uk" tvg-name="┃UK┃ TNT SPORTS 8 SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="TNT 27/05",┃UK┃ TNT SPORTS 8 SD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1311956&extension=ts&play_token=ZAQ12Llma9
+#EXTINF:-1 tvg-id="tntsports9.uk" tvg-name="┃UK┃ TNT SPORTS 9 SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="TNT 27/05",┃UK┃ TNT SPORTS 9 SD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1311957&extension=ts&play_token=Zexc7PXH9j
+#EXTINF:-1 tvg-id="" tvg-name="┃MOTOGP┃ TNT SPORT 2" tvg-logo="http://picon.tivi-ott.net:25461/picon/MOTORCYCLE GRAND PRIX/TNT SPORTS 1.png" group-title="TNT 27/05",┃MOTOGP┃ TNT SPORT 2
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1091515&extension=ts&play_token=NnCOkyHbiU
+#EXTINF:-1 tvg-id="" tvg-name="┃MOTOGP┃ TNT SPORT 2 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/MOTORCYCLE GRAND PRIX/TNT SPORTS 1.png" group-title="TNT 27/05",┃MOTOGP┃ TNT SPORT 2 FHD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1091517&extension=ts&play_token=TwiFqnFMl6
+#EXTINF:-1 tvg-id="" tvg-name="┃MOTOGP┃ TNT SPORT 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/MOTORCYCLE GRAND PRIX/TNT SPORTS 1.png" group-title="TNT 27/05",┃MOTOGP┃ TNT SPORT 2 HD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1091516&extension=ts&play_token=6CCSDTWWcC
+#EXTINF:-1 tvg-id="" tvg-name="┃MOTOGP┃ TNT SPORTS 2 FHD HEVC" tvg-logo="http://picon.tivi-ott.net:25461/picon/MOTORCYCLE GRAND PRIX/TNT SPORTS 1.png" group-title="TNT 27/05",┃MOTOGP┃ TNT SPORTS 2 FHD HEVC
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1091514&extension=ts&play_token=8Gp7bhanNT
+#EXTINF:-1 tvg-id="" tvg-name="┃UK┃ SERIE A - COMO FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SERIE A ITALY/COMO.png" group-title="SERIE A",┃UK┃ SERIE A - COMO FHD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1314049&extension=ts&play_token=olzV5D4mrR
+#EXTINF:-1 tvg-id="" tvg-name="┃UK┃ SERIE A - JUVENTUS FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SERIE A ITALY/JUVENTUS.png" group-title="SERIE A",┃UK┃ SERIE A - JUVENTUS FHD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1314054&extension=ts&play_token=lXW0ukwDvq
+#EXTINF:-1 tvg-id="" tvg-name="┃DE┃ DAZN SERIE A | 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="SERIE A",┃DE┃ DAZN SERIE A | 1
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1025547&extension=ts&play_token=pfLVQ48ZzG
+#EXTINF:-1 tvg-id="" tvg-name="┃DE┃ DAZN SERIE A | 10" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="SERIE A",┃DE┃ DAZN SERIE A | 10
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1025538&extension=ts&play_token=8fMFsdOEpc
+#EXTINF:-1 tvg-id="" tvg-name="┃DE┃ DAZN SERIE A | 2" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="SERIE A",┃DE┃ DAZN SERIE A | 2
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1025546&extension=ts&play_token=qn9cJPcuui
+#EXTINF:-1 tvg-id="" tvg-name="┃DE┃ DAZN SERIE A | 3" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="SERIE A",┃DE┃ DAZN SERIE A | 3
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1025545&extension=ts&play_token=vw5HHjkLwG
+#EXTINF:-1 tvg-id="" tvg-name="┃DE┃ DAZN SERIE A | 4" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="SERIE A",┃DE┃ DAZN SERIE A | 4
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1025544&extension=ts&play_token=ZJr0YaGtah
+#EXTINF:-1 tvg-id="" tvg-name="┃DE┃ DAZN SERIE A | 5" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="SERIE A",┃DE┃ DAZN SERIE A | 5
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1025543&extension=ts&play_token=qgvDY8WM3c
+#EXTINF:-1 tvg-id="" tvg-name="┃DE┃ DAZN SERIE A | 6" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="SERIE A",┃DE┃ DAZN SERIE A | 6
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1025542&extension=ts&play_token=kuPuQGAcrl
+#EXTINF:-1 tvg-id="" tvg-name="┃DE┃ DAZN SERIE A | 7" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="SERIE A",┃DE┃ DAZN SERIE A | 7
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1025541&extension=ts&play_token=3j71fuJhld
+#EXTINF:-1 tvg-id="" tvg-name="┃DE┃ DAZN SERIE A | 8" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="SERIE A",┃DE┃ DAZN SERIE A | 8
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1025540&extension=ts&play_token=z2oc8aY3uu
+#EXTINF:-1 tvg-id="" tvg-name="┃DE┃ DAZN SERIE A | 9" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="SERIE A",┃DE┃ DAZN SERIE A | 9
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1025539&extension=ts&play_token=QADirKNj1t
+#EXTINF:-1 tvg-id="" tvg-name="┃MOTOGP┃ FOX SPORTS 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/MOTORCYCLE GRAND PRIX/FOX SPORTS 1.png" group-title="MOTOGP 27/05",┃MOTOGP┃ FOX SPORTS 1 HD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1091518&extension=ts&play_token=9ZGuUtqF8x
+#EXTINF:-1 tvg-id="" tvg-name="┃MOTOGP┃ FOX SPORTS 506 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/MOTORCYCLE GRAND PRIX/FOX SPORTS 506.png" group-title="MOTOGP 27/05",┃MOTOGP┃ FOX SPORTS 506 HD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1091519&extension=ts&play_token=twUMpsrJQT
+#EXTINF:-1 tvg-id="" tvg-name="┃MOTOGP┃ MOTOGP HELI" tvg-logo="http://picon.tivi-ott.net:25461/picon/MOTORCYCLE GRAND PRIX/MOTOGP.png" group-title="MOTOGP 27/05",┃MOTOGP┃ MOTOGP HELI
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1091511&extension=ts&play_token=xPgFQnbExY
+#EXTINF:-1 tvg-id="" tvg-name="┃MOTOGP┃ MOTOGP IPFAMB" tvg-logo="http://picon.tivi-ott.net:25461/picon/MOTORCYCLE GRAND PRIX/MOTOGP.png" group-title="MOTOGP 27/05",┃MOTOGP┃ MOTOGP IPFAMB
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1091513&extension=ts&play_token=Cwg8mGTjJD
+#EXTINF:-1 tvg-id="" tvg-name="┃MOTOGP┃ MOTOGP IPFMIX" tvg-logo="http://picon.tivi-ott.net:25461/picon/MOTORCYCLE GRAND PRIX/MOTOGP.png" group-title="MOTOGP 27/05",┃MOTOGP┃ MOTOGP IPFMIX
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1091512&extension=ts&play_token=rdujkovpyV
+#EXTINF:-1 tvg-id="" tvg-name="┃MOTOGP┃ MOTOGP OB 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/MOTORCYCLE GRAND PRIX/MOTOGP.png" group-title="MOTOGP 27/05",┃MOTOGP┃ MOTOGP OB 1
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1091510&extension=ts&play_token=jTniMGNtNv
+#EXTINF:-1 tvg-id="" tvg-name="┃MOTOGP┃ MOTOGP OB 2" tvg-logo="http://picon.tivi-ott.net:25461/picon/MOTORCYCLE GRAND PRIX/MOTOGP.png" group-title="MOTOGP 27/05",┃MOTOGP┃ MOTOGP OB 2
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1091509&extension=ts&play_token=7OSedAsrJ8
+#EXTINF:-1 tvg-id="" tvg-name="┃MOTOGP┃ MOTOGP OB 3" tvg-logo="http://picon.tivi-ott.net:25461/picon/MOTORCYCLE GRAND PRIX/MOTOGP.png" group-title="MOTOGP 27/05",┃MOTOGP┃ MOTOGP OB 3
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1091508&extension=ts&play_token=2Ulfk8jQtG
+#EXTINF:-1 tvg-id="" tvg-name="┃MOTOGP┃ MOTOGP OB 4" tvg-logo="http://picon.tivi-ott.net:25461/picon/MOTORCYCLE GRAND PRIX/MOTOGP.png" group-title="MOTOGP 27/05",┃MOTOGP┃ MOTOGP OB 4
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1091507&extension=ts&play_token=XjT2QaRIVu
+#EXTINF:-1 tvg-id="" tvg-name="┃UK┃ UFC SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/UFC.png" group-title="UFC 27/05",┃UK┃ UFC SD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1312840&extension=ts&play_token=I0MBRizDZB
+#EXTINF:-1 tvg-id="" tvg-name="┃DE┃ DAZN UFC 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="UFC 27/05",┃DE┃ DAZN UFC 1
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1025502&extension=ts&play_token=c21rGiCNbC
+#EXTINF:-1 tvg-id="" tvg-name="┃DE┃ DAZN UFC 10" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="UFC 27/05",┃DE┃ DAZN UFC 10
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1025493&extension=ts&play_token=JWFik1OCd9
+#EXTINF:-1 tvg-id="" tvg-name="┃DE┃ DAZN UFC 2" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="UFC 27/05",┃DE┃ DAZN UFC 2
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1025501&extension=ts&play_token=2AZxf5bwnb
+#EXTINF:-1 tvg-id="" tvg-name="┃DE┃ DAZN UFC 3" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="UFC 27/05",┃DE┃ DAZN UFC 3
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1025500&extension=ts&play_token=wMfZTDM3om
+#EXTINF:-1 tvg-id="" tvg-name="┃DE┃ DAZN UFC 4" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="UFC 27/05",┃DE┃ DAZN UFC 4
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1025499&extension=ts&play_token=GP2FybkdIe
+#EXTINF:-1 tvg-id="" tvg-name="┃DE┃ DAZN UFC 5" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="UFC 27/05",┃DE┃ DAZN UFC 5
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1025498&extension=ts&play_token=8NkoNXEBB0
+#EXTINF:-1 tvg-id="" tvg-name="┃DE┃ DAZN UFC 6" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="UFC 27/05",┃DE┃ DAZN UFC 6
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1025497&extension=ts&play_token=kzDyhcVaEM
+#EXTINF:-1 tvg-id="" tvg-name="┃DE┃ DAZN UFC 7" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="UFC 27/05",┃DE┃ DAZN UFC 7
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1025496&extension=ts&play_token=R00ggWQf2Y
+#EXTINF:-1 tvg-id="" tvg-name="┃DE┃ DAZN UFC 8" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="UFC 27/05",┃DE┃ DAZN UFC 8
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1025495&extension=ts&play_token=r2i0kedbIq
+#EXTINF:-1 tvg-id="" tvg-name="┃DE┃ DAZN UFC 9" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png" group-title="UFC 27/05",┃DE┃ DAZN UFC 9
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1025494&extension=ts&play_token=moFFBSpsLm
+#EXTINF:-1 tvg-id="" tvg-name="┃US┃ UFC FEED 4 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/ufc.png" group-title="UFC 27/05",┃US┃ UFC FEED 4 FHD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=387210&extension=ts&play_token=cuRVADlRGB
+#EXTINF:-1 tvg-id="" tvg-name="┃US┃ UFC FEED 3 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/ufc.png" group-title="UFC 27/05",┃US┃ UFC FEED 3 FHD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=387211&extension=ts&play_token=efNRQqA8Cb
+#EXTINF:-1 tvg-id="" tvg-name="┃US┃ UFC FEED 2 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/ufc.png" group-title="UFC 27/05",┃US┃ UFC FEED 2 FHD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=387212&extension=ts&play_token=Vo01wa1He9
+#EXTINF:-1 tvg-id="" tvg-name="┃US┃ UFC FEED 1 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/ufc.png" group-title="UFC 27/05",┃US┃ UFC FEED 1 FHD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=387213&extension=ts&play_token=mrmP5FsgDd
+#EXTINF:-1 tvg-id="" tvg-name="┃US┃ UFC CHANNEL FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/ufc.png" group-title="UFC 27/05",┃US┃ UFC CHANNEL FHD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=387214&extension=ts&play_token=Cjmz98ylp6
+#EXTINF:-1 tvg-id="" tvg-name="┃USA┃ UFC FIGHT PASS 24/7 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/ufc fight pass.png" group-title="UFC 27/05",┃USA┃ UFC FIGHT PASS 24/7 HD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=858527&extension=ts&play_token=0KPVs3PxDQ
+#EXTINF:-1 tvg-id="" tvg-name="┃USA┃ UFC CHANNEL HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/ufc channel.png" group-title="UFC 27/05",┃USA┃ UFC CHANNEL HD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=858528&extension=ts&play_token=WoqvKbzQ8S
+#EXTINF:-1 tvg-id="" tvg-name="┃UK┃ UFC HEVC FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/UFC.png" group-title="UFC 27/05",┃UK┃ UFC HEVC FHD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1312809&extension=ts&play_token=eajvtcpna0
+#EXTINF:-1 tvg-id="" tvg-name="┃UK┃ UFC HEVC FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/UFC.png" group-title="UFC 27/05",┃UK┃ UFC HEVC FHD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1312807&extension=ts&play_token=epnwEDmkBO
+#EXTINF:-1 tvg-id="" tvg-name="┃UK┃ UFC HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/UFC.png" group-title="UFC 27/05",┃UK┃ UFC HD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1312832&extension=ts&play_token=LFhtbm9btX
+#EXTINF:-1 tvg-id="" tvg-name="┃UK┃ UFC FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/UFC.png" group-title="UFC 27/05",┃UK┃ UFC FHD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1312821&extension=ts&play_token=1hMIURmHrY
+#EXTINF:-1 tvg-id="" tvg-name="┃UK┃ UFC 24/7 8K" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/ufc.png" group-title="UFC 27/05",┃UK┃ UFC 24/7 8K
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=828041&extension=ts&play_token=scm1rtD3xK
+#EXTINF:-1 tvg-id="" tvg-name="┃NL┃ VIAPLAY MISDAAD HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/VIAPLAY/VIAPLAY.png" group-title="MIX 27/05",┃NL┃ VIAPLAY MISDAAD HD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1001707&extension=ts&play_token=WvLlmyaQdL
+#EXTINF:-1 tvg-id="" tvg-name="┃UK┃ DAZN PPV SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/DAZN/DAZN.png" group-title="MIX 27/05",┃UK┃ DAZN PPV SD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1312987&extension=ts&play_token=UeTOqoTOAa
+#EXTINF:-1 tvg-id="" tvg-name="┃UK┃ L1 | SHEFFIELD WEDNESDAY" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ LEAGUE ONE/LEAGUE 1.png" group-title="MIX 27/05",┃UK┃ L1 | SHEFFIELD WEDNESDAY
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1837490&extension=ts&play_token=m3gbGDA1cn
+#EXTINF:-1 tvg-id="laligatv.uk" tvg-name="┃UK┃ LA LIGA TV SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/LA LIGA TV.png" group-title="MIX 27/05",┃UK┃ LA LIGA TV SD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1312844&extension=ts&play_token=s75pVEaldr
+#EXTINF:-1 tvg-id="" tvg-name="┃UK┃ LFC SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/LFC.png" group-title="MIX 27/05",┃UK┃ LFC SD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1312842&extension=ts&play_token=UFYHXQVnxe
+#EXTINF:-1 tvg-id="mutv.uk" tvg-name="┃UK┃ MUTV SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/MUTV.png" group-title="MIX 27/05",┃UK┃ MUTV SD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1312843&extension=ts&play_token=XlRjU7Hack
+#EXTINF:-1 tvg-id="premiersports1.uk" tvg-name="┃UK┃ PREMIER SPORTS 1 SD (IRELAND)" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK PREMIER SPORTS/PREMIER SPORTS 1.png" group-title="MIX 27/05",┃UK┃ PREMIER SPORTS 1 SD (IRELAND)
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1312721&extension=ts&play_token=BUM5okDz8R
+#EXTINF:-1 tvg-id="premiersports2.uk" tvg-name="┃UK┃ PREMIER SPORTS 2 SD (IRELAND)" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK PREMIER SPORTS/PREMIER SPORTS 2.png" group-title="MIX 27/05",┃UK┃ PREMIER SPORTS 2 SD (IRELAND)
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1312722&extension=ts&play_token=Wvau5negD2
+#EXTINF:-1 tvg-id="racinguk.uk" tvg-name="┃UK┃ RACING TV UK SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/RACING TV.png" group-title="MIX 27/05",┃UK┃ RACING TV UK SD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1312837&extension=ts&play_token=YJMM1xozq4
+#EXTINF:-1 tvg-id="" tvg-name="┃UK┃ RACING.COM SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/RACING COM.png" group-title="MIX 27/05",┃UK┃ RACING.COM SD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1312838&extension=ts&play_token=M85md0qW58
+#EXTINF:-1 tvg-id="" tvg-name="┃UK┃ REAL MADRID TV SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/REAL MADRID TV.png" group-title="MIX 27/05",┃UK┃ REAL MADRID TV SD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1312841&extension=ts&play_token=0OiAEvrYPO
+#EXTINF:-1 tvg-id="skysportsaction.uk" tvg-name="┃UK┃ SKY SPORTS ACTION / NFL SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS ACTION.png" group-title="MIX 27/05",┃UK┃ SKY SPORTS ACTION / NFL SD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1312242&extension=ts&play_token=dMll6ifomm
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="┃UK┃ SKY SPORTS CRICKET SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS CRICKET.png" group-title="MIX 27/05",┃UK┃ SKY SPORTS CRICKET SD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1312246&extension=ts&play_token=Viv6YGxpv8
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="┃UK┃ SKY SPORTS F1 SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS F1.png" group-title="MIX 27/05",┃UK┃ SKY SPORTS F1 SD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1312243&extension=ts&play_token=lTEAi8QFc5
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="┃UK┃ SKY SPORTS FOOTBALL SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS FOOTBALL.png" group-title="MIX 27/05",┃UK┃ SKY SPORTS FOOTBALL SD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1312240&extension=ts&play_token=Bj1Ekn2Nh2
+#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="┃UK┃ SKY SPORTS GOLF SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS GOLF.png" group-title="MIX 27/05",┃UK┃ SKY SPORTS GOLF SD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1312245&extension=ts&play_token=sWf1aSoDcI
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="┃UK┃ SKY SPORTS MAIN EVENT SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS MAIN EVENT.png" group-title="MIX 27/05",┃UK┃ SKY SPORTS MAIN EVENT SD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1312238&extension=ts&play_token=asMEce9PUK
+#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="┃UK┃ SKY SPORTS MIX SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS MIX.png" group-title="MIX 27/05",┃UK┃ SKY SPORTS MIX SD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1312241&extension=ts&play_token=MFn8Lhizif
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="┃UK┃ SKY SPORTS NEWS SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS NEWS.png" group-title="MIX 27/05",┃UK┃ SKY SPORTS NEWS SD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1312237&extension=ts&play_token=CJHh5anIh5
+#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="┃UK┃ SKY SPORTS PREMIER LEAGUE SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS PREMIER LEAUGE.png" group-title="MIX 27/05",┃UK┃ SKY SPORTS PREMIER LEAGUE SD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1312239&extension=ts&play_token=cLO4j93MsP
+#EXTINF:-1 tvg-id="skysportsracing.uk" tvg-name="┃UK┃ SKY SPORTS RACING SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS RACING.png" group-title="MIX 27/05",┃UK┃ SKY SPORTS RACING SD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1312244&extension=ts&play_token=XTzpcd0zWQ
+#EXTINF:-1 tvg-id="skysportstennis.uk" tvg-name="┃UK┃ SKY SPORTS TENNIS SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS TENNIS.png" group-title="MIX 27/05",┃UK┃ SKY SPORTS TENNIS SD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1312248&extension=ts&play_token=S958hyB82Y
+#EXTINF:-1 tvg-id="skysportsplus.uk" tvg-name="┃UK┃ SKY SPORTS+ SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS+.png" group-title="MIX 27/05",┃UK┃ SKY SPORTS+ SD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1312247&extension=ts&play_token=bydWRGJHYQ
+#EXTINF:-1 tvg-id="" tvg-name="┃UK┃ WWE SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/WWE.png" group-title="MIX 27/05",┃UK┃ WWE SD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1312839&extension=ts&play_token=WWJ3R1eqjE
+#EXTINF:-1 tvg-id="dazn2.de" tvg-name="┃DE┃ DAZN BAR 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN BAR/DAZN BAR 2.png" group-title="MIX 27/05",┃DE┃ DAZN BAR 2 HD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1149333&extension=ts&play_token=gBCdZdKSzb
+#EXTINF:-1 tvg-id="dazn1.de" tvg-name="┃DE┃ DAZN BAR 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN BAR/DAZN BAR 1.png" group-title="MIX 27/05",┃DE┃ DAZN BAR 1 HD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:78:65:78&stream=1149331&extension=ts&play_token=iF1ltZPY2E
